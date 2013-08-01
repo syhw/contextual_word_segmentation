@@ -7,6 +7,8 @@ from gensim.corpora.mmcorpus import MmCorpus
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
+FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
+
 if __name__ == '__main__':
     fname = sys.argv[1]
     bfname = fname.split('.')[0]
@@ -29,15 +31,23 @@ if __name__ == '__main__':
     out_topics = open(bfname + '_doc_topics' + suffix + '.txt', 'w')
     out_sentences = open(bfname + '_docs' + suffix + '.sin', 'w')
 
+    if FILTER_WORDS:
+        filter_words = []
+        with open(FILTER_WORDS) as f:
+            for line in f:
+                filter_words.append(line.rstrip('\n'))
+
     with open(fname) as f:
         text = ""
         doc = 0
-        line_number = 0
         for line in f:
             if line[0] != '@':
-                sentence = re.sub('\d+', '', line.rstrip('\n').replace('\n', '')) + ' '
-                text += sentence
-                line_number += 1
+                sentence = re.sub('\d+', '', line.rstrip('\n').replace('\n', '')).split(' ')
+                if FILTER_WORDS:
+                    for ind, word in enumerate(sentence):
+                        if word.upper() in filter_words:
+                            sentence[ind] = ''
+                text += ' '.join(sentence) + ' '
             else:
                 if LEMMATIZE:
                     result = utils.lemmatize(text)

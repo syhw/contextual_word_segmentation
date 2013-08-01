@@ -10,10 +10,11 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import glob, sys, cPickle, re
 
 NO_BELOW = 5 # no word used less than 5 times
-NO_ABOVE = 0.5 # no word which is in above 50% of the corpus
-VOCAB_SIZE = 5000 # 5, more?
+NO_ABOVE = 0.5 # no word which is in above 42% of the corpus
+VOCAB_SIZE = 10000 # 10k, more?
 LEMMATIZE = utils.HAS_PATTERN
 N_TOPICS = 10 # number of topics
+FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 
 def tokenize(text):
     return [token.encode('utf8') for token in utils.tokenize(text, lower=True, errors='ignore') if 2 <= len(token) <= 20 and not token.startswith('_')]
@@ -37,6 +38,12 @@ class ProvidenceCorpus(TextCorpus):
         """
         Iterate over the "documents" (sessions/places) returning text
         """
+        if FILTER_WORDS:
+            filter_words = []
+            with open(FILTER_WORDS) as f:
+                for line in f:
+                    filter_words.append(line.rstrip('\n'))
+
         positions, hn_articles = 0, 0
         fnamelist = []
         docs = 0
@@ -47,7 +54,12 @@ class ProvidenceCorpus(TextCorpus):
                 text = ""
                 for line in f:
                     if line[0] != '@':
-                        text += re.sub('\d+', '', line.rstrip('\n').replace('\n', '')) + ' '
+                        sentence = re.sub('\d+', '', line.rstrip('\n').replace('\n', '')).split(' ')
+                        if FILTER_WORDS:
+                            for ind, word in enumerate(sentence):
+                                if word.upper() in filter_words:
+                                    sentence[ind] = ''
+                        text += ' '.join(sentence) + ' '
                     else:
                         docs += 1
                         if LEMMATIZE:
@@ -100,7 +112,9 @@ if __name__ == '__main__':
         print ">>> Saved MM corpus as " + outputname + "_bow.mm"
         id2token = Dictionary.load_from_text(outputname + '_wordids.txt')
         mm = MmCorpus(outputname + '_bow.mm')
+        # TODO
         # tfidf = models.TfidfModel(mm, id2word=id2token, normalize=True)
+        # TODO
         del corpus
 
     lda = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
