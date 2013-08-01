@@ -36,6 +36,8 @@ if __name__ == '__main__':
         with open(FILTER_WORDS) as f:
             for line in f:
                 filter_words.append(line.rstrip('\n'))
+        filter_words = set(filter_words)
+        print "the following words will be filtered", filter_words
 
     with open(fname) as f:
         text = ""
