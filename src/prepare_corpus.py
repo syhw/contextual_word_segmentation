@@ -81,10 +81,10 @@ if __name__ == '__main__':
 
     if LEMMATIZE:
         print "you have pattern: we will lemmatize ('you were'->'be/VB')"
-        outputname = 'provi_lemmatized'
+        outputname = 'provi_reseg_lemmatized'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
-        outputname = 'provi_tokenized'
+        outputname = 'provi_reseg_tokenized'
 
     try:
 
@@ -93,7 +93,7 @@ if __name__ == '__main__':
         print ">>> Loaded corpus from serialized files"
     except:
         print ">>> Extracting articles..."
-        corpus = ProvidenceCorpus('ProvidenceCorpus')
+        corpus = ProvidenceCorpus('ProvidenceResegmented')
         corpus.dictionary.save_as_text(outputname + '_wordids.txt')
         print ">>> Saved dictionary as " + outputname + "_wordids.txt"
         MmCorpus.serialize(outputname + '_bow.mm', corpus, progress_cnt=10)
@@ -104,8 +104,8 @@ if __name__ == '__main__':
         del corpus
 
     lda = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
-            num_topics=N_TOPICS, update_every=0, passes=42)
-            #num_topics=N_TOPICS, update_every=1, chunksize=100, passes=42)
+            #num_topics=N_TOPICS, update_every=0, passes=42)
+            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=16)
 
     f = open(outputname + '.ldamodel', 'w')
     cPickle.dump(lda, f)
@@ -116,8 +116,8 @@ if __name__ == '__main__':
     div = sum(alpha)
     alpha = [x/div for x in alpha]
     lda_sparse = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
-            num_topics=N_TOPICS, update_every=0, passes=42,
-            #num_topics=N_TOPICS, update_every=1, chunksize=100, passes=42,
+            #num_topics=N_TOPICS, update_every=0, passes=42,
+            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=16,
             alpha=alpha)
 
     f = open(outputname + '.ldasparsemodel', 'w')
