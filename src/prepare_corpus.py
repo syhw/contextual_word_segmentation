@@ -43,6 +43,8 @@ class ProvidenceCorpus(TextCorpus):
             with open(FILTER_WORDS) as f:
                 for line in f:
                     filter_words.append(line.rstrip('\n'))
+            filter_words = set(filter_words)
+            print "the following words will be filtered", filter_words
 
         positions, hn_articles = 0, 0
         fnamelist = []
@@ -57,7 +59,7 @@ class ProvidenceCorpus(TextCorpus):
                         sentence = re.sub('\d+', '', line.rstrip('\n').replace('\n', '')).split(' ')
                         if FILTER_WORDS:
                             for ind, word in enumerate(sentence):
-                                if word.upper() in filter_words:
+                                if word.upper().rstrip(' ').strip(' ') in filter_words:
                                     sentence[ind] = ''
                         text += ' '.join(sentence) + ' '
                     else:
@@ -108,7 +110,7 @@ if __name__ == '__main__':
         corpus = ProvidenceCorpus('ProvidenceResegmented')
         corpus.dictionary.save_as_text(outputname + '_wordids.txt')
         print ">>> Saved dictionary as " + outputname + "_wordids.txt"
-        MmCorpus.serialize(outputname + '_bow.mm', corpus, progress_cnt=10)
+        MmCorpus.serialize(outputname + '_bow.mm', corpus, progress_cnt=1000)
         print ">>> Saved MM corpus as " + outputname + "_bow.mm"
         id2token = Dictionary.load_from_text(outputname + '_wordids.txt')
         mm = MmCorpus(outputname + '_bow.mm')

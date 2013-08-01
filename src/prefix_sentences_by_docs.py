@@ -45,7 +45,7 @@ if __name__ == '__main__':
                 sentence = re.sub('\d+', '', line.rstrip('\n').replace('\n', '')).split(' ')
                 if FILTER_WORDS:
                     for ind, word in enumerate(sentence):
-                        if word.upper() in filter_words:
+                        if word.upper().rstrip(' ').strip(' ') in filter_words:
                             sentence[ind] = ''
                 text += ' '.join(sentence) + ' '
             else:
