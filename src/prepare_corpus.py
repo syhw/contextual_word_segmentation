@@ -133,7 +133,7 @@ if __name__ == '__main__':
     alpha = [x/div for x in alpha]
     lda_sparse = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
             #num_topics=N_TOPICS, update_every=0, passes=42,
-            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=16,
+            num_topics=N_TOPICS, update_every=1, chunksize=500, passes=42,
             alpha=alpha)
 
     f = open(outputname + '.ldasparsemodel', 'w')
