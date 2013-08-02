@@ -15,6 +15,8 @@ VOCAB_SIZE = 10000 # 10k, more?
 LEMMATIZE = utils.HAS_PATTERN
 N_TOPICS = 10 # number of topics
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
+FILTER_WORDS_ADD = 'to_filter.txt'
+ONLY_NOUN_VERBS = True
 
 def tokenize(text):
     return [token.encode('utf8') for token in utils.tokenize(text, lower=True, errors='ignore') if 2 <= len(token) <= 20 and not token.startswith('_')]
@@ -45,6 +47,13 @@ class ProvidenceCorpus(TextCorpus):
                     filter_words.append(line.rstrip('\n'))
             filter_words = set(filter_words)
             print "the following words will be filtered", filter_words
+        if FILTER_WORDS_ADD:
+            filter_words_add = []
+            with open(FILTER_WORDS_ADD) as f:
+                for line in f:
+                    filter_words_add.append(line.rstrip('\n'))
+            filter_words_add = set(filter_words_add)
+            print "and the other the following words will be filtered", filter_words_add
 
         positions, hn_articles = 0, 0
         fnamelist = []
@@ -56,16 +65,22 @@ class ProvidenceCorpus(TextCorpus):
                 text = ""
                 for line in f:
                     if line[0] != '@':
-                        sentence = re.sub('\d+', '', line.rstrip('\n').replace('\n', '')).split(' ')
+                        sentence = re.sub('\d+', '', line.rstrip('\n').strip('\t').replace('\n', '')).split(' ')
                         if FILTER_WORDS:
                             for ind, word in enumerate(sentence):
-                                if word.upper().rstrip(' ').strip(' ') in filter_words:
+                                if word.upper().rstrip(' ').strip(' ').strip('\t') in filter_words:
+                                    sentence[ind] = ''
+                        if FILTER_WORDS_ADD:
+                            for ind, word in enumerate(sentence):
+                                if word.lower().rstrip(' ').strip(' ').strip('\t') in filter_words_add:
                                     sentence[ind] = ''
                         text += ' '.join(sentence) + ' '
                     else:
                         docs += 1
                         if LEMMATIZE:
                             result = utils.lemmatize(text)
+                            if ONLY_NOUN_VERBS:
+                                result = filter(lambda x: x.split('/')[-1] == 'VB' or x.split('/')[-1] == 'NN', result)
                             positions += len(result)
                             yield result
                         else:
@@ -76,6 +91,8 @@ class ProvidenceCorpus(TextCorpus):
                 docs += 1
                 if LEMMATIZE:
                     result = utils.lemmatize(text)
+                    if ONLY_NOUN_VERBS:
+                        result = filter(lambda x: x.split('/')[-1] == 'VB' or x.split('/')[-1] == 'NN', result)
                     positions += len(result)
                     yield result
                 else:
@@ -121,7 +138,7 @@ if __name__ == '__main__':
 
     lda = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
             #num_topics=N_TOPICS, update_every=0, passes=42)
-            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=16)
+            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42)
 
     f = open(outputname + '.ldamodel', 'w')
     cPickle.dump(lda, f)
@@ -133,7 +150,7 @@ if __name__ == '__main__':
     alpha = [x/div for x in alpha]
     lda_sparse = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
             #num_topics=N_TOPICS, update_every=0, passes=42,
-            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=16,
+            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42,
             alpha=alpha)
 
     f = open(outputname + '.ldasparsemodel', 'w')
