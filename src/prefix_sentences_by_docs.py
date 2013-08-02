@@ -28,6 +28,8 @@ if __name__ == '__main__':
 
     id2token = Dictionary.load_from_text('provi' + suffix + '_wordids.txt')
 
+    doc_topics = {}
+
     out_topics = open(bfname + '_doc_topics' + suffix + '.txt', 'w')
     out_sentences = open(bfname + '_doc_prefixed' + suffix + '.txt', 'w')
 
@@ -58,6 +60,7 @@ if __name__ == '__main__':
                     result = tokenize(' '.join(text)) # text into tokens here
                     topics = lda[id2token.doc2bow(result)]
                 doc += 1
+                doc_topics['_d'+str(doc)] = topics
                 out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
                 out_sentences.write('\n'.join(
                     map(lambda x: '_d'+str(doc)+' '+x, text)))
@@ -69,10 +72,13 @@ if __name__ == '__main__':
             result = tokenize(' '.join(text)) # text into tokens here
             topics = lda[id2token.doc2bow(result)]
         doc += 1
+        doc_topics['_d'+str(doc)] = topics
         out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
         out_sentences.write('\n'.join(
             map(lambda x: '_d'+str(doc)+' '+x, text)))
 
     out_topics.close()
     out_sentences.close()
+    with open(bfname + '_doc_topics' + suffix + '.pickle', 'w') as f:
+        cPickle.dump(doc_topics, f)
 
