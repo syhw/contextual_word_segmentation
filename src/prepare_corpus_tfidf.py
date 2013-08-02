@@ -13,7 +13,7 @@ NO_BELOW = 5 # no word used less than 5 times
 NO_ABOVE = 0.5 # no word which is in above 42% of the corpus
 VOCAB_SIZE = 10000 # 10k, more?
 LEMMATIZE = utils.HAS_PATTERN
-N_TOPICS = 20 # number of topics
+N_TOPICS = 5 # number of topics
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 FILTER_WORDS_ADD = 'to_filter.txt'
 ONLY_NOUN_VERBS = True
@@ -112,12 +112,12 @@ if __name__ == '__main__':
 
     if LEMMATIZE:
         print "you have pattern: we will lemmatize ('you were'->'be/VB')"
-        outputname = 'provi_reseg_lemmatized_tfidf'
-        inputname = 'provi_reseg_lemmatized'
+        outputname = 'naima_reseg_lemmatized_tfidf'
+        inputname = 'naima_reseg_lemmatized'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
-        outputname = 'provi_reseg_tokenized_tfidf'
-        inputname = 'provi_reseg_tokenized'
+        outputname = 'naima_reseg_tokenized_tfidf'
+        inputname = 'naima_reseg_tokenized'
 
     try:
 
@@ -126,7 +126,7 @@ if __name__ == '__main__':
         print ">>> Loaded corpus from serialized files"
     except:
         print ">>> Extracting articles..."
-        corpus = ProvidenceCorpus('ProvidenceResegmented')
+        corpus = ProvidenceCorpus('Naima')
         corpus.dictionary.save_as_text(outputname + '_wordids.txt')
         print ">>> Saved dictionary as " + outputname + "_wordids.txt"
         MmCorpus.serialize(outputname + '_bow.mm', corpus, progress_cnt=1000)
@@ -134,12 +134,14 @@ if __name__ == '__main__':
         id2token = Dictionary.load_from_text(outputname + '_wordids.txt')
         mm = MmCorpus(outputname + '_bow.mm')
         del corpus
+
+    print ">>> Using TF-IDF"
     tfidf = models.TfidfModel(mm, id2word=id2token, normalize=True)
     corpus_tfidf = tfidf[mm]
 
     lda = models.ldamodel.LdaModel(corpus=corpus_tfidf, id2word=id2token, 
-            #num_topics=N_TOPICS, update_every=0, passes=42)
-            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42)
+            num_topics=N_TOPICS, update_every=0, passes=42)
+            #num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42)
 
     f = open(outputname + '.ldamodel', 'w')
     cPickle.dump(lda, f)
@@ -150,8 +152,8 @@ if __name__ == '__main__':
     div = sum(alpha)
     alpha = [x/div for x in alpha]
     lda_sparse = models.ldamodel.LdaModel(corpus=corpus_tfidf, id2word=id2token, 
-            #num_topics=N_TOPICS, update_every=0, passes=42,
-            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=51,
+            num_topics=N_TOPICS, update_every=0, passes=42,
+            #num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42,
             alpha=alpha)
 
     f = open(outputname + '.ldasparsemodel', 'w')

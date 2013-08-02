@@ -14,5 +14,5 @@ all:
 	python src/write_grammar.py naima_docs_11to22m.ylt all_1min_doc_topics_reseg_lemmatized.pickle # writes grammar.lt
 	# now you need the py-cfg adaptor grammar compiled and in py-cfg
 	./launch_adaptor.sh
-	python mark_scripts/topicsandcollocations/trees-words.py -c "^Word" -i "^_d" < output.prs > output.seg
-	python ben_scripts/eval.py -g naima_11to22m.gold < output_cluster.seg
+	python scripts/trees-words.py -c "^Word" -i "^_d" < output.prs > output.seg
+	python scripts/eval.py -g naima_11to22m.gold < output_cluster.seg
