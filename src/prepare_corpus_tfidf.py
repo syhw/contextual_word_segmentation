@@ -13,7 +13,7 @@ NO_BELOW = 5 # no word used less than 5 times
 NO_ABOVE = 0.5 # no word which is in above 42% of the corpus
 VOCAB_SIZE = 10000 # 10k, more?
 LEMMATIZE = utils.HAS_PATTERN
-N_TOPICS = 10 # number of topics
+N_TOPICS = 20 # number of topics
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 FILTER_WORDS_ADD = 'to_filter.txt'
 ONLY_NOUN_VERBS = True
@@ -145,7 +145,7 @@ if __name__ == '__main__':
     cPickle.dump(lda, f)
     f.close()
 
-    alpha = [float(i)**2 for i in range(1,11)] # enforcing sparsity on topics
+    alpha = [float(i)**2 for i in range(1,N_TOPICS+1)] # enforcing sparsity on topics
     # with the first topic 40 less probable than the 40th
     div = sum(alpha)
     alpha = [x/div for x in alpha]

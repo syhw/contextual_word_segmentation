@@ -141,7 +141,7 @@ if __name__ == '__main__':
     cPickle.dump(lda, f)
     f.close()
 
-    alpha = [float(i)**2 for i in range(1,11)] # enforcing sparsity on topics
+    alpha = [float(i)**2 for i in N_TOPICS+1] # enforcing sparsity on topics
     # with the first topic 40 less probable than the 40th
     div = sum(alpha)
     alpha = [x/div for x in alpha]
