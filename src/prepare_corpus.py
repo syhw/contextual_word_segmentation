@@ -131,9 +131,6 @@ if __name__ == '__main__':
         print ">>> Saved MM corpus as " + outputname + "_bow.mm"
         id2token = Dictionary.load_from_text(outputname + '_wordids.txt')
         mm = MmCorpus(outputname + '_bow.mm')
-        # TODO
-        # tfidf = models.TfidfModel(mm, id2word=id2token, normalize=True)
-        # TODO
         del corpus
 
     lda = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 

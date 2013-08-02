@@ -113,14 +113,16 @@ if __name__ == '__main__':
     if LEMMATIZE:
         print "you have pattern: we will lemmatize ('you were'->'be/VB')"
         outputname = 'provi_reseg_lemmatized_tfidf'
+        inputname = 'provi_reseg_lemmatized'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
         outputname = 'provi_reseg_tokenized_tfidf'
+        inputname = 'provi_reseg_tokenized'
 
     try:
 
-        id2token = Dictionary.load_from_text(outputname + '_wordids.txt')
-        mm = MmCorpus(outputname + '_bow.mm')
+        id2token = Dictionary.load_from_text(inputname + '_wordids.txt')
+        mm = MmCorpus(inputname + '_bow.mm')
         print ">>> Loaded corpus from serialized files"
     except:
         print ">>> Extracting articles..."
@@ -133,8 +135,9 @@ if __name__ == '__main__':
         mm = MmCorpus(outputname + '_bow.mm')
         del corpus
     tfidf = models.TfidfModel(mm, id2word=id2token, normalize=True)
+    corpus_tfidf = tfidf[mm]
 
-    lda = models.ldamodel.LdaModel(corpus=tfidf, id2word=id2token, 
+    lda = models.ldamodel.LdaModel(corpus=corpus_tfidf, id2word=id2token, 
             #num_topics=N_TOPICS, update_every=0, passes=42)
             num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42)
 
@@ -146,7 +149,7 @@ if __name__ == '__main__':
     # with the first topic 40 less probable than the 40th
     div = sum(alpha)
     alpha = [x/div for x in alpha]
-    lda_sparse = models.ldamodel.LdaModel(corpus=tfidf, id2word=id2token, 
+    lda_sparse = models.ldamodel.LdaModel(corpus=corpus_tfidf, id2word=id2token, 
             #num_topics=N_TOPICS, update_every=0, passes=42,
             num_topics=N_TOPICS, update_every=1, chunksize=420, passes=51,
             alpha=alpha)
