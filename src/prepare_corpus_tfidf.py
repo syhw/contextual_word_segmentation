@@ -112,12 +112,16 @@ if __name__ == '__main__':
 
     if LEMMATIZE:
         print "you have pattern: we will lemmatize ('you were'->'be/VB')"
-        outputname = 'naima_reseg_lemmatized_tfidf'
-        inputname = 'naima_reseg_lemmatized'
+        #outputname = 'naima_reseg_lemmatized_tfidf'
+        #inputname = 'naima_reseg_lemmatized'
+        outputname = 'provi_reseg_lemmatized_tfidf'
+        inputname = 'provi__reseg_lemmatized'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
-        outputname = 'naima_reseg_tokenized_tfidf'
-        inputname = 'naima_reseg_tokenized'
+        #outputname = 'naima_reseg_tokenized_tfidf'
+        #inputname = 'naima_reseg_tokenized'
+        outputname = 'provi_reseg_tokenized_tfidf'
+        inputname = 'provi_reseg_tokenized'
 
     try:
 
@@ -126,7 +130,8 @@ if __name__ == '__main__':
         print ">>> Loaded corpus from serialized files"
     except:
         print ">>> Extracting articles..."
-        corpus = ProvidenceCorpus('Naima')
+        #corpus = ProvidenceCorpus('Naima')
+        corpus = ProvidenceCorpus('ProvidenceResegmented')
         corpus.dictionary.save_as_text(outputname + '_wordids.txt')
         print ">>> Saved dictionary as " + outputname + "_wordids.txt"
         MmCorpus.serialize(outputname + '_bow.mm', corpus, progress_cnt=1000)
