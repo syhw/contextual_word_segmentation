@@ -16,10 +16,10 @@ if __name__ == '__main__':
     LEMMATIZE = utils.HAS_PATTERN
     if LEMMATIZE:
         print "you have pattern: we will lemmatize ('you were'->'be/VB')"
-        suffix = '_lemmatized'
+        suffix = '_reseg_lemmatized'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
-        suffix = '_tokenized'
+        suffix = '_reseg_tokenized'
     from src.prepare_corpus import tokenize
     outputname = bfname + suffix
 
@@ -29,7 +29,7 @@ if __name__ == '__main__':
     id2token = Dictionary.load_from_text('provi' + suffix + '_wordids.txt')
 
     out_topics = open(bfname + '_doc_topics' + suffix + '.txt', 'w')
-    out_sentences = open(bfname + '_docs' + suffix + '.sin', 'w')
+    out_sentences = open(bfname + '_doc_prefixed' + suffix + '.txt', 'w')
 
     if FILTER_WORDS:
         filter_words = []
@@ -40,7 +40,7 @@ if __name__ == '__main__':
         print "the following words will be filtered", filter_words
 
     with open(fname) as f:
-        text = ""
+        text = []
         doc = 0
         for line in f:
             if line[0] != '@':
@@ -49,27 +49,29 @@ if __name__ == '__main__':
                     for ind, word in enumerate(sentence):
                         if word.upper().rstrip(' ').strip(' ') in filter_words:
                             sentence[ind] = ''
-                text += ' '.join(sentence) + ' '
+                text.append(' '.join(sentence))
             else:
                 if LEMMATIZE:
-                    result = utils.lemmatize(text)
+                    result = utils.lemmatize(' '.join(text))
                     topics = lda[id2token.doc2bow(result)]
                 else:
-                    result = tokenize(text) # text into tokens here
+                    result = tokenize(' '.join(text)) # text into tokens here
                     topics = lda[id2token.doc2bow(result)]
                 doc += 1
                 out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
-                out_sentences.write('_d'+str(doc)+' '+text+'\n')
-                text = ""
+                out_sentences.write('\n'.join(
+                    map(lambda x: '_d'+str(doc)+' '+x, text)))
+                text = []
         if LEMMATIZE:
-            result = utils.lemmatize(text)
+            result = utils.lemmatize(' '.join(text))
             topics = lda[id2token.doc2bow(result)]
         else:
-            result = tokenize(text) # text into tokens here
+            result = tokenize(' '.join(text)) # text into tokens here
             topics = lda[id2token.doc2bow(result)]
         doc += 1
         out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
-        out_sentences.write('_d'+str(doc)+' '+text+'\n')
+        out_sentences.write('\n'.join(
+            map(lambda x: '_d'+str(doc)+' '+x, text)))
 
     out_topics.close()
     out_sentences.close()
