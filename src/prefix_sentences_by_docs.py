@@ -8,6 +8,7 @@ import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
+TFIDF_SUFFIX = '_tfidf' # set it to the empty string for no TF-IDF
 
 if __name__ == '__main__':
     fname = sys.argv[1]
@@ -19,7 +20,7 @@ if __name__ == '__main__':
         suffix = '_reseg_lemmatized'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
-        suffix = '_reseg_tokenized'
+        suffix = '_reseg_tokenized' + TFIDF_SUFFIX
     from src.prepare_corpus import tokenize
     outputname = bfname + suffix
 

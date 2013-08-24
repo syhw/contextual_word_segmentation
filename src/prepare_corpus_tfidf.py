@@ -10,10 +10,10 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import glob, sys, cPickle, re
 
 NO_BELOW = 5 # no word used less than 5 times
-NO_ABOVE = 0.5 # no word which is in above 42% of the corpus
-VOCAB_SIZE = 10000 # 10k, more?
+NO_ABOVE = 0.42 # no word which is in above 42% of the corpus
+VOCAB_SIZE = 5000 # 5k, more?
 LEMMATIZE = utils.HAS_PATTERN
-N_TOPICS = 5 # number of topics
+N_TOPICS = 6 # number of topics
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 FILTER_WORDS_ADD = 'to_filter.txt'
 ONLY_NOUN_VERBS = True
@@ -40,6 +40,7 @@ class ProvidenceCorpus(TextCorpus):
         """
         Iterate over the "documents" (sessions/places) returning text
         """
+        filter_words = set()
         if FILTER_WORDS:
             filter_words = []
             with open(FILTER_WORDS) as f:
@@ -47,6 +48,7 @@ class ProvidenceCorpus(TextCorpus):
                     filter_words.append(line.rstrip('\n'))
             filter_words = set(filter_words)
             print "the following words will be filtered", filter_words
+        filter_words_add = set()
         if FILTER_WORDS_ADD:
             filter_words_add = []
             with open(FILTER_WORDS_ADD) as f:
@@ -65,14 +67,18 @@ class ProvidenceCorpus(TextCorpus):
                 text = ""
                 for line in f:
                     if line[0] != '@':
-                        sentence = re.sub('\d+', '', line.rstrip('\n').strip('\t').replace('\n', '')).split(' ')
+                        #sentence = re.sub('\d+', '', line.rstrip('\n').strip('\t').replace('\n', '')).split(' ')
+                        sentence = tokenize(re.sub('\d+', '', line.rstrip('\n').strip('\t').replace('\n', '')))
+                        for ind, word in enumerate(sentence):
+                            w = word.lower().rstrip(' ').strip(' ').strip('\t')
+                            sentence[ind] = w
                         if FILTER_WORDS:
                             for ind, word in enumerate(sentence):
-                                if word.upper().rstrip(' ').strip(' ').strip('\t') in filter_words:
+                                if word.upper() in filter_words:
                                     sentence[ind] = ''
                         if FILTER_WORDS_ADD:
                             for ind, word in enumerate(sentence):
-                                if word.lower().rstrip(' ').strip(' ').strip('\t') in filter_words_add:
+                                if word in filter_words_add:
                                     sentence[ind] = ''
                         text += ' '.join(sentence) + ' '
                     else:
@@ -115,7 +121,7 @@ if __name__ == '__main__':
         #outputname = 'naima_reseg_lemmatized_tfidf'
         #inputname = 'naima_reseg_lemmatized'
         outputname = 'provi_reseg_lemmatized_tfidf'
-        inputname = 'provi__reseg_lemmatized'
+        inputname = 'provi_reseg_lemmatized'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
         #outputname = 'naima_reseg_tokenized_tfidf'
@@ -152,7 +158,7 @@ if __name__ == '__main__':
     cPickle.dump(lda, f)
     f.close()
 
-    alpha = [float(i)**2 for i in range(1,N_TOPICS+1)] # enforcing sparsity on topics
+    alpha = [float(i)**2 for i in range(1, N_TOPICS+1)] # enforcing sparsity on topics
     # with the first topic 40 less probable than the 40th
     div = sum(alpha)
     alpha = [x/div for x in alpha]
@@ -165,7 +171,9 @@ if __name__ == '__main__':
     cPickle.dump(lda_sparse, f)
 
     print "================================================"
+    print ">>> lda normal"
     lda.print_topics(N_TOPICS, topn=20)
+    print ">>> lda sparse prior"
     lda_sparse.print_topics(N_TOPICS, topn=20)
 
 

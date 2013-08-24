@@ -3,8 +3,11 @@ import sys, cPickle
 # S -> _dN Words_dN
 # Words_dN -> Word_dN ( Topics_dN )
 # Word_dN -> Word_tK
-# (adapted) Word_tK -> Phones
-# Phones -> Phon ( Phones )
+# (adapted) Word_tK -> Phons
+# Phons -> Phon ( Phons )
+
+ADAPT_WORD = True # say if we adapt Word_tK -> Word -> Phons 
+                  # (instead of directly Word_tK -> Phons)
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
@@ -39,7 +42,12 @@ if __name__ == "__main__":
                 of.write(prob + ' 1 Word' + doc + ' --> Word_t' + str(topic[0]) + '\n')
         # TODO adapt Word_tI --> Word
         for topic_id in topics_set:
-            of.write('Word_t' + str(topic_id) + ' --> Phons' + '\n')
+            if ADAPT_WORD:
+                of.write('Word_t' + str(topic_id) + ' --> Word' + '\n')
+            else:
+                of.write('Word_t' + str(topic_id) + ' --> Phons' + '\n')
+        if ADAPT_WORD:
+            of.write('Word --> Phons' + '\n')
         of.write('1 1 Phons --> Phon' + '\n')
         of.write('1 1 Phons --> Phon Phons' + '\n')
         for phn in phones_set:
