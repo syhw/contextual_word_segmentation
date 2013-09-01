@@ -64,7 +64,7 @@ if __name__ == '__main__':
                 doc_topics['_d'+str(doc)] = topics
                 out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
                 out_sentences.write('\n'.join(
-                    map(lambda x: '_d'+str(doc)+' '+x, text)))
+                    map(lambda x: '_d'+str(doc)+' '+x, text)) + '\n')
                 text = []
         if LEMMATIZE:
             result = utils.lemmatize(' '.join(text))

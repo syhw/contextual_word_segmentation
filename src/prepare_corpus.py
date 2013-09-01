@@ -158,7 +158,10 @@ if __name__ == '__main__':
     cPickle.dump(lda_sparse, f)
 
     print "================================================"
+    print ">>> lda normal"
     lda.print_topics(N_TOPICS, topn=20)
+    print "------------------------------------------------"
+    print ">>> lda sparse prior"
     lda_sparse.print_topics(N_TOPICS, topn=20)
 
 

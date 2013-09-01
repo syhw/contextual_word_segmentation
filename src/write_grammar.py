@@ -52,5 +52,6 @@ if __name__ == "__main__":
         of.write('1 1 Phons --> Phon Phons' + '\n')
         for phn in phones_set:
             of.write('1 1 Phon --> ' + phn + '\n')
+        print "written grammar.lt"
 
 
