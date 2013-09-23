@@ -17,6 +17,7 @@ N_TOPICS = 6 # number of topics
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 FILTER_WORDS_ADD = 'to_filter.txt'
 ONLY_NOUN_VERBS = True
+HDP = True
 
 def tokenize(text):
     return [token.encode('utf8') for token in utils.tokenize(text, lower=True, errors='ignore') if 2 <= len(token) <= 20 and not token.startswith('_')]
@@ -137,31 +138,46 @@ if __name__ == '__main__':
         mm = MmCorpus(outputname + '_bow.mm')
         del corpus
 
-    lda = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
-            #num_topics=N_TOPICS, update_every=0, passes=42)
-            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42)
+    if HDP:
+        lda = models.hdpmodel.HdpModel(corpus=mm, id2word=id2token, 
+                gamma=0.1, alpha=0.1,
+                kappa=0.001, tau=128.0, T=100, K=10, scale=0.1, 
+                var_converge=0.000001)
+        f = open(outputname + '.hdpmodel', 'w')
+    else:
+        lda = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
+                #num_topics=N_TOPICS, update_every=0, passes=42)
+                num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42)
+        f = open(outputname + '.ldamodel', 'w')
 
-    f = open(outputname + '.ldamodel', 'w')
     cPickle.dump(lda, f)
     f.close()
 
-    alpha = [float(i)**2 for i in range(1, N_TOPICS+1)] # enforcing sparsity on topics
-    # with the first topic 40 less probable than the 40th
-    div = sum(alpha)
-    alpha = [x/div for x in alpha]
-    lda_sparse = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
-            #num_topics=N_TOPICS, update_every=0, passes=42,
-            num_topics=N_TOPICS, update_every=1, chunksize=420, passes=51,
-            alpha=alpha)
+    if not HDP:
+        alpha = [float(i)**2 for i in range(1, N_TOPICS+1)] # enforcing sparsity on topics
+        # with the first topic 40 less probable than the 40th
+        div = sum(alpha)
+        alpha = [x/div for x in alpha]
+        lda_sparse = models.ldamodel.LdaModel(corpus=mm, id2word=id2token, 
+                #num_topics=N_TOPICS, update_every=0, passes=42,
+                num_topics=N_TOPICS, update_every=1, chunksize=420, passes=51,
+                alpha=alpha)
 
-    f = open(outputname + '.ldasparsemodel', 'w')
-    cPickle.dump(lda_sparse, f)
+        f = open(outputname + '.ldasparsemodel', 'w')
+        cPickle.dump(lda_sparse, f)
 
     print "================================================"
-    print ">>> lda normal"
-    lda.print_topics(N_TOPICS, topn=20)
-    print "------------------------------------------------"
-    print ">>> lda sparse prior"
-    lda_sparse.print_topics(N_TOPICS, topn=20)
+    if HDP:
+        print ">>> hdp normal"
+        lda.print_topics(topn=50)
+        print "------------------------------------------------"
+        lda.optimal_ordering()
+        lda.print_topics(topn=50)
+    else:
+        print ">>> lda normal"
+        lda.print_topics(N_TOPICS, topn=20)
+        print "------------------------------------------------"
+        print ">>> lda sparse prior"
+        lda_sparse.print_topics(N_TOPICS, topn=20)
 
 

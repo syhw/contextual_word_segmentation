@@ -15,8 +15,9 @@ import gensim
 import cPickle
 
 with open('provi_reseg_lemmatized_tfidf.ldamodel') as f:
+#with open(sys.argv[1]) as f:
     lda = cPickle.load(f)
-y = ['\n\n'.join(lda.print_topic(i).split('+')[:4]) for i in topics_distrib.iterkeys()]
+y = ['\n\n'.join(filter(lambda x: 'NN' in x, lda.print_topic(i).split('+')[:20])) for i in topics_distrib.iterkeys()]
 
 #for topic, value in topics_distrib.iteritems():
 pl.rcParams['lines.linewidth'] = 2

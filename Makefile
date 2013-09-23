@@ -15,4 +15,4 @@ all:
 	# now you need the py-cfg adaptor grammar compiled and in py-cfg
 	./launch_adaptor.sh
 	python scripts/trees-words.py -c "^Word" -i "^_d" < output.prs > output.seg
-	python scripts/eval.py -g naima_11to22m.gold < output.seg
+	python scripts/eval.py -g Naima_11to22m.gold < output.seg
