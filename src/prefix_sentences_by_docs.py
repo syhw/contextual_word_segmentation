@@ -17,7 +17,7 @@ if __name__ == '__main__':
     LEMMATIZE = utils.HAS_PATTERN
     if LEMMATIZE:
         print "you have pattern: we will lemmatize ('you were'->'be/VB')"
-        suffix = '_reseg_lemmatized'
+        suffix = '_reseg_lemmatized' + TFIDF_SUFFIX
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
         suffix = '_reseg_tokenized' + TFIDF_SUFFIX

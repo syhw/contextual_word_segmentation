@@ -1,6 +1,9 @@
 import sys
 import pylab as pl
 
+LDAMODEL = 'provi_reseg_lemmatized_tfidf.ldamodel'
+usage = """python src/plot_topics_distrib.py < all_1min_doc_topics_reseg_lemmatized.txt"""
+
 topics_distrib = {}
 
 for line in sys.stdin:
@@ -14,7 +17,7 @@ for line in sys.stdin:
 import gensim
 import cPickle
 
-with open('provi_reseg_lemmatized_tfidf.ldamodel') as f:
+with open(LDAMODEL) as f:
 #with open(sys.argv[1]) as f:
     lda = cPickle.load(f)
 y = ['\n\n'.join(filter(lambda x: 'NN' in x, lda.print_topic(i).split('+')[:20])) for i in topics_distrib.iterkeys()]

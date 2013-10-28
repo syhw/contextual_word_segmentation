@@ -10,13 +10,16 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import glob, sys, cPickle, re
 
 NO_BELOW = 5 # no word used less than 5 times
-NO_ABOVE = 0.42 # no word which is in above 42% of the corpus
+NO_ABOVE = 0.1 # no word which is in above 10% of the corpus
 VOCAB_SIZE = 5000 # 5k, more?
 LEMMATIZE = utils.HAS_PATTERN
+#LEMMATIZE = False
 N_TOPICS = 6 # number of topics
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 FILTER_WORDS_ADD = 'to_filter.txt'
 ONLY_NOUN_VERBS = True
+if not LEMMATIZE:
+    ONLY_NOUN_VERBS = False
 HDP = True
 
 def tokenize(text):
@@ -123,13 +126,12 @@ if __name__ == '__main__':
         outputname = 'provi_reseg_tokenized'
 
     try:
-
         id2token = Dictionary.load_from_text(outputname + '_wordids.txt')
         mm = MmCorpus(outputname + '_bow.mm')
         print ">>> Loaded corpus from serialized files"
     except:
         print ">>> Extracting articles..."
-        corpus = ProvidenceCorpus('ProvidenceResegmented')
+        corpus = ProvidenceCorpus('ProviOverSeg')
         corpus.dictionary.save_as_text(outputname + '_wordids.txt')
         print ">>> Saved dictionary as " + outputname + "_wordids.txt"
         MmCorpus.serialize(outputname + '_bow.mm', corpus, progress_cnt=1000)
@@ -140,7 +142,7 @@ if __name__ == '__main__':
 
     if HDP:
         lda = models.hdpmodel.HdpModel(corpus=mm, id2word=id2token, 
-                gamma=0.1, alpha=0.1,
+                gamma=0.01, alpha=0.01,
                 kappa=0.001, tau=128.0, T=100, K=10, scale=0.1, 
                 var_converge=0.000001)
         f = open(outputname + '.hdpmodel', 'w')
@@ -169,10 +171,10 @@ if __name__ == '__main__':
     print "================================================"
     if HDP:
         print ">>> hdp normal"
-        lda.print_topics(topn=50)
+        lda.print_topics(topics=50, topn=50)
         print "------------------------------------------------"
         lda.optimal_ordering()
-        lda.print_topics(topn=50)
+        lda.print_topics(topics=50, topn=50)
     else:
         print ">>> lda normal"
         lda.print_topics(N_TOPICS, topn=20)

@@ -14,8 +14,8 @@ DEBUG = False # debug output
 
 
 def find_start_end(doc):
-    start = -np.iinfo(np.int32).min
-    end = -np.iinfo(np.int32).min
+    start = 0
+    end = 0
     if len(doc) == 1:
         return start, end
     for line in doc: 
@@ -28,6 +28,9 @@ def find_start_end(doc):
         if len(l):
             end = int(l[0])
             break
+    if start == 0 and end == 0:
+        print 'start and end == 0 for', doc # this only happens for "headers"
+        end = 5*len(' '.join(doc)) # lower bounding how fast you can pronounce
     return start, end
 
 
@@ -47,44 +50,39 @@ def compute_KL_div(t1, t2):
 def merge_too_small(docs):
     docs = docs
     for i, doc in enumerate(docs): # first pass, small docs
-        if len(doc) and doc[0][0:2] == '@?':
+        if len(doc) and '@?' in doc[0]:
             #' and len(doc[0]) > 1 and doc[0][1] == '?': we're at a disputed doc segment
             if i - 1 < 0 or i + 1 >= len(docs):
                 continue
             if len(doc) <= 1:
                 docs[i] = []
                 continue
-            if len(doc) < MIN_LINES: # too few lines ==> GROUP WITH CLOSEST TIME
+            if len(doc) < MIN_LINES: # too few lines => GROUP WITH CLOSEST TIME
                 doc_start, doc_end = find_start_end(doc)
                 p_i = i-1 # previous non empty
                 for j, d in enumerate(docs[p_i::-1]):
                     if len(d):
-                        p_i = p_i - j
                         break
+                    p_i -= 1
                 n_i = i+1 # next non empty
                 for j, d in enumerate(docs[n_i:]):
                     if len(d):
-                        n_i = n_i + j
                         break
+                    n_i += 1
                 prev_start, prev_end = find_start_end(docs[p_i])
                 next_start, next_end = find_start_end(docs[n_i])
                 dp = doc_start - prev_end
                 nd = next_start - doc_end
-#                if dp < 0: # accross .cha for prev to current
-#                    print "ERROR accross prev to current"
-#                    sys.exit(-1)
-#                if nd < 0: # accross .cha for current to next
-#                    print "ERROR accross current to next"
-#                    sys.exit(-1)
-                if nd > dp: # group with prev
-                    docs[p_i][0] = docs[p_i][0].replace('?', '')
+                if dp < 0: # accross .cha for prev to current
+                    print doc
+                    print "ERROR accross prev to current"
+                    sys.exit(-1)
+                if nd < 0 or nd > dp: # group with prev non empty
+                    #docs[p_i][0] = docs[p_i][0].replace('?', '')
                     docs[p_i].extend(doc[1:])
                     docs[i] = []
                 else: # group with next
-                    tmp = [docs[n_i][0].replace('?', '')]
-                    tmp.extend(doc[1:])
-                    tmp.extend(docs[n_i][1:])
-                    docs[i] = tmp
+                    docs[i].extend(docs[n_i][1:])
                     docs[n_i] = []
     return filter(lambda x: len(x), docs)
 
@@ -122,7 +120,7 @@ if __name__ == '__main__':
         docs = merge_too_small(docs)
         docs = merge_too_small(docs)
         for i, doc in enumerate(docs): # second pass, topics + KL-div
-            if len(doc) and doc[0][0:2] == '@?':
+            if len(doc) and '@?' in doc[0]:
                 # we're at a disputed doc segment
                 if i - 1 < 0 or i + 1 >= len(docs):
                     continue
@@ -130,15 +128,15 @@ if __name__ == '__main__':
                     docs[i] = []
                     continue
                 p_i = i-1 # previous non empty
-                for j, d in enumerate(docs[p_i:-1:-1]):
+                for j, d in enumerate(docs[p_i::-1]):
                     if len(d):
-                        p_i = p_i - j
                         break
-                n_i = i+1 # next non empty
+                    p_i -= 1
+                n_i = i+1 # previous non empty
                 for j, d in enumerate(docs[n_i:]):
                     if len(d):
-                        n_i = n_i + j
                         break
+                    n_i += 1
                 current_doc = ' '.join(map(extract_sentence, doc[1:]))
                 prev_doc = ' '.join(map(extract_sentence, docs[p_i][1:]))
                 next_doc = ' '.join(map(extract_sentence, docs[n_i][1:]))
@@ -162,23 +160,19 @@ if __name__ == '__main__':
                     print next_topics
                     print kl_div_next
                 if kl_div_prev > MAX_KL_DIST and kl_div_next > MAX_KL_DIST:
-                    # keep this candidate doc segment in the infal
+                    # keep this candidate doc segment in the final
                     doc[0] = '@\n'
                 else:
                     # regroup with closest KL div
-                    if kl_div_prev > kl_div_next: # group with next
-                        tmp = [docs[n_i][0].replace('?', '')]
-                        tmp.extend(doc[1:])
-                        tmp.extend(docs[n_i][1:])
-                        docs[i] = tmp
-                        docs[n_i] = []
-                        print n_i
-                    else: # group with prev
-                        print docs[p_i]
-                        print p_i
+                    if kl_div_prev < kl_div_next: # group with previous
                         docs[p_i][0] = docs[p_i][0].replace('?', '')
                         docs[p_i].extend(doc[1:])
                         docs[i] = []
+                    else: # group with next
+                        docs[i].extend(docs[n_i][1:])
+                        docs[i][0] = docs[i][0].replace('?', '')
+                        docs[n_i] = []
+
         docs = filter(lambda x: len(x), docs)
 
     with open(sys.argv[1].split('.')[0] + '_final_split.txt', 'w') as wf:
