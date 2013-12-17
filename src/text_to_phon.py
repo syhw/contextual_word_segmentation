@@ -32,6 +32,8 @@ with open(sys.argv[1]) as rf:
             line = re.sub('\([^\)]*\)', '', line, count=len(line))
             line = re.sub('[.?!+/]*', '', line, count=len(line))
             line = line.split()
+            if len(line) == 0:
+                continue
             doc = line[0]
             line = map(wrd_to_phn, line[1:])
             line = filter(lambda x: x!='', line)

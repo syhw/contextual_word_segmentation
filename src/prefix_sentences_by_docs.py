@@ -33,6 +33,7 @@ if __name__ == '__main__':
 
     out_topics = open(bfname + '_doc_topics' + suffix + '.txt', 'w')
     out_sentences = open(bfname + '_doc_prefixed' + suffix + '.txt', 'w')
+    print "writing:", bfname + '_doc_topics', "and", bfname + '_doc_prefixed'
 
     if FILTER_WORDS:
         filter_words = []
