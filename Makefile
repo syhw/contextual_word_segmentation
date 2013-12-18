@@ -33,7 +33,11 @@ basic_AGs:
 	python scripts/eval.py -g $(CHILD)_11to22m.gold < $(subst .prs,.seg,$@)
 
 
-all: generate_grammars $(subst .lt,.prs,$(list_of_grammars))
-	@echo "generating all grammars:"
+expand: $(subst .lt,.prs,$(list_of_grammars))
+	# just need to expand the list_of_grammars var
+
+
+all: generate_grammars expand 
+	@echo "generated and used all grammars:"
 	@echo "$(list_of_grammars)"
 
