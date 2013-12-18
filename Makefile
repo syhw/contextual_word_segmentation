@@ -1,6 +1,7 @@
 CHILD=naima
 SAGE=0 # TODO
 EAGE=21 # TODO
+list_of_grammars=$(shell echo $(CHILD)_*.lt) # topic-based (b/c "_") grammars
 
 prepare:
 	./all_preparation.sh # TODO
@@ -22,14 +23,17 @@ generate_grammars:
 
 
 basic_AGs:
-	./launch_unigram.sh
-	./launch_colloc.sh
+	./launch_unigram.sh $(CHILD)_11to22m
+	./launch_colloc.sh $(CHILD)_11to22m
 
 
-all: generate_grammars
-	echo "all grammars"
-	list_of_grammars=@`ls $(CHILD)*.lt`
-	echo $(list_of_grammars)
-	#./launch_adaptor.sh $(CHILD)
-	#python scripts/trees-words.py -c "^Word" -i "^_d" < $(CHILD).prs > $(CHILD).seg
-	#python scripts/eval.py -g $(CHILD)_11to22m.gold < $(CHILD).seg
+%.prs: %.lt
+	./launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m
+	python scripts/trees-words.py -c "^Word" -i "^_d" < $@ > $(subst .prs,.seg,$@)
+	python scripts/eval.py -g $(CHILD)_11to22m.gold < $(subst .prs,.seg,$@)
+
+
+all: generate_grammars $(subst .lt,.prs,$(list_of_grammars))
+	@echo "generating all grammars:"
+	@echo "$(list_of_grammars)"
+

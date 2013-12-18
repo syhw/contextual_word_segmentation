@@ -1,5 +1,5 @@
-### First extract .cha to .txt and cut them into documents, put them into
-### the folder 'ProvidenceFinal/ToSegment'
+### First extract .cha to .txt to cut them into documents, put them into
+### the folder 'ProvidenceFinal/ToSegment' (alternatively use Lan's docs split)
 mkdir -p ProvidenceFinal/OverSeg
 sed -e s/@?/@/ ProvidenceFinal/ToSegment/*.txt > ProvidenceFinal/OverSeg/all_over_seg.txt
 python src/prepare_corpus_tfidf.py ProvidenceFinal/OverSeg/
