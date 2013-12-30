@@ -7,6 +7,11 @@ list_of_grammars=$(shell echo $(CHILD)_*.lt) # topic-based (b/c "_") grammars
 prepare:
 	# TODO personalize with $(CHILD)
 	./all_preparation.sh
+	# and now a hack to remove too long lines, UNCHECKED!!!
+	mv $(CHILD)_docs_11to22m.ylt full_$(CHILD)_docs_11to22m.ylt
+	mv $(CHILD)_11to22m.gold full_$(CHILD)_11to22m.gold
+	awk 'length<=600' full_$(CHILD)_docs_11to22m.ylt > $(CHILD)_docs_11to22m.ylt
+	awk 'length<=300' full_$(CHILD)_11to22m.gold > $(CHILD)_11to22m.gold
 
 
 generate_grammars:
