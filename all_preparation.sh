@@ -22,6 +22,8 @@ do
     python src/split_sin.py < ${name%.*}.sin > ${name%.*}.ylt;
 done;
 cat ProvidenceFinal/Final/nai_docs_1*.ylt ProvidenceFinal/Final/nai_docs_20.ylt ProvidenceFinal/Final/nai_docs_21.ylt ProvidenceFinal/Final/nai_docs_22.ylt > naima_docs_11to22m.ylt
+cat ProvidenceFinal/Final/nai_docs_1*.sin ProvidenceFinal/Final/nai_docs_20.sin ProvidenceFinal/Final/nai_docs_21.sin ProvidenceFinal/Final/nai_docs_22.sin > naima_docs_11to22m.sin
+cut -d " " -f 2- naima_docs_11to22m.sin > naima_11to22m.gold
 python src/write_grammar.py naima_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle # writes grammar.lt
 ### now you need the py-cfg adaptor grammar compiled and in py-cfg
 # use the Makefile, the workflow looks like:
