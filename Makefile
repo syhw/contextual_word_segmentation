@@ -30,6 +30,7 @@ generate_grammars:
 
 
 basic_AGs:
+	cut -d " " -f 2- naima_docs_11to22m.ylt > naima_11to22m.ylt
 	qsub -N "$(CHILD)-unigram" -q cpu -cwd -pe openmpi_ib 4 launch_unigram.sh $(CHILD)_11to22m
 	qsub -N "$(CHILD)-colloc" -q cpu -cwd -pe openmpi_ib 16 launch_colloc.sh $(CHILD)_11to22m
 	#launch_unigram.sh $(CHILD)_11to22m
