@@ -10,9 +10,20 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 TFIDF_SUFFIX = '_tfidf' # set it to the empty string for no TF-IDF
 
+def parse_kid(line, kid):
+    """ parses a "@   ale01.cha   1;4.28" line into name/month ("ale", 16) """
+    tmp = line.split('\t')
+    if len(tmp) < 3 or not "cha" in tmp[1]:
+        return kid
+    else:
+        date = tmp[2].split(';')
+        return (tmp[1][:3], int(date[0]) * 12 + int(date[1].split('.')[0]))
+
+
 if __name__ == '__main__':
     fname = sys.argv[1]
     bfname = fname.split('.')[0]
+    basefolder = '/'.join(fname.split('/')[:-1]) + '/'
 
     LEMMATIZE = utils.HAS_PATTERN
     if LEMMATIZE:
@@ -45,6 +56,8 @@ if __name__ == '__main__':
 
     with open(fname) as f:
         text = []
+        current_kid = None
+        out_kid_sentences = None
         doc = 0
         for line in f:
             if line[0] != '@':
@@ -55,32 +68,45 @@ if __name__ == '__main__':
                             sentence[ind] = ''
                 text.append(' '.join(sentence))
             else:
-                if LEMMATIZE:
-                    result = utils.lemmatize(' '.join(text))
-                    topics = lda[id2token.doc2bow(result)]
-                else:
-                    result = tokenize(' '.join(text)) # text into tokens here
-                    topics = lda[id2token.doc2bow(result)]
+                if doc != 0: # doc == 0 is the first header
+                    if LEMMATIZE:
+                        result = utils.lemmatize(' '.join(text))
+                        topics = lda[id2token.doc2bow(result)]
+                    else:
+                        result = tokenize(' '.join(text)) # text into tokens here
+                        topics = lda[id2token.doc2bow(result)]
+                    doc_topics['_d'+str(doc)] = topics
+                    out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
+                    tmp_sentences = '\n'.join(
+                        map(lambda x: '_d'+str(doc)+' '+x, text)) + '\n'
+                    out_sentences.write(tmp_sentences)
+                    out_kid_sentences.write(tmp_sentences)
+                    text = []
+                new_kid = parse_kid(line, current_kid)
+                if current_kid == None or new_kid[0] != current_kid[0] or new_kid[1] != current_kid[1]:
+                    if doc != 0:
+                        out_kid_sentences.close()
+                    out_kid_sentences = open(basefolder + new_kid[0] + '_docs_' + str(new_kid[1]) + '.txt', 'w')
+                    current_kid = new_kid
                 doc += 1
-                doc_topics['_d'+str(doc)] = topics
-                out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
-                out_sentences.write('\n'.join(
-                    map(lambda x: '_d'+str(doc)+' '+x, text)) + '\n')
-                text = []
+
         if LEMMATIZE:
             result = utils.lemmatize(' '.join(text))
             topics = lda[id2token.doc2bow(result)]
         else:
             result = tokenize(' '.join(text)) # text into tokens here
             topics = lda[id2token.doc2bow(result)]
-        doc += 1
         doc_topics['_d'+str(doc)] = topics
         out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
-        out_sentences.write('\n'.join(
-            map(lambda x: '_d'+str(doc)+' '+x, text)))
+        tmp_sentences = '\n'.join(
+            map(lambda x: '_d'+str(doc)+' '+x, text))
+        out_sentences.write(tmp_sentences)
+        out_kid_sentences.write(tmp_sentences)
+        doc += 1
 
     out_topics.close()
     out_sentences.close()
+    out_kid_sentences.close()
     with open(bfname + '_doc_topics' + suffix + '.pickle', 'w') as f:
         cPickle.dump(doc_topics, f)
 

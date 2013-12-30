@@ -10,9 +10,9 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import glob, sys, cPickle, re
 
 FOLDER = "ProvidenceFinal/Final"
-NO_BELOW = 20 # no word used less than 10 times
+NO_BELOW = 20 # no word used less than 20 times
 NO_ABOVE = 0.5 # no word which is in above 50% of the corpus
-VOCAB_SIZE = 10000 # 5k, more?
+VOCAB_SIZE = 10000 # 10k, more?
 LEMMATIZE = utils.HAS_PATTERN
 #LEMMATIZE = False
 N_TOPICS = 7 # number of topics

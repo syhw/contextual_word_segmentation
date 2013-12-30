@@ -114,11 +114,12 @@ if __name__ == '__main__':
         print("with %d possible docs" % len(docs))
 
         docs = filter(lambda x: len(x), docs)
-        docs = merge_too_small(docs)
-        docs = merge_too_small(docs)
-        docs = merge_too_small(docs)
-        docs = merge_too_small(docs)
-        docs = merge_too_small(docs)
+        n_docs_before = -1
+        print "merging too small docs..."
+        while n_docs_before != len(docs):
+            n_docs_before = len(docs)
+            docs = merge_too_small(docs)
+        print "using KL-divergence..."
         for i, doc in enumerate(docs): # second pass, topics + KL-div
             if len(doc) and '@?' in doc[0]:
                 # we're at a disputed doc segment
