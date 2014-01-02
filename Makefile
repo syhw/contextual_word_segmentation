@@ -42,7 +42,7 @@ basic_AGs:
 
 
 %.prs: %.lt
-	qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd -pe openmpi_ib 4 launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m
+	qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd -pe openmpi_ib 4 launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m $(CHILD)_11to22m
 	# launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m
 	#qsub -N "$(CHILD)-docs-$(subst .lt,,$<)-results" -q cpu -cwd results.sh $@ $(subst .prs,.seg,$@) $(CHILD)_11to22m.gold
 	#python scripts/trees-words.py -c "^Word" -i "^_d" < $@ > $(subst .prs,.seg,$@)
