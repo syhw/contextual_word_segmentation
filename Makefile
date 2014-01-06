@@ -33,8 +33,8 @@ basic_AGs:
 	cut -d " " -f 2- naima_docs_11to22m.ylt > naima_11to22m.ylt
 	qsub -N "$(CHILD)-unigram" -q cpu -cwd -pe openmpi_ib 4 launch_unigram.sh $(CHILD)_11to22m
 	qsub -N "$(CHILD)-colloc" -q cpu -cwd -pe openmpi_ib 16 launch_colloc.sh $(CHILD)_11to22m
-	qsub -N "$(CHILD)-colloc" -q cpu -cwd -pe openmpi_ib 16 launch_syll.sh $(CHILD)_11to22m
-	qsub -N "$(CHILD)-colloc" -q cpu -cwd -pe openmpi_ib 16 launch_colloc_syll.sh $(CHILD)_11to22m
+	qsub -N "$(CHILD)-syll" -q cpu -cwd -pe openmpi_ib 16 launch_syll.sh $(CHILD)_11to22m
+	qsub -N "$(CHILD)-colloc-syll" -q cpu -cwd -pe openmpi_ib 16 launch_colloc_syll.sh $(CHILD)_11to22m
 	#launch_unigram.sh $(CHILD)_11to22m
 	#launch_colloc.sh $(CHILD)_11to22m
 	#launch_syll.sh $(CHILD)_11to22m
@@ -42,7 +42,8 @@ basic_AGs:
 
 
 %.prs: %.lt
-	qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd -pe openmpi_ib 4-16 launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m $(CHILD)_11to22m
+	######## qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd -pe openmpi_ib 4-16 launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m $(CHILD)_11to22m
+	qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd launch_adaptor_single_thread.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m $(CHILD)_11to22m
 	# launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m
 	#qsub -N "$(CHILD)-docs-$(subst .lt,,$<)-results" -q cpu -cwd results.sh $@ $(subst .prs,.seg,$@) $(CHILD)_11to22m.gold
 	#python scripts/trees-words.py -c "^Word" -i "^_d" < $@ > $(subst .prs,.seg,$@)
