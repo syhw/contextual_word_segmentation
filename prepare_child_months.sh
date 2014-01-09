@@ -16,3 +16,4 @@ echo ${l_sin[@]}
 cat ${l_ylt[@]} > ${folder}/$1_docs_$2to$3m.ylt
 cat ${l_sin[@]} > ${folder}/$1_docs_$2to$3m.sin
 cut -d " " -f 2- ${folder}/$1_docs_$2to$3m.sin > ${folder}/${folder}.gold
+cut -d " " -f 2- ${folder}/$1_docs_$2to$3m.ylt > ${folder}/${folder}.ylt
