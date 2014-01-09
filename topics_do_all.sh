@@ -1,3 +1,9 @@
+#!/bin/bash
+echo "usage: ./topics_do_all.sh CHILD_NAME, e.g. ./topics_do_all.sh naima\n"
+echo "this scripts segments all ProvidenceFinal/ToSegment/*.txt into documents\n"
+echo "based on the KL-divergence with topics learned from over-segmentation\n"
+echo "and then relearns a topics model\n"
+chi=$(echo "$1" | cut -c 1-3)
 ### First extract .cha to .txt to cut them into documents, put them into
 ### the folder 'ProvidenceFinal/ToSegment' (alternatively use Lan's docs split)
 mkdir -p ProvidenceFinal/OverSeg
@@ -15,18 +21,17 @@ python src/prepare_corpus_tfidf.py ProvidenceFinal/Final/
 ### this also splits in kids name and months
 python src/prefix_sentences_by_docs.py ProvidenceFinal/Final/*_final_split.txt
 ### you need the 'phonology_dict' folder stuffed
-### change "nai" here for another kid if you'd like:
-for name in `ls ProvidenceFinal/Final/nai_docs_*.txt`;
+for name in `ls ProvidenceFinal/Final/${chi}_docs_*.txt`;
 do
     python src/text_to_phon.py $name;
     python src/split_sin.py < ${name%.*}.sin > ${name%.*}.ylt;
 done;
-cat ProvidenceFinal/Final/nai_docs_1*.ylt ProvidenceFinal/Final/nai_docs_20.ylt ProvidenceFinal/Final/nai_docs_21.ylt ProvidenceFinal/Final/nai_docs_22.ylt > naima_docs_11to22m.ylt
-cat ProvidenceFinal/Final/nai_docs_1*.sin ProvidenceFinal/Final/nai_docs_20.sin ProvidenceFinal/Final/nai_docs_21.sin ProvidenceFinal/Final/nai_docs_22.sin > naima_docs_11to22m.sin
-cut -d " " -f 2- naima_docs_11to22m.sin > naima_11to22m.gold
-python src/write_grammar.py naima_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle # writes grammar.lt
+cat ProvidenceFinal/Final/${chi}_docs_1*.ylt ProvidenceFinal/Final/${chi}_docs_20.ylt ProvidenceFinal/Final/${chi}_docs_21.ylt ProvidenceFinal/Final/${chi}_docs_22.ylt > $1_docs_11to22m.ylt
+cat ProvidenceFinal/Final/${chi}_docs_1*.sin ProvidenceFinal/Final/${chi}_docs_20.sin ProvidenceFinal/Final/${chi}_docs_21.sin ProvidenceFinal/Final/${chi}_docs_22.sin > $1_docs_11to22m.sin
+cut -d " " -f 2- $1_docs_11to22m.sin > $1_11to22m.gold
+python src/write_grammar.py $1_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle # writes grammar.lt
 ### now you need the py-cfg adaptor grammar compiled and in py-cfg
 # use the Makefile, the workflow looks like:
 #./launch_adaptor.sh
 #python scripts/trees-words.py -c "^Word" -i "^_d" < output.prs > output.seg
-#python scripts/eval.py -g naima_11to22m.gold < output.seg
+#python scripts/eval.py -g $1_11to22m.gold < output.seg
