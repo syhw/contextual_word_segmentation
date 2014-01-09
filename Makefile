@@ -1,60 +1,59 @@
 CHILD=naima
-SAGE=11 # TODO
-EAGE=22 # TODO
-list_of_grammars=$(shell echo $(CHILD)_*.lt) # topic-based (b/c "_") grammars
-
-
-prepare:
-	# TODO personalize with $(CHILD)
-	./all_preparation.sh
-	# and now a hack to remove too long lines, UNCHECKED!!!
-	mv $(CHILD)_docs_11to22m.ylt full_$(CHILD)_docs_11to22m.ylt
-	mv $(CHILD)_11to22m.gold full_$(CHILD)_11to22m.gold
-	awk 'length<=600' full_$(CHILD)_docs_11to22m.ylt > $(CHILD)_docs_11to22m.ylt
-	awk 'length<=300' full_$(CHILD)_11to22m.gold > $(CHILD)_11to22m.gold
-
-
-generate_grammars:
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle $(CHILD) # writes $(CHILD).lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a $(CHILD) # writes $(CHILD)_readapt.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -d $(CHILD) # writes $(CHILD)_doc_colloc.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -t $(CHILD) # writes $(CHILD)_topics_colloc.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -s $(CHILD) # writes $(CHILD)_syll.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -d $(CHILD) # writes $(CHILD)_readapt_doc_colloc.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -t $(CHILD) # writes $(CHILD)_readapt_topics_colloc.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -s $(CHILD) # writes $(CHILD)_readapt_syll.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -d -s $(CHILD) # writes $(CHILD)_readapt_doc_colloc_syll.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -t -s $(CHILD) # writes $(CHILD)_readapt_topics_colloc_syll.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -d -s $(CHILD) # writes $(CHILD)_doc_colloc_syll.lt
-	python src/write_grammar.py $(CHILD)_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -t -s $(CHILD) # writes $(CHILD)_topics_colloc_syll.lt
-
-
-basic_AGs:
-	cut -d " " -f 2- naima_docs_11to22m.ylt > naima_11to22m.ylt
-	qsub -N "$(CHILD)-unigram" -q cpu -cwd -pe openmpi_ib 4 launch_unigram.sh $(CHILD)_11to22m
-	qsub -N "$(CHILD)-colloc" -q cpu -cwd -pe openmpi_ib 16 launch_colloc.sh $(CHILD)_11to22m
-	qsub -N "$(CHILD)-syll" -q cpu -cwd -pe openmpi_ib 16 launch_syll.sh $(CHILD)_11to22m
-	qsub -N "$(CHILD)-colloc-syll" -q cpu -cwd -pe openmpi_ib 16 launch_colloc_syll.sh $(CHILD)_11to22m
-	#launch_unigram.sh $(CHILD)_11to22m
-	#launch_colloc.sh $(CHILD)_11to22m
-	#launch_syll.sh $(CHILD)_11to22m
-	#launch_colloc_syll.sh $(CHILD)_11to22m
-
-
-%.prs: %.lt
-	######## qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd -pe openmpi_ib 4-16 launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m $(CHILD)_11to22m
-	qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd launch_adaptor_single_thread.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m $(CHILD)_11to22m
-	# launch_adaptor.sh $(subst .lt,,$<) $(CHILD)_docs_11to22m
-	#qsub -N "$(CHILD)-docs-$(subst .lt,,$<)-results" -q cpu -cwd results.sh $@ $(subst .prs,.seg,$@) $(CHILD)_11to22m.gold
-	#python scripts/trees-words.py -c "^Word" -i "^_d" < $@ > $(subst .prs,.seg,$@)
-	#python scripts/eval.py -g $(CHILD)_11to22m.gold < $(subst .prs,.seg,$@)
-
-
-expand: $(subst .lt,.prs,$(list_of_grammars))
-	# just need to expand the list_of_grammars var
+SAGE=11
+EAGE=12
+PY_CFG=./py-cfg/py-cfg
+list_of_grammars=$(shell echo $(CHILD)_*.lt)
 
 
 all: generate_grammars expand 
 	@echo "generated and used all grammars:"
 	@echo "$(list_of_grammars)"
+
+
+prepare_topics:
+	./topics_do_all.sh $(CHILD)
+
+
+remove_long_lines:
+	# and now a hack to remove too long lines, UNCHECKED!!!
+	mv $(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt full_$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt
+	mv $(CHILD)_$(SAGE)to$(EAGE)m.gold full_$(CHILD)_$(SAGE)to$(EAGE)m.gold
+	awk 'length<=600' full_$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt > $(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt
+	awk 'length<=300' full_$(CHILD)_$(SAGE)to$(EAGE)m.gold > $(CHILD)_$(SAGE)to$(EAGE)m.gold
+
+generate_grammars:
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_readapt.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -d $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_doc_colloc.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -t $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_topics_colloc.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -s $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_syll.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -d $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_readapt_doc_colloc.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -t $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_readapt_topics_colloc.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -s $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_readapt_syll.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -d -s $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_readapt_doc_colloc_syll.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a -t -s $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_readapt_topics_colloc_syll.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -d -s $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_doc_colloc_syll.lt
+	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -t -s $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_topics_colloc_syll.lt
+
+
+results_folder:
+	./prepare_child_months.sh $(CHILD) $(SAGE) $(EAGE)
+
+
+basic_AGs: results_folder
+	cut -d " " -f 2- $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt > $(CHILD)_$(SAGE)to$(EAGE)m.ylt
+	# for qsub with Open-MPI, use -pe openmpi_ib 8-16
+	qsub -N "$(CHILD)-unigram" -q cpu -wd $(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHILD)-colloc" -q cpu -wd $(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHILD)-syll" -q cpu -wd $(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHILD)-colloc_syll" -q cpu -wd $(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+
+
+%.prs: %.lt results_folder
+	qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -wd $(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m
+	#qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -wd $(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_splits_docs_$(SAGE)to$(EAGE)m $(CHILD)_splits_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m
+
+
+expand: $(subst .lt,.prs,$(list_of_grammars))
+	# just need to expand the list_of_grammars var
 
