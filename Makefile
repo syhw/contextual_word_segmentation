@@ -1,13 +1,21 @@
 CHILD=naima
+CHI=$(shell echo $(CHILD) | cut -c 1-3)
 SAGE=11
-EAGE=12
+EAGE=18
 PY_CFG=./py-cfg/py-cfg
 list_of_grammars=$(shell echo $(CHILD)_$(SAGE)to$(EAGE)m*.lt)
 
 
-all: generate_grammars expand 
-	@echo "generated and used all those grammars:"
-	@echo "$(list_of_grammars)"
+all:
+	# make prepare_topics has still to be done by hand (once for all)
+	@echo ">>> creating the $(CHILD)_$(SAGE)to$(EAGE)m folder with needed data"
+	$(MAKE) $(CHILD)_$(SAGE)to$(EAGE)m
+	@echo ">>> launching basic grammars"
+	$(MAKE) basic_AGs
+	@echo ">>> generating all grammars as once"
+	$(MAKE) generate_grammars
+	@echo ">>> now launching adaptor grammars jobs using all those grammars:"
+	$(MAKE) launch_jobs
 
 
 prepare_topics:
@@ -23,6 +31,7 @@ remove_long_lines:
 
 
 generate_grammars:
+	# TODO remove * in *_doc_topics_reseg_lemmatized_tfidf.pickle
 	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m.lt
 	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -a $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_readapt.lt
 	python src/write_grammar.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle -d $(CHILD)_$(SAGE)to$(EAGE)m # writes $(CHILD)_$(SAGE)to$(EAGE)m_doc_colloc.lt
@@ -44,17 +53,22 @@ $(CHILD)_$(SAGE)to$(EAGE)m:
 basic_AGs: $(CHILD)_$(SAGE)to$(EAGE)m
 	cut -d " " -f 2- $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt > $(CHILD)_$(SAGE)to$(EAGE)m.ylt
 	# for qsub with Open-MPI, use -pe openmpi_ib 8-16
-	qsub -N "$(CHILD)-$(SAGE)-$(EAGE)-unigram" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
-	qsub -N "$(CHILD)-$(SAGE)-$(EAGE)-colloc" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
-	qsub -N "$(CHILD)-$(SAGE)-$(EAGE)-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
-	qsub -N "$(CHILD)-$(SAGE)-$(EAGE)-colloc-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
 
 
 %.prs: %.lt $(CHILD)_$(SAGE)to$(EAGE)m
-	qsub -N "$(CHILD)-$(SAGE)-$(EAGE)-docs-$(subst .lt,,$<)" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m
+	qsub -N "$(CHILD)-$(SAGE)-$(EAGE)-docs-$(subst .lt,,$<)" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m
 	#qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_splits_docs_$(SAGE)to$(EAGE)m $(CHILD)_splits_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m
 
 
-expand: $(subst .lt,.prs,$(list_of_grammars))
-	# just need to expand the list_of_grammars var
+launch_jobs: $(subst .lt,.prs,$(list_of_grammars))
+	@echo "$(list_of_grammars)"
+	# this rule is just need to expand the list_of_grammars var after generation
 
+
+clean:
+	rm -rf $(CHILD)_$(SAGE)to$(EAGE)m
+	rm $(CHILD)_$(SAGE)to$(EAGE)m_*.lt
