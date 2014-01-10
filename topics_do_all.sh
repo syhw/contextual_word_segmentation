@@ -1,8 +1,9 @@
 #!/bin/bash
-echo "usage: ./topics_do_all.sh CHILD_NAME, e.g. ./topics_do_all.sh naima\n"
-echo "this scripts segments all ProvidenceFinal/ToSegment/*.txt into documents\n"
-echo "based on the KL-divergence with topics learned from over-segmentation\n"
-echo "and then relearns a topics model\n"
+echo ">>> usage: ./topics_do_all.sh CHILD_NAME, e.g. ./topics_do_all.sh naima"
+echo "This scripts segments all ProvidenceFinal/ToSegment/*.txt into documents"
+echo "based on the KL-divergence with topics learned from over-segmentation,"
+echo "and then relearns a topics model."
+echo "-----------------------------------------"
 chi=$(echo "$1" | cut -c 1-3)
 ### First extract .cha to .txt to cut them into documents, put them into
 ### the folder 'ProvidenceFinal/ToSegment' (alternatively use Lan's docs split)
