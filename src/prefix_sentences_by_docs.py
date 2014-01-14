@@ -20,6 +20,18 @@ def parse_kid(line, kid):
         return (tmp[1][:3], int(date[0]) * 12 + int(date[1].split('.')[0]))
 
 
+def find_argmax(topics_list):
+    """ returns the maximum probability topic id in a 
+    [(topic_id, topic_prob)...] topics distribution """
+    m = -1.
+    r_tid = -1
+    for tid, tprob in topics_list:
+        if tprob > m:
+            m = tprob
+            r_tid = tid
+    return r_tid
+
+
 if __name__ == '__main__':
     fname = sys.argv[1]
     bfname = fname.split('.')[0]
@@ -57,7 +69,8 @@ if __name__ == '__main__':
     with open(fname) as f:
         text = []
         current_kid = None
-        out_kid_sentences = None
+        out_kid_sentences_d = None
+        out_kid_sentences_t = None
         doc = 0
         for line in f:
             if line[0] != '@':
@@ -77,16 +90,22 @@ if __name__ == '__main__':
                         topics = lda[id2token.doc2bow(result)]
                     doc_topics['_d'+str(doc)] = topics
                     out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
-                    tmp_sentences = '\n'.join(
-                        map(lambda x: '_d'+str(doc)+' '+x, text)) + '\n'
-                    out_sentences.write(tmp_sentences)
-                    out_kid_sentences.write(tmp_sentences)
+                    tmp_sentences_d = '\n'.join(
+                            map(lambda x: '_d'+str(doc)+' '+x, text)) + '\n'
+                    out_sentences.write(tmp_sentences_d)
+                    out_kid_sentences_d.write(tmp_sentences_d)
+                    cur_t = find_argmax(topics)
+                    tmp_sentences_t = '\n'.join(
+                            map(lambda x: '_t'+str(cur_t)+' '+x, text)) + '\n'
+                    out_kid_sentences_t.write(tmp_sentences_t)
                     text = []
                 new_kid = parse_kid(line, current_kid)
                 if current_kid == None or new_kid[0] != current_kid[0] or new_kid[1] != current_kid[1]:
                     if doc != 0:
-                        out_kid_sentences.close()
-                    out_kid_sentences = open(basefolder + new_kid[0] + '_docs_' + str(new_kid[1]) + '.txt', 'w')
+                        out_kid_sentences_d.close()
+                        out_kid_sentences_t.close()
+                    out_kid_sentences_d = open(basefolder + new_kid[0] + '_docs_' + str(new_kid[1]) + '.txt', 'w')
+                    out_kid_sentences_t = open(basefolder + new_kid[0] + '_topic_' + str(new_kid[1]) + '.txt', 'w')
                     current_kid = new_kid
                 doc += 1
 
@@ -98,15 +117,20 @@ if __name__ == '__main__':
             topics = lda[id2token.doc2bow(result)]
         doc_topics['_d'+str(doc)] = topics
         out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
-        tmp_sentences = '\n'.join(
+        tmp_sentences_d = '\n'.join(
             map(lambda x: '_d'+str(doc)+' '+x, text))
-        out_sentences.write(tmp_sentences)
-        out_kid_sentences.write(tmp_sentences)
+        out_sentences.write(tmp_sentences_d)
+        out_kid_sentences_d.write(tmp_sentences_d)
+        cur_t = find_argmax(topics)
+        tmp_sentences_t = '\n'.join(
+                map(lambda x: '_t'+str(cur_t)+' '+x, text))
+        out_kid_sentences_t.write(tmp_sentences_t)
         doc += 1
 
     out_topics.close()
     out_sentences.close()
-    out_kid_sentences.close()
+    out_kid_sentences_d.close()
+    out_kid_sentences_t.close()
     with open(bfname + '_doc_topics' + suffix + '.pickle', 'w') as f:
         cPickle.dump(doc_topics, f)
 
