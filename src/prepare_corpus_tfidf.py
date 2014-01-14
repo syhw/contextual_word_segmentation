@@ -54,7 +54,7 @@ class ProvidenceCorpus(TextCorpus):
                 for line in f:
                     filter_words.append(line.rstrip('\n'))
             filter_words = set(filter_words)
-            print "the following words will be filtered", filter_words
+            #print "the following words will be filtered", filter_words
         filter_words_add = set()
         if FILTER_WORDS_ADD:
             filter_words_add = []
@@ -62,7 +62,7 @@ class ProvidenceCorpus(TextCorpus):
                 for line in f:
                     filter_words_add.append(line.rstrip('\n'))
             filter_words_add = set(filter_words_add)
-            print "and the other the following words will be filtered", filter_words_add
+            #print "and the other the following words will be filtered", filter_words_add
 
         positions, hn_articles = 0, 0
         fnamelist = []

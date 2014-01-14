@@ -1,8 +1,13 @@
 #!/bin/bash
-echo ">>> usage: ./topics_do_all.sh CHILD_NAME, e.g. ./topics_do_all.sh naima"
+echo ">>> usage: ./topics_do_all.sh child_name, e.g. ./topics_do_all.sh naima"
 echo "This scripts segments all ProvidenceFinal/ToSegment/*.txt into documents"
 echo "based on the KL-divergence with topics learned from over-segmentation,"
 echo "and then relearns a topics model."
+if [[ "$#" -ne 1 ]]; then
+    echo "ERROR: you must specify a child name as argument"
+    exit
+fi
+echo "==> We will do that for the child $1"
 echo "-----------------------------------------"
 chi=$(echo "$1" | cut -c 1-3)
 ### First extract .cha to .txt to cut them into documents, put them into
