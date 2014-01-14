@@ -1,0 +1,3417 @@
+_t2 		yeah that's your little microphone . 
+_t2 		hmmm . 
+_t2 		ya:y ! 
+_t2 		pop pop pop pop pop . 
+_t2 		pop pop . 
+_t2 		pop pop pop pop pop . 
+_t2 		ya:y . 
+_t2 		mo:mmy will put this on .
+_t2 
+_t2 		yeah that's for mommy . 
+_t2 		see ? 
+_t2 		I get one too . 
+_t2 		we both get one . 
+_t2 		ya:y . 
+_t2 		isn't that good ? 
+_t2 		that's great ! 
+_t2 		oo:h . 
+_t2 		and a little bag . 
+_t2 		bubbles . 
+_t2 		bubbles ! 
+_t2 		pop pop pop pop pop . 
+_t2 		pop pop . 
+_t2 		pop pop pop pop . 
+_t2 		hee hee: . 
+_t2 		bu:bbles . 
+_t2 		bu:bbles . 
+_t2 		pop pop pop pop pop . 
+_t2 		mommy's just gonna get a couple books for you honey . 
+_t0 		wanna read a book ? 
+_t0 		o:h . 
+_t0 		ten little ladybugs sitting on a vine . 
+_t0 		along came a butterfly (.) and then there were nine little ladybugs sitting on a gate . 
+_t0 		along came a caterpillar (.) and then there were (.) eight little ladybugs looking up at heaven . 
+_t0 		along came a (.) bi:rd and then there were seven little ladybugs resting on sticks . 
+_t0 		along came a grasshopper +... 
+_t0 		grasshopper ! 
+_t0 		and then there were six . 
+_t0 		what's that ? 
+_t0 		bumble+bee ! 
+_t0 		bumble+bee: . 
+_t0 		five little ladybugs sleeping by the shore . 
+_t0 		along came a fish: (.) and then there were (.) four little ladybugs climbing up a tree . 
+_t0 		along came a turtle . 
+_t0 		turtle: ! 
+_t0 		fish ! 
+_t0 		turtle: . 
+_t0 		fish ! 
+_t0 		turtle . 
+_t0 		fish ! 
+_t0 		turtle . 
+_t0 		fish ! 
+_t0 		what's that ? 
+_t0 		can you say bumble+bee ?
+_t0 
+_t0 		fish ! 
+_t0 		turtle . 
+_t0 		who's that ? 
+_t0 		what's that ? 
+_t0 		what is tha:t ? 
+_t0 		is that a dog ? 
+_t0 		is that a kitty cat ? 
+_t0 		what is that ? 
+_t0 		yeah that's his wing . 
+_t0 		but what is that animal ? 
+_t0 		a cow ? 
+_t0 		a horse ? 
+_t0 		hello: ! 
+_t0 		what is that ? 
+_t0 		we don't know ? 
+_t0 		hello: ! 
+_t0 		hello: ! 
+_t0 		is that a duck ? 
+_t0 		duckie . 
+_t0 		what's that ? 
+_t0 		two little ladybugs basking in the sun . 
+_t0 		along came a fro:g (.) and then there was one little ladybug sitting all alone . 
+_t0 		along came a breeze and then she was ho:me ! 
+_t0 		who's that ? 
+_t0 		hmmm . 
+_t0 		really ? 
+_t0 		who's that ? 
+_t0 		bumble bee: . 
+_t0 		bir:d . 
+_t0 		flower . 
+_t0 		turtle . 
+_t0 		oh ladybug . 
+_t0 		ladybug ! 
+_t0 		l:adybug ! 
+_t0 		red ladybug . 
+_t0 		who do you see ? 
+_t0 		la:dybu:g . 
+_t0 		ladybug . 
+_t0 		fro:g . 
+_t0 		what is that ? 
+_t0 		duckie ? 
+_t0 		do you have a duckie ? 
+_t0 		is her name Daffy ? 
+_t0 		fish: . 
+_t0 		fish: . 
+_t0 		what's that ? 
+_t0 		bumble+bee ! 
+_t0 		yeah . 
+_t0 		aren't those little holes ? 
+_t0 		I got you I got you I got you I got you ! 
+_t0 		I got you I got you I got you ! 
+_t0 		butterfly . 
+_t0 		ladybug . 
+_t0 		yellow ladybug . 
+_t0 		yellow ladybug . 
+_t0 		bird . 
+_t0 		fish: . 
+_t0 		fish fish fish fish . 
+_t0 		can I see a fish+face ? 
+_t0 		what a good fish+face ! 
+_t0 		turtle . 
+_t0 		turtle . 
+_t0 		yea:h . 
+_t0 		turtle . 
+_t0 		tur:tle . 
+_t0 		should we look at your animal book honey ? 
+_t0 		oo:h ! 
+_t0 		ooh look your bubble+paper . 
+_t0 		pop pop pop pop pop pop pop pop pop , pop , pop ! 
+_t0 		oo:h animals . 
+_t0 		an elephant . 
+_t0 		we saw one at the zoo . 
+_t0 		and a polar bea:r . 
+_t0 		we saw a polar bear at the zoo too . 
+_t0 		and a gira:ffe . 
+_t0 		and a panda bear . 
+_t0 		and a big blue whale . 
+_t0 		and a moose ! 
+_t0 		moo:se . 
+_t0 		o:h . 
+_t0 		what's that ? 
+_t0 		who are those animals ? 
+_t0 		yeah what are they ? 
+_t0 		that's a baby cow . 
+_t0 		look . 
+_t0 		oh bunny rabbit . 
+_t0 		look . 
+_t0 		what's that ? 
+_t0 		hmmm . 
+_t0 		hmmm . 
+_t0 		mmmm ? 
+_t0 		bear ! 
+_t0 		lion ! 
+_t0 		what does a lion say ? 
+_t0 		you are very quiet . 
+_t0 		crab . 
+_t0 		crab . 
+_t0 		a tomato fro:g ! 
+_t0 		that's a tomato frog (be)cause he's big and red like a tomato . 
+_t0 		tomato frog . 
+_t0 		leopard . 
+_t0 		can you find the ladybug ? 
+_t0 		where's the ladybug ? 
+_t0 		that's a fish . 
+_t0 		where's the red ladybug with the black spots ? 
+_t0 		there's the ladybu:g ! 
+_t0 		very good ! 
+_t0 		yay . 
+_t0 		and who's that ? 
+_t0 		uff ! 
+_t0 		is that a doggie ? 
+_t0 		is that a doggie ? 
+_t0 		that's a leopard . 
+_t0 		hello leopard . 
+_t0 		a zebra . 
+_t0 		hello zebra . 
+_t0 		oo:h panther . 
+_t0 		that's a big black panther . 
+_t0 		and a fox ! 
+_t0 		that's a little fox ! 
+_t0 		hee hee: . 
+_t0 		is that a little fox ? 
+_t0 		panther . 
+_t0 		that's a black panther . 
+_t0 		and a little fox ! 
+_t0 		where's the doggie ? 
+_t0 		see the do +//. 
+_t0 		do:ggie: . 
+_t0 		a black and white doggie . 
+_t0 		do:ggie: . 
+_t0 		where are ya going ? 
+_t0 		do you have anything in your refrigerator ? 
+_t0 		should we check the refrigerator honey ? 
+_t0 		I think maybe you have something in it . 
+_t0 		let's see .
+_t0 
+_t0 		there is +//. 
+_t0 		that's your bubble+paper . 
+_t0 		there's something in you refrigera:tor: . 
+_t0 		your water's in the refrigerator . 
+_t0 		oh my gosh ! 
+_t0 		oh my gosh . 
+_t0 		hee hee:  hee: . 
+_t0 		hee: . 
+_t0 		hmmm microwave . 
+_t0 		is there a picture in the microwave ? 
+_t0 		Baby Phoebe: ! 
+_t0 		o:h . 
+_t0 		hmmm ? 
+_t0 		hmmm . 
+_t0 		hmmm: . 
+_t0 		mmmm . 
+_t0 		open . 
+_t0 		clo:se . 
+_t0 		open ! 
+_t0 		clo:se . 
+_t0 		open . 
+_t0 		clo:se . 
+_t0 		open ! 
+_t0 		clo:se . 
+_t0 		close ! 
+_t0 		clo:sed . 
+_t0 		ya:y ! 
+_t0 		hoora:y ! 
+_t0 		oh ! 
+_t0 		there comes the water . 
+_t0 		hmmm . 
+_t0 		back in the fridge ? 
+_t0 		is it hard to fit in there ? 
+_t0 		&u:h . 
+_t0 		hmmm . 
+_t0 		hmmm . 
+_t0 		hmmm . 
+_t0 		hmmm . 
+_t0 		hmmm . 
+_t0 		hmmm: . 
+_t0 		who's that ? 
+_t0 		who is that ? 
+_t0 		who's in that picture ? 
+_t0 		who is that ? 
+_t0 		re Phoebe ? 
+_t0 		is that a ba:by: ? 
+_t0 		is that a ba:by: ? 
+_t0 		baby's in the refrigerator . 
+_t0 		oo:h chilly in the refrigerator ! 
+_t0 		chilly ! 
+_t0 		o:h boy ! 
+_t0 		can you say baby ? 
+_t0 		baby's in the microwave ? 
+_t0 		the baby's in the microwave ! 
+_t0 		eh . 
+_t0 		eh . 
+_t0 		ba:by: . 
+_t0 		babby: . 
+_t0 		you have a sheep on your refrigerator door honey . 
+_t0 		Lily . 
+_t0 		oh ! 
+_t0 		ooh a little ca:r . 
+_t0 		vroom . 
+_t0 		vroom . 
+_t0 		vroom  ! 
+_t0 		vroom  ! 
+_t0 		Lily can you bring your big purple ball over here ? 
+_t0 		wanna bring your big purple ball over here ? 
+_t0 		o:h boy: ! 
+_t0 		o:h boy: ! 
+_t0 		oh ! 
+_t0 		o:h so close . 
+_t0 		can you bring it over here honey ? 
+_t0 		ya:y ! 
+_t0 		oh that was great ! 
+_t0 		that was great ! 
+_t0 		ha !
+_t0 
+_t0 		ha .
+_t0 
+_t0 		ball . 
+_t0 		ball . 
+_t0 		e:h ball ! 
+_t0 		a: ball ! 
+_t0 		a: ball ! 
+_t0 		ball ! 
+_t0 		e:h ball ! 
+_t0 		ball ball ball ball ball ball ball ! 
+_t0 		ball ! 
+_t0 		hee hee: . 
+_t0 		hee: . 
+_t0 		ball ! 
+_t0 		ball ! 
+_t0 		yeah there's puppy honey ! 
+_t0 		do you see puppy ? 
+_t0 		puppy's [: puppy is] over there . 
+_t0 		puppy . 
+_t0 		puppy: . 
+_t0 		is Po your baby: ?
+_t0 
+_t0 		is Po your little baby ? 
+_t0 		Birthday Bea:r . 
+_t0 		hmmm: . 
+_t0 		hmmm: . 
+_t4 		o:h Po . 
+_t4 		can you go get puppy honey ? 
+_t4 		what's that book ? 
+_t4 		can you read that to me ? 
+_t4 		Elmer . 
+_t4 		what's that ? 
+_t4 		what is that ? 
+_t4 		gira:ffe . 
+_t4 		who's that ? 
+_t4 		snake ! 
+_t4 		Elmer: ! 
+_t4 		is that Elmer ? 
+_t4 		who is that ? 
+_t4 		oh my gosh it's Elmer . 
+_t4 		Elmer's [: Elmer is] an elephant . 
+_t4 		who's that ? 
+_t4 		lion . 
+_t4 		who's that ? 
+_t4 		who is that ? 
+_t4 		an owl ? 
+_t4 		owl ! 
+_t4 		hoo  . 
+_t4 		hee  hee: . 
+_t4 		Po's [: Po is] sitting on the ball . 
+_t4 		hee hee: ! 
+_t4 		what's that ? 
+_t4 		hello . 
+_t4 		hello camera . 
+_t4 		Po's [: Po is] on the ball . 
+_t4 		hmmm: the ba:ll . 
+_t4 		the ba:ll . 
+_t4 		whee: ! 
+_t4 		bouncy bouncy bouncy bouncy bouncy ! 
+_t4 		whee: ! 
+_t4 		oh ! 
+_t4 		o:h and it's back to you ! 
+_t4 		whee:  ! 
+_t4 		uh I got it ! 
+_t4 		yay ! 
+_t4 		whee: ! 
+_t4 		whee: ! 
+_t4 		whee: ! 
+_t4 		whee: ! 
+_t4 		whoa ! 
+_t4 		ooh ! 
+_t4 		what's tha:t ? 
+_t4 		duckie ? 
+_t4 		can you read that to mommy ? 
+_t4 		are you gonna read to mommy ? 
+_t4 		you wanna read it ? 
+_t4 		duckie: . 
+_t4 		what does duckie say ? 
+_t4 		no: . 
+_t4 		that's what a lion says . 
+_t4 		what does a duck say ? 
+_t4 		quack quack quack . 
+_t4 		quack quack quack . 
+_t4 		Daisy Duck in the ree:ds . 
+_t4 		if only Mama Duck were he:re . 
+_t4 		something was coming clo:ser and clo:ser . 
+_t4 		who's that ? 
+_t4 		is that Daisy's mama ? 
+_t4 		who's tha:t ? 
+_t4 		duckie . 
+_t4 		she always stayed very close to Mama Duck . 
+_t4 		Daisy Duck , and Mama Duck . 
+_t4 		whee: ! 
+_t4 		ooh I see the starfish in your dollhouse honey . 
+_t4 		starfish is in your dollhouse ! 
+_t4 		oh ! 
+_t4 		and there's a sheep on top of your refrigerator . 
+_t4 		a:h ! 
+_t4 		hee hee: . 
+_t4 		hey Lily can you walk over here to mommy ? 
+_t4 		hey Lil ! 
+_t4 		can you walk over here to mommy ? 
+_t4 		no ! 
+_t4 		not in the walking mood ? 
+_t4 		n:o . 
+_t4 		xxx . 
+_t4 		can mama have a hug ? 
+_t4 		no . 
+_t4 		are you being difficult ? 
+_t4 		is Lily being difficult ? 
+_t4 		n:o ! 
+_t4 		yeah . 
+_t4 		where's your little guy in the raincoat ? 
+_t4 		he's on your refrigerator ? 
+_t4 		o:h bo:y ! 
+_t4 		oh+my+goodness ! 
+_t4 		careful sweet stuff . 
+_t4 		oo:h ! 
+_t4 		should we open that up and see who's in there ? 
+_t4 		and look ! 
+_t4 		the ba:by crib . 
+_t4 		oo:h my+goodness . 
+_t4 		who should go in the crib ? 
+_t4 		the sheep should go in the crib ? 
+_t4 		a:h . 
+_t4 		oh . 
+_t4 		no . 
+_t4 		Po has to go the crib . 
+_t4 		is Po a baby ? 
+_t4 		oh boy that's a hard fit . 
+_t4 		Po's [: Po is] pretty big . 
+_t4 		mmmm is that your baby bunny ? 
+_t4 		o:h baby bunny's [: bunny is] in the crib . 
+_t4 		a:h . 
+_t4 		oh that's nice . 
+_t4 		is he gonna take a little nap ? 
+_t4 		yeah ? 
+_t4 		can you press that real hard ? 
+_t4 		can you press that real hard ? 
+_t4 		oh the baby's cry:ing . 
+_t4 		hello ! 
+_t4 		should we press it again ? 
+_t4 		ha ha: ! 
+_t4 		ooh , ya wanna dance ? 
+_t4 		is that a little lullaby ? 
+_t4 		or should we go to sleep ? 
+_t4 		y:ay . 
+_t4 		can I just pull that up for you ? 
+_t4 		there you go . 
+_t4 		that's better . 
+_t4 		bunny . 
+_t4 		hmmm , you giving bunny a little hug ? 
+_t4 		yeah . 
+_t4 		that's a hug for bunny . 
+_t4 		yeah . 
+_t4 		that's a hug for bunny . 
+_t4 		a hug for mommy ? 
+_t4 		yay ! 
+_t4 		xxx . 
+_t4 		love you . 
+_t4 		can I have a kiss ? 
+_t4 		I love you . 
+_t4 		whee: ! 
+_t4 		where ya going ? 
+_t4 		where are you going ? 
+_t4 		are you going to find Manuela ? 
+_t4 		where ya going ? 
+_t4 		yeah ? 
+_t4 		what's in there ? 
+_t4 		hello ! 
+_t4 		rocking chair ? 
+_t4 		hello rocking chair ! 
+_t4 		ha: . 
+_t4 		who's in there ? 
+_t4 		what are you doing ? 
+_t4 		you're ro:cking . 
+_t4 		you're ro:cking . 
+_t4 		ro:cking , you're ro:cking . 
+_t4 		you're ro:cking . 
+_t4 		you're ro:cking . 
+_t4 		oo:h boy that's fun . 
+_t4 		ya:y . 
+_t4 		ya:y ! 
+_t4 		hey sweetie pie you wanna walk over here ? 
+_t4 		that's what she said . 
+_t4 		did you wanna walk ? 
+_t4 		hello: ! 
+_t4 		would you like to show Manuela how you walk ? 
+_t4 		can you walk over there and get the picture ? 
+_t4 		hmmm: . 
+_t4 		curious . 
+_t4 		I can eat my fingers . 
+_t4 		mmmm: . 
+_t4 		hmmm . 
+_t4 		hmmm .
+_t4 
+_t4 		hi hi ! 
+_t4 		you wanna pull all the cookbooks down ? 
+_t4 		how (a)bout it ? 
+_t4 		you're gonna walk over and put the cookbooks down ? 
+_t4 		you pull them a:ll off the shelf ! 
+_t4 		ya:y . 
+_t4 		ya:y . 
+_t4 		ya:y . 
+_t4 		ya:y . 
+_t4 		ha: !
+_t4 
+_t4 		ha   ! 
+_t4 		you're holding on ! 
+_t4 		are you bi:g ? 
+_t4 		hmmm . 
+_t4 		whaddaya [: what are you] gonna pull out ? 
+_t4 		they're wedged in there pretty tightly . 
+_t4 		hu:h . 
+_t4 		hu:h . 
+_t4 		yeah . 
+_t4 		that's a cookbook . 
+_t4 		cookbook . 
+_t4 		yeah . 
+_t4 		you wanna go find Daffy ? 
+_t4 		should we go find Daffy ? 
+_t4 		come on over ! 
+_t4 		who's tha:t ? 
+_t4 		who is tha:t ? 
+_t4 		Daffy: ! 
+_t4 		Daffy: ! 
+_t4 		ha   ha: ! 
+_t4 		Daffy: ! 
+_t4 		hee . 
+_t4 		what's this ? 
+_t4 		what's that ? 
+_t4 		oh my gosh ! 
+_t4 		and what's that ? 
+_t4 		what part of Daffy is that ? 
+_t4 		yeah . 
+_t4 		Daffy's nose ! 
+_t4 		Daffy's bow .
+_t4 
+_t4 		hee hee: . 
+_t4 		you wanna sit on top of Daffy ? 
+_t4 		oo:h you're gonna climb up ! 
+_t4 		o:h ! 
+_t4 		that's very comfy ! 
+_t4 		very comfy ! 
+_t4 		here you want me to turn you around honey ? 
+_t4 		whee: ! 
+_t4 		a:h that's good ! 
+_t4 		yeah .
+_t4 
+_t4 		your little microphone . 
+_t4 		oops . 
+_t4 		ooh sweetie pie ! 
+_t4 		we don't wanna pull that off . 
+_t4 		let's put that back on there . 
+_t4 		and let's mo:ve it up a little bit . 
+_t4 		where's your belly ? 
+_t4 		that's your diapie ! 
+_t4 		where's your belly ? 
+_t4 		whee: ! 
+_t4 		belly: ! 
+_t4 		ha  (.)  hee: ! 
+_t4 		where's puppy ? 
+_t4 		who is tha:t ? 
+_t4 		hmmm . 
+_t4 		really ? 
+_t4 		are you gonna make a phone call honey ? 
+_t4 		nine ! 
+_t4 		eight , eight eight eight eight nine nine nine nine nine nine nine nine nine ! 
+_t4 		nine ! 
+_t4 		mmmm who're [: who are] you talking to ? 
+_t4 		nine ! 
+_t4 		nine ! 
+_t4 		that's a popular button . 
+_t4 		five five ! 
+_t4 		Dai:sy: . 
+_t4 		Dai ha: Daisy !
+_t4 
+_t4 		hmmm . 
+_t4 		Dai:sy . 
+_t4 		uff . 
+_t4 		hee   hee: ! 
+_t4 		whoa what're [: what are] you doing silly ? 
+_t4 		hee  hee: ! 
+_t4 		huh  ! 
+_t4 		you climbed through all your stuffed animals ! 
+_t4 		and arri:ved at , Daffy ! 
+_t4 		ya:y ! 
+_t4 		hmmm   .
+_t4 
+_t4 		yeah . 
+_t4 		I see your little to:ngue ! 
+_t4 		I see your little to:ngue ! 
+_t4 		that's your tongue ! 
+_t4 		ha: . 
+_t4 		uh the buthe . 
+_t4 		e:h . 
+_t4 		let's see if we can find mo:mmy's favorite book . 
+_t4 		let's see: . 
+_t4 		loo:k ! 
+_t4 		loo:k ! 
+_t4 		who's  that ?
+_t4 
+_t4 		who's tha:t ? 
+_t4 		what's Gaspard ? 
+_t4 		what kind of animal is Gaspard ? 
+_t4 		is Gaspa:rd +... 
+_t4 		oh , helicopter . 
+_t4 		Gaspa:rd ! 
+_t4 		is Ga is Gaspard a kitty cat honey ? 
+_t4 		no: . 
+_t4 		is Gaspa:rd a lion ? 
+_t4 		no: . 
+_t4 		what kind of animal is Gaspard ? 
+_t4 		he's a do:ggie: ! 
+_t4 		do:ggie: ! 
+_t4 		ooh Gaspard is walking dogs . 
+_t4 		and with the money he got , he bought a little key+chain with a race+car . 
+_t4 		but he swallowed it . 
+_t4 		and they had to take him to the hospital . 
+_t4 		oo:h in a ambulance . 
+_t4 		where's Gaspard ? 
+_t4 		where's Gaspard ? 
+_t4 		oh . 
+_t4 		Gaspard ! 
+_t4 		oo:h . 
+_t4 		oh no ! 
+_t4 		Gaspard swallowed his key+chain ! 
+_t4 		who's that ? 
+_t4 		who is that ? 
+_t4 		Gaspa:rd . 
+_t4 		and his teacher . 
+_t4 		our teacher was worried . 
+_t4 		hello teacher . 
+_t4 		what happened Gaspard she asked . 
+_t4 		but I didn't answer . 
+_t4 		I was afraid to tell her about my key+chain . 
+_t4 		oh no: ! 
+_t4 		o:h no: ! 
+_t4 		so she called an ambulance , and they took Gaspard to the hospital . 
+_t4 		I had a bi:g room all to myself . 
+_t4 		the nurse took off my scarf and put a white gown on me . 
+_t4 		don't worry she said . 
+_t4 		we'll take goo:d care of you . 
+_t4 		it won't hurt . 
+_t4 		but I was still a little scared , especially when she took me to the x+ray room . 
+_t4 		I think that's when they saw what I swallowed . 
+_t4 		yikes ! 
+_t4 		the doctor said they'd have_to operate . 
+_t4 		you won't feel a thing they said . 
+_t4 		you'll be asleep . 
+_t4 		but I'm not sleepy at all I said ! 
+_t4 		I fell asleep after counting to three and dreamt I was a race+car driver . 
+_t4 		they were right . 
+_t4 		I didn't feel a thing . 
+_t4 		my parents were right there and my mother gave me a great big package . 
+_t4 		inside was a race+car so big I'd never be able to swallow it . 
+_t4 		what's that ? 
+_t4 		hmmm helicopter . 
+_t4 		what sound does a helicopter make ? 
+_t4 		xxx . 
+_t4 		hmmm . 
+_t4 		Birthday Bea:r ! 
+_t4 		mmmm: . 
+_t4 		uff . 
+_t0 		who's that ? 
+_t0 		who is this ? 
+_t0 		do:ggie . 
+_t0 		o:h ! 
+_t0 		you are su:ch a runny noser . 
+_t0 		bang     . 
+_t0 		kicky kicky . 
+_t0 		you're kicky kicky . 
+_t0 		and I'm going to , tickle you ! 
+_t0 		tickle tickle tickle tickle tickle tickle tickle tickle tickle ! 
+_t0 		tickle tickle . 
+_t0 		o:h what's that ? 
+_t0 		dirty . 
+_t0 		is that dirty ? 
+_t0 		should we get that off of Daffy ? 
+_t0 		there we go . 
+_t0 		there we go . 
+_t0 		oop . 
+_t0 		much better . 
+_t0 		much better . 
+_t0 		ah . 
+_t0 		ah . 
+_t0 		hmmm  hmmm: .
+_t0 
+_t0 		are you tired today ? 
+_t0 		Snowma:n ! 
+_t0 		what ? 
+_t0 		what ? 
+_t0 		hello: . 
+_t0 		hello little angel . 
+_t0 		hello: . 
+_t0 		yep , that's mama's microphone . 
+_t0 		we don't wanna squeeze that . 
+_t0 		mama's necklace ? 
+_t0 		mmmm: . 
+_t0 		eh ! 
+_t0 		blah ! 
+_t0 		la: . 
+_t0 		o:h .
+_t0 
+_t0 		la:la: . 
+_t0 		honey ! 
+_t0 		you're tickling mama ! 
+_t0 		bubble+paper . 
+_t0 		mmmm bubble+paper . 
+_t0 		are you gonna pop those bubbles ? 
+_t0 		pop ! 
+_t0 		pop ! 
+_t0 		pop ! 
+_t0 		pop ! 
+_t0 		pop ! 
+_t0 		mmmm  o:h . 
+_t0 		whee . 
+_t0 		hello: . 
+_t0 		hello tired girl . 
+_t0 		did you find a little book . 
+_t0 		o:h sweetie pie . 
+_t0 		yeah ? 
+_t0 		a little book ! 
+_t0 		Pooh chases one , butterfly . 
+_t0 		Owl looks at one two three +//.
+_t0 
+_t0 		what are those ? 
+_t0 		la:dybugs . 
+_t0 		Pooh stares at one two three fou:r lizards . 
+_t0 		that's Roo . 
+_t0 		that's Pooh Bear . 
+_t0 		Pooh Bea:r . 
+_t0 		Pooh counts one two three four five six ducks ! 
+_t0 		who's that ? 
+_t0 		who's that ? 
+_t0 		that's Piglet . 
+_t0 		but who's that ? 
+_t0 		hello Piglet . 
+_t0 		yeah actually Pooh Bear's not a doggie . 
+_t0 		Pooh Bear's a bear . 
+_t0 		hard to tell sort of but Pooh Bear's indeed a bear . 
+_t0 		Pooh Bear . 
+_t0 		ha ha: . 
+_t0 		you like to hug Pooh Bear . 
+_t0 		yeah . 
+_t0 		o:h , my+goodness . 
+_t0 		is that mama's book ? 
+_t0 		hmmm . 
+_t0 		are you gonna cook dinner tonight ? 
+_t0 		oh , no kidding . 
+_t0 		is that what you're gonna make ? 
+_t0 		o:h . 
+_t0 		okay . 
+_t0 		do you have mama's bracelet ? 
+_t0 		hello: ! 
+_t0 		do you have mama's bracelet ? 
+_t0 		and mama's books ? 
+_t0 		that's your shirt . 
+_t4 		mmmm chocolate cake . 
+_t4 		mmmm: chocolate cake . 
+_t4 		honey ? 
+_t4 		I don't think you wanna eat mommy's bracelet . 
+_t4 		that's not tasty . 
+_t4 		l: . 
+_t4 		blah ! 
+_t4 		blah ! 
+_t4 		blah . 
+_t4 		okay sweetie . 
+_t4 		I don't think you wanna eat that . 
+_t4 		yuck ! 
+_t4 		blah ! 
+_t4 		bla:h ! 
+_t4 		hee  are you , are you eating that cake ? 
+_t4 		or are you kissing that cake ? 
+_t4 		mmmm: . 
+_t4 		o:h . 
+_t4 		grapes ! 
+_t4 		purple grapes ! 
+_t4 		we don't have any grapes in our house . 
+_t4 		Auntie has grapes but we don't have grapes here . 
+_t4 		I know . 
+_t4 		and now you've been driven into a grape frenzy . 
+_t4 		I know . 
+_t4 		we don't have grapes in our house . 
+_t4 		ha         . 
+_t4 		eh ! 
+_t4 		what do you see there ? 
+_t4 		what's that ? 
+_t4 		really ? 
+_t4 		o:h my go:sh . 
+_t4 		uh   ? 
+_t4 		mommy's teeth ? 
+_t4 		tee:th . 
+_t4 		tee:th . 
+_t4 		tee:th . 
+_t4 		tee:th . 
+_t4 		hee  hee: !
+_t4 
+_t4 		my nose . 
+_t4 		my eyes . 
+_t4 		my other eye . 
+_t4 		my eyebrow . 
+_t4 		ya wanna look at that magazine ? 
+_t0 		oo:h . 
+_t0 		what are you do:ing ?
+_t0 
+_t0 		box . 
+_t0 		that's a box . 
+_t0 		that's a very tall box . 
+_t0 		that box is almost as tall as you . 
+_t0 		yeah .
+_t0 
+_t0 		let's not play with that . 
+_t0 		that's not ours . 
+_t0 		hmmm hmmm: ! 
+_t0 		o:h camera ! 
+_t0 		oo:h sofa . 
+_t0 		yeah ? 
+_t0 		hello: . 
+_t0 		we have_to be careful with that . 
+_t0 		careful . 
+_t0 		here ya go . 
+_t0 		let's look at this honey . 
+_t0 		look ! 
+_t0 		who's that ? 
+_t0 		who is that ? 
+_t0 		that's Steve . 
+_t0 		who's that ? 
+_t0 		do:ggie . 
+_t0 		Blue's a doggie . 
+_t0 		oo:h . 
+_t0 		can you show me where the sun is ? 
+_t0 		where's the sun ? 
+_t0 		where's the sun ? 
+_t0 		the big yellow sun . 
+_t0 		the bi:g yellow sun in the sky . 
+_t0 		whe:re's the big yellow sun in the sky ? 
+_t0 		there's the su:n . 
+_t0 		that's the , umbrella . 
+_t0 		that's the beach umbrella . 
+_t0 		and the boat +//. 
+_t0 		you know where the clouds are ? 
+_t0 		the clouds are next to the sun . 
+_t0 		clouds ! 
+_t0 		ya:y ! 
+_t0 		what about the flag ? 
+_t0 		flag . 
+_t0 		there's the flag ! 
+_t0 		what about the sli:de ? 
+_t0 		sl:ide ! 
+_t0 		and the swing ? 
+_t0 		swi:ng ! 
+_t0 		and how (a)bout the ball with the star on it ? 
+_t0 		is there a ball with a star on it ? 
+_t0 		a little ba:ll ? 
+_t0 		with a red stripe in and blu:e sta:r . 
+_t0 		hmmm: . 
+_t0 		that's the fla:g . 
+_t0 		where's the ball with the star ? 
+_t0 		the ba:ll with the sta:r . 
+_t0 		there's the ball with the star ! 
+_t0 		ya:y ! 
+_t0 		that's the firehouse . 
+_t0 		and the fire hydrant . 
+_t0 		hmmm . 
+_t0 		what ? 
+_t0 		what would you like ? 
+_t0 		you could go get it . 
+_t0 		what would you like ? 
+_t0 		yes honey . 
+_t0 		yeah ? 
+_t0 		Po: ! 
+_t0 		what is it sweetie ? 
+_t0 		okay ! 
+_t0 		close that dollhouse . 
+_t0 		we don't want to play with it , now ! 
+_t0 		cl:ose her up ! 
+_t0 		the house , is closed , for today ! 
+_t0 		sweet dreams Piglet . 
+_t0 		sweet dreams Pooh Bear . 
+_t0 		and goodnight to you , little one . 
+_t0 		hmmm  . 
+_t0 		sweet dreams Piglet .
+_t0 
+_t0 		goo:d Pooh Bear . 
+_t0 		ni:ce Pooh Bear .
+_t0 
+_t0 		sweet dreams Pooh Bear . 
+_t0 		good Piglet .
+_t0 
+_t0 		and goodnight to you , little one . 
+_t0 		can you turn that off for mommy sweetie pie ?
+_t0 
+_t0 		Lullabee . 
+_t0 		honey bees , in the tree . 
+_t0 		you wanna listen to the music ?
+_t0 
+_t0 		rest +... 
+_t0 		your wings , (un)til the morning light .
+_t0 
+_t0 		da:ncing . 
+_t0 		Lullabee , Lullabee , honey bees , in the tree . 
+_t0 		your honey , is safe , tonight . 
+_t0 		hello: .
+_t0 
+_t0 		just dream +... 
+_t0 		to the tune I am singing .
+_t0 
+_t0 		time to stop , all that buzzing , and stinging , ouch ! 
+_t0 		Lullabee , Lullabee +...
+_t0 
+_t0 		where's Lily ? 
+_t0 		honey bees , in the tree .
+_t0 
+_t0 		where's Lily ? 
+_t0 		where's Li +//.
+_t0 
+_t0 		where'd [: where did] Lily go: ?
+_t0 
+_t0 		all I want +... 
+_t0 		I don't see her ! 
+_t0 		or two , or three .
+_t0 
+_t0 		where did Lily go: ? 
+_t0 		where did Lily go +//. 
+_t0 		there she i:s ! 
+_t0 		hello: ! 
+_t0 		oh , where's Lily ? 
+_t0 		I can't find her anyw(ay) +//. 
+_t0 		there she i:s ! 
+_t0 		hello: ! 
+_t0 		hi Lily: ! 
+_t0 		hello !
+_t0 
+_t0 		yea:h . 
+_t0 		where did Lily go ? 
+_t0 		ouch ! 
+_t0 		there she i:s ! 
+_t0 		I know . 
+_t0 		did you bump your head silly ? 
+_t0 		come here ! 
+_t0 		come here sweet stuff . 
+_t0 		oh+my+goodness . 
+_t0 		come here . 
+_t0 		come over here . 
+_t0 		hee  hee: . 
+_t0 		o:h cranky cranky . 
+_t0 		come here sweetie . 
+_t0 		come here ! 
+_t0 		you can do +//.
+_t0 
+_t0 		whoa ! 
+_t0 		come he:re . 
+_t0 		o:h my+goodness . 
+_t0 		hello: . 
+_t0 		hello ! 
+_t0 		hello !
+_t0 
+_t0 		oo:h look at mama's little bag . 
+_t0 		mo:mmy has a little ba:g . 
+_t0 		mo:mmy has a little ba:g . 
+_t0 		and you have a , tummy ! 
+_t0 		tickle tickle tickle tickle tickle tickle tickle tickle . 
+_t0 		tickle tickle tickle tickle tickle tickle tickle tickle . 
+_t0 		hmmm . 
+_t0 		who:'s tummy is that ? 
+_t0 		do you have a tummy under that shirt ? 
+_t0 		hee hee: . 
+_t0 		belly: ! 
+_t0 		I lo:ve you: . 
+_t0 		I lo:ve you little sweetie: . 
+_t0 		tickle tickle tickle tickle tickle tickle tickle . 
+_t0 		you are soft . 
+_t0 		tickle tickle tickle . 
+_t0 		and you , are , tired . 
+_t0 		a:h . 
+_t0 		hi ! 
+_t0 		hi swee:tie . 
+_t0 		o:h with the runny nose . 
+_t0 		that's a little bag . 
+_t0 		ooh let's not play with that sweetie pie . 
+_t0 		you can't play with that . 
+_t0 		yoink ! 
+_t0 		yoink ! 
+_t0 		I know sweetie pie . 
+_t0 		we can't play with that . 
+_t0 		would you like a little snack ? 
+_t0 		here . 
+_t0 		why don't you stay here sweetie . 
+_t0 		mama will go get you a snack . 
+_t0 		okay ? 
+_t0 		are you gonna come with me . 
+_t0 		whee: ! 
+_t0 		a:hah . 
+_t0 		uh    . 
+_t0 		here you go . 
+_t0 		ooh hoo: ! 
+_t0 		o:h ! 
+_t0 		o:h !
+_t0 
+_t0 		oo:  hoo: . 
+_t0 		oo:h ! 
+_t0 		yeah ! 
+_t0 		can you come this way sweetie ? 
+_t0 		your water's in here . 
+_t0 		you can have your water , with your little banana cookie . 
+_t0 		you wanna come in this way ? 
+_t0 		walk this way little girl . 
+_t0 		kee:p walking . 
+_t0 		kee:p walking ! 
+_t0 		you: just keep o:n walking ! 
+_t0 		come here we'll get your water honey . 
+_t0 		oo:h . 
+_t0 		ha ha: ! 
+_t0 		come on in ! 
+_t0 		your water's over here . 
+_t0 		it's right in your little refrigerator . 
+_t0 		here . 
+_t0 		you know what ? 
+_t0 		can you get your cookie and hand it to mommy ? 
+_t0 		mommy will hold your cookie for you . 
+_t0 		good job sweetie . 
+_t0 		I'll hold it for you and I'll give it to you out here . 
+_t0 		no ? 
+_t0 		okay . 
+_t0 		you wanna hold it ? 
+_t0 		come here sweet stuff . 
+_t0 		ju:st a little bit more: ! 
+_t0 		whoa ! 
+_t0 		hmmm   . 
+_t0 		oops . 
+_t0 		look here's your wa:ter . 
+_t0 		hmmm . 
+_t0 		tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle tickle . 
+_t0 		here sweetie . 
+_t0 		xxx . 
+_t0 		ha   ha: . 
+_t0 		oo:h , thank you . 
+_t0 		thank you very much . 
+_t0 		you wanna come get your ball ? 
+_t0 		woo . 
+_t0 		I:'ve got your ball , and it bounces ! 
+_t0 		and it rolls ,  ! 
+_t0 		there goes your ball ! 
+_t0 		and your Kooshba:ll . 
+_t0 		Koo:shball . 
+_t0 		vroom: ! 
+_t0 		honey ? 
+_t0 		hi ! 
+_t0 		should I put the Kooshball in the refrigerator ? 
+_t0 		should I put it in the refrigerator or the microwave ? 
+_t0 		where should I put it ? 
+_t0 		refrigerator , microwave ? 
+_t0 		which do you think would be better ? 
+_t0 		i:n the: m:icrowa:ve . 
+_t0 		ya:y ! 
+_t0 		woo !
+_t0 
+_t0 		clo:se the door . 
+_t0 		open the door ! 
+_t0 		clo:se the door . 
+_t0 		open the door ! 
+_t0 		clo:se the door . 
+_t0 		close the door . 
+_t0 		there's a Kooshball in there . 
+_t0 		open the door ! 
+_t0 		oo:h . 
+_t0 		boo ! 
+_t0 		ah . 
+_t0 		boo: . 
+_t0 		o:h . 
+_t0 		hi: sweetie pie: . 
+_t0 		o:h really ? 
+_t0 		ooh a rivet . 
+_t0 		r:ivet . 
+_t0 		a rivet in my jeans . 
+_t0 		rivet ! 
+_t0 		a little rivet . 
+_t0 		mmmm . 
+_t0 		heh . 
+_t0 		hee hee: ! 
+_t0 		hello: ! 
+_t0 		hello ! 
+_t0 		hello ! 
+_t0 		I: love you . 
+_t0 		you're so tired . 
+_t0 		why so tired toda:y ? 
+_t0 		Kooshba:ll ! 
+_t0 		open the door ! 
+_t0 		close the door . 
+_t0 		open the door ! 
+_t0 		close the door . 
+_t0 		open the door ! 
+_t0 		Koo:shba:ll . 
+_t0 		y:ay ! 
+_t0 		Manuela: ! 
+_t0 		yeah . 
+_t0 		like my belt ? 
+_t0 		there we go . 
+_t0 		careful with the  honey . 
+_t0 		alright ! 
+_t0 		ya:y . 
+_t0 		look the camera's [: camera is] on honey . 
+_t0 		wanna say hi to the camera ? 
+_t0 		hi camera ! 
+_t0 		hi ! 
+_t0 		you wanna read a book ? 
+_t0 		what should we do ? 
+_t0 		okay why don't I get you some books honey so that +//. 
+_t0 		mommy will get you some books honey okay ? 
+_t0 		I know , here . 
+_t0 		I'll get Floppy and some books honey . 
+_t0 		you stay over here . 
+_t0 		loo:k ! 
+_t0 		so many books you won't know what to do with yourself . 
+_t0 		yea:h  . 
+_t0 		okay . 
+_t0 		Lily look at Manuela ! 
+_t0 		hello: ! 
+_t0 		hi Manuela ! 
+_t0 		hello: ! 
+_t0 		oh the light's right over there Manuel +//.
+_t0 
+_t0 		right in the doorway .
+_t0 
+_t0 		ri:ght (.) on that wall .
+_t0 
+_t0 		yep .
+_t0 
+_t0 		just there . 
+_t0 		should we read that book ? 
+_t0 		Everywhere Babie:s ! 
+_t0 		what's that ? 
+_t0 		teddy: . 
+_t0 		everyday everywhere babies are born . 
+_t0 		fat babies thin babies small babies tall babies winter and spring babies summer and fall babies . 
+_t0 		everyday everywhere babies are kissed ! 
+_t0 		on their cheeks on their ears on their fingers and nose the tops of their heads their tummies and toes ! 
+_t0 		oh careful of that sweetie pie . 
+_t0 		can't grab that okay ? 
+_t0 		everyday everywhere babies are dressed . 
+_t0 		everyday everywhere babies are fed . 
+_t0 		by bottle by breast with cups and with spoons , milk and then cereal , carrots and prunes ! 
+_t0 		what's that ? 
+_t0 		doggie: ! 
+_t0 		and what's that ? 
+_t0 		what's that ? 
+_t0 		ki:tty: . 
+_t0 		kitty: . 
+_t0 		that's a kitty cat . 
+_t0 		he's sleeping . 
+_t0 		and what's that ? 
+_t0 		what's that ? 
+_t0 		that's a doggie . 
+_t0 		what's [: what does] does a doggie say ? 
+_t0 		woof . 
+_t0 		everyday everywhere babies are rocked . 
+_t0 		in cradles and chairs at nap+time and night , by friends and relations who cuddle them tight . 
+_t0 		ooh look flowers in a jar . 
+_t0 		and flo(wers) lots_of flowers over there . 
+_t0 		everyday everywhere babies are carried . 
+_t0 		what's that honey ? 
+_t0 		oh my gosh . 
+_t0 		that's a red balloon ! 
+_t0 		where's the doggie ? 
+_t0 		there's the doggie . 
+_t0 		yeah , right there . 
+_t0 		very good . 
+_t0 		everyday everywhere babies make noise . 
+_t0 		they cry and they squeal they giggle and coo , they  and they splash and they clap their hands too . 
+_t0 		everyday everywhere babies like toys . 
+_t0 		rattles and tops and books that won't tear , old pots and pans and a , fuzzy brown bear . 
+_t0 		ooh , we missed a page angel . 
+_t0 		we missed a couple pages . 
+_t0 		everyday everywhere babies play games . 
+_t0 		what's that ? 
+_t0 		what's that ? 
+_t0 		do:ggie . 
+_t0 		and what's that ? 
+_t0 		ki:tty: . 
+_t0 		yeah , kitty cat .
+_t0 
+_t0 		oh what's that ? 
+_t0 		that's a big red ball ! 
+_t0 		a big red ball . 
+_t0 		everyday everywhere babies make friends . 
+_t0 		with a puppy , a kitten , a goldfish , a bunny , young people old people , anyone funny ! 
+_t0 		where's the bunny rabbit ? 
+_t0 		that's the camera . 
+_t0 		where's the bunny rabbit in the picture ? 
+_t0 		that's the bi:rd . 
+_t0 		where's the bunny with the white tail and the long ears ? 
+_t0 		there's the bunny: ! 
+_t0 		and where's the: fish ? 
+_t0 		where's the fish in the bowl ? 
+_t0 		the:re's the fish . 
+_t0 		and the kitty cats . 
+_t0 		and the puppy dog . 
+_t0 		where's the beach ball ? 
+_t0 		beach ba:ll . 
+_t0 		the striped beach ball ? 
+_t0 		there's the beach ball . 
+_t0 		ya:y ! 
+_t0 		everyday everywhere babies are crawling . 
+_t0 		forward and backward on bottoms and knees , upstairs and downstairs wherever they please ! 
+_t0 		everyday everywhere babies are walking . 
+_t0 		one step , another , they fall down and then , pick themselves up and try it again . 
+_t0 		what's tha:t ? 
+_t0 		there's a little gi:rl . 
+_t0 		whaddya [: what do you] see in that picture ?
+_t0 
+_t0 		that little boy's on his back . 
+_t0 		did he fall down ? 
+_t0 		that baby's walki:ng ! 
+_t0 		everyday everywhere babies are growing . 
+_t0 		they can run , they can jump , they can slide , they can swing , they can dig , they can climb , they can talk , they can sing ! 
+_t0 		where's the bunny rabbit ? 
+_t0 		the:re's the bunny rabbit , with the little white tail . 
+_t0 		everyday everywhere babies are loved . 
+_t0 		for trying so hard , travelling so far , being so wonderful , just as they are . 
+_t0 		those are polka dots ! 
+_t0 		oo:h Floppy's [: Floppy is] standing up ! 
+_t0 		what's that ? 
+_t0 		dirty . 
+_t0 		dirty . 
+_t0 		dirty fuzz . 
+_t0 		dirty . 
+_t0 		wanna give that to mommy ? 
+_t0 		should we throw that away ? 
+_t0 		thank you so much . 
+_t0 		bla ! 
+_t0 		bla ! 
+_t0 		dirty . 
+_t0 		u: !
+_t0 
+_t0 		are you giving the dirty blob to the book ? 
+_t0 		should mommy throw that away ? 
+_t0 		thank you so much . 
+_t0 		thank you very much . 
+_t0 		Flo:ppy: ! 
+_t0 		Fl:oppy: . 
+_t0 		wanna give Floppy a kiss ? 
+_t0 		m:ah ! 
+_t0 		yeah . 
+_t0 		Floppy's green hat . 
+_t0 		where's Floppy's nose ? 
+_t0 		I know , it's so tiny . 
+_t0 		hi: Flo +//.
+_t0 
+_t0 		can Floppy wave hello ? 
+_t0 		ooh ! 
+_t0 		ooh my . 
+_t0 		hmmm hmmm: ! 
+_t0 		Floppy's [: Floppy has] got his hands together . 
+_t0 		ya:y . 
+_t0 		Flo:ppy: . 
+_t0 		my necklace ? 
+_t0 		that's mommy's necklace . 
+_t0 		you want another book ? 
+_t0 		what would you like ? 
+_t0 		Oli:via: ! 
+_t0 		Oli:via: ! 
+_t0 		this , is Olivia . 
+_t0 		she is good at lots_of things . 
+_t0 		she is very good at wearing people out . 
+_t0 		she even wears herself out . 
+_t0 		xxx a little brother named Ian . 
+_t0 		he's always copying . 
+_t0 		sometimes Ian just won't leave her alone so Olivia has to be fir:m . 
+_t0 		hee    , bla: ! 
+_t0 		she's scaring him . 
+_t0 		bla: ! 
+_t0 		what does a lion say ? 
+_t0 		oo:h scary ! 
+_t0 		Olivia lives with her mother , her father , her brother , her dog Perry , and Edwin the cat . 
+_t0 		in the morning after she gets up and moves the cat , and brushes her teeth , and combs her ears , and moves the cat +... 
+_t0 		heh   silly . 
+_t0 		Olivia gets dressed . 
+_t0 		she has to try on everything ! 
+_t0 		what does Olivia have there ? 
+_t0 		that's a backpack . 
+_t0 		just like your:s ! 
+_t0 		you and Olivia both have backpa:cks ! 
+_t0 		hee hee: ! 
+_t0 		on sunny days Olivia likes to go to the beach . 
+_t0 		that's a beach ball . 
+_t0 		she feels it's important to come prepared . 
+_t0 		last summer when Olivia was little her mother showed her how to make , sand+castles ! 
+_t0 		she got pretty good . 
+_t0 		sometimes Olivia likes to bask in the sun . 
+_t0 		when her mother sees that she's had enough , they go home . 
+_t0 		each day , Olivia's [: Olivia is] supposed to take a nap . 
+_t0 		it's time for your you know what , her mother says . 
+_t0 		but of course Olivia's [: Olivia is] not at a:ll sleepy . 
+_t0 		Olivia's dancing ! 
+_t0 		can you dance ? 
+_t0 		on rainy days Olivia likes to go to the museum . 
+_t0 		she heads straight for her favorite picture . 
+_t0 		what do you think she could be thinking ? 
+_t0 		Olivia's [: Olivia is] a balleri:na . 
+_t0 		there's one painting Olivia just doesn't get . 
+_t0 		I could do that in about fi:ve minutes she says to her mother . 
+_t0 		as soon as she gets home she gives it a try . 
+_t0 		uh o:h ! 
+_t0 		ti:me out . 
+_t0 		after a nice bath and a nice dinner , it's time for bed . 
+_t0 		but of course Olivia's [: Olivia is] not at a:ll sleepy . 
+_t0 		only five books tonight mommy she says . 
+_t0 		no: Olivia , just one . 
+_t0 		how (a)bout four ? 
+_t0 		two ! 
+_t0 		three ! 
+_t0 		a:lright three , but that's it ! 
+_t0 		and Olivia gives her a kiss back and says I love you anyway too ! 
+_t0 		she's sleeping ! 
+_t0 		the end ! 
+_t0 		Olivia's [: Olivia is] da:ncing ! 
+_t0 		yeah . 
+_t0 		ooh , we don't wanna tear that sweetie pie . 
+_t0 		you want another book honey ? 
+_t0 		how (a)bout +... 
+_t0 		you wanna get your ladybug book ? 
+_t0 		whatever you want honey . 
+_t0 		let's not touch that okay sweet stuff ? 
+_t0 		I know , that's the camera . 
+_t0 		ya wanna get a book ? 
+_t0 		why don't you take the ladybug book out first honey (be)cause that one's on top . 
+_t0 		I know . 
+_t0 		ooh , good job honey . 
+_t0 		do you have the fish book ? 
+_t0 		Fish Eyes ! 
+_t0 		are you reading that ? 
+_t0 		you wanna read it to me ? 
+_t0 		are you gonna read that book to mommy ? 
+_t4 		fish ! 
+_t4 		three: (.) smiling fish ! 
+_t4 		fou:r striped fish ! 
+_t4 		fi:ve spotted fish ! 
+_t4 		si:x fan tailed fish . 
+_t4 		oo:h ! 
+_t4 		are we skipping ? 
+_t4 		ni:ne flashy fish ! 
+_t4 		ten darting fish ! 
+_t4 		and I keep swimming until I would see , all of those fish eyes looking at me ! 
+_t4 		careful sweetie . 
+_t4 		sweetie pie ? 
+_t4 		yeah . 
+_t4 		we can't play with that , (be)cause it might fall over ! 
+_t4 		we don't want that to happen . 
+_t4 		that's the camera ! 
+_t4 		hi camera . 
+_t4 		whoa sweetie pie ! 
+_t4 		okay . 
+_t4 		can you bring that to mommy honey ? 
+_t4 		whoa ! 
+_t4 		sweetie pie , let's not hang on to that okay ? 
+_t4 		you wanna bring that to mommy ? 
+_t4 		the rainbow book ? 
+_t4 		isn't it the rainbow or the butterf(ly) or the +//.
+_t4 
+_t4 		yeah , the rainbow book ! 
+_t4 		can you bring it to mommy ? 
+_t4 		too heavy ? 
+_t4 		here we go ! 
+_t4 		you got your thumb caught in it ! 
+_t4 		there we go ! 
+_t4 		What Makes a Rainbow ? 
+_t4 		Little Rabbit said to the ladybug what makes a rainbow ? 
+_t4 		re:d said the ladybug . 
+_t4 		re:d makes a rainbow . 
+_t4 		Fox what makes a rainbow asked Little Rabbit ? 
+_t4 		Little , Little Chicken what makes a rainbow said Rabbit ? 
+_t4 		yellow said chicken . 
+_t4 		Mister Grasshopper what makes a rainbow ? 
+_t4 		gree:n said the grasshopper . 
+_t4 		Bluebird what makes a rainbow asked Little Rabbit ? 
+_t4 		blu:e said , Bluebird .
+_t4 
+_t4 		look at the pretty colors . 
+_t4 		Butterfly what makes a rainbow ? 
+_t4 		purple said the butterfly . 
+_t4 		you need purple to make a beau:tiful rainbow . 
+_t4 		flo:wers ! 
+_t4 		and a rainbow .
+_t4 
+_t4 		all those different colors ! 
+_t4 		a bunny rabbit ! 
+_t4 		and rainbow . 
+_t4 		red , orange , yellow , green , blue , purple ! 
+_t4 		ya:y , flowers ! 
+_t4 		hmmm hmmm: ! 
+_t4 		orange . 
+_t4 		oo:h lots_of colors ! 
+_t4 		lots_of colors ! 
+_t4 		well said Mama Rabbit , now you know what makes a rainbow ! 
+_t4 		ya:y ! 
+_t4 		ya wanna read about Gaspard honey ? 
+_t4 		or Lisa ? 
+_t4 		hi: Li +//. 
+_t4 		oh ! 
+_t4 		oh my go:sh ! 
+_t4 		who's that ? 
+_t4 		Lisa ! 
+_t4 		I:'m Lisa . 
+_t4 		guess where I: was last week . 
+_t4 		in a bi:g plane over the ocean ! 
+_t4 		I was flying by myself for the very first time ! 
+_t4 		my seat was next to a blue lady . 
+_t4 		don't be afraid she said , and please try not to move around so much . 
+_t4 		it's the plane that's moving not me I answered . 
+_t4 		after a while she moved to another seat . 
+_t4 		I don't know why: ! 
+_t4 		here sweetie let me help you bring that up over your shoulder . 
+_t4 		that's good . 
+_t4 		then I had three: seats all to myself . 
+_t4 		I took a little nap , but not for long . 
+_t4 		because a nice airplane lady came by with a tray of food . 
+_t4 		what is she eating ? 
+_t4 		where are the carrots and peas ? 
+_t4 		there they a:re ! 
+_t4 		and where's the orange juice ? 
+_t4 		where's the orange juice with the cherry: ? 
+_t4 		who's calling us ? 
+_t4 		hmmm .
+_t4 
+_t4 		whoops . 
+_t4 		mommy just hung up on someone . 
+_t4 		I found a way to look over the big seat in front of me . 
+_t4 		it wasn't very comfortable but the movie was so exciting I didn't mind , then o:h no: ! 
+_t4 		I mo:ved and then so did my gla:ss ! 
+_t4 		what a mess ! 
+_t4 		the orange juice went everywhere ! 
+_t4 		the nice airplane lady came right away and gave me a ba:th , on the airplane . 
+_t4 		hello ? 
+_t4 		hello: . 
+_t4 		um I did actually by accident . 
+_t4 		but Lily has her little Brown study so can I call you back at f +//.
+_t4 
+_t4 		uh what +//?
+_t4 
+_t4 		are you leaving at five ? 
+_t4 		can I call you at home then at five thirty ?
+_t4 
+_t4 		okay ?
+_t4 
+_t4 		bye . 
+_t4 		that's the pilot ! 
+_t4 		and where's Lisa ? 
+_t4 		there she is ! 
+_t4 		I went into the pilot's (.) into the cockpit . 
+_t4 		you smell nice said the pilot . 
+_t4 		it was the soap I said . 
+_t4 		so a:ll clean I landed in New York . 
+_t4 		hmmm . 
+_t4 		the end . 
+_t4 		o:h that was a good one huh ? 
+_t4 		a:h that was good . 
+_t4 		Gaspard and Lisa at the Museum ! 
+_t4 		o:h my go:sh ! 
+_t4 		what sound does a dinosaur make ?
+_t4 
+_t4 		dinosau:r ! 
+_t4 		what sound does a dinosaur make ? 
+_t4 		oo:h scary ! 
+_t4 		yesterday we went on a class trip to the museum of natural history . 
+_t4 		we were very excited . 
+_t4 		Gaspard and Lisa our teacher said , please ty try to stay out of trouble . 
+_t4 		oo:h let me put your backpack on you . 
+_t4 		there you go . 
+_t4 		much better . 
+_t4 		where's the teacher . 
+_t4 		there she is ! 
+_t4 		where's Lisa ? 
+_t4 		and where's Gaspard ? 
+_t4 		oo:h Gaspard's [: Gaspard is] over here . 
+_t4 		it's hard to see him (be)cause it's dark ! 
+_t4 		on the bus our teacher told us about some of the animal exhibits , that we would see . 
+_t4 		Lisa had been to the museum before . 
+_t4 		hmmm . 
+_t4 		the exhibit of extinct animals was the most exciting . 
+_t4 		what do you see: ? 
+_t4 		who's that ? 
+_t4 		Floppy: ! 
+_t4 		a:h Birthday Bear . 
+_t4 		hmmm: . 
+_t4 		who's tha:t ? 
+_t4 		Dai:sy: . 
+_t4 		Lily , look I have a toothbrush ! 
+_t4 		what about Big Po ? 
+_t4 		brusha   ! 
+_t4 		my teeth never felt so clea:n ! 
+_t4 		and there's your polar bear . 
+_t4 		brush brush brush brush brush . 
+_t4 		and the polar bear's teeth ? 
+_t4 		those are some clean teeth . 
+_t4 		oh my gosh ! 
+_t4 		that's the elephant . 
+_t4 		what does the monkey say ? 
+_t4 		what does the monkey say ? 
+_t4 		oo:h ooh ooh ooh ! 
+_t4 		ooh ooh ooh ! 
+_t4 		you can press the monkey . 
+_t4 		press the little pur purple button . 
+_t4 		that's the elephant . 
+_t4 		xxx . 
+_t4 		what's that ? 
+_t4 		traffic light . 
+_t4 		xxx . 
+_t4 		mmmm: Birthday Bear . 
+_t4 		your bracelet's [: bracelet is] over there honey . 
+_t4 		your bracelet's [: bracelet is] next to your zoo . 
+_t4 		next to your zoo sweetie . 
+_t4 		right over the:re ! 
+_t4 		can I see: ? 
+_t4 		can I see your pretty bracelet ? 
+_t4 		oo:h pre:tty ! 
+_t4 		xxx . 
+_t4 		oo:h polar bear's [: bear is] going in the den ? 
+_t4 		what's the matter sweetie ? 
+_t4 		what ? 
+_t4 		oh you wanna get the elephant one open ? 
+_t4 		oh that's hard . 
+_t4 		there ya go . 
+_t4 		o:h the bracelet's [: bracelet is] going in the elephant's lair . 
+_t4 		good idea: . 
+_t4 		oo:h don't I look great ? 
+_t4 		I look great with a bracelet on ! 
+_t4 		hee      . 
+_t4 		is that silly ? 
+_t4 		what if Big Po wants to wear the bracelet ? 
+_t4 		o:h my gosh ! 
+_t4 		I'm beautiful ! 
+_t4 		loo:k at me: ! 
+_t4 		I'm stunning ! 
+_t4 		oh do you think the monkey should wear the bracelet ? 
+_t4 		do you think Snuffles should wear the bracelet ? 
+_t4 		Snuffles is in the basket . 
+_t4 		right here . 
+_t4 		hmmm hmmm: . 
+_t4 		mmmm Snuffles . 
+_t4 		where's Snuffles' nose ? 
+_t4 		where's Snuffles' nose ? 
+_t4 		there it is ! 
+_t4 		there's his nose ! 
+_t4 		what about Snuffles' tail ? 
+_t4 		does Snuffles have a little tiny tail ? 
+_t4 		that's Po's nose . 
+_t4 		yeah . 
+_t4 		does Snuffles have a little tail ? 
+_t4 		Dipsy does not have a tail ! 
+_t4 		no . 
+_t4 		no . 
+_t4 		Dipsy: . 
+_t4 		is Dipsy your baby ? 
+_t4 		can you say baby ? 
+_t4 		no . 
+_t4 		can you say baby ? 
+_t4 		can you say baby ? 
+_t4 		no , you , can , not ! 
+_t4 		I , will , not ! 
+_t4 		can you sa:y bumble+bee ? 
+_t4 		hmmm  .
+_t4 
+_t4 		octopus ! 
+_t4 		what do you ha:ve ? 
+_t4 		ooh , the scary baby doll ? 
+_t4 		&u:h ! 
+_t4 		scary doll ! 
+_t4 		do you see the little duckie ? 
+_t4 		Manuela: ! 
+_t4 		she's like I hope you get my good si:de . 
+_t4 		oh , your bracelet for Manuela ! 
+_t4 		Manuela has to read something . 
+_t4 		yeah . 
+_t4 		where's your little +//.
+_t4 
+_t4 		where's your Winnie the Poo:h ? 
+_t4 		where's your Pooh Bear ? 
+_t4 		where's your Pooh Bear ? 
+_t4 		who's tha:t ? 
+_t4 		who's that ? 
+_t4 		that's Boo ! 
+_t4 		hi Boo ! 
+_t4 		he:h . 
+_t4 		hi Boo . 
+_t4 		whoa: ! 
+_t4 		hi Boo . 
+_t4 		you're okay . 
+_t4 		you're good . 
+_t4 		but I'll take a hug nonetheless ! 
+_t4 		I love you ! 
+_t4 		oo:h . 
+_t4 		what's cooking in the microwa:ve ? 
+_t4 		oo:h nothing's in the microwave . 
+_t4 		wanna put something in the microwave ? 
+_t4 		maybe you wanna put your bracelet in the microwave . 
+_t4 		I think Boo's [: Boo is] too big for the microwave . 
+_t4 		yeah I don't think he would fit in there . 
+_t4 		yeah you don't think so either ? 
+_t4 		yeah . 
+_t4 		you think he's too big ? 
+_t4 		mmmm you know what ? 
+_t4 		Snuffles is ju:st a little too big . 
+_t4 		very close though . 
+_t4 		but a li:ttle too big . 
+_t4 		what else might fit in there ? 
+_t4 		toothbrush ? 
+_t4 		oh bracelet ! 
+_t4 		yes ! 
+_t4 		your bracelet will fit in there . 
+_t4 		mmmm: I lo:ve microwaved bracelet ! 
+_t4 		yum     ! 
+_t4 		in the refrigerator ? 
+_t4 		grapes ! 
+_t4 		gr:apes ! 
+_t4 		purple grapes ! 
+_t4 		oo:h ! 
+_t4 		what's cooking ? 
+_t4 		ding ! 
+_t4 		it's ready: ! 
+_t4 		yummy ! 
+_t4 		what's for dinner: ? 
+_t4 		yummy: ! 
+_t4 		ding ! 
+_t4 		ding ! 
+_t4 		ding ! 
+_t4 		ding ! 
+_t4 		is the bracelet done ? 
+_t4 		aha: ! 
+_t4 		close . 
+_t4 		open . 
+_t4 		can you close the microwave door honey ? 
+_t4 		thank you . 
+_t4 		can you: open the microwave door ? 
+_t4 		ding ! 
+_t4 		you wanna open the microwave door and see if your bracelet's [: bracelet is] ready ? 
+_t4 		how's your bracelet doing in that microwave ? 
+_t4 		ding . 
+_t4 		so fun . 
+_t4 		wanna put something in the refrigerator honey ? 
+_t4 		o:h ! 
+_t4 		the bracelet , is , done ! 
+_t4 		into the refrigerator ! 
+_t4 		you wanna close the refrigerator door honey ? 
+_t4 		yay . 
+_t4 		and close the microwave door ? 
+_t4 		yay ! 
+_t4 		mmmm: that brac . 
+_t4 		you know what I see honey ? 
+_t4 		I see your baby bunny . 
+_t4 		your baby bu:nny ! 
+_t4 		your baby bu:nny ! 
+_t4 		who's that ? 
+_t4 		yeah . 
+_t4 		ba:by bunny i:n the refrigerator ! 
+_t4 		mmmm: . 
+_t4 		is that a hug for baby bunn(y) +//.
+_t4 
+_t4 		oh a hug for Po . 
+_t4 		are you brushing your teeth honey ? 
+_t4 		brusha   . 
+_t4 		brusha   . 
+_t4 		hmmm  . 
+_t4 		is that timer very fun today ? 
+_t4 		what's the matter ? 
+_t4 		what's that ? 
+_t4 		yea:h . 
+_t4 		the rocking chair ? 
+_t4 		hmmm: . 
+_t4 		ho:ney . 
+_t4 		can you walk over there honey ? 
+_t4 		can you walk over there ? 
+_t4 		you can walk over the:re . 
+_t4 		yeah . 
+_t4 		yeah , can you walk over there honey ? 
+_t4 		yeah . 
+_t4 		this is her orangutan  +... 
+_t4 		oh you found your big purple ba:ll . 
+_t4 		bouncy: ! 
+_t4 		she's always funny when we (.) take all her clothes off and we go who's naked and she's like a:h . 
+_t4 		whoops , are you gonna talk on the phone honey ? 
+_t4 		six , one two three four five six . 
+_t4 		making a phone call honey ? 
+_t4 		hello: ? 
+_t4 		it's Lily . 
+_t4 		how are you ? 
+_t4 		are you gonna put on your birthday hat honey ? 
+_t4 		beautifu:l ! 
+_t4 		very nice ! 
+_t4 		for me ? 
+_t4 		thank you so much . 
+_t4 		should mommy put it on ? 
+_t4 		I love it ! 
+_t4 		the bunny . 
+_t4 		let's not play with the bunny now honey . 
+_t4 		look your pictures are down here . 
+_t4 		your pictures are down here . 
+_t4 		can you tell me who that is ? 
+_t4 		who's tha:t ? 
+_t4 		Trevor: . 
+_t4 		Trevor: . 
+_t4 		and who's this ? 
+_t4 		Phoebe ! 
+_t4 		is that baby Phoebe ? 
+_t4 		your ba:ll . 
+_t4 		who's that ? 
+_t4 		Auntie: . 
+_t4 		and pretty much everything sounds like daddy . 
+_t4 		o:h yeah . 
+_t4 		like  , okay so ! 
+_t4 		right . 
+_t4 		right .
+_t4 
+_t4 		it's a square !
+_t4 
+_t4 		I don't know if this works honey . 
+_t4 		let's turn it on and see if +... 
+_t4 		square ! 
+_t4 		squares are everywhere ! 
+_t4 		can you find them ? 
+_t4 		everywhere , you look you'll find a squa:re ! 
+_t4 		can you fi:nd the triangle ? 
+_t4 		where's the triangle side ? 
+_t4 		should we turn it over and see if we can find the triangle ? 
+_t4 		open shut and open shut and give a little clap clap clap !
+_t4 
+_t4 		little clap clap clap ! 
+_t4 		open the door , here's a rectangle , close the door , it's a rectangle .
+_t4 
+_t4 		door , here's a rectangle , close the door , it's a rectangle . 
+_t4 		where's the triangle ?
+_t4 
+_t4 		open shut and . 
+_t4 		open shut and give a little clap clap clap !
+_t4 
+_t4 		clap clap clap ! 
+_t4 		open the door , here's a rectangle , close the door , it's a rectangle . 
+_t4 		where's the triangle ?
+_t4 
+_t4 		open shut and open shut and give a little clap clap clap ! 
+_t4 		open the do . 
+_t4 		open shut and open shut and give a little clap . 
+_t4 		I think your box needs new batteries honey .
+_t4 
+_t4 		tri:angle a b c , tri . 
+_t4 		zipper ! 
+_t4 		tri . 
+_t4 		that was a good song , tri ! 
+_t4 		tri . 
+_t4 		tri ! 
+_t4 		triangle ! 
+_t4 		tri . 
+_t4 		with a zipper ! 
+_t4 		tri . 
+_t4 		tri . 
+_t4 		let's try the circle . 
+_t4 		no ? 
+_t4 		ring around the ro . 
+_t4 		that is ridiculous ! 
+_t4 		it's not even working ! 
+_t4 		I know . 
+_t4 		it's a bad toy .
+_t4 
+_t4 		one , two ,  ! 
+_t4 		oh my gosh your toy is not even working !
+_t4 
+_t4 		one , two ,  !
+_t4 
+_t4 		one , two ,  ! 
+_t4 		okay , that could get really anno:ying .
+_t4 
+_t4 		one two !
+_t4 
+_t4 		mommy's gonna turn it off because otherwise you know what mommy's gonna throw it out the window . 
+_t4 		what's in there ? 
+_t4 		can you open that up ? 
+_t4 		can you open that ? 
+_t4 		it's cute if it , worked . 
+_t4 		hee hee: . 
+_t4 		who's that ? 
+_t4 		Auntie ? 
+_t4 		is that Aunt Jill ? 
+_t4 		that's Aunt Jill ! 
+_t4 		Uncle Ste:ve ! 
+_t4 		and Aunt Jill ! 
+_t4 		Uncle Steve . 
+_t4 		hi Uncle Steve . 
+_t4 		do you wanna say hello to Uncle Steve ? 
+_t4 		hi Uncle Steve . 
+_t4 		let's see . 
+_t4 		do you wanna see: +... 
+_t4 		who's that ? 
+_t4 		that's Trevor . 
+_t4 		okay . 
+_t4 		let's see who:'s +... 
+_t4 		who are these people ? 
+_t4 		who's that ? 
+_t4 		daddy: . 
+_t4 		and who's that ? 
+_t4 		who's that lady ? 
+_t4 		that's not daddy ! 
+_t4 		who am I ? 
+_t4 		I am ? 
+_t4 		who am I ? 
+_t4 		do I have a name ? 
+_t4 		are you just gonna call me Joe ? 
+_t4 		yeah okay . 
+_t4 		forget mommy . 
+_t4 		she's old hat . 
+_t4 		I don't even need a name for her . 
+_t4 		let's see . 
+_t4 		who:'s (.) this ? 
+_t4 		who's that ? 
+_t4 		that's Lily . 
+_t4 		that's Baby Lily . 
+_t4 		are there little beads on there ? 
+_t4 		little dots . 
+_t4 		little dots . 
+_t4 		ba:ll . 
+_t4 		whee: ! 
+_t4 		bouncy: ! 
+_t4 		is that a very big ball ? 
+_t4 		ball . 
+_t4 		you wanna rock on the rocking chair honey ? 
+_t4 		want Mama to put you on the rocking chair ? 
+_t4 		whee: ! 
+_t4 		you want your ball with you on the rocking chair ? 
+_t4 		ugh . 
+_t4 		you're rocking . 
+_t4 		you're rocking . 
+_t4 		hee  hee: . 
+_t4 		that's Baby Lily . 
+_t4 		you want the picture ? 
+_t4 		this one ? 
+_t4 		who is that ? 
+_t4 		who is that ? 
+_t4 		Uncle Steve !
+_t4 
+_t4 		and Aunt Jill ! 
+_t4 		Uncle Steve . 
+_t4 		Uncle Steve . 
+_t4 		that's his hand . 
+_t4 		whee: ! 
+_t4 		whoa ! 
+_t4 		sta:y for a second . 
+_t4 		okay . 
+_t4 		whee . 
+_t4 		you wanna throw it to mommy ? 
+_t4 		whee: ! 
+_t4 		thank you ! 
+_t4 		her big thing is to stay at the top of the stairs and throw things down to Don . 
+_t4 		whee: ! 
+_t4 		can you throw it to mommy ? 
+_t4 		whoa ! 
+_t4 		you're throwing it to the books ? 
+_t4 		you're throwing it to the books ? 
+_t4 		your ba:ll . 
+_t4 		your ba:ll . 
+_t4 		he:h ! 
+_t4 		ca:reful sweetie . 
+_t4 		whoa ! 
+_t4 		whee: ! 
+_t4 		can you go get that ball honey ? 
+_t4 		watch your head ! 
+_t4 		can you bend down a little bit honey ? 
+_t4 		there you go ! 
+_t4 		did you find Daffy ? 
+_t4 		where's Daffy ?
+_t4 
+_t4 		Daffy: ! 
+_t4 		Daffy: . 
+_t4 		what's the matter ? 
+_t4 		that's your swing , that you're too big for . 
+_t4 		that's just for little babies . 
+_t4 		buckle . 
+_t4 		buckle . 
+_t4 		I know sweetie . 
+_t4 		why play with that ? 
+_t4 		it frustrates you so . 
+_t4 		yeah . 
+_t4 		you're swi:nging the swing . 
+_t4 		you're swi:nging the swing . 
+_t4 		you're swinging the swi:ng ! 
+_t4 		your ball ! 
+_t4 		you wanna  +//. 
+_t4 		whee: ! 
+_t4 		look ! 
+_t4 		right to Daisy . 
+_t4 		whoa ! 
+_t4 		honey pull that up  . 
+_t4 		you wanna play the piano honey ? 
+_t4 		you wanna play the piano ? 
+_t4 		ooh . 
+_t4 		let's see . 
+_t4 		can mama turn the +... 
+_t4 		that's the harp ! 
+_t4 		you wanna press the harp button ? 
+_t4 		oh+my+goodness . 
+_t4 		none of your +//.
+_t4 
+_t4 		oh ! 
+_t4 		that's the piano button . 
+_t4 		oh there we go . 
+_t4 		harp ! 
+_t4 		are you gonna play the piano ? 
+_t4 		alright ! 
+_t4 		quite a career . 
+_t4 		it's Chewy Huey ! 
+_t4 		Chewy Huey ! 
+_t4 		hi Chewy Huey ! 
+_t4 		where's your little tiny doggie ? 
+_t4 		ee: there's your little doggie ! 
+_t4 		o:h . 
+_t4 		it's a hug for the doggie . 
+_t4 		wanna give the doggie a kiss ? 
+_t4 		mmmm: gonna eat some of the spoon ? 
+_t4 		maybe you wanna feed the doggie ? 
+_t4 		xxx . 
+_t4 		you're eating from the spoon . 
+_t4 		and the doggie . 
+_t4 		num       . 
+_t4 		num        . 
+_t4 		okay . 
+_t4 		you wanna take Daisy's temperature ? 
+_t4 		whoop . 
+_t4 		fit as a fiddle . 
+_t4 		woof woof woof woof woof . 
+_t4 		Chewy Huey: ! 
+_t4 		hello ! 
+_t4 		who's that ? 
+_t4 		daddy . 
+_t4 		who's the other person ? 
+_t4 		who's that ? 
+_t4 		yeah that's funny (be)cause that looks like mommy to me . 
+_t4 		who's that ? 
+_t4 		ba:by . 
+_t4 		Ba:by Lily . 
+_t4 		who's that ? 
+_t4 		Gaby ! 
+_t4 		oo:h don't rip ! 
+_t0 		hi sweetie . 
+_t0 		a carrot . 
+_t0 		that's a picture of a carrot . 
+_t0 		ooh what's the matter ? 
+_t0 		Lily ! 
+_t0 		Lily ! 
+_t0 		okay honey . 
+_t0 		here sweetie . 
+_t0 		you want a little snack ? 
+_t0 		yep ! 
+_t0 		you want some Fruit Chews ? 
+_t0 		Fruit Chews . 
+_t0 		Fruit Chews . 
+_t0 		Fr:uit Chews . 
+_t0 		there's one right there . 
+_t0 		doop     . 
+_t0 		look on Daisy . 
+_t0 		mmmm: ! 
+_t0 		Birthday Bear ! 
+_t0 		Birthday Bear's nose ! 
+_t0 		there's one on Birthday Bear's nose honey . 
+_t0 		hee ! 
+_t0 		piano ! 
+_t0 		coffee table . 
+_t0 		coffee table ! 
+_t0 		coffee table ! 
+_t0 		let me fix your little backpack . 
+_t0 		hee  hee: . 
+_t0 		mmmm: . 
+_t0 		mmmm: . 
+_t0 		want some water sweetie ? 
+_t0 		okay . 
+_t0 		look at your farm book . 
+_t0 		here's your water . 
+_t0 		what's that ? 
+_t0 		doggie: . 
+_t0 		what's that ? 
+_t0 		that's a kitty . 
+_t0 		that's a kitty cat .
+_t0 
+_t0 		that's part of a tractor . 
+_t0 		the other part got torn off . 
+_t0 		who's in the mud ? 
+_t0 		dirty pigs ! 
+_t0 		those pigs are in mud ! 
+_t0 		they're all dirty ! 
+_t0 		co:w ! 
+_t0 		where's the sun in that picture ? 
+_t0 		do you see the yellow sun in that picture ? 
+_t0 		it's little . 
+_t0 		it's hard to see . 
+_t0 		that's the kitty cat . 
+_t0 		see ? 
+_t0 		there's the yellow sun . 
+_t0 		where are the pumpkins ? 
+_t0 		where are the big orange pumpkins ? 
+_t0 		they're right there . 
+_t0 		pumpkins . 
+_t0 		ooh ! 
+_t0 		those birds are wet ! 
+_t0 		there's the small carrot and a bi:g carrot . 
+_t0 		she's pushing that cow ! 
+_t0 		mmmm pushing . 
+_t0 		little chicken . 
+_t0 		little baby chicken . 
+_t0 		quack quack quack . 
+_t0 		duckie ! 
+_t0 		that's where the little girl lives in the house . 
+_t0 		goodnight animals ! 
+_t0 		yeah that's a little girl . 
+_t0 		goodnight animals ! 
+_t0 		woof . 
+_t0 		doggie . 
+_t0 		woof . 
+_t0 		that's a little mouse . 
+_t0 		pig . 
+_t0 		pig ! 
+_t0 		sheep . 
+_t0 		hmmm . 
+_t0 		ya think so ? 
+_t0 		those are little mice . 
+_t0 		squeak squeak squeak squeak squeak ! 
+_t0 		two hungry calves . 
+_t0 		that's a little boy . 
+_t0 		a little boy farmer . 
+_t0 		can you find the bumble+bees in that picture ? 
+_t0 		where are the bumble+bee:s ? 
+_t0 		hmmm: . 
+_t0 		those are the puppies . 
+_t0 		where are the bumble+bee:s ? 
+_t0 		there they a:re ! 
+_t0 		bumble+bee: ! 
+_t0 		can you say bumble+bee ? 
+_t0 		no ? 
+_t0 		that's the wheel of a tractor . 
+_t0 		black crows on the yellow corn . 
+_t0 		oo:h who's in the brown mud ? 
+_t0 		the pigs ! 
+_t0 		they're dirty ! 
+_t0 		those pigs are dirty ! 
+_t0 		that's the house where the little girl lives . 
+_t0 		hmmm . 
+_t0 		do we open that ? 
+_t0 		white clou:d and a rai:nbow of many colors ! 
+_t0 		I don't think we ever opened that one before . 
+_t0 		white clou:d and a rai:nbow with ma:ny colors ! 
+_t0 		look at the rai:nbow ! 
+_t0 		pumpkins ! 
+_t0 		apples ! 
+_t0 		triangle . 
+_t0 		star ! 
+_t0 		little baby chicken . 
+_t0 		what dirty pigs ! 
+_t0 		are those pigs dirty ? 
+_t0 		dirty: ! 
+_t0 		dirty . 
+_t0 		that's a house where the little girl lives . 
+_t0 		yeah . 
+_t0 		that's a little boy ! 
+_t0 		and a house ! 
+_t0 		hey honey . 
+_t0 		can you find me the picture of Lisa's and her orange juice ? 
+_t0 		Lisa's holding her orange juice right there ! 
+_t0 		where's the picture of the orange juice spilling on Lisa ? 
+_t0 		where's the messy picture ? 
+_t0 		o:h how we lo:ve to pull flaps off . 
+_t0 		another one ! 
+_t0 		those are little bunnies . 
+_t0 		little bunny rabbits . 
+_t0 		yeah we can't put it back on once we take it off . 
+_t0 		hmmm you think so ? 
+_t0 		you gonna give that to Lisa ? 
+_t0 		where's the picture of the orange juice spilling on Lisa ? 
+_t0 		where she says  no what a mess . 
+_t0 		where's that picture ? 
+_t0 		let's see . 
+_t0 		Lisa's all clean and tidy the:re . 
+_t0 		and there she's watch +//.
+_t0 
+_t0 		she's sleeping . 
+_t0 		and she's , ea:ting . 
+_t0 		and she's trying to watch the mo:vie . 
+_t0 		and there she's watching the mo:vie . 
+_t0 		and she's watching the mo:vie . 
+_t0 		oh no: ! 
+_t0 		what a mess ! 
+_t0 		what a mess ! 
+_t0 		the orange juice spilled all over Lisa ! 
+_t0 		oh no: ! 
+_t0 		ooh she's trying to watch the movie . 
+_t0 		so she's leaning on the chair front of her . 
+_t0 		oh no: ! 
+_t0 		what a mess ! 
+_t0 		the orange juice spilled everywhere ! 
+_t0 		here's your ball . 
+_t0 		hi ball . 
+_t0 		bouncy: . 
+_t0 		woo: ! 
+_t0 		there it go:es ! 
+_t0 		ya:y ! 
+_t0 		keep +//.
+_t0 
+_t0 		o:h ! 
+_t0 		is your ball going in the schoolbus ? 
+_t0 		oo:h the schoolbus ! 
+_t0 		is your starfish in the schoolbus too ? 
+_t0 		you  +//.
+_t0 
+_t0 		your starfish is already in the schoolbus sweetie . 
+_t0 		mmmm  . 
+_t0 		it's already in the schoolbus right near the door . 
+_t0 		your foot's [: foot is] getting in the schoolbus too ? 
+_t0 		can you bring it over here sweetie and mommy will get it out for you ? 
+_t0 		can you bring the schoolbus to mommy ? 
+_t0 		can you bring it to mommy honey and she'll get the starfish out ? 
+_t0 		yeah . 
+_t0 		oh you go:t it ! 
+_t0 		sta:rfi:sh ! 
+_t0 		whoa ! 
+_t0 		bus accident ! 
+_t0 		whee:ls . 
+_t0 		whee:ls . 
+_t0 		i:nto the bus the starfish goes . 
+_t0 		ya:y ! 
+_t0 		oo:h ! 
+_t0 		wanna turn the bus over honey ? 
+_t0 		yeah maybe it's easier if you turn the bus over . 
+_t0 		think I'll stay in a little better . 
+_t0 		bracelet's [: bracelet is] in the schoolbus too ? 
+_t0 		baby bunny's [: bunny is] going in the schoolbus ? 
+_t0 		look it's Manuela ! 
+_t0 		look at the camera ! 
+_t0 		there's your little watering can . 
+_t0 		yeah , we could look in there and you wanna play with the toys in there ? 
+_t0 		or your doggie that makes music ? 
+_t0 		you could play with that . 
+_t0 		whatja [: what would you] like to play with ? 
+_t0 		wouldja [: would you] like to read ? 
+_t0 		wouldja [: would you] like to get a book ? 
+_t0 		and we could read .
+_t0 
+_t0 		ok .
+_t0 
+_t0 		that's the camera , hi camera .
+_t0 
+_t0 		you wanna wave hello to the camera ? 
+_t0 		hi camera . 
+_t0 		yeah . 
+_t0 		huh . 
+_t0 		hmmm . 
+_t0 		those are your pants . 
+_t0 		and that's your belly . 
+_t0 		ayah [?] .
+_t0 
+_t0 		huh elephant ! 
+_t0 		roa:r (.) roa:r .
+_t0 
+_t0 		yeah that's my little bag +...
+_t0 
+_t0 		with a buckle .
+_t0 
+_t0 		buckle . 
+_t0 		buckle . 
+_t0 		buckle . 
+_t0 		belt . 
+_t0 		mommy's belt . 
+_t0 		box . 
+_t0 		Boo's [: Boo is] over there too , do you see Boo ? 
+_t0 		he's next to Manuela's bag . 
+_t0 		you've got water . 
+_t0 		huh , Birthday Bear: . 
+_t0 		huh +...
+_t0 
+_t0 		the baby , baby Kate's [: Kate is] in her baby bed . 
+_t0 		baby Kate's [: Kate is] in her baby bed . 
+_t0 		baby bed . 
+_t0 		baby bed . 
+_t0 		baby Kate's [: Kate is] in her baby bed . 
+_t0 		she's fast asleep . 
+_t0 		wouldja [: would you] like to read that ?
+_t0 
+_t0 		ok . 
+_t0 		huh , that's not my teddy it's paws are too wooly . 
+_t0 		look at those wooly paws . 
+_t0 		wooly . 
+_t0 		woo:ly . 
+_t0 		that's not my teddy , it's nose is too soft . 
+_t0 		that's not my teddy , it's eyes are too shiny . 
+_t0 		that's not my teddy , it's ears are too fuzzy . 
+_t0 		that's my teddy , his tummy is so: furry .
+_t0 
+_t4 		here's his nose , and his eye . 
+_t4 		one eye . 
+_t4 		two eyes . 
+_t4 		that's a little mouse . 
+_t4 		where the teddy's ears ? 
+_t4 		one ear . 
+_t4 		two ears . 
+_t4 		yeah . 
+_t4 		the end . 
+_t4 		you want another book ? 
+_t4 		yeah , that's the camera . 
+_t4 		huh huh . 
+_t4 		camera , camera . 
+_t4 		hello camera . 
+_t4 		you want mommy to help you ? 
+_t4 		let's see . 
+_t4 		eh , hu:h .
+_t4 
+_t4 		which one should we read ? 
+_t4 		Maize makes gingerbread . 
+_t4 		ok . 
+_t4 		she is going to make gingerbread cookies . 
+_t4 		mmmm         . 
+_t4 		where are the eggs ? 
+_t4 		do you see the eggs ? 
+_t4 		there they are yeah eggs ! 
+_t4 		hi eggs . 
+_t4 		where's the butter ? 
+_t4 		you see the butter ? 
+_t4 		here's the butter . 
+_t4 		butter butter butter butter . 
+_t4 		butter butter butter bu:tter . 
+_t4 		bu:tter . 
+_t4 		Maisey mixes everything together . 
+_t4 		she rolls out the dough and cuts out different shapes . 
+_t4 		Maisey puts the cookies into the oven . 
+_t4 		and licks the bowl while the cookies are baking . 
+_t4 		then she washes up , ding dong that's the doorbell , who can it be ? 
+_t4 		just in time for an afternoon snack . 
+_t4 		yum  nice gingerbread cookies Maisey ,      . 
+_t4 		what a delicious snack . 
+_t4 		mmmm      (.)  . 
+_t4 		yum  . 
+_t4 		nice gingerbread cookies Maisey . 
+_t4 		yea:h [: yes] . 
+_t4 		huh that's a scale . 
+_t4 		looks kind of like a clock right ?
+_t4 
+_t4 		yeah , Maisey makes makes gingerbread should we read Olivia ?
+_t4 
+_t4 		Olivia . 
+_t4 		this is Olivia , she is good at lots_of things . 
+_t4 		she is very good at wearing people out . 
+_t4 		she even wears herself out . 
+_t4 		does Olivia have a ball ? 
+_t4 		there it is . 
+_t4 		and is Olivia making soup ? 
+_t4 		is she stirring in a bowl ? 
+_t4 		is there a picture of her stirring in a bowl .
+_t4 
+_t4 		th:ere very good honey she's stirring in a bowl that's very good . 
+_t4 		Olivia has a lil [: little] brother named Ian , he's always copying .
+_t4 
+_t4 		sometimes Ian just won't leave her alone so Olivia has to be firm , roar , she tries to scare him . 
+_t4 		Olivia lives with her mother , her father , her brother , her dog Perry , and Edwin the cat . 
+_t4 		in the morning after she gets up and moves the cat , and brushes her teeth , and combs her ears , and moves the cat . 
+_t4 		Olivia gets dressed , she has to try on everything , huh , does Olivia wear a backpack ? 
+_t4 		where's Olivia's backpack , there it is , and where are Olivia's +//.
+_t4 
+_t4 		you have a backpack too . 
+_t4 		where are Olivia's sneakers , is she wearing sneakers ? 
+_t4 		where's a picture of her wearing sneakers ? 
+_t4 		there are her sneakers , very good hun . 
+_t4 		on sunny days Olivia likes to go to the beach . 
+_t4 		ooh she got pretty good at making sand+castles . 
+_t4 		sometimes Olivia likes to bask in the sun . 
+_t4 		every day Olivia's [: Olivia is] supposed to take a nap . 
+_t4 		it's time for you know what her mother says . 
+_t4 		of course Olivia's [: Olivia is] not at all sleepy . 
+_t4 		she's dancing . 
+_t4 		on rainy days she likes to go to the museum and looks at her favorite picture . 
+_t4 		ooh . 
+_t4 		but there's one painting Olivia just doesn't get . 
+_t4 		as soon as she gets home she gives it a try , uh+oh . 
+_t4 		time out . 
+_t4 		after a nice bath and a nice dinner it's time for bed . 
+_t4 		but of course Olivia's [: Olivia is] not at all sleepy . 
+_t4 		only five books tonight mommy she says . 
+_t4 		no Olivia just one . 
+_t4 		how bout [: about] four ? 
+_t4 		two . 
+_t4 		three , alright three but that's it . 
+_t4 		when they finish reading Olivia's mother gives her a kiss and says you know you really wear me out , but I love you anyway . 
+_t4 		and Olivia says I love you anyway too . 
+_t4 		that's Olivia getting dressed . 
+_t4 		and Olivia's [: Olivia is] dancing . 
+_t4 		that's her stereo , that's where she's playing music out of . 
+_t4 		yea:h [: yes] . 
+_t4 		you want your: bunny book , or you want this book ? 
+_t4 		bedtime for bunny . 
+_t4 		fuzzy ears . 
+_t4 		ooh , and feel the soft pajamas . 
+_t4 		very soft . 
+_t4 		my little bunny , it's time now for bed , a bear on your pillow , a star overhead . 
+_t4 		ooh look at the shiny star .
+_t4 
+_t4 		that's a pillow . 
+_t4 		ooh and feel her pajamas . 
+_t4 		soft and silky . 
+_t4 		now brush your ears carefully then brush your teeth the ones on the top and the ones right beneath . 
+_t4 		we'll snuggle and I'll: read a story and then: if you're quiet I'll read it again . 
+_t4 		who's callin [: calling] us ?
+_t4 
+_t4 		hello ? 
+_t4 		fine , goo:d , Lily has her Brown study on right now . 
+_t4 		yeah . 
+_t4 		oh good , ok I'll: call  this afternoon . 
+_t4 		oh , well let me call you back we'll discuss details . 
+_t4 		ok . 
+_t4 		I guess so . 
+_t4 		I'm being taped honey so: let me call you back ? 
+_t4 		ok , bye . 
+_t4 		ooh fuzzy bunny slippers . 
+_t4 		blankie . 
+_t4 		blanket +...
+_t4 
+_t4 		ooh so:ft .
+_t4 
+_t4 		it's a blue blanket , for the bunny rabbit .
+_t4 
+_t4 		mmmm . 
+_t4 		again ? 
+_t4 		oh+my+goodness , let me get a tissue for you honey . 
+_t4 		ok let me just get you a lil [: little] tissue . 
+_t4 		a runny nose , you do . 
+_t4 		you (.) do . 
+_t4 		hi , huh , bye bye tissue . 
+_t4 		bye bye tissue . 
+_t4 		who's that ? 
+_t4 		doggie . 
+_t4 		and who's this ? 
+_t4 		who's this honey ? 
+_t4 		who's that ? 
+_t4 		who's that ? 
+_t4 		this is Daisy . 
+_t4 		is that Daisy ? 
+_t4 		Daisy and who's this ? 
+_t4 		who's this ? 
+_t4 		this is Birthday Bear . 
+_t4 		that's Lalla . 
+_t4 		and who's this ? 
+_t4 		that's a doggie . 
+_t4 		what's a doggie say ? 
+_t4 		ruf . 
+_t4 		ruf .
+_t4 
+_t4 		the ducky says quack quack . 
+_t4 		quack quack . 
+_t4 		quack quack . 
+_t4 		yea:h . 
+_t4 		quack quack . 
+_t4 		quack quack . 
+_t4 		quack quack . 
+_t4 		quack quack . 
+_t4 		quack quack . 
+_t4 		quack quack . 
+_t4 		quack quack . 
+_t4 		and who's this ? 
+_t4 		that's Maisey . 
+_t4 		Maisey . 
+_t4 		Maisey . 
+_t4 		what's that ? 
+_t4 		really ? 
+_t4 		hmmm . 
+_t4 		wha:t's this ? 
+_t4 		what's this ? 
+_t4 		you're silly . 
+_t4 		who's that ? 
+_t4 		I don't even know what an itchi is . 
+_t4 		you're silly +...
+_t4 
+_t4 		atiay . 
+_t4 		yeah .
+_t4 
+_t4 		who's: this ? 
+_t4 		Julie is a doll . 
+_t4 		hello: I'm Julie: . 
+_t4 		I have a big tag sticking out of my head . 
+_t4 		I'm Julie and I'm a dancin [: dancing] fool . 
+_t4 		Julie has shoes . 
+_t4 		oo:h . 
+_t4 		Julie's got sho:es . 
+_t4 		Julie's got shoes . 
+_t4 		who's this ? 
+_t4 		mmmm , no kidding really ? 
+_t4 		I thought it was Pooh Bear . 
+_t4 		is that Pooh Bear ? 
+_t4 		I'm Pooh Bear . 
+_t4 		hello I'm Pooh Bear . 
+_t4 		who:'s +...
+_t4 
+_t4 		huh (.) what's that ? 
+_t4 		that's a baby . 
+_t4 		can you say baby ? 
+_t4 		are you on a baby strike ?
+_t4 
+_t4 		can you say baby ? 
+_t4 		no . 
+_t4 		xxx ? 
+_t4 		what's  ? 
+_t4 		Pooh Bear .
+_t4 
+_t4 		Pooh Bear: . 
+_t4 		Pooh Bear . 
+_t4 		Pooh: B:ear . 
+_t4 		Pooh: B:ear . 
+_t4 		mmmm . 
+_t4 		slide .
+_t4 
+_t4 		who goes on this rocking horse ? 
+_t4 		who is that ? 
+_t4 		yea:h , who's that ? 
+_t4 		xxx ? 
+_t4 		really ? 
+_t4 		I thought that was a baby . 
+_t4 		ba:by . 
+_t4 		huh ! 
+_t4 		air:pla:ne . 
+_t4 		ooh , who's goin [: going] in the airplane ? 
+_t4 		oo:h . 
+_t4 		mmmm . 
+_t4 		baby's in the airplan:e . 
+_t4 		ooh you're sweet peas .
+_t4 
+_t4 		those are your lil [: little] sweet peas . 
+_t4 		uh  huh  .
+_t4 
+_t4 		mmmm a spoon . 
+_t4 		dya [: do you] wanna make some soup ? 
+_t4 		ky [: can I] taste it ? 
+_t4 		um     you wanna stir it ? 
+_t4 		ooh stir stir stir . 
+_t4 		um     you feeding me easy ? 
+_t4 		yummy .
+_t4 
+_t4 		the spoon's [: spoon is] going on the sli:de ? 
+_t4 		wow . 
+_t4 		that is one active spoon . 
+_t4 		slide . 
+_t4 		wee: . 
+_t4 		mmmm , the little maraca's [: maraca is] goin [: going] down the slide ? 
+_t4 		maraca: . 
+_t4 		puppy dog's [: dog is] goin [: going] down the slide ? 
+_t4 		yeah ? 
+_t4 		I think he might be a lil [: little] big for the slide . 
+_t4 		wee: . 
+_t4 		xxx . 
+_t4 		Homer , Homer's goin [: going] down the slide ? 
+_t4 		yeah . 
+_t4 		Pooh Bear: . 
+_t4 		down the slide . 
+_t4 		Pooh Bear rattle . 
+_t4 		down: the slide . 
+_t4 		ooh Big Bird's [: Bird is] goin(g) down the slide ? 
+_t4 		ooh: I think Big Bird likes that .
+_t4 
+_t4 		who is that ? 
+_t4 		really ? 
+_t4 		Big Bird's [: Bird is] wearing a baseball cap . 
+_t4 		backwards . 
+_t4 		apparently he's terribly hip . 
+_t4 		yeah . 
+_t4 		who's that ? 
+_t4 		really ? 
+_t4 		ooh: that's a lil [: little] cube . 
+_t4 		shake shake shake . 
+_t4 		shake shake shake . 
+_t4 		shake your cube . 
+_t4 		shake your cube . 
+_t4 		ooh what's that ? 
+_t4 		ooh those are drops ? 
+_t4 		mmmm . 
+_t4 		wow .
+_t4 
+_t4 		wha [: what] dya [: do you] have there ?
+_t4 
+_t4 		really ? 
+_t4 		lil [: little] table ? 
+_t4 		ooh , the baby's on the table . 
+_t4 		wow . 
+_t4 		it's a good fit . 
+_t4 		huh , Manuela ! 
+_t4 		Manuela's [: Manuela is] playin [: playing] with the camera . 
+_t4 		xxx .
+_t4 
+_t4 		oh my gosh who keeps calling us ? 
+_t4 		house   your toys .
+_t4 
+_t4 		hello ? 
+_t4 		I'm sorry he's not in: .
+_t4 
+_t4 		yes it is . 
+_t4 		I actually don't right this very moment could you call back this afternoon . 
+_t4 		ok thanks so much , bye . 
+_t4 		someone's comin [: coming] after you Manuela . 
+_t4 		what ? 
+_t4 		someone's comin [: coming] after you . 
+_t4 		o:h . 
+_t4 		hello: . 
+_t4 		what ayou [: are you] doin [: doing] honey ? 
+_t4 		toy in there ? 
+_t4 		mmmm . 
+_t4 		huh . 
+_t4 		what's that ? 
+_t4 		oh is it the rocking chair ? 
+_t4 		yeah . 
+_t4 		what's that ? 
+_t4 		really ? 
+_t4 		xxx .
+_t4 
+_t4 		mmmm , a little lamb ? 
+_t4 		a lil [: little] sheep ?
+_t4 
+_t4 		mmmm . 
+_t4 		wha [: what] dya [: do you] see ? 
+_t4 		really ? 
+_t4 		I didn [: didn't] know that . 
+_t4 		you're right , you're right the batteries aren't working . 
+_t4 		sorry . 
+_t4 		I have_to get new ones . 
+_t4 		mmmm . 
+_t4 		it's ok , wasn't that much fun anyway right ? 
+_t4 		yeah nice lamb good lamb . 
+_t4 		mmmm . 
+_t4 		Manuela . 
+_t4 		hello . 
+_t4 		woop . 
+_t4 		uh , wha [: what] dya [: do you] see ? 
+_t4 		ooh: what's that ? 
+_t4 		really ? 
+_t4 		do you see a baby in that fireplace ? 
+_t4 		there's a baby in that fireplace . 
+_t4 		where's the baby ? 
+_t4 		where's the baby ? 
+_t4 		there's a baby: . 
+_t4 		mmmm can you give the baby a kiss ? 
+_t4 		muah . 
+_t4 		and: she's up . 
+_t4 		hmmm wha [: what] dya [: do you] see now ? 
+_t4 		huh . 
+_t4 		yeah that's a hook . 
+_t4 		ya [: you] have_to be careful . 
+_t4 		yeah that's a hook . 
+_t4 		yeah it's sharp (.) ya [: you] have_to be careful . 
+_t4 		what happened was that sharp , do you tell her a lot that it's sharp ? 
+_t4 		yeah . 
+_t4 		is that the word sharp it sounding kinda [: kind of] something like +/.
+_t4 
+_t4 		oh I don't +//. 
+_t4 		xxx sometimes: she comes up with things that sound exactly: . 
+_t4 		but then it's hard to say because a lot of things she'll say and she won't repeat .
+_t4 
+_t4 		like she calls +//.
+_t4 
+_t4 		we call my sister auntie: .
+_t4 
+_t4 		and (.) Ellen my sister was walking towards her and she (.) just absolutely  sounded like she said auntie .
+_t4 
+_t4 		and we said (.) did you say auntie is that auntie can you say auntie and then she looked at us like  hands off .
+_t4 
+_t4 		it was a one time only thing , so you hada [: had to] listen .
+_t4 
+_t4 		yeah I exac(tly) .
+_t4 
+_t4 		talkin [: talking] away over there .
+_t4 
+_t4 		you talking away ?
+_t4 
+_t4 		ya [: you] gonna pull all the books out ? 
+_t4 		nope [: no] . 
+_t4 		k [: ok] . 
+_t4 		I want that one ,  .
+_t4 
+_t4 		yeah , on to something else . 
+_t4 		hello . 
+_t4 		what a [: are] ya [: you] playin [: playing] with ? 
+_t4 		whoa sorry . 
+_t4 		o:h . 
+_t4 		who's that ? 
+_t4 		huh . 
+_t4 		who's that ? 
+_t4 		mmmm . 
+_t4 		can you say nice lamb ? 
+_t4 		good lamb . 
+_t4 		nice lamb . 
+_t4 		nice lamb . 
+_t4 		ooh , what's that ? 
+_t4 		the ear . 
+_t4 		just a lil [: little] bit of hair ? 
+_t4 		there's just a lil bit of hair . 
+_t4 		you're right . 
+_t4 		xxx . 
+_t4 		where's the little lamb's tail ? 
+_t4 		is there a tail ? 
+_t4 		where's the lamb's little tail ? 
+_t4 		there's the lamb's little tail . 
+_t4 		wag wag wag wag wag . 
+_t4 		oop(s) that what is that ? 
+_t4 		dirty . 
+_t4 		can you take that off ?
+_t4 
+_t4 		she's gonna be a clean freak you know .
+_t4 
+_t4 		I know she  I try and not to think that she's like an o+c+d [: obsessive compulsive disorder] candidate . 
+_t4 		because (.) she'll go like through everything and she has a field day in this house believe me .
+_t4 
+_t4 		oh no . 
+_t4 		that's your lil [: little] lamb . 
+_t4 		mmmm .
+_t4 
+_t4 		o:h . 
+_t4 		mmmm you love your lamb . 
+_t4 		can you give your lamb a kiss ? 
+_t4 		muah .
+_t4 
+_t4 		she makes the sound . 
+_t4 		she doesn't even know the pucker it's just the sound  . 
+_t4 		muah . 
+_t4 		she's funny .
+_t4 
+_t4 		mmmm are you going to kiss the baby ? 
+_t4 		muah . 
+_t4 		wha [: what] dya [: do you] see ? 
+_t4 		hmmm . 
+_t4 		muah . 
+_t4 		I see you . 
+_t4 		I can see you . 
+_t4 		xxx .
+_t4 
+_t4 		really ? 
+_t4 		mmmm . 
+_t4 		oh: my+goodness . 
+_t4 		you're a strong: baby . 
+_t4 		you are one: strong baby . 
+_t4 		the lamb's [: lamb is] going inside ? 
+_t4 		ok . 
+_t4 		where ya [: you] gonna put that lamb ? 
+_t4 		where's that lamb gonna go ? 
+_t4 		ooh , the lamb has to go in the dinning room ? 
+_t4 		oh the lamb has to go on the ba:ll . 
+_t4 		wow (.) ooh that's a good idea .
+_t4 
+_t4 		oh the lamb has to go on the baby sea:t ? 
+_t4 		that's nice the lamb could eat something there . 
+_t4 		right ? 
+_t4 		what other place for the lamb to go ? 
+_t4 		mmmm hi . 
+_t4 		dya [: do you] have a ball ? 
+_t4 		wha [: what] dya [: do you] see ? 
+_t4 		where ya [: you] go:ing ? 
+_t4 		uh . 
+_t4 		whada [: what do] you see ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		wow .
+_t4 
+_t4 		ooh . 
+_t4 		xxx .
+_t4 
+_t4 		what's that honey ? 
+_t4 		xxx .
+_t4 
+_t4 		ooh . 
+_t4 		you like that chair ? 
+_t4 		whada [: what do] you do with that chair ? 
+_t4 		do you rock on that chair ?
+_t4 
+_t4 		yeah . 
+_t4 		you rock on that chair ? 
+_t4 		yeah do wanna rock you wanna put Birthday Bear on that chair ? 
+_t4 		you could rock Birthday Bear ? 
+_t4 		you wanna rock Birthday Bear ? 
+_t4 		rocking you're rocking . 
+_t4 		rocking you're rocking . 
+_t4 		very good sweetie , Birthday Bear likes that .
+_t4 
+_t4 		yeah , is it a camera ? 
+_t4 		yeah . 
+_t4 		does Birthday Bear like the rocking chair ?
+_t4 
+_t4 		rocking you're rocking . 
+_t4 		rocking rocking . 
+_t4 		huh , can you show your special bye bye wave to Manuela ? 
+_t4 		where's your special wave ? 
+_t4 		mmmm no not doing special wave today . 
+_t4 		she says why I'm not saying goodbye . 
+_t4 		ooh rocking . 
+_t4 		what's that ? 
+_t4 		really ? 
+_t4 		mmmm . 
+_t4 		ooh . 
+_t4 		that's got a zipper on the other side sweetie pie . 
+_t4 		look sweetie .
+_t4 
+_t4 		look . 
+_t4 		can you unzip that ? 
+_t4 		down . 
+_t4 		this way . 
+_t4 		circle , you want mom to open the circle for you that one's hard it has a button . 
+_t4 		what's that ? 
+_t4 		wha [: what] was that  . 
+_t4 		it's a lil [: little] ba:ll . 
+_t4 		huh what's in there ? 
+_t4 		ooh . 
+_t4 		a lil [: little] bo:x you want mommy to turn this on even though I don't think it's gonna work ? 
+_t4 		square , squares are everywhere . 
+_t4 		xxx .
+_t4 
+_t4 		can you find them (.) everywhere . 
+_t4 		you look you'll find a squa:re . 
+_t4 		ooh it's actually working look . 
+_t4 		a c for cow . 
+_t4 		that's a cow in the moon .
+_t4 
+_t4 		and a b for bear . 
+_t4 		and a for apple .
+_t4 
+_t4 		one . 
+_t4 		you're number one . 
+_t4 		you're number one . 
+_t4 		mmmm . 
+_t4 		should we try and find the star ? 
+_t4 		or the triangle ? 
+_t4 		should we try and find another shape ? 
+_t4 		let's try and find another shape and see if it works . 
+_t4 		I know , the battery compartment is so very interesting . 
+_t4 		yeah let's close that .
+_t4 
+_t4 		where's the star ? 
+_t4 		in the battery compartment .
+_t4 
+_t4 		pear . 
+_t4 		pear . 
+_t4 		wan [: want] me to hold that ? 
+_t4 		I know it doesn't come out . 
+_t4 		we could turn the lil [: little] pages though . 
+_t4 		what's that ? 
+_t4 		really ? 
+_t4 		no kidding . 
+_t4 		shou [: should] we turn that over ? 
+_t4 		let's turn it that way . 
+_t4 		let's turn it (.) that way . 
+_t4 		ring around the rosey . 
+_t4 		circle .
+_t4 
+_t4 		circle . 
+_t4 		circle . 
+_t4 		circle .
+_t4 
+_t4 		we all fall dow:n . 
+_t4 		we all fall dow:n .
+_t4 
+_t4 		what's that ? 
+_t4 		what is that ? 
+_t4 		wee . 
+_t4 		ooh wee . 
+_t4 		xxx wee . 
+_t4 		flee . 
+_t4 		heh . 
+_t4 		ooh  . 
+_t4 		is that funny ? 
+_t4 		I like that . 
+_t4 		woo ! 
+_t4 		what is that ? 
+_t4 		oh really ? 
+_t4 		everything is the same thing we just don't know what it is . 
+_t4 		should we find the triangle ? 
+_t4 		triangle a b c . 
+_t4 		triangle one two three . 
+_t4 		triangle one two three .
+_t4 
+_t4 		one two three it's a triangle . 
+_t4 		one two three and make a triangle . 
+_t4 		can you unzip the triangle honey ? 
+_t4 		yeah . 
+_t4 		ee yeah . 
+_t4 		who's in there ?
+_t4 
+_t4 		who's in there ? 
+_t4 		what's that ? 
+_t4 		Lily  .
+_t4 
+_t4 		I have self esteem issues I can't look at myself . 
+_t4 		xxx .
+_t4 
+_t4 		yeah we gotta zip it up now .
+_t4 
+_t4 		u:p you wanna zip it down ? 
+_t4 		open . 
+_t4 		and now close goes this way .
+_t4 
+_t4 		close . 
+_t4 		zipper . 
+_t4 		z:ipper . 
+_t4 		what's that Lily ? 
+_t4 		xxx . 
+_t4 		who's that ? 
+_t4 		should we turn it over again ? 
+_t4 		open shut them open shut them . 
+_t4 		give a little clap clap clap . 
+_t4 		give a little clap clap clap .
+_t4 
+_t4 		open the door , here's a rectangle . 
+_t4 		open the door , here's a rectangle .
+_t4 
+_t4 		close the door , it's a rectangle . 
+_t4 		you'll be singing this the rest of the day .
+_t4 
+_t4 		that's  . 
+_t4 		what's that Lily ? 
+_t4 		huh . 
+_t4 		what is it ? 
+_t4 		what's in there ? 
+_t4 		what's that ? 
+_t4 		really ? 
+_t4 		oh my gosh . 
+_t4 		what is that ? 
+_t4 		really ? 
+_t4 		wow .
+_t4 
+_t4 		oh look a little cube . 
+_t4 		open shut them .
+_t4 
+_t4 		open shut them give a little clap clap clap . 
+_t4 		clap clap clap .
+_t4 
+_t4 		open the door , here's a rectangle . 
+_t4 		rectangle .
+_t4 
+_t4 		close the door , it's a rectangle . 
+_t4 		close the door , it's a rectangle .
+_t4 
+_t4 		ooh should we find the star ? 
+_t4 		should we go this way ? 
+_t4 		here's a star . 
+_t4 		mmmm this is what we always have a problem on it stops working . 
+_t4 		here's a star .
+_t4 
+_t4 		xxx , let's go back to a different side . 
+_t4 		here's a star . 
+_t4 		yeah , your star has problems honey . 
+_t4 		here's a star . 
+_t4 		I'm sorry to say .
+_t4 
+_t4 		what's in the star ? 
+_t4 		oh my gosh . 
+_t4 		here's a star .
+_t4 
+_t4 		that star looks like a starfish . 
+_t4 		here's a star . 
+_t4 		oh my gosh . 
+_t4 		let's see if it doesn't work if we go this side . 
+_t4 		here's a star .
+_t4 
+_t4 		should we try that side ? 
+_t4 		one . 
+_t4 		hexagon . 
+_t4 		that's a good one .
+_t4 
+_t4 		one two thre(e) . 
+_t4 		this is when we start to +//. 
+_t4 		ooh you've got a runny nose .
+_t4 
+_t4 		one two .
+_t4 
+_t4 		here's where we start to say we're gonna throw your cube out the window . 
+_t4 		one two thre(e) .
+_t4 
+_t4 		what's that ? 
+_t4 		wha's [: what is] that ? 
+_t4 		one two thre(e) . 
+_t4 		what's that ? 
+_t4 		mommy has to wipe your nose . 
+_t4 		one two thre(e) .
+_t4 
+_t4 		wipe your nose . 
+_t4 		wipe your nose . 
+_t4 		one two . 
+_t4 		huh . 
+_t4 		one two .
+_t4 
+_t4 		one two . 
+_t4 		one two .
+_t4 
+_t4 		oh my gosh . 
+_t4 		your cube's [: cube has] gone mad . 
+_t4 		one two .
+_t4 
+_t4 		yeah . 
+_t4 		ok forget that .
+_t4 
+_t4 		one two .
+_t4 
+_t4 		forge:t it . 
+_t4 		open shut them open . 
+_t4 		huh . 
+_t4 		open shut them open . 
+_t4 		let's turn it off sweetie (be)cause it's not behaving right .
+_t4 
+_t4 		here we go , hold on . 
+_t4 		it's off . 
+_t4 		forget that . 
+_t4 		for:get it . 
+_t4 		bye bye cube . 
+_t4 		bye bye cube . 
+_t4 		bye bye cube . 
+_t4 		bye bye cube . 
+_t4 		very good honey . 
+_t4 		yeah .
+_t4 
+_t4 		you're a glutton for punishment .
+_t4 
+_t4 		ooh look it's a cow and a moon .
+_t4 
+_t4 		bye bye cow in the moo:n . 
+_t4 		a bear . 
+_t4 		bye bye bear . 
+_t4 		apple . 
+_t4 		bye bye apple . 
+_t4 		wha's [: what is] that Lily ? 
+_t4 		what is that honey ? 
+_t4 		really ? 
+_t4 		what's this ? 
+_t4 		really ? 
+_t4 		yeah .
+_t4 
+_t4 		oh , are you throwing that car ? 
+_t4 		ya [: you] have_to be nice to the car .
+_t4 
+_t4 		nice car good car: . 
+_t4 		nice hat , ya [: you] wanna pick up your birthday hat ? 
+_t4 		what's that ? 
+_t4 		really ? 
+_t4 		you wanna show that hat to Manuela ? 
+_t4 		can I see , oo:h that's a pretty hat . 
+_t4 		pretty . 
+_t4 		wha [: what] dya [: do you] do with that hat ? 
+_t4 		do you wear that hat on your head ? 
+_t4 		beautifu:l . 
+_t4 		I love it . 
+_t4 		I love it . 
+_t4 		dya [: do you] wanna show Manuela a picture of Phoebe and Trevor ? 
+_t4 		is there a picture of Trevor right next to Manuela ? 
+_t4 		dya [: do you] wanna show her ? 
+_t4 		where is it ? 
+_t4 		where's it ? 
+_t4 		show me . 
+_t4 		you playin [: playing] with your lil [: little] rubber band ? 
+_t4 		where's the picture that you like to look at sweetie of Trevor ? 
+_t4 		is it out there ? 
+_t4 		the thing is I can't tell there's like a glare , yeah it's there . 
+_t4 		huh , loo:k honey who's that ? 
+_t4 		who's that ? 
+_t4 		really ? 
+_t4 		oh my gosh . 
+_t4 		who's that ? 
+_t4 		huh look , look at that picture honey . 
+_t4 		who is that ? 
+_t4 		huh Phoebe . 
+_t4 		is that Baby Phoebe ? 
+_t4 		who's that ? 
+_t4 		really ? 
+_t4 		what's she doing ? 
+_t4 		what are you doing ? 
+_t4 		who's that ? 
+_t4 		who's in that picture honey ? 
+_t4 		really ? 
+_t4 		what other pictures are there ? 
+_t4 		huh who's that ? 
+_t4 		who's that ? 
+_t4 		really ? 
+_t4 		Trevor ? 
+_t4 		Trevor: . 
+_t4 		ye:ah [: yes] .
+_t4 
+_t4 		really huh who's tha:t ? 
+_t4 		is that Baby Trevor ? 
+_t4 		well who's holding Baby Trevor in that picture ? 
+_t4 		look .
+_t4 
+_t4 		who's that ? 
+_t4 		auntie: . 
+_t4 		who's that ? 
+_t4 		oh .
+_t4 
+_t4 		pretty trees . 
+_t4 		huh . 
+_t4 		who's that ? 
+_t4 		that's auntie . 
+_t4 		and that's Baby Phoebe .
+_t4 
+_t4 		Nana . 
+_t4 		who's that ? 
+_t4 		Trevor . 
+_t4 		and who's that ? 
+_t4 		that's mommy silly . 
+_t4 		I'm mommy . 
+_t4 		hello . 
+_t4 		very nice to meet you . 
+_t4 		that's mommy's microphone . 
+_t4 		huh . 
+_t4 		who's tha:t ? 
+_t4 		auntie: . 
+_t4 		and who's that ? 
+_t4 		that's Phoebe , and who's that ? 
+_t4 		really that's Trevor ? 
+_t4 		mmmm . 
+_t4 		huh that's Baby Jane . 
+_t4 		who's that ? 
+_t4 		that's Sam . 
+_t4 		who's that ? 
+_t4 		that's Sam . 
+_t4 		who's that ? 
+_t4 		really ? 
+_t4 		I think that's Bobby silly . 
+_t4 		let's see who else we have .
+_t4 
+_t4 		that's Jennifer . 
+_t4 		and Jane . 
+_t4 		who's that ? 
+_t4 		why you keep on calling mommy  ? 
+_t4 		that's Carrie . 
+_t4 		and that's Joyce . 
+_t4 		can you say Joyce ? 
+_t4 		that's a hard one . 
+_t4 		huh , dya [: do you] know who tha:t is ? 
+_t4 		that's daddy . 
+_t4 		yeah . 
+_t4 		Steve . 
+_t4 		and Jackie . 
+_t4 		who's that ? 
+_t4 		Jackie .
+_t4 
+_t4 		Jackie . 
+_t4 		huh . 
+_t4 		Joyce . 
+_t4 		who's that ? 
+_t4 		that's daddy . 
+_t4 		huh .
+_t4 
+_t4 		who's that ? 
+_t4 		that's mommy . 
+_t4 		who's that ? 
+_t4 		that's Aunt Jill . 
+_t4 		huh .
+_t4 
+_t4 		Uncle Ste:ve . 
+_t4 		that's all our pictures . 
+_t4 		who's that ?
+_t4 
+_t4 		that's Aunt Jill . 
+_t4 		huh .
+_t4 
+_t4 		who's that ? 
+_t4 		it's mommy silly . 
+_t4 		who's that ?
+_t4 
+_t4 		that's daddy . 
+_t4 		huh that's Sam . 
+_t4 		and mommy . 
+_t4 		who's that ? 
+_t4 		auntie . 
+_t4 		and Phoebe . 
+_t4 		and Nana . 
+_t4 		huh .
+_t4 
+_t4 		I know that's not your sippy cup . 
+_t4 		who's that ? 
+_t4 		really ? 
+_t4 		who's that ? 
+_t4 		that's Baby Phoebe . 
+_t4 		yeah . 
+_t4 		you wanna look at other pictures you want mommy to get you other pictures ? 
+_t4 		here ya [: you] go . 
+_t4 		who's that ? 
+_t4 		Phoebe . 
+_t4 		Phoebe . 
+_t4 		yeah . 
+_t4 		and who's that baby ?
+_t4 
+_t4 		that's Baby Lily . 
+_t4 		she has a frog . 
+_t4 		she has a frog . 
+_t4 		huh .
+_t4 
+_t4 		who's that ? 
+_t4 		Grandma Rosie . 
+_t4 		xxx Lily . 
+_t4 		yeah that's the quilt you slept with . 
+_t4 		remember at grandma's house ? 
+_t4 		who's that ? 
+_t4 		that's froggy . 
+_t4 		huh . 
+_t4 		who's that ? 
+_t4 		baby bear . 
+_t4 		huh . 
+_t4 		who's that ? 
+_t4 		auntie: . 
+_t4 		who's that ? 
+_t4 		Trevor . 
+_t4 		who's that ? 
+_t4 		Phoebe . 
+_t4 		huh . 
+_t4 		who's that ? 
+_t4 		that's auntie and Baby Lily . 
+_t4 		Manuela . 
+_t4 		am I in it too ? 
+_t4 		huh . 
+_t4 		huh . 
+_t4 		that's a big green +...
+_t4 
+_t4 		is that a ball or a balloon honey ? 
+_t4 		is that a ball ?
+_t4 
+_t4 		a big green ball ? 
+_t4 		let's call it a ball . 
+_t4 		who's that guy ? 
+_t4 		da:ddy . 
+_t4 		and who's that ? 
+_t4 		who's that ? 
+_t4 		that's auntie . 
+_t4 		I don't know who that little boy is actually . 
+_t4 		that's a good question . 
+_t4 		I don't know his name . 
+_t4 		you're eating a dinosaur . 
+_t4 		that's your phone . 
+_t4 		who's that ? 
+_t4 		yeah . 
+_t4 		Phoebe . 
+_t4 		hi Phoebe . 
+_t4 		Phoebe: . 
+_t4 		Phoebe: . 
+_t4 		Phoebe: . 
+_t4 		huh . 
+_t4 		what's that ? 
+_t4 		that's your big red ball . 
+_t4 		that's your big red ball . 
+_t4 		your big red ball . 
+_t4 		that's Lily and her big red ball . 
+_t4 		mmmm . 
+_t4 		big red ball . 
+_t4 		what's that ? 
+_t4 		that's your red ball . 
+_t4 		there it is . 
+_t4 		ooh you have a hat on . 
+_t4 		ooh . 
+_t4 		that's Lily . 
+_t4 		she has a hat on . 
+_t4 		huh . 
+_t4 		who's that there's Baby Lily . 
+_t4 		who ya [: you] holding ? 
+_t4 		really ? 
+_t4 		that's Baby Bear . 
+_t4 		Lily: .
+_t4 
+_t4 		that's Lily sitting in the Japanese tea garden .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		there's  up at Smith there's a Japanese tea garden where there's a rock formation so Buddha's [: Buddha is] supposed to be in the center of the rock formation and we stuck her there we're like be Buddha .
+_t4 
+_t4 		you're silly . 
+_t4 		who's that ? 
+_t4 		mmmm just some strange baby huh ? 
+_t4 		you like that crinkly paper ? 
+_t4 		huh who's that ? 
+_t4 		that's your fro:ggy . 
+_t4 		huh who's that ? 
+_t4 		who is that ? 
+_t4 		you know he's upstairs who is that ? 
+_t4 		that's Floppy . 
+_t4 		Flo:ppy: .
+_t4 
+_t4 		Flopp:y .
+_t4 
+_t4 		Floppy .
+_t4 
+_t4 		hi Floppy .
+_t4 
+_t4 		Floppy: . 
+_t4 		huh who's this honey ? 
+_t4 		who's that ? 
+_t4 		who's that ?
+_t4 
+_t4 		that's Baby Matthew . 
+_t4 		and Baby Lily: .
+_t4 
+_t4 		and Floppy .
+_t4 
+_t4 		her favorite doll Floppy .
+_t4 
+_t4 		oh . 
+_t4 		Floppy .
+_t4 
+_t4 		alright you look at the pictures honey I'll go get Floppy for you . 
+_t4 		I don't want to torment you .
+_t4 
+_t4 		who's that baby ?
+_t4 
+_t4 		Lily where's Floppy ? 
+_t4 		Lily . 
+_t4 		where's Floppy ? 
+_t4 		oh: yeah , there's Floppy . 
+_t0 		what Lily ? 
+_t0 		what Lily ? 
+_t0 		xxx .
+_t0 
+_t0 		what Lily ? 
+_t0 		Flo:ppy . 
+_t0 		huh . 
+_t0 		who's that ? 
+_t0 		that's Baby Matthew . 
+_t0 		that's your cousin Matthew . 
+_t0 		huh look honey who's that ? 
+_t0 		oh . 
+_t0 		what's a doggy say ? 
+_t0 		huh ruf  . 
+_t0 		oo:h that's Matthew: .
+_t0 
+_t0 		that's Aunt Jill . 
+_t0 		who's that ? 
+_t0 		that's Uncle Steve actually does he look like daddy to you ? 
+_t0 		he looks like daddy in that picture . 
+_t0 		huh who's that ?
+_t0 
+_t0 		that's Debbie . 
+_t0 		and who's that ? 
+_t0 		that's Ga:bb:y . 
+_t0 		hey who's that ? 
+_t0 		xxx . 
+_t0 		xxx . 
+_t0 		yeah she's got a lot  little word shapes  .
+_t0 
+_t0 		donkey . 
+_t0 		it's Lily . 
+_t0 		yeah . 
+_t0 		huh , Lily and Matthew . 
+_t0 		huh who's that ? 
+_t0 		that's Ga:bby . 
+_t0 		Gabby talkin [: talking] on the phone .
+_t0 
+_t0 		huh . 
+_t0 		Flopp:y . 
+_t0 		how do you pick out Floppy in every picture ?
+_t0 
+_t0 		there's Floppy . 
+_t0 		who's that ?
+_t0 
+_t0 		ooh that's a big cake for you: .
+_t0 
+_t0 		who's that ? 
+_t0 		who is that's Gabby .
+_t0 
+_t0 		Lily had a birthday party and everyone got a (.) stomach virus the day the day of her birthday party . 
+_t0 		so the only person who came was the little girl who gave her the stomach virus . 
+_t0 		oh: .
+_t0 
+_t0 		that's Lily . 
+_t0 		who's that do you know who that is ? 
+_t0 		that's Daisy . 
+_t0 		Da:isy: . 
+_t0 		huh .
+_t0 
+_t0 		who's that honey ? 
+_t0 		ducky: . 
+_t0 		o:h who's tha:t ?
+_t0 
+_t0 		huh that's Po: . 
+_t0 		who's that ? 
+_t0 		yeah . 
+_t0 		and who's that look . 
+_t0 		that's snow+man . 
+_t0 		snow+ma:n . 
+_t0 		snow+ma:n . 
+_t0 		that's who's that ? 
+_t0 		that's auntie . 
+_t0 		and who's this ? 
+_t0 		who's that ? 
+_t0 		Gabby . 
+_t0 		we're at the end of our picture +...
+_t0 
+_t0 		ooh what are you eating ?
+_t0 
+_t0 		what is that ? 
+_t0 		apple . 
+_t0 		apple . 
+_t0 		we don't have any apples right now sweetie pie .
+_t0 
+_t0 		I don't have any apples for you sorry .
+_t0 
+_t0 		I don't have any . 
+_t0 		bye bye apple . 
+_t0 		bye bye apple . 
+_t0 		bye: bye apple . 
+_t0 		yeah .
+_t0 
+_t0 		bye bye apple . 
+_t0 		that the end of our pictures ? 
+_t0 		oh boy .
+_t0 
+_t0 		yeah that the end of our pictures I don't know what this is there for ? 
+_t0 		yea:h .
+_t0 
+_t0 		tada: .
+_t0 
+_t4 		where'd Floppy go ? 
+_t4 		you think Floppy's [: Floppy is] under the photo album ? 
+_t4 		look at this end honey . 
+_t4 		yeah under there . 
+_t4 		can you: find Flo:ppy ? 
+_t4 		can you close the book ? 
+_t4 		he's under the book . 
+_t4 		yeah .
+_t4 
+_t4 		under the book . 
+_t4 		look .
+_t4 
+_t4 		who's under here ? 
+_t4 		I see a red foot peaking out . 
+_t4 		bye bye lemon . 
+_t4 		Gabby . 
+_t4 		who's that ? 
+_t4 		huh .
+_t4 
+_t4 		Flopp:y . 
+_t4 		muah . 
+_t4 		good Floppy . 
+_t4 		ooh Floppy . 
+_t4 		can you give Floppy a kiss ? 
+_t4 		dirty . 
+_t4 		bye bye dirty . 
+_t4 		dirty . 
+_t4 		dirty: . 
+_t4 		should I've wiped Floppy's nose ? 
+_t4 		boop     . 
+_t4 		boop    . 
+_t4 		Birthday Bear's [: Bear is] in the rocking chair why don't you go wipe his nose ? 
+_t4 		boop    . 
+_t4 		very nice .
+_t4 
+_t4 		yeah: . 
+_t4 		the camera actually doesn't have a nose isn't that funny . 
+_t4 		you wanna wipe mommy's nose ? 
+_t4 		thanks . 
+_t4 		boop   . 
+_t4 		thank you . 
+_t4 		you wanna throw that away ? 
+_t4 		you wanna throw that in the garbage ? 
+_t4 		ok: . 
+_t4 		let's go throw that away: . 
+_t4 		here we go: . 
+_t4 		yeah dirty we gotta throw that away . 
+_t4 		k [: ok] .
+_t4 
+_t4 		xxx yeah . 
+_t4 		and the ball . 
+_t4 		boop     . 
+_t4 		ok: can we throw that away ? 
+_t4 		here we go yea:h .
+_t4 
+_t4 		yea:h .
+_t4 
+_t4 		you wanna look at your bo:x ? 
+_t4 		no .
+_t4 
+_t4 		oh here would you like one of these ?
+_t4 
+_t4 		why don't you go out and show Manuela your cereal squares . 
+_t4 		yeah , you can go out this way sweetie . 
+_t4 		let's go out this way . 
+_t4 		mmmm: . 
+_t4 		huh . 
+_t4 		what are those ? 
+_t4 		can you tell Manuela wha [: what] chyour [: you are] eating ? 
+_t4 		what is  ?
+_t4 
+_t4 		huh . 
+_t4 		o:h . 
+_t4 		can I see ? 
+_t4 		can you show that to Manuela ? 
+_t4 		oo:h . 
+_t4 		oo:h yummy . 
+_t4 		tasty . 
+_t4 		you wanna feed one to Baby Kate honey ? 
+_t4 		yea:h  watch your foot . 
+_t4 		stuck in your  . 
+_t4 		oh you're feeding one to the tree ? 
+_t4 		why don't you feed one to ducky ? 
+_t4 		or Daisy ? 
+_t4 		she's like I'm so tired of sharing my food . 
+_t4 		you gonna feed it to Daisy ? 
+_t4 		num       .
+_t4 
+_t4 		yea:h . 
+_t4 		what about LaLa you wanna feed some to LaLa ? 
+_t4 		num        . 
+_t4 		ducky ? 
+_t4 		you wanna feed some to ducky ? 
+_t4 		delicious . 
+_t4 		yea:h . 
+_t4 		what about Snoopy ? 
+_t4 		mmmm        . 
+_t4 		very nice . 
+_t4 		Manuela ? 
+_t4 		xxx .
+_t4 
+_t4 		mum       . 
+_t4 		yummy . 
+_t4 		who's that ? 
+_t4 		really ? 
+_t4 		oh you feeding some to the bunny ? 
+_t4 		um      . 
+_t4 		who's this guy ? 
+_t4 		who is that ? 
+_t4 		just some strange bear who wandered into our house ? 
+_t4 		mmmm , Pooh Bear . 
+_t4 		Pooh Bea:r . 
+_t4 		huh . 
+_t4 		pea:s . 
+_t4 		peas meet Pooh Bear . 
+_t4 		Pooh Bear meet peas . 
+_t4 		yeah . 
+_t4 		the pea:s ,  peas meet Julie .
+_t4 
+_t4 		Julie meet the peas . 
+_t4 		ooh the peas go in the +...
+_t4 
+_t4 		baby: crib . 
+_t4 		yeah you wanna press the button on the baby crib see if we can hear any noise ? 
+_t4 		see what's goin [: going] on in the baby nursery ? 
+_t4 		you want me to push it ? 
+_t4 		mama , mama . 
+_t4 		mmmm the baby's [: baby is] calling for mama . 
+_t4 		the baby's [: baby is] laughing . 
+_t4 		&aw the baby's [: baby is] cry:ing . 
+_t4 		doo  doo:  ,   doo:  ,        .
+_t4 
+_t4 		huh  should we put the ball in the (.) baby crib there we go . 
+_t4 		doo   . 
+_t4 		doo doo:    ,      doo: .
+_t4 
+_t4 		oh yeah Julie's a little big to fit in the baby crib huh ? 
+_t4 		yeah she's a little big . 
+_t4 		yea:h . 
+_t4 		mmmm . 
+_t4 		sweetie wanna wave bye bye to the camera ? 

@@ -1,0 +1,729 @@
+_t5 		what's in that box ? 
+_t5 		what's in the box ? 
+_t5 		huh ? 
+_t5 		clean it . 
+_t5 		right (.) clean it . 
+_t5 		a little dusty . 
+_t5 		nobody feels good huh ? 
+_t5 		everybody feels crummy . 
+_t5 		what's in here ? 
+_t5 		look . 
+_t5 		wow . 
+_t5 		what is in there ? 
+_t5 		wow . 
+_t5 		what's that ? 
+_t5 		that's a (.) rock .
+_t5 
+_t4 		xxx . 
+_t4 		did you have a nice little nap ? 
+_t4 		huh ? 
+_t4 		what's that ? 
+_t4 		what's that ?
+_t4 
+_t4 		what's that ? 
+_t4 		c'mere [: come here] . 
+_t4 		come over here help me . 
+_t4 		help me . 
+_t4 		help Mommy . 
+_t4 		uh+oh . 
+_t4 		what happened ? 
+_t4 		there . 
+_t4 		all nice and polished . 
+_t4 		all+right I don't know if I remember how to do this . 
+_t4 		this is daddy's project . 
+_t4 		you helping me ? 
+_t4 		xxx . 
+_t4 		thank you . 
+_t4 		now (.) we're missing +...
+_t4 
+_t4 		we're missing the car . 
+_t4 		the tr(uck) +//.
+_t4 
+_t4 		the thing . 
+_t4 		must be in your room . 
+_t4 		here's a bee boat . 
+_t4 		okay ready ? 
+_t4 		all+right . 
+_t4 		now +... 
+_t4 		does it matter +... 
+_t4 		where we hook these up to ? 
+_t4 		d'you [: do you] think ? 
+_t4 		xxx .
+_t4 
+_t4 		that piece does not fit . 
+_t4 		h . 
+_t4 		q . 
+_t4 		o (.) a . 
+_t4 		so it does matter . 
+_t4 		okay . 
+_t4 		that goes there . 
+_t4 		right ? 
+_t4 		you gonna help me ? 
+_t4 		can you help me ?
+_t4 
+_t4 		here's a . 
+_t4 		here's the a . 
+_t4 		&aw .
+_t4 
+_t4 		what honey wipe your little tears (.) don't cry .
+_t4 
+_t4 		wanna step on it ? 
+_t4 		watch your feet . 
+_t4 		you wanna give me a hug or you wanna +//? 
+_t4 		what's that ? 
+_t4 		thank you . 
+_t4 		all+right .
+_t4 
+_t4 		watch your feet . 
+_t4 		where're [: where are] your socks ? 
+_t4 		this is a g and an h where's the h ? 
+_t4 		you thirsty ? 
+_t4 		are you thirsty ? 
+_t4 		here's (.) here's the b . 
+_t4 		and a d . 
+_t4 		and a c . 
+_t4 		wow . 
+_t4 		thank you . 
+_t4 		slide it over . 
+_t4 		that says g . 
+_t4 		this says o . 
+_t4 		this says q . 
+_t4 		watch your little feet . 
+_t4 		and your hands . 
+_t4 		all+right here's the g . 
+_t4 		that's another g . 
+_t4 		where you going ? 
+_t4 		this way . 
+_t4 		that's j . 
+_t4 		e f . 
+_t4 		up j . 
+_t4 		here's the j . 
+_t4 		what is it ? 
+_t4 		can you get Mommy one ? 
+_t4 		thank you .
+_t4 
+_t4 		oh that's lovely .
+_t4 
+_t4 		oh another one . 
+_t4 		thank you . 
+_t4 		howbout [: how about] some of these +//? 
+_t4 		thank you . 
+_t4 		what is that ?
+_t4 
+_t4 		oh that's for me ? 
+_t4 		thank you . 
+_t4 		thank you that's a gravel pit . 
+_t4 		okay howbout [: how about] another one ? 
+_t4 		Alex howbout [: how about] those ? 
+_t4 		over there look . 
+_t4 		howbout [: how about] the tracks ? 
+_t4 		can you give Mommy the tracks ? 
+_t4 		thank you let's see . 
+_t4 		this +... 
+_t4 		I have no idea where this goes . 
+_t4 		thought you were helping me . 
+_t4 		I lost my helper . 
+_t4 		woah .
+_t4 
+_t4 		Mommy get you a tissue . 
+_t4 		here's (.) Alex here's another one . 
+_t4 		
+_t4 		c'mere [: come here] . 
+_t4 		thank you . 
+_t4 		okay ? 
+_t4 		what was that Alex ? 
+_t4 		ball ? 
+_t4 		xxx . 
+_t4 		is it stuck ? 
+_t4 		c'mere [: come here] . 
+_t4 		get the other one . 
+_t4 		over there . 
+_t4 		see em [: them] ? 
+_t4 		did you get the other ones ? 
+_t4 		what's that ? 
+_t4 		that's not a phone . 
+_t4 		hi there .
+_t4 
+_t4 		wait don't go without me . 
+_t4 		you're all twisted (.) un+twist .
+_t4 
+_t4 		this way . 
+_t4 		this way this way . 
+_t4 		this way . 
+_t4 		okay ? 
+_t4 		mmmm fix this . 
+_t4 		okay ? 
+_t4 		oh don't pull Mommy . 
+_t4 		wow . 
+_t4 		don't break it Alex . 
+_t4 		that's not nice you can't do that .
+_t4 		this isn't yours . 
+_t4 		okay that's enough . 
+_t4 		help Mommy build the tracks . 
+_t4 		get the balls . 
+_t4 		go get the rocks . 
+_t4 		see em [: them] ? 
+_t4 		see em [: them] ? 
+_t4 		bring em [: them] over here . 
+_t4 		bring em [: them] over here . 
+_t4 		careful . 
+_t4 		are you +...
+_t4 
+_t4 		oh (.) c'mere [: come here] . 
+_t4 		what happened ? 
+_t4 		you got hurt ? 
+_t4 		you're all+right . 
+_t4 		you just have_to pay attention to when you run (.) you run so fast . 
+_t4 		you've [: you have] to go slow . 
+_t4 		o .
+_t4 
+_t4 		lemme [: let me] fix your pants . 
+_t4 		okay ? 
+_t4 		you all+right now ? 
+_t4 		okay .
+_t4 
+_t4 		what's that ?
+_t4 
+_t4 		what's that ? 
+_t4 		what's that ?
+_t4 
+_t4 		what's that (.) what's that ? 
+_t4 		where's the (.) where's your (.) rocks ? 
+_t4 		go get the rocks . 
+_t4 		go get em [: them] (.)  get up . 
+_t4 		up up up up up . 
+_t4 		that's the remote . 
+_t4 		okay +//. 
+_t4 		still don't know where this goes Alex . 
+_t4 		you scared me . 
+_t4 		d'you [: do you] wanna help Mommy ? 
+_t4 		or d'you [: do you] want to try something different . 
+_t4 		who's that ? 
+_t4 		xxx right there . 
+_t4 		Bert . 
+_t4 		and the piggy bank . 
+_t4 		Ernie . 
+_t4 		can you read to Mommy ? 
+_t4 		can you read the book to Mommy ? 
+_t4 		where's the little pigs ? 
+_t4 		shark . 
+_t4 		the crab . 
+_t4 		the crab likes walking sideways and I think the reason why +... 
+_t4 		is to make himself look sneaky and pretend that he's a spy . 
+_t4 		here's the turtles . 
+_t4 		we crawl up the beach from the water (.) . 
+_t4 		to bury our eggs on dry land +... 
+_t4 		we lay a whole batch and then when they hatch they scamper up out in the sand . 
+_t4 		oh pretty . 
+_t4 		angelfish . 
+_t4 		hello (.) I'm the angelfish . 
+_t4 		darling . 
+_t4 		the prettiest thing in the sea . 
+_t4 		what a shame there are no other creatures as gorgeous and lovely as me . 
+_t4 		what's that ? 
+_t4 		the walrus . 
+_t4 		wow . 
+_t4 		wan [: want] go backwards ? 
+_t4 		the jelly fish . 
+_t4 		turtles . 
+_t4 		crab . 
+_t4 		and the shark . 
+_t4 		wow . 
+_t4 		very nice . 
+_t4 		what's this one ? 
+_t4 		ready ? 
+_t4 		but rubber duckies don't say quack . 
+_t4 		but rubber duckies absolutely never say quack . 
+_t4 		what do rubber duckies say ? 
+_t4 		rubber duckies say squeak ! 
+_t4 		where's your other books ? 
+_t4 		would you like to get more books ? 
+_t4 		xxx right there . 
+_t4 		yeah you don't like that one I don't . 
+_t4 		oh a squeaky book . 
+_t4 		turtle . 
+_t4 		no ? 
+_t4 		this one ? 
+_t4 		c'mere [: come here] lemme [: let me] see your face . 
+_t4 		wait a minute don't do that Mommy help you . 
+_t4 		Mommy help you . 
+_t4 		okay (.) all+right ? 
+_t4 		you okay ? 
+_t4 		would you like a drink ? 
+_t4 		I'm not holding it you have_to hold it . 
+_t4 		all+right ? 
+_t4 		okay . 
+_t4 		friends all day . 
+_t4 		big bird (.) I wake up every morning (.) I greet the shining star . 
+_t4 		sun (.) then when I wake up Rita we're ready for some fun . 
+_t4 		Oscar ! 
+_t4 		first I clean my room . 
+_t4 		then it's time to play . 
+_t4 		Bernice is always by my side it's much more fun that way . 
+_t4 		oh boy . 
+_t4 		who's that ? 
+_t4 		scrub a dub dub it's time for the tub . 
+_t4 		Mimi and I settle in and cuddle in a cozy nook . 
+_t4 		now we're ready for story time when we read our favorite book . 
+_t4 		who's that ? 
+_t4 		Elmo ? 
+_t4 		it's been a busy day for Elmo it's time to go to sleep . 
+_t4 		one . 
+_t4 		two . 
+_t4 		three sheep . 
+_t4 		can you count the sheep ? 
+_t4 		this one ? 
+_t4 		I don't (.) I'm not too crazy about this one . 
+_t4 		Elmo needs your help to play this game . 
+_t4 		would you (.) help (.) please ? 
+_t4 		gimme [: give me] cookie gimme [: give me] cookie please gimme [: give me] cookie . 
+_t4 		gimme [: give me] cookie I need cookie . 
+_t4 		you have_to say please . 
+_t4 		may we please be excused from lunch ? 
+_t4 		yes you may . 
+_t4 		and they said please . 
+_t4 		that's great manners . 
+_t4 		get another Alex (.) get ones that you like . 
+_t4 		God bless you . 
+_t4 		any more sneezes ? 
+_t4 		okay good boy . 
+_t4 		you're such a nice boy when you let Mommy help you . 
+_t4 		Ernie follows his nose . 
+_t4 		let's use our nose and find things to smell . 
+_t4 		your beak or your snuffle will work just as well . 
+_t4 		smell the bread as it bakes and the blueberry pie . 
+_t4 		smell the freshly washed clothes as they're hung out to dry . 
+_t4 		smell the earth +... 
+_t4 		in the trees . 
+_t4 		and the warm summer showers . 
+_t4 		breath in the sweet smell from a field full of flowers . 
+_t4 		you found it (.) tweedlebug . 
+_t4 		hold your nose as you pass Oscar's pile of junk . 
+_t4 		run as fast as you can (.) his smelly pet skunk . 
+_t4 		now I'll relax in my bubble filled tubby . 
+_t4 		thank you . 
+_t4 		but you know Mommy (.) I think these +... 
+_t4 		go (.) here . 
+_t4 		but (.) up there's one . 
+_t4 		let's put the books away if we're all done reading . 
+_t4 		okay ? 
+_t4 		that way +... 
+_t4 		we can get them later . 
+_t4 		d'you [: do you] wanna do this d'you [: do you] wanna [: want to] put these in ? 
+_t4 		would you like to read more books ? 
+_t4 		go get a different one we read these already ? 
+_t4 		put em [: them] on the tracks . 
+_t4 		what ? 
+_t4 		you can play it . 
+_t4 		I'm just showing you . 
+_t4 		what's a matter ? 
+_t4 		somebody doesn't feel good  ! 
+_t4 		you wanna lay down ? 
+_t4 		would you like some help getting up ? 
+_t4 		okay ? 
+_t4 		here (.) here's your bee book this is the one that you like . 
+_t4 		this one . 
+_t4 		Zoey and the runaway ball . 
+_t4 		Big Bird . 
+_t4 		d'you [: do you] want this one ? 
+_t4 		oh look you can make an Elmo I just noticed that look . 
+_t4 		lookit [: look] . 
+_t4 		see ? 
+_t4 		here's an Elmo . 
+_t4 		that's not nice . 
+_t4 		that's not nice either . 
+_t4 		there'll be no hitting . 
+_t4 		lookit [: look] . 
+_t4 		would +//.
+_t4 
+_t4 		what's a matter ? 
+_t4 		would you like a drink ? 
+_t4 		there it goes . 
+_t4 		would you like Mommy to +//.
+_t4 
+_t4 		Alex ! 
+_t4 		that's not nice . 
+_t4 		please don't do that . 
+_t4 		here . 
+_t4 		okay all+right . 
+_t4 		would you like a snack ? 
+_t4 		okay you throw your toys and Mommy will fix the tracks . 
+_t4 		okay (.) and then when you feel better you let me know . 
+_t4 		you're not happy right now . 
+_t4 		I'm throwing everything I'm not happy . 
+_t4 		oh . 
+_t4 		throwing my books . 
+_t4 		that's Jessica right (.) yeah said that he could go in there for a little while if he wanted to +/. 
+_t4 		what's that ? 
+_t4 		what is this ? 
+_t4 		what did Mommy bring downstairs for you ? 
+_t4 		xxx . 
+_t4 		is that on ? 
+_t4 		what ?
+_t4 
+_t4 		is that on ? 
+_t4 		what ?
+_t4 
+_t4 		that  .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		can you watch him for a second because +... 
+_t4 		yeah .
+_t4 
+_t4 		I can't +//.
+_t4 
+_t4 		I don't have the truck it must be upstairs . 
+_t4 		where's your telephone . 
+_t4 		where's your telephone ?
+_t4 
+_t4 		oh where's your phone ? 
+_t4 		watch your head . 
+_t4 		get the ball . 
+_t4 		get the ball (.) get that ball . 
+_t4 		where's the car ? 
+_t4 		what does a car do ? 
+_t4 		what ? 
+_t4 		don't feel good today do you ? 
+_t4 		would you like something to drink ? 
+_t4 		all+right c'mon [: come on] . 
+_t4 		Alex . 
+_t4 		c'mon [: come on] (.) c'mere [: come here] . 
+_t4 		c'mere [: come on] . 
+_t4 		go get a book . 
+_t4 		can you get a book ?
+_t4 
+_t4 		what's the matter Alex how come your so upset today ?
+_t4 
+_t4 		huh ?
+_t4 
+_t4 		you don't feel good +//? 
+_t4 		what's a matter what's a matter ? 
+_t4 		d'you [: do you] need to show me something ? 
+_t4 		all+right wait a minute . 
+_t4 		c'mere [: come here] . 
+_t4 		are you hungry . 
+_t4 		would you like a cookie ? 
+_t4 		no cookie .
+_t4 
+_t4 		would you like some grapes ? 
+_t4 		no (.) no grapes . 
+_t4 		something to drink ? 
+_t4 		he has it . 
+_t4 		oh .
+_t4 
+_t4 		what what what ? 
+_t4 		c'mere [: come here] . 
+_t4 		what honey ? 
+_t4 		you don't wanna play ?
+_t4 
+_t4 		what's a matter (.) c'mon [: come on] c'mere [: come here] .
+_t4 
+_t4 		what's a matter ? 
+_t4 		I know what you're looking for . 
+_t4 		but you can't have it . 
+_t4 		what ? 
+_t4 		who's that ? 
+_t4 		did you say hello ? 
+_t4 		all+right all+right . 
+_t4 		want Mommy to pick you up ? 
+_t4 		would you like to go look at the garden ? 
+_t4 		would you like to go look at the garden ? 
+_t4 		yeah . 
+_t4 		you like to look at that garden . 
+_t4 		see . 
+_t4 		wow it's very pretty . 
+_t4 		see all the vegetables . 
+_t4 		and the flowers . 
+_t4 		right ? 
+_t4 		see the people walking in the down the street ? 
+_t4 		what's a birdie say ? 
+_t4 		tweet tweet . 
+_t4 		there . 
+_t4 		careful careful careful . 
+_t4 		you're all+right you have_to watch where you're going honey . 
+_t4 		would you like to go on the porch .
+_t4 
+_t4 		for a little bit +...
+_t4 
+_t4 		take a porch break . 
+_t4 		c'mon [: come on] .
+_t4 
+_t4 		carry your drink . 
+_t4 		c'mon [: come on] this way look . 
+_t4 		c'mon [: come on] . 
+_t4 		c'mon [: come on] . 
+_t4 		tell Jessica we're gonna try and go on the porch for a little bit . 
+_t4 		c'mon [: come on] .
+_t4 
+_t4 		c'mon [: come on] (.) maybe that will make you feel a little better . 
+_t4 		okay ? 
+_t4 		yeah (.) that's what I thought .
+_t4 
+_t4 		there's plenty of room if you wanna put the camera here (.) I mean I hate to keep making you move it but he's not +...
+_t4 
+_t4 		he's just not happy out there . 
+_t4 		okay is this better ? 
+_t4 		this make you feel better ? 
+_t4 		get some fresh air ? 
+_t4 		here Mommy will help you c'mere [: come here] . 
+_t4 		g'head [: go ahead] . 
+_t4 		turn around sit down . 
+_t4 		there very nice  Alex . 
+_t4 		would you like some bubbles ? 
+_t4 		no Mommy has to put on your socks (.) wait a minute . 
+_t4 		a tree . 
+_t4 		a tree +//. 
+_t4 		those are Alex's bubbles .
+_t4 
+_t4 		okay ? 
+_t4 		it's windy so I don't know we'll have_to see +... 
+_t4 		if we can do the best that we +//. 
+_t4 		can +//. 
+_t4 		nope [: no] +//.
+_t4 
+_t4 		Alex Mommy's trying . 
+_t4 		there . 
+_t4 		there they are . 
+_t4 		it's just windy that's all . 
+_t4 		have_to wait for the wind +... 
+_t4 		to go by . 
+_t4 		what's that ? 
+_t4 		you don't feel good huh ? 
+_t4 		ready ? 
+_t4 		let's try now . 
+_t4 		there . 
+_t4 		that's better . 
+_t4 		that's better . 
+_t4 		here comes the wind . 
+_t4 		wee . 
+_t4 		wee . 
+_t4 		nope [: no] . 
+_t4 		there . 
+_t4 		did you catch it ? 
+_t4 		ready ? 
+_t4 		yea .
+_t4 
+_t4 		woo .
+_t4 
+_t4 		ready ? 
+_t4 		ready ? 
+_t4 		one (.) two (.) three . 
+_t4 		wee: . 
+_t4 		wow: . 
+_t4 		what honey you want Mommy do another one ? 
+_t4 		okay here .
+_t4 
+_t4 		wait a minute . 
+_t4 		it's all soapy . 
+_t4 		this one .
+_t4 
+_t4 		thank you . 
+_t4 		God bless you . 
+_t4 		wee: . 
+_t4 		woops try again . 
+_t4 		God bless you . 
+_t4 		you ready (.) set (.) go . 
+_t4 		nope [: no] +...
+_t4 
+_t4 		nope [: no] . 
+_t4 		where is it ? 
+_t4 		there it is . 
+_t4 		this one .
+_t4 
+_t2 		oh Alex Mommy's not doing well at all . 
+_t2 		there we go . 
+_t2 		oh we need a tissue wait a minute . 
+_t2 		ups . 
+_t2 		wait a minute  get it . 
+_t2 		just a second . 
+_t2 		you wanna stay there ? 
+_t2 		stay right there . 
+_t2 		all+right .
+_t2 
+_t2 		this one ? 
+_t2 		okay . 
+_t2 		wee: there they go finally . 
+_t2 		this one .
+_t2 
+_t2 		woops   there it is . 
+_t2 		pop ! 
+_t2 		pop ! 
+_t2 		okay here . 
+_t2 		pop pop .
+_t2 
+_t2 		pop pop pop pop .
+_t2 
+_t2 		wup can't catch it .
+_t2 
+_t2 		wee: . 
+_t2 		thank you .
+_t2 
+_t2 		there they go .
+_t2 
+_t4 		there they go . 
+_t4 		ready ? 
+_t4 		pop .
+_t4 
+_t4 		popped on Mommy .
+_t4 
+_t4 		this one ? 
+_t4 		this one .
+_t4 
+_t4 		don't put that in your mouth . 
+_t4 		please don't put that in your mouth . 
+_t4 		wow ! 
+_t4 		pop . 
+_t4 		it's all gone . 
+_t4 		where's bubbles ? 
+_t4 		don't make Mommy have_to take that . 
+_t4 		okay those are your options . 
+_t4 		thank you . 
+_t4 		nope [: no] too windy . 
+_t4 		too windy . 
+_t4 		yea there's a couple . 
+_t4 		which one ? 
+_t4 		fishy ? 
+_t4 		okay (.) no ? 
+_t4 		the turtle ? 
+_t4 		okay . 
+_t4 		thank you . 
+_t4 		oh that's pretty music .
+_t4 
+_t4 		Alex maybe it's the bubbles +... 
+_t4 		or maybe Mommy just stinks at this today . 
+_t4 		woo I don't know if this one works . 
+_t4 		there goes a couple . 
+_t4 		wow .
+_t4 
+_t4 		wee: . 
+_t4 		three bubble wands ? 
+_t4 		three bubble wands ? 
+_t4 		fishy . 
+_t4 		this one .
+_t4 
+_t4 		let's get you a tissue . 
+_t4 		thank you . 
+_t4 		a turtle ? 
+_t4 		Mommy has bubbles (.) all over her face . 
+_t4 		wow: . 
+_t4 		purple (.) thank you . 
+_t4 		okay ? 
+_t4 		orange one .
+_t4 
+_t4 		try the double side . 
+_t4 		pop em [: them] pop em [: them] pop ! 
+_t4 		pop em [: them] pop pop pop pop ! 
+_t4 		this one ? 
+_t4 		thank you . 
+_t4 		oops . 
+_t4 		thank you . 
+_t4 		Alex I +... 
+_t4 		Mommy is not doing well at all today . 
+_t4 		usually we make millions of bubbles . 
+_t4 		well there's two .
+_t4 
+_t4 		there's two . 
+_t4 		thank you . 
+_t4 		get it pop it pop it ! 
+_t4 		wow +//. 
+_t4 		xxx if I try . 
+_t4 		there . 
+_t4 		maybe you can catch em [: them] if I try over there . 
+_t4 		I'll get it . 
+_t4 		here . 
+_t4 		there you are . 
+_t4 		this one ? 
+_t4 		this one ? 
+_t4 		thank you . 
+_t4 		woops . 
+_t4 		there they go . 
+_t4 		d'you [: do you] see em [: them] ? 
+_t4 		are you spelling ?
+_t4 
+_t4 		what d'you [: do you] spell ? 
+_t4 		a .
+_t4 
+_t5 		pop ! 
+_t5 		ready +...
+_t5 
+_t5 		wow (.) wow . 
+_t5 		oh God bless you . 
+_t5 		no no no Mommy help you . 
+_t5 		oh what a nice boy (.) okay . 
+_t5 		the green .
+_t5 
+_t5 		green one ? 
+_t5 		okay ? 
+_t5 		you sharing ? 
+_t5 		purple ? 
+_t5 		pop pop pop .
+_t5 
+_t5 		pop the bubbles . 
+_t5 		pop pop pop pop . 
+_t5 		pop the bubbles . 
+_t5 		these bubbles stink . 
+_t5 		nope [: no] . 
+_t4 		purple . 
+_t4 		green . 
+_t4 		orange . 
+_t4 		which one ?
+_t4 
+_t4 		this one ? 
+_t4 		you wanna share that one (.) no ? 
+_t4 		this one thank you . 
+_t4 		thank you for sharing . 
+_t4 		oh Alex what is going on here . 
+_t4 		can I try that one ? 
+_t4 		this one's the only one that works the best . 
+_t4 		please take that out of your mouth . 
+_t4 		no . 
+_t4 		would you like me to pick that up for you ? 
+_t4 		wow . 
+_t4 		here ya [: you] go . 
+_t4 		three ? 
+_t4 		one (.) two +//. 
+_t4 		three (.) green .
+_t4 
+_t4 		oh thank you honey . 
+_t4 		there . 
+_t4 		that chair ? 
+_t4 		go head . 
+_t4 		okay ? 
+_t4 		ups . 
+_t4 		there . 
+_t4 		d'you [: do you] wanna get down ? 
+_t4 		there . 
+_t4 		Alex look at Mommy for a minute . 
+_t4 		lemme [: let me] see . 
+_t4 		okay . 
+_t4 		all+right thank you .
+_t4 
+_t4 		pop pop get it get it pop it pop .
+_t4 
+_t4 		Alex .
+_t4 
+_t4 		do you want this one ?
+_t4 
+_t4 		would you like that one ?
+_t4 
+_t4 		c'mere [: come here] honey .
+_t4 
+_t4 		xxx get your nose . 
+_t4 		runny nose . 
+_t4 		I think these wands (.) just aren't that great . 
+_t4 		try that one (.) okay . 
+_t4 		wee: . 
+_t4 		what is that ?
+_t4 
+_t4 		pop em [: them] .
+_t4 
+_t4 		pop pop pop . 
+_t4 		who's that ? 
+_t4 		is that a tree ? 
+_t4 		tree .
+_t4 
+_t4 		thank you . 
+_t4 		this one just doesn't work for me . 
+_t4 		thank you . 
+_t4 		xxx . 

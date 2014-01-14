@@ -1,0 +1,827 @@
+_t4 		you want a banana ?
+_t4 
+_t4 		how (a)bout in a little while ? 
+_t4 		what's this ? 
+_t4 		what's this ? 
+_t4 		couldjou [: could you] bring up a banana ? 
+_t4 		is that possible ? 
+_t4 		wouldjou [: would you] like a banana ? 
+_t4 		okay . 
+_t4 		okay . 
+_t4 		we're gonna have a banana . 
+_t4 		we're gonna have a banana ! 
+_t4 		it's coming up , banana ! 
+_t4 		o:kay . 
+_t4 		what's coming up , banana ? 
+_t4 		we're gonna have a (.) guess what . 
+_t4 		we're having a banana . 
+_t4 		yeah , banana . 
+_t4 		see , look , look look look look , what's coming up , what is that ? 
+_t4 		what is that ? 
+_t4 		here we go: . 
+_t4 		okay ? 
+_t4 		is that delicious ? 
+_t4 		what ?
+_t4 
+_t4 		oh , but sit with mommy and read some books . 
+_t4 		look at all the books , look . 
+_t4 		who's that ? 
+_t4 		book , yeah ! 
+_t4 		who's on the book ? 
+_t4 		yes , that's a book , that's right William . 
+_t4 		I don't know what this is . 
+_t4 		I don't know where that came from . 
+_t4 		what is this here William ? 
+_t4 		can you come and sit with mommy ? 
+_t4 		dyou [: do you] wanna come sit with mommy , we can read a book ,   .
+_t4 
+_t4 		somebody's cranky ! 
+_t4 		that's so phony ! 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		what is that ? 
+_t4 		no , okay .
+_t4 
+_t4 		o:ka:y ! 
+_t4 		o:ka:y ! 
+_t4 		woo ! 
+_t4 		no ! 
+_t4 		no ! 
+_t4 		wanna hug these ?
+_t4 		wanna hug ? 
+_t4 		o:h , okay . 
+_t4 		you wanna go outside ?
+_t4 
+_t4 		how (a)bout after we play inside for a while ? 
+_t4 		whada [: what do] you think ? 
+_t4 		whada [: what do] you think about playing inside for a while ? 
+_t4 		oh , look at this William ! 
+_t4 		ooh ! 
+_t4 		um+hum ? 
+_t4 		me turn it ? 
+_t4 		plane , yeah that's a plane ! 
+_t4 		we'll go on the swing in a little while .
+_t4 		wouldja [: would you] like to pretend to be on the swing ? 
+_t4 		dyou [: do you] wanna dance ? 
+_t4 		dyou [: do you] wanna dance ? 
+_t4 		no , okay . 
+_t4 		that's an awful lot of banana in your mouth . 
+_t4 		where's your belly button ? 
+_t4 		no ? 
+_t4 		no , do you don't have a belly button ? 
+_t4 		how (a)bout that William doesn't have a belly button . 
+_t4 		William doesn't have a be:lly button ! 
+_t4 		hello everybody hello everybody . 
+_t4 		you wanna do it ? 
+_t4 		come on .
+_t4 
+_t4 		boom chicka boom chicka boom chicka boom . 
+_t4 		hello everybody .
+_t4 
+_t4 		hello everybody .
+_t4 
+_t4 		wontcha [: won't you] sing along .
+_t4 
+_t4 		wontcha [: won't you] sing along .
+_t4 
+_t4 		say hello to William , say hello to William .
+_t4 		while we sing our song and a boom chicka boom .
+_t4 
+_t4 		chicka boom chicka boom .
+_t4 
+_t4 		hello everybody .
+_t4 
+_t4 		okay . 
+_t4 		well , I think (.) we need to do a little bit inside first . 
+_t4 		where your shoes ? 
+_t4 		o:h no ! 
+_t4 		okay . 
+_t4 		dyou [: do you] want some more juice ? 
+_t4 		okay . 
+_t4 		well , can you get your shoes for me ? 
+_t4 		no ? 
+_t4 		well we can't go can't go outside without the shoe:s . 
+_t4 		okay , calm down . 
+_t4 		okay ? 
+_t4 		come . 
+_t4 		come on . 
+_t4 		come here . 
+_t4 		you're a cranky puss , you didn't sleep enough . 
+_t4 		oh , come on , you don't need to cry . 
+_t4 		okay ,  . 
+_t4 		we have_to put your shoes on ! 
+_t4 		we have_to put a jacket on . 
+_t4 		okay ? 
+_t4 		and then maybe we can go outside . 
+_t4 		William wants to go outside ! 
+_t4 		okay we'll put your shoes on . 
+_t4 		what're these ?
+_t4 
+_t4 		no .
+_t4 
+_t4 		well , we can't go outside if you don't have shoes on . 
+_t4 		you need a shoes and you need a jacket . 
+_t4 		right , those are the two things you have_to have on . 
+_t4 		in addition to the rest of the clothes that you have on . 
+_t4 		how come your fingers are in your mouth ? 
+_t4 		hmmm ? 
+_t4 		are we putting your shoe on ? 
+_t4 		you need your , that's fine except , alright let's get this shoe . 
+_t4 		if you wanna put your right foot +... 
+_t4 		your right shoe on first then we have_to get the right +... 
+_t4 		the correct shoe . 
+_t4 		this is for the right shoe . 
+_t4 		put the right shoe on your foot . 
+_t4 		and we velcro it closed . 
+_t4 		&aw are you giving me huggy ?
+_t4 
+_t4 		okay . 
+_t4 		come on . 
+_t4 		you have_to turn around , I have_to putchur [: put your] other shoe on . 
+_t4 		hey , listen ! 
+_t4 		I know , camere [: come here] . 
+_t4 		we need the shoe on , right ? 
+_t4 		William ! 
+_t4 		I have_to put your shoe on honey . 
+_t4 		what'll be the point of us going outside ? 
+_t4 		hmmm ? 
+_t4 		why're [: why are] we going outside ? 
+_t4 		you know what , if it's raining we cannot go outside . 
+_t4 		I just thought of that it was raining before . 
+_t4 		an(d) if it's raining +... 
+_t4 		lemme [: let me] see , well it looks dry enough . 
+_t4 		how (a)bout you bring your juice ? 
+_t4 		why donchou [: don't you] walk ? 
+_t4 		you can walk . 
+_t4 		but if you wanna go outside then you should be able to walk , right ? 
+_t4 		you can carry your juice I'll carry you down the stairs . 
+_t4 		okay ? 
+_t4 		is that no ? 
+_t4 		can you talk to me ? 
+_t4 		and stop stop whining . 
+_t4 		keep your hands out of your mouth ? 
+_t4 		why donchou [: don't you] tell mommy what you need ? 
+_t4 		hmmm ? 
+_t4 		we're going to go outside . 
+_t4 		(be)cause we're having a meltdown if we don't go outside . 
+_t4 		let's put your jacket on ! 
+_t4 		I hope it's down here . 
+_t4 		I hope we have that (.) other fleece down here , yes . 
+_t4 		you gonna sit there ? 
+_t4 		William . 
+_t4 		I thought we had a talk about throwing things . 
+_t4 		yes William . 
+_t4 		mommy's right here . 
+_t4 		I'm right in front of you . 
+_t4 		yes William . 
+_t4 		can you putchur [: put your] arm through please ? 
+_t4 		William push your arm through please . 
+_t4 		William ! 
+_t4 		can you push your arm through please ? 
+_t4 		thank you . 
+_t4 		whoops . 
+_t4 		you're okay . 
+_t4 		you made it ! 
+_t4 		you made it , o:h boy ! 
+_t4 		okay ! 
+_t4 		oh , hat , hat on . 
+_t4 		okay , wanna go outside ? 
+_t4 		okay , come . 
+_t4 		mommy's gonna put a jacket on too because I think it's cool . 
+_t4 		outside ? 
+_t4 		outside ? 
+_t4 		o:h ! 
+_t4 		I hear a little phony balonies huh ? 
+_t4 		a little phony baloney crying ? 
+_t4 		come , come , come outside , dyou [: do you] want some more banana ? 
+_t4 		no , k [: ok] we'll leave it there for now , come .
+_t4 
+_t4 		what's the matter , come outside . 
+_t4 		outside ? 
+_t4 		outside . 
+_t4 		we'll go outside to our messy backyard . 
+_t4 		but that's okay . 
+_t4 		we'll leave that open . 
+_t4 		oh , you know what William if it's raining it's starting to rain we cant go outside . 
+_t4 		am I crazy ? 
+_t4 		no , it's raining , we can't go outside , it's raining . 
+_t4 		o:h , it's raining . 
+_t4 		dyou [: do you] wanna dyou [: do you] wanna use the truck on some paper ? 
+_t4 		we can do that . 
+_t4 		it's raining . 
+_t4 		it's raining it's pouring the old man is snoring . 
+_t4 		went to bed and he bumped his head and he couldn't get up in the morning . 
+_t4 		wanna play with the ball ? 
+_t4 		wanna go upstairs and play with the ball , you wanna [: want to] stay here ? 
+_t4 		wanna go upstairs ? 
+_t4 		whatdya [: what do you] wanna do ?
+_t4 
+_t4 		we can't go outside .
+_t4 
+_t4 		it's raining , we're not goin(g) outside my love . 
+_t4 		yeah I know , is there something else , what else wouldjou [: would you] like to do ? 
+_t4 		a:w , what else wouldjou [: would you] like to do ? 
+_t4 		well you are up . 
+_t4 		I am holding you . 
+_t4 		we can play ball . 
+_t4 		we can play ball . 
+_t4 		it's raining William and you're getting over a cold honey .
+_t4 
+_t4 		we can't go outside . 
+_t4 		I'm sorry . 
+_t4 		oh , you're getting the lip . 
+_t4 		oh , the lip ! 
+_t4 		oh no ! 
+_t4 		what am I gonna do with the lip ? 
+_t4 		what am I gonna do with the lip ? 
+_t4 		we go upstairs ? 
+_t4 		wanna go dance ? 
+_t4 		wanna dance ? 
+_t4 		wanna dance ? 
+_t4 		let's go listen to sesame street (.) songs . 
+_t4 		let's dance with momma . 
+_t4 		we can do ring around the rosy . 
+_t4 		do:wn . 
+_t4 		whada [: what do] you think about that ? 
+_t4 		ring around the rosy a pocket full of posies ashes (.) ashes we all fall do:wn . 
+_t4 		ring around the rosy .
+_t4 
+_t4 		no ?
+_t4 
+_t4 		o:h ! 
+_t4 		you want juice ? 
+_t4 		it's right there , momma just put it .
+_t4 
+_t4 		dance okay .
+_t4 
+_t4 		we're gonna dance ! 
+_t4 		oh . 
+_t4 		let's listen to disc one . 
+_t4 		mmmm+hmmm yeah .
+_t4 
+_t4 		somebody come and play .
+_t4 
+_t4 		somebody come and play today , Barney's all gone .
+_t4 
+_t4 		he's not there . 
+_t4 		it won't take long .
+_t4 
+_t4 		somebody come and play .
+_t4 
+_t4 		today . 
+_t4 		somebody come and play somebody come and play to , way . 
+_t4 		somebody come , sing the rhyme and laugh the laugh , won't take time , somebody come and play . 
+_t4 		today . 
+_t4 		dip . 
+_t4 		somebody come with me and see the pleasure , can we take these off , mommy's hot . 
+_t4 		somebody come , mommy's right here . 
+_t4 		I just have_to take my coat off I'm hot . 
+_t4 		no , I'm hot ! 
+_t4 		o:h no: , it's okay . 
+_t4 		yeah , it's alright . 
+_t4 		la la la la la la la la . 
+_t4 		somebody come with me and see the pleasure in the wind . 
+_t4 		come and play . 
+_t4 		somebody come and play today . 
+_t4 		but you have_to show mommy how you can dance . 
+_t4 		this is just mommy holding you and dancing . 
+_t4 		Kingston . 
+_t4 		ch        . 
+_t4 		ch         . 
+_t4 		I  but I dance the Kingston . 
+_t4 		ch   . 
+_t4 		no ?
+_t4 
+_t4 		okay .
+_t4 
+_t4 		look at your +... 
+_t4 		oh sorry , I'm sorry .
+_t4 
+_t4 		so come on clap your hands and sing . 
+_t4 		I do it my way . 
+_t4 		I do it my way . 
+_t4 		wanna dance with mommy , dance with mommy . 
+_t4 		come on . 
+_t4 		oh , cantchou [: can't you] dance with momma ? 
+_t4 		okay . 
+_t4 		okay .
+_t4 
+_t4 		la     , la  . 
+_t4 		ba    . 
+_t4 		can you sing ? 
+_t4 		you're jumping . 
+_t4 		can you sing ? 
+_t4 		why ? 
+_t4 		what's the name of that song ? 
+_t4 		you can't sing ? 
+_t4 		excuse you . 
+_t4 		what is that you're playing with ? 
+_t4 		what is that ? 
+_t4 		hmmm ? 
+_t4 		is that a button ? 
+_t4 		can you say button ? 
+_t4 		yeah , let's go fix that , I can see you've been playing with the stereo (be)cause it's coming out of one speaker . 
+_t4 		your nose is running , huh ? 
+_t4 		a book .
+_t4 
+_t4 		okay . 
+_t4 		o:h , what's this , what is that about ? 
+_t4 		you don't know ? 
+_t4 		caterpillar ! 
+_t4 		is that the very hungry caterpillar ? 
+_t4 		oh , you're right , you're on mommy , mommy , you're sitting right with mommy . 
+_t4 		okay ? 
+_t4 		in the light of the moon , a little egg lay on a leaf . 
+_t4 		where's the moon ? 
+_t4 		can you show momma ? 
+_t4 		can you show mommy where's the moon ? 
+_t4 		that's right . 
+_t4 		on one sunday morning the warm sun came up and bop out of the egg came a tiny and very hungry caterpillar . 
+_t4 		he started to look for some food , on monday he ate through , what is that ? 
+_t4 		is that , what is that ? 
+_t4 		is that an apple ? 
+_t4 		he ate through one apple . 
+_t4 		and he was still hungry . 
+_t4 		on tuesday he ate through two pears and he was still hungry . 
+_t4 		i can't move my thumb , on wednesday he ate through three plums but he was still hungry . 
+_t4 		on thursday he ate through one two three four strawberries but he was still hungry . 
+_t4 		on friday he ate through five oranges and he was still hungry . 
+_t4 		on saturday he ate through one piece of chocolate cake , one ice cream cone , one pickle , one slice of swiss cheese , one slice of salami , one lollipop , one piece of cherry pie , one sausage , one cupcake , and one slice of watermelon . 
+_t4 		that night he had a stomach ache . 
+_t4 		the next day was sunday again , the caterpillar ate through one nice green leaf and after that he felt much better . 
+_t4 		what is that ? 
+_t4 		is that the hole that the caterpillar ate through the apple ? 
+_t4 		no what ?
+_t4 
+_t4 		oh , donchou [: don't you] wanna see what happens to the caterpillar ? 
+_t4 		that's your +... 
+_t4 		well , it's always been your favorite part but maybe that's changed . 
+_t4 		uh   . 
+_t4 		do you know what happens after he finishes eating through the green leaf ? 
+_t4 		oh you can read it to mommy . 
+_t4 		why donchou [: don't you] read it to mommy . 
+_t4 		dyou [: do you] wanna tell mommy what happens ? 
+_t4 		whoops , okay all gone it's all gone all gone . 
+_t4 		why ? 
+_t4 		okay .
+_t4 
+_t4 		all gone .
+_t4 
+_t4 		all gone .
+_t4 
+_t4 		okay . 
+_t4 		oo:h , here . 
+_t4 		who's that ? 
+_t4 		is that Thomas and his friends ? 
+_t4 		who's coming under the bridge ? 
+_t4 		beep  says Thomas , it's me . 
+_t4 		wanna turn the page ? 
+_t4 		who's behind the cloud ? 
+_t4 		hello says Harold , I like flying in the sky . 
+_t4 		who is waiting at the crossing ? 
+_t4 		it's me says Birdie , I'm waiting for Thomas to go by . 
+_t4 		and who is in the engine shed ? 
+_t4 		toot toot says Percy , thanks for opening the door . 
+_t4 		who's behind the  , who's behind Thomas ? 
+_t4 		what're you looking at ? 
+_t4 		hello ? 
+_t4 		hello ?
+_t4 
+_t4 		the phone ? 
+_t4 		oh , I'll tell you what . 
+_t4 		here you go . 
+_t4 		what what ,  excuse me . 
+_t4 		I just wanted you to face mommy . 
+_t4 		can you say hello ? 
+_t4 		who're you calling ? 
+_t4 		I'll tell you what , I think I'm gonna shut the stereo off . 
+_t4 		because I think it's distracting you . 
+_t4 		who's on the telephone , can you say hello ? 
+_t4 		what is this William ? 
+_t4 		uh huh . 
+_t4 		whada [: what do] you do with the phone ? 
+_t4 		who're you talking to ? 
+_t4 		that's not Katie (.) yet .
+_t4 
+_t4 		can you say hello Yaya ? 
+_t4 		dance ? 
+_t4 		you wanna dance ? 
+_t4 		what is this ? 
+_t4 		what's this ? 
+_t4 		good , that's very smart of you to close your eyes this time (be)cause the last time it got in your eye . 
+_t4 		oh , very smart , William . 
+_t4 		whada [: what do] you think about the box ? 
+_t4 		dyou [: do you] know what to do with the box ? 
+_t4 		do you , dyou [: do you] know what to do with the box ? 
+_t4 		you're stuck , okay . 
+_t4 		well , walk forward , move forward , it's okay . 
+_t4 		William , it's okay honey . 
+_t4 		here you go , it's okay it's okay . 
+_t4 		you're okay . 
+_t4 		you got yourself a little stuck and you got out of it . 
+_t4 		you were stuck and you said I'm stuck and asked for help and look . 
+_t4 		it's okay . 
+_t4 		alright ? 
+_t4 		whada [: what do] you do with that , is that a box ? 
+_t4 		that's right ,  good job ! 
+_t4 		that's (.) very good William . 
+_t4 		that's how you open the box and that's how you take the lid off and put the lid back on . 
+_t4 		oh . 
+_t4 		good job ! 
+_t4 		wouldja [: would you] like to put this inside the box ? 
+_t4 		you can put this inside the box and then close the lid . 
+_t4 		whada [: what do] you think ? 
+_t4 		wouldja [: would you] like mommy to put it in ? 
+_t4 		oh you'd like to put it in ? 
+_t4 		it's not stuck . 
+_t4 		good job . 
+_t4 		come here .
+_t4 
+_t4 		shall we look through your photo album ? 
+_t4 		what is this ?
+_t4 
+_t4 		what is this ?
+_t4 
+_t4 		school bus , that's right . 
+_t4 		mama an(d) dada , that's right .
+_t4 
+_t4 		mama an(d) dada are in that book .
+_t4 
+_t4 		here we go . 
+_t4 		let's see if we can (.) set something up here so that (.) this is a little closer . 
+_t4 		how's that , is that a little bit better ? 
+_t4 		let's see . 
+_t4 		who's that ? 
+_t4 		yeah .
+_t4 
+_t4 		who's that ? 
+_t4 		yeah an(d) who's with dada ? 
+_t4 		yeah , that's right .
+_t4 
+_t4 		who's that ?
+_t4 
+_t4 		that's right , that's Yaya .
+_t4 
+_t4 		yeah , do you recognize who the baby is ?
+_t4 
+_t4 		is that you ? 
+_t4 		that's William . 
+_t4 		William ! 
+_t4 		oh let's fix this . 
+_t4 		mmmm .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		who's this ? 
+_t4 		James , that's right , and who's this ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		that's right an(d) who's this ?
+_t4 
+_t4 		who is that ? 
+_t4 		yeah I do see .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		that's right .
+_t4 
+_t4 		I see: . 
+_t4 		I see . 
+_t4 		whoda [: who do] you see ? 
+_t4 		who else is in these pictures ? 
+_t4 		Katie . 
+_t4 		that's right , Katie's [: Katie is] the new person . 
+_t4 		who's that ? 
+_t4 		dadadun , who what's his name ?
+_t4 
+_t4 		who is it ?
+_t4 
+_t4 		who's that ? 
+_t4 		yeah , and who's that ? 
+_t4 		James , that's right . 
+_t4 		this is momma . 
+_t4 		and this is her friend Jacqueline . 
+_t4 		and this is you . 
+_t4 		when you were just a little little baby . 
+_t4 		o:h who's this ? 
+_t4 		that's Katie , that's right .
+_t4 
+_t4 		who's Katie +...
+_t4 
+_t4 		yeah , who's Katie holding ? 
+_t4 		yeah , that's dada you're right .
+_t4 
+_t4 		I see .
+_t4 
+_t4 		there , huh ?
+_t4 
+_t4 		oh , you wanna see it , okay .
+_t4 
+_t4 		where you going ? 
+_t4 		you don't wanna see it anymore ? 
+_t4 		you don't want to see it anymore ? 
+_t4 		oh , are you trying to figure out a way to +... 
+_t4 		what're you showing mommy ? 
+_t4 		who's that ? 
+_t4 		Uncle Dean , that's right .
+_t4 
+_t4 		who's that ? 
+_t4 		Grandpa , that's right . 
+_t4 		that is Yaya . 
+_t4 		let's see who else we have here . 
+_t4 		who's that ? 
+_t4 		you know who this , this is Nanny . 
+_t4 		Nanny . 
+_t4 		and this is Graham . 
+_t4 		can you say Graham . 
+_t4 		yeah .
+_t4 
+_t4 		very good , William .
+_t4 
+_t4 		ye:s , that is Sara . 
+_t4 		dada .
+_t4 
+_t4 		and who's this ? 
+_t4 		it's you , can you say William ? 
+_t4 		yeah , William . 
+_t4 		all done , there's more . 
+_t4 		who's this ? 
+_t4 		is that Grandmother ? 
+_t4 		that's Grandmother . 
+_t4 		there's , there should be another picture in here . 
+_t4 		of Grandmother . 
+_t4 		maybe there isn't . 
+_t4 		these are very early on , maybe you didn't see Grandmother . 
+_t4 		yes . 
+_t4 		that's right , I think she was in florida during this time . 
+_t4 		good pictures , yes .
+_t4 
+_t4 		can you say grandmother ?
+_t4 
+_t4 		no ?
+_t4 
+_t4 		dadadun .
+_t4 
+_t0 		hug ,  , you want James to give you a hug ? 
+_t0 		but that's a picture honey . 
+_t0 		he'll give you a hug the next time he sees you , okay ?
+_t0 		oh , okay .
+_t0 
+_t0 		dyou [: do you] wanna call , we can call James , wouldja [: would you] like to call James tonight and talk to him ? 
+_t0 		okay .
+_t0 
+_t0 		okay .
+_t0 
+_t0 		how (a)bout chicka chicka boom boom ? 
+_t0 		wanna read this one ? 
+_t0 		chicka chicka boom boo:m , come ! 
+_t0 		come sit with momma . 
+_t0 		wanna read this one ? 
+_t0 		this one's fun . 
+_t0 		a told b and b told c . 
+_t0 		I'll meechou [: meet you] at the top of the coconut tree . 
+_t0 		wee: said , no , yeah , wee said d to e f g , I'll beat you to the top of the coconut tree . 
+_t0 		chicka chicka boom boom . 
+_t0 		will there be enough room ? 
+_t0 		here comes h up the coconut tree . 
+_t0 		and i and j and tag along k . 
+_t0 		all on their way up the coconut tree . 
+_t0 		chicka chicka boom boom , will there be enough room ? 
+_t0 		look who's coming , l m n o p . 
+_t0 		and q r s and t u v . 
+_t0 		still more w and x y z . 
+_t0 		what is this , what's this letter ? 
+_t0 		w ? 
+_t0 		can you say w ? 
+_t0 		no , I know that one's hard for you to say .
+_t0 
+_t0 		the whole alphabet up the ,  no , chicka chicka boom boom . 
+_t0 		look at the alphabet , fell outta [: out of] the tree . 
+_t0 		everybody's running to the coconut tree . 
+_t0 		mamas and papas and uncles and aunts . 
+_t0 		hug their little dears and then dust their pants . 
+_t0 		help us up cried a b c . 
+_t0 		next from the pile up skinny d . 
+_t0 		and stub toe e and patched up f , then comes g all out of breath . 
+_t0 		h is tangled up with i , j and k are about to cry . 
+_t0 		l is knotted like a tie . 
+_t0 		m is looped , n is stooped , o is twisted alley+oop . 
+_t0 		skit skat skoodledoop flip flop flee . 
+_t0 		look who's coming , it's black eyed p . 
+_t0 		q r s and loose toothed t . 
+_t0 		then u v w wiggle jiggle free . 
+_t0 		last to come x y z . 
+_t0 		and the sun goes down on the coconut tree . 
+_t0 		but (.) chicka chicka boom boom . 
+_t0 		look , there's a full moon . 
+_t0 		yeah , where's the moon ?
+_t0 
+_t0 		moon , right there , yeah . 
+_t0 		a is out of bed . 
+_t0 		that's right an(d) this is what he said .
+_t0 
+_t0 		dare double dare you can't catch me . 
+_t0 		I'll beachou [: beat you] to the top of the coconut tree . 
+_t0 		chicka chicka boom boom . 
+_t0 		I'll beachou [: beat you] to the top of the coconut tree . 
+_t0 		chicka chicka boom boom . 
+_t0 		will there be enough room ? 
+_t0 		but it's , you know what William it's raining outside so we can't go outside . 
+_t0 		but we can +...
+_t0 
+_t0 		yeah .
+_t0 
+_t0 		that's right . 
+_t0 		and when it's raining we don't go out , well , I mean if we're dressed appropriately and we don't have a cold sometime we can go out and play (.) in the rain . 
+_t0 		but you have a cold or you're getting over one , right ?
+_t0 
+_t0 		yes , that's right . 
+_t0 		what's that ? 
+_t0 		b+voom ,   . 
+_t0 		beep  ! 
+_t0 		what is that William ? 
+_t0 		what're [: what are] you playing with William ? 
+_t0 		whoa: !
+_t0 
+_t0 		bring it over this way . 
+_t0 		let's go this way . 
+_t0 		b+voom . 
+_t0 		b+voom b+voom . 
+_t0 		what is that ? 
+_t0 		what is that ? 
+_t0 		cars , yeah ! 
+_t0 		what kind of sounds do the cars make ? 
+_t0 		the: , come over here , let's sing that song . 
+_t0 		let's sing , come , come come . 
+_t0 		come . 
+_t0 		let's come sing what the wheels on the bus do . 
+_t0 		come on , come . 
+_t0 		come . 
+_t0 		b+voom . 
+_t0 		oh no , the cars is right here .
+_t0 
+_t0 		ready , set , go !
+_t0 
+_t4 		again ? 
+_t4 		can you do it from over here ? 
+_t4 		yes , there's a difference , right , when it goes from the floor to the rug . 
+_t4 		you can feel that , huh ? 
+_t4 		William how (a)bout (.) riding on this rug ? 
+_t4 		can you ride on this rug , can you show mommy what those wheels can do ? 
+_t4 		oh , wow ! 
+_t4 		woo , that's an interesting +... 
+_t4 		oh ! 
+_t4 		how (a)bout ,  . 
+_t4 		wouldjou [: would you] like to sing a song or wouldjou [: would you] like to play with the blocks ? 
+_t4 		what's that ?
+_t4 
+_t4 		uh huh . 
+_t4 		what's , what's that ? 
+_t4 		that's a dog , that's right , what's a dog say ? 
+_t4 		woof woof .
+_t4 
+_t4 		that's right William . 
+_t4 		I see .
+_t4 
+_t4 		what's that ?
+_t4 
+_t4 		computer , no , this is an o and that's an octopus and an ostrich and an olive and an otter . 
+_t4 		but let's see what this lists it here c . 
+_t4 		they don't have a compute , what is that ? 
+_t4 		that's a cow , what's the cow say ? 
+_t4 		uh huh , what does a cow say ? 
+_t4 		cow . 
+_t4 		what's the cow say William ?
+_t4 
+_t4 		oh I'm sorry , you're stacking blocks . 
+_t4 		I'm sorry . 
+_t4 		I'm watching . 
+_t4 		good job .
+_t4 
+_t4 		I see it .
+_t4 
+_t4 		look at you go , stacking those blocks . 
+_t4 		that's exciting William , isn't it ? 
+_t4 		oh big boy , huh ,  . 
+_t4 		oh .
+_t4 
+_t4 		you're gonna keep trying .
+_t4 
+_t4 		I think you're doing a great job .
+_t4 
+_t4 		yeah . 
+_t4 		whoops . 
+_t4 		try again . 
+_t4 		God bless you . 
+_t4 		God bless you .
+_t4 
+_t4 		what is that William ? 
+_t4 		that's right .
+_t4 
+_t4 		that's very good and what's that ? 
+_t4 		apple .
+_t4 
+_t4 		very good .
+_t4 
+_t4 		what is that ? 
+_t4 		and what is that ? 
+_t4 		and what about that ?
+_t4 
+_t4 		it's a little hard to see , how (a)bout that ? 
+_t4 		bird um+hum .
+_t4 
+_t4 		an(d) what's that ?
+_t4 
+_t4 		butterfly , that's right .
+_t4 
+_t4 		that's very good . 
+_t4 		um I see .
+_t4 
+_t4 		I'm see , I see it honey , I do .
+_t4 
+_t4 		I do , I'm just looking for a letter .
+_t4 
+_t4 		I'm looking for the next letter and here it is . 
+_t4 		what is that ? 
+_t4 		no , this is a b , what is that ? 
+_t4 		that's a C .
+_t4 
+_t4 		um+hum .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		what is , what's , what's on the c block , what's that ? 
+_t4 		is that a cat ? 
+_t4 		an(d) that's a cow .
+_t4 
+_t4 		whoops sorry . 
+_t4 		I didn't mean to +...
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		oh hold on .
+_t4 
+_t4 		what about that ?
+_t4 
+_t4 		what's that ?
+_t4 
+_t4 		car yes . 
+_t4 		yeah . 
+_t4 		what's that ? 
+_t4 		oh you threw that block , what about this , what's , what's that letter ? 
+_t4 		yyy  . 
+_t4 		yeah , that's right , a d . 
+_t4 		what is that ? 
+_t4 		doggie , um+hum .
+_t4 
+_t4 		how (a)bout that ?
+_t4 
+_t4 		a door ,  huh . 
+_t4 		what's that ? 
+_t4 		that's a duck . 
+_t4 		yeah , what's a duck say ? 
+_t4 		quack quack quack , that's right .
+_t4 
+_t4 		and if you ever forget , let's see , here . 
+_t4 		if you ever forget what the duck says +... 
+_t4 		whada [: what do] you do ? 
+_t4 		push it .
+_t4 
+_t4 		it tells you what the duck says .
+_t4 
+_t4 		wanna sing a song ? 
+_t4 		let's sing a song together . 
+_t4 		come . 
+_t4 		come , where's your car ? 
+_t4 		where's your car , where'd [: where did] it go ? 
+_t4 		ah , here it is , what , what're these ? 
+_t4 		what are these William ? 
+_t4 		wheels ? 
+_t4 		the: , come sing . 
+_t4 		the: wheels on the bus go round and round round and round round and round the wheels on the bus go round and round all through the town . 
+_t4 		are you gonna sing with mommy ? 
+_t4 		are you looking for the , I don't know if that book is in this room , it might be in another room William . 
+_t4 		we can sing that one (.) after . 
+_t4 		come sing with mommy and we'll sing that one after this song . 
+_t4 		okay ? 
+_t4 		yes , okay .
+_t4 
+_t4 		we'll do down by the bay but let's do wheels on the bus . 
+_t4 		come do wheels on the bus with mommy . 
+_t4 		oh you do it so good .
+_t4 
+_t4 		the: wheels on the bus go .
+_t4 
+_t4 		round and round .
+_t4 
+_t4 		round and round round and round the wheels on the bus go round and round all through the town . 
+_t4 		the: driver on the bus says move on back . 
+_t4 		move on back . 
+_t4 		move +...
+_t4 
+_t4 		oh , okay .
+_t4 
+_t4 		we'll do this one . 
+_t4 		this one's a song too . 
+_t4 		down . 

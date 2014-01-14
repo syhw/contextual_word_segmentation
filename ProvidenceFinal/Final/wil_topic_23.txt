@@ -1,0 +1,896 @@
+_t4 		xxx go: ! 
+_t4 		yeah , I think you saw . 
+_t4 		I think you sa:w . 
+_t4 		didn't you ?
+_t4 
+_t4 		yep [: yes] . 
+_t4 		yea:h .
+_t4 
+_t4 		I'll just put this in here . 
+_t4 		come on this way . 
+_t4 		here's your juice in here , Will . 
+_t4 		here's your juice . 
+_t4 		here .
+_t4 
+_t4 		here .
+_t4 
+_t4 		good juice . 
+_t4 		d'you [: do you] want some more ? 
+_t4 		why don't you come in the other room with Mommy +//.
+_t4 
+_t4 		we could play +//.
+_t4 
+_t4 		y'wanna [: you want to] play with Thomas ? 
+_t4 		William ? 
+_t4 		hello , William . 
+_t4 		wanna go play with Thomas ? 
+_t4 		okay . 
+_t4 		we could +//.
+_t4 
+_t4 		y'wanna [: you want to] +//.
+_t4 
+_t4 		y'wanna [: you want to] set up Thomas ? 
+_t4 		with Mommy .
+_t4 
+_t4 		no , we're gonna set up +//.
+_t4 
+_t4 		I want you to play with Mommy .
+_t4 
+_t4 		I think +//.
+_t4 
+_t4 		I think +//.
+_t4 
+_t4 		are you bored with Mommy (be)cause you're with her too much ? 
+_t4 		huh ?
+_t4 
+_t4 		yes . 
+_t4 		yeah , wear the pocket . 
+_t4 		wear the pocket .
+_t4 
+_t4 		yeah  looks nice on you ! 
+_t4 		yeah ,  , ni:ce .
+_t4 
+_t4 		want me to leave it alone ? 
+_t4 		thank you . 
+_t4 		ya [: you] want me to leave it on ?
+_t4 
+_t4 		you're a good boy , thank you . 
+_t4 		okay , come William . 
+_t4 		let's go play with Thomas .
+_t4 
+_t4 		it's time to play with Thomas . 
+_t4 		play with Thomas the tank engine . 
+_t4 		no ? 
+_t4 		y'want [: you want] to ? 
+_t4 		cmon [: come on] .
+_t4 
+_t4 		here let me fix that for you . 
+_t4 		o:h , we'll fix that . 
+_t4 		is that more comfortable ?
+_t4 
+_t4 		yea:h , let's put that on . 
+_t4 		okay ? 
+_t4 		he:y , come in here . 
+_t4 		if you don't wear this then we have_to clip this on . 
+_t4 		okay , I'll open it . 
+_t4 		hold on . 
+_t4 		yea:h , I'm gonna open it . 
+_t4 		stop it . 
+_t4 		then you +//.
+_t4 
+_t4 		d'you [: do you] not wanna play with Thomas ? 
+_t4 		William , relax , will ya [: you] ? 
+_t4 		you act like this is such a tragedy . 
+_t4 		it is to you , isn't it ? 
+_t4 		it is to you . 
+_t4 		o:h , it's alright , babe . 
+_t4 		o:ka:y . 
+_t4 		o:h , are you frustrated ? 
+_t4 		look , abcs ? 
+_t4 		oh ,  Mommy give you a hug . 
+_t4 		cmere [: come here] . 
+_t4 		yeah , and then I did this  . 
+_t4 		he wanted the backpack off . 
+_t4 		that bothering you right now ?
+_t4 
+_t4 		he had the meltdown when I did that (be)cause he just didn't wanna [: want to] be a part of it .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		he'll never just sit down for a long enough period of time . 
+_t4 		Daddy's at work , it's okay , bud .
+_t4 
+_t4 		come here . 
+_t4 		don't you +//.
+_t4 
+_t4 		I thought you wanted to play with Thomas . 
+_t4 		don't you wanna play with Thomas ? 
+_t4 		wanna play A B C's , wanna do the puzzle with Mama ? 
+_t4 		no ?
+_t4 
+_t4 		what about Thomas ? 
+_t4 		Thomas ?
+_t4 
+_t4 		no Thomas ? 
+_t4 		god bless you . 
+_t4 		all done ?
+_t4 
+_t4 		o:h , cmon [: come on] . 
+_t4 		want some car +//.
+_t4 
+_t4 		wanna play trucks ? 
+_t4 		look at the fire+engine . 
+_t4 		there's the ambulance ! 
+_t4 		ambulance ! 
+_t4 		you see the ambulance ? 
+_t4 		d'you [: do you] see it ?
+_t4 
+_t4 		I see it under the fire truck +//.
+_t4 
+_t4 		under the big fire truck . 
+_t4 		y'see [: you see] +//.
+_t4 
+_t4 		d'you [: do you] see it , over there ? 
+_t4 		ambula:nce , can you get it ? 
+_t4 		can you get the ambulance ? 
+_t4 		no ?
+_t4 
+_t4 		no ambulance ?
+_t4 
+_t4 		okay . 
+_t4 		ambulance . 
+_t4 		ambulance . 
+_t4 		tooka     poo poo . 
+_t4 		tooka   . 
+_t4 		want an ice pop ? 
+_t4 		no ice pop , oka:y . 
+_t4 		I have an idea . 
+_t4 		d'y'wanna [: do you want to] make some muffins ? 
+_t4 		you don't wanna make muffins with Mommy ? 
+_t4 		wouldn't that be fun ? 
+_t4 		no ?
+_t4 
+_t4 		ambulance !
+_t4 
+_t4 		hi ambulance ! 
+_t4 		hi ! 
+_t4 		hi ambulance way over there in the basket . 
+_t4 		hi ambulance .
+_t4 
+_t4 		hi ambulance .
+_t4 
+_t4 		fire+engine , hi fire+engine . 
+_t4 		what's that ?
+_t4 
+_t4 		what kinda [: kind of] truck is that ? 
+_t4 		what kind of truck is that +//?
+_t4 
+_t4 		William's truck there , what type of truck is that ? 
+_t4 		no ? 
+_t4 		no , we're not gonna watch the tv . 
+_t4 		no , we're not gonna watch Barney . 
+_t4 		but where is Barney +//?
+_t4 
+_t4 		I saw Barney somewhere . 
+_t4 		there's Barney under the basket . 
+_t4 		see him ? 
+_t4 		by the truck ? 
+_t4 		y'wanna [: you want to] get him ? 
+_t4 		want Mommy to get him ? 
+_t4 		mommy'll [: mommy will] get him . 
+_t4 		see him ,  see him under there . 
+_t4 		I see Barne:y . 
+_t4 		maybe he wants to go for a ride in the dump+truck . 
+_t4 		whadya [: what do you] think ?
+_t4 
+_t4 		d'ya [: do you] think ? 
+_t4 		yea:h . 
+_t4 		right here , look . 
+_t4 		oo:h !
+_t4 
+_t4 		yea:h ,  , see , he's goin [: going] for a ride in the dump+truck , that's what he wa:nts . 
+_t4 		yeah , oo:h !
+_t4 
+_t4 		oh !
+_t4 
+_t4 		uh+o:h !
+_t4 
+_t4 		yeah , the dump+truck dumped Barney , didn't he ? 
+_t4 		the dump+truck dumped Barney . 
+_t4 		oh ! 
+_t4 		go back in , Barney ! 
+_t4 		wanna go back in ? 
+_t4 		put him in , make him go la:y down , oo:h . 
+_t4 		night+night ! 
+_t4 		oh yeah ? 
+_t4 		yea:h , I see , what do you see ? 
+_t4 		oh , you gonna find another truck ? 
+_t4 		o:h , yeah , what kinda [: kind of] truck is that , William ? 
+_t4 		oh yeah ? 
+_t4 		dump+truck . 
+_t4 		right ?
+_t4 
+_t4 		is that your truck , can Mommy see ? 
+_t4 		William , there's some letters missing from your puzzle here , can you help me ? 
+_t4 		can you help me ? 
+_t4 		this puzzle , its +//.
+_t4 
+_t4 		it's +//.
+_t4 
+_t4 		it's +//.
+_t4 
+_t4 		some of its letters are out +//.
+_t4 
+_t4 		out of where they belong .
+_t4 
+_t4 		can you help me ? 
+_t4 		uh +//.
+_t4 
+_t4 		uh+o:h !
+_t4 
+_t4 		look . 
+_t4 		can you help Mommy ? 
+_t4 		yeah .
+_t4 
+_t4 		okay . 
+_t4 		very good , William . 
+_t4 		you are right , and that was a C . 
+_t4 		right ?
+_t4 
+_t4 		C , the sound it makes is  . 
+_t4 		cool , can you help +//?
+_t4 
+_t4 		can you continue to help Mommy ? 
+_t4 		can you continue to help Mommy ? 
+_t4 		yeah , I need some help with that puzzle . 
+_t4 		can you help Mommy with that puzzle ? 
+_t4 		you wanna put your boots on , go ahead .
+_t4 
+_t4 		go ahead . 
+_t4 		put your boots on .
+_t4 
+_t4 		d'you [: do you] want me to help ?
+_t4 
+_t4 		I can help .
+_t4 
+_t4 		we're gonna take (th)em off soon , we're gonna [: going to] get dressed . 
+_t4 		let's do the puzzle , an(d) we'll get dressed .
+_t4 
+_t4 		okay ? 
+_t4 		you're funny . 
+_t4 		you love your boots on . 
+_t4 		you're my boot boy . 
+_t4 		you're my boot boy .
+_t4 
+_t4 		does William have a cold ? 
+_t4 		yeah , William boots on . 
+_t4 		Mommy has slippers on . 
+_t4 		no , I'm not putting my boots on . 
+_t4 		Mommy's not going outside , for awhile . 
+_t4 		so I'm not gonna put my boots on . 
+_t4 		no , we're not gonna go outside right now . 
+_t4 		we're not even dressed .
+_t4 
+_t4 		but can you +//.
+_t4 
+_t4 		I need you to help me with this puzzle . 
+_t4 		there's all these letters that need to go in , and I +//.
+_t4 
+_t4 		I don't +//. 
+_t4 		I don't know +//. 
+_t4 		William , I think I need +//.
+_t4 
+_t4 		can you pick that up ?
+_t4 
+_t4 		can you pick that up right there ? 
+_t4 		can you pick that Q up and hand it to Mommy ? 
+_t4 		(o)kay . 
+_t4 		where would that go ? 
+_t4 		where does it go , the T goes here , where does that go ? 
+_t4 		where does the Q go ? 
+_t4 		right here , show Mommy . 
+_t4 		o:h boy . 
+_t4 		wo:w , you're good . 
+_t4 		what +//.
+_t4 
+_t4 		d'you [: do you] know +//.
+_t4 
+_t4 		d'you [: do you] know what kind of sound the Q makes ? 
+_t4 		you know , what does a Q sound +... 
+_t4 		good job , ya:y ! 
+_t4 		good jo:b ! 
+_t4 		all ri:ght , ya:y , good job ! 
+_t4 		good job . 
+_t4 		can you help me ?
+_t4 
+_t4 		yeah , what else +//. 
+_t4 		how bout this one ? 
+_t4 		where does this one go ? 
+_t4 		oh you wanna help me with the train ? 
+_t4 		wanna help me with the train ? 
+_t4 		no train ? 
+_t4 		alright , alright mommy'll [: mommy will] do the letters all by herself . 
+_t4 		I'm gonna do the letters all by myself then , I'll figure it out . 
+_t4 		if William doesn't wanna help me , I'll figure it out . 
+_t4 		Mommy can do it . 
+_t4 		A , look airplane , A . 
+_t4 		ah . 
+_t4 		A , or  . 
+_t4 		let's see +... 
+_t4 		butterfly ,  . 
+_t4 		B ,  . 
+_t4 		hmmm . 
+_t4 		I don't see the D ,  ,  , dog ,  , D . 
+_t4 		what's the +//.
+_t4 
+_t4 		E . 
+_t4 		elephant ,  . 
+_t4 		E ,  . 
+_t4 		yea:h . 
+_t4 		good job . 
+_t4 		that's a U . 
+_t4 		u:nicorn . 
+_t4 		or it goes +//.
+_t4 
+_t4 		uh , u:mbrella . 
+_t4 		where's the W . 
+_t4 		is this the W ? 
+_t4 		whose name starts with W ? 
+_t4 		how does that sound ? 
+_t4 		how does a W sound ? 
+_t4 		wuh .
+_t4 
+_t4 		actually , that's a K . 
+_t4 		see it , K . 
+_t4 		right here , yeah . 
+_t4 		oh , here you go . 
+_t4 		what's that one ? 
+_t4 		R: .
+_t4 
+_t4 		that's right . 
+_t4 		what's that in there . 
+_t4 		r:abbit , R , can you go r:uh ? 
+_t4 		yeah , no it was right , that was right , r:uh . 
+_t4 		r:uh , R , ruh . 
+_t4 		G .
+_t4 
+_t4 		grapes , G ,  , can you say  ? 
+_t4 		G .
+_t4 
+_t4 		guh . 
+_t4 		very goo:d , very good ya:y ! 
+_t4 		y:ay ,  . 
+_t4 		that's okay . 
+_t4 		we can fix it . 
+_t4 		L , mmmm+hmmm , right there . 
+_t4 		how does L sound ? 
+_t4 		oh , good job , ya:y , good job ! 
+_t4 		d'you [: do you] remember how L sounds ? 
+_t4 		la . 
+_t4 		L , la la la . 
+_t4 		oh , what's that ? 
+_t4 		that's right , F . 
+_t4 		dyou [: do you] remember what that sounds like ? 
+_t4 		ff .
+_t4 
+_t4 		that's right , right there , what is that ? 
+_t4 		what's that a picture of underneath that F ? 
+_t4 		what is that a picture of ? 
+_t4 		yeah ,  .
+_t4 
+_t4 		that's right , that's what the F sounds like , fuh . 
+_t4 		that's good , William . 
+_t4 		mmmm .
+_t4 
+_t4 		Y , you know what those are , in there ? 
+_t4 		those are +//.
+_t4 
+_t4 		yeah , you do , what are they ? 
+_t4 		I don't think so , they're called yoyos . 
+_t4 		yeah , right here , they're called yoyos . 
+_t4 		xxx . 
+_t4 		yoyo:s . 
+_t4 		N , yes . 
+_t4 		nest , N . 
+_t4 		X ,   . 
+_t4 		zuh , zuh .
+_t4 
+_t4 		that is a K , how does that sound ? 
+_t4 		kuh . 
+_t4 		what's this ? 
+_t4 		yeah .
+_t4 
+_t4 		what is it , what's that letter ? 
+_t4 		that's a P , only a O comes before it . 
+_t4 		that's right .
+_t4 
+_t4 		mmmm  ,  . 
+_t4 		O sounds like  . 
+_t4 		puh . 
+_t4 		puh .
+_t4 
+_t4 		and  . 
+_t4 		puh , that's a pa:nda . 
+_t4 		P .
+_t4 
+_t4 		panda , that's right . 
+_t4 		ah . 
+_t4 		O is  , sounds like  . 
+_t4 		juh . 
+_t4 		can you say juh ? 
+_t4 		mmmm  , J , juh . 
+_t4 		mmmm  , A . 
+_t4 		what does A sound like ? 
+_t4 		aside from A , for airplane . 
+_t4 		yeah , that was right . 
+_t4 		Mommy's finger was in the way . 
+_t4 		A for airplane . 
+_t4 		and  sounds like  ,  .
+_t4 
+_t4 		okay . 
+_t4 		what's this one ? 
+_t4 		okay , mommy'll [: mommy will] do it . 
+_t4 		A for +//.
+_t4 
+_t4 		hey , hey hey hey +//.
+_t4 
+_t4 		how bout this ?
+_t4 
+_t4 		that one's fun .
+_t4 
+_t4 		what's this , here . 
+_t4 		what is that ? 
+_t4 		ze:bra: .
+_t4 
+_t4 		zebra . 
+_t4 		alright , we can put the letters down . 
+_t4 		o:kay . 
+_t4 		attitude boy . 
+_t4 		xxx behave yourself . 
+_t4 		d'you [: do you] wanna sing a song ? 
+_t4 		you don't ?
+_t4 
+_t4 		I have an idea . 
+_t4 		with a knick knack +//. 
+_t4 		alright , we'll do Thomas the engine . 
+_t4 		I know your nose is running , it's frustrating . 
+_t4 		xxx I wish you could learn how to blow . 
+_t4 		you remember that book ?
+_t4 
+_t4 		that you tore apart .
+_t4 
+_t4 		d'you [: do you] remember +//.
+_t4 
+_t4 		d'you [: do you] remember +//?
+_t4 
+_t4 		listen .
+_t4 
+_t4 		o:kay , we can play with that . 
+_t4 		but listen , let's talk about that book that you used to love that you +//.
+_t4 
+_t4 		that you ripped apart . 
+_t4 		it was called hand , hand , fingers , thumb , d'you [: do you] remember that ? 
+_t4 		hand , hand , fingers , thumb . 
+_t4 		one thumb , one thumb , drumming on a drum . 
+_t4 		you remember that one ? 
+_t4 		hands with handkerchiefs , blow blow blow , d'you [: do you] remember that ? 
+_t4 		yea:h . 
+_t4 		you wanna see it ? 
+_t4 		I think we have it in piecemeal , William , (be)cause you ripped it apart . 
+_t4 		I think maybe up +...
+_t4 
+_t4 		I don't know if I have the whole thing here .
+_t4 
+_t4 		see , let's see what we can find here . 
+_t4 		let's see . 
+_t4 		l:et's see . 
+_t4 		it'd be nice if I could +...
+_t4 
+_t4 		hold on , hold on . 
+_t4 		William +... 
+_t4 		(ex)cuse me , I want you to be careful here , bud . 
+_t4 		I don't even kno:w (.) where the rest of this book is . 
+_t4 		William . 
+_t4 		a:h , here we go . 
+_t4 		okay , yes , I'm just making sure .
+_t4 
+_t4 		we're missing a page here . 
+_t4 		we're missing more than a page +...
+_t4 
+_t4 		alright , this is not all the +//.
+_t4 
+_t4 		this is not the whole book . 
+_t4 		it's not the whole book , but , y'know [: you know] , we can +//.
+_t4 
+_t4 		I don't remember how it all goes , either . 
+_t4 		but that's okay . 
+_t4 		we'll figure it out .
+_t4 
+_t4 		okay ?
+_t4 
+_t4 		hand , hand . 
+_t4 		fingers , thumb . 
+_t4 		wonder if the rest of it is over there . 
+_t4 		one thumb , one thumb , drumming on a drum . 
+_t4 		one hand , two hand drum +//.
+_t4 
+_t4 		hands drumming on a drum . 
+_t4 		dum       . 
+_t4 		rings on fingers , rings on thumb . 
+_t4 		drum drum drum drum , drum drum drum .
+_t4 		monkeys drum , and monkeys hum . 
+_t4 		hum drum hum drum , hum drum hum . 
+_t4 		hand picks an apple , hand picks a plum . 
+_t4 		dum       . 
+_t4 		monkeys come and monkeys go . 
+_t4 		see , this +//.
+_t4 
+_t4 		this is +//.
+_t4 
+_t4 		we're +//.
+_t4 
+_t4 		we're missing pages here . 
+_t4 		shake hands , shake hands , shake shake shake . 
+_t4 		bye bye  , and then it says +//.
+_t4 
+_t4 		see , hands with handkerchiefs , blow blow blow . 
+_t4 		o:h , hold on , here we go , I see . 
+_t4 		hold on , he:re we go .
+_t4 
+_t4 		o:h , here I think I figured it out . 
+_t4 		alright , I figured it out , William . 
+_t4 		should we see if we can find the rest of the book , William ? 
+_t4 		in this (.) mess here , of yours . 
+_t4 		lemme [: let me] see .
+_t4 
+_t4 		I don't know where all your books are .
+_t4 
+_t4 		I don't know where this book is , certainly . 
+_t4 		William , d'you [: do you] know where the +//.
+_t4 
+_t4 		the rest of that book is ? 
+_t4 		d'you [: do you] know ? 
+_t4 		well (.) Mommy doesn't know . 
+_t4 		alright , you wanna play with Thomas ? 
+_t4 		okay , we can do that . 
+_t4 		should we set up Thomas ? 
+_t4 		you gonna +//?
+_t4 
+_t4 		you gonna help me ? 
+_t4 		okay . 
+_t4 		o:h , you love that Thomas , don't you ? 
+_t4 		would you like Mama to help ? 
+_t4 		okay . 
+_t4 		I would be happy to help . 
+_t4 		hold on , hold on , hold on . 
+_t4 		we'll get ya [: you] there . 
+_t4 		we'll getcha [: get you] there . 
+_t4 		okay . 
+_t4 		maybe we could find +//.
+_t4 
+_t4 		hold on , maybe I can find a shorter +... 
+_t4 		o:kay , let's see: . 
+_t4 		xxx . 
+_t4 		ah , this one looks shorter , this one'll [: one will] be better . 
+_t4 		William , you're just gonna have_to be a little patient . 
+_t4 		Mommy's not finished with the +... 
+_t4 		yeah , I'm not finished with it , right ? 
+_t4 		yeah , right . 
+_t4 		let's see . 
+_t4 		what we can do here . 
+_t4 		what's the matter ? 
+_t4 		uh+oh , I think I need +... 
+_t4 		yeah . 
+_t4 		y'know [: you know] what , can you back up please ? 
+_t4 		we need to turn +//.
+_t4 
+_t4 		I'm gonna move the track so we have more room . 
+_t4 		okay ? 
+_t4 		yes , William . 
+_t4 		okay , you wanna go there ? 
+_t4 		that's fine . 
+_t4 		I think that's a good idea . 
+_t4 		here's Percy . 
+_t4 		here we go . 
+_t4 		think we need some more pieces , don't we ? 
+_t4 		oh well , build a bridge . 
+_t4 		and it'll be fine . 
+_t4 		right , William ? 
+_t4 		here's Birdie . 
+_t4 		and Harold . 
+_t4 		oops . 
+_t4 		here , why don'tcha [: don't you] move the +//.
+_t4 
+_t4 		this +... 
+_t4 		what're ya [: you] looking [: looking] for ? 
+_t4 		there you go . 
+_t4 		y'wanna [: you want to] move the box over this way ? 
+_t4 		(be)cause I'm building for you over here . 
+_t4 		you're kind of standing in the construction site . 
+_t4 		there's your caboose , that's right , very good William . 
+_t4 		I'm impressed . 
+_t4 		yeah , that's a helicopter , that's Harold the helicopter . 
+_t4 		that's right .
+_t4 
+_t4 		his name is Haro:ld .
+_t4 
+_t4 		n he likes flying in the sky !
+_t4 
+_t4 		hello: , hello Harold .
+_t4 
+_t4 		look at this one .
+_t4 
+_t4 		xxx this one  goes . 
+_t4 		oo:h . 
+_t4 		mmmm+hmmm . 
+_t4 		oka:y .
+_t4 
+_t4 		oops .
+_t4 
+_t4 		we'll fix it .
+_t4 
+_t4 		does it hurt ? 
+_t4 		I don't think it hurts , my love . 
+_t4 		let's do it that way .
+_t4 
+_t4 		ya:y . 
+_t4 		right here ? 
+_t4 		okay .
+_t4 
+_t4 		I just thought that maybe we would +... 
+_t4 		d'you [: do you] wanna move over that way so I can build this for you ? 
+_t4 		you don't ?
+_t4 
+_t4 		don't you want me to build more for you ? 
+_t4 		okay .
+_t4 
+_t4 		but you're in the way , you're in the construction site . 
+_t4 		you wanna move over and help me ? 
+_t4 		y'can [: you can] , but you're right where the +//.
+_t4 
+_t4 		you're right in the construction site . 
+_t4 		you're right where the track needs to go .
+_t4 
+_t4 		I think you're doing fine . 
+_t4 		hello: . 
+_t4 		well maybe we could do this over here , I have an idea . 
+_t4 		I have an idea . 
+_t4 		see if it works . 
+_t4 		let's see if this idea works . 
+_t4 		&u:h , I suppose +... 
+_t4 		hello: .
+_t4 
+_t4 		hello: ? 
+_t4 		yeah ? 
+_t4 		o:h , the far guy , huh ? 
+_t4 		look what Mommy's doing . 
+_t4 		feels cold in here , William . 
+_t4 		I can't believe it , this weather is unbelievable . 
+_t4 		it's unbelievabl:e ! 
+_t4 		oops , you just have_to +... 
+_t4 		y'know [: you know] , I'm starting to think that maybe the door's open . 
+_t4 		(be)cause it's awfully cold . 
+_t4 		I'm comin [: coming] , I just (.) think the door's open or somethin [: something] , William . 
+_t4 		it's not . 
+_t4 		and my husband put the +//.
+_t4 
+_t4 		the heat up to seventy+two . 
+_t4 		it's still cold in there . 
+_t4 		yeah , but there's no storm windows in this room . 
+_t4 		and these windows are really old . 
+_t4 		so it's cold .
+_t4 
+_t4 		I'm gonna turn it up (be)cause  gonna be another kid coming over with another cold , so +... 
+_t4 		yeah . 
+_t4 		oh , okay . 
+_t4 		it's freezing . 
+_t4 		oh , I think +//.
+_t4 
+_t4 		probably ,  +... 
+_t4 		try to go +... 
+_t4 		there we go . 
+_t4 		y'want [: you want] it to go this way ? 
+_t4 		okay .
+_t4 
+_t4 		see they don't +//.
+_t4 
+_t4 		both sides don't +//.
+_t4 
+_t4 		they're different +... 
+_t4 		I don't know how to explain that to you , so +... 
+_t4 		okay , here you go . 
+_t4 		that way ? 
+_t4 		honey , you have_to be careful , you're destroying the +//. 
+_t4 		you're destroying your +//. 
+_t4 		I guess this is why (.) they say you need a table for this , huh ? 
+_t4 		maybe +//.
+_t4 
+_t4 		maybe we do need to get you a table for this . 
+_t4 		o:h , maybe mommy'll [: mommy will] just break down and get you a table for this thing , huh ? 
+_t4 		stop stop stop stop stop . 
+_t4 		don't push that , honey . 
+_t4 		yeah . 
+_t4 		what , honey ? 
+_t4 		oh yeah ?
+_t4 
+_t4 		what does that mean ? 
+_t4 		hey , runny nose boy . 
+_t4 		guess it's good that it's coming out , right ? 
+_t4 		you looking to see what's in there ?
+_t4 
+_t4 		let's see what's in there . 
+_t4 		oh , you wanna put that on ? 
+_t4 		okay , where d'you [: do you] wanna put it ? 
+_t4 		we can put it right here . 
+_t4 		y'want [: you want] me to put it right here ? 
+_t4 		here , let me put it right here for you , okay ? 
+_t4 		this might work . 
+_t4 		or it might not , I don't know . 
+_t4 		o:h , hold on . 
+_t4 		I'll add another little piece , which we: should ha:ve , right +... 
+_t4 		well +... 
+_t4 		there ya [: you] go . 
+_t4 		that works . 
+_t4 		like that . 
+_t4 		we'll just make this one a little longer . 
+_t4 		okay ? 
+_t4 		I fixed it .
+_t4 		okay . 
+_t4 		there ya [: you] go . 
+_t4 		oh , you wanted it to do that ? 
+_t4 		kay , y'wanna [: you want to] change it ? 
+_t4 		okay . 
+_t4 		where d'ya [: do you] wanna put it ? 
+_t4 		y'wanna [: you want to] put it there ? 
+_t4 		kay , just turn it over so the tracks are showing . 
+_t4 		I don't know why some of these don't have tracks on both sides . 
+_t4 		how does +//.
+_t4 
+_t4 		what does it go +//?
+_t4 
+_t4 		what does a train sound like ? 
+_t4 		I'm starting to wonder if the heat's working in here . 
+_t4 		it is . 
+_t4 		I think I'm gonna find a +... 
+_t4 		ambulance ? 
+_t4 		yes , William ? 
+_t4 		there's your ambulance , yeah +//.
+_t4 
+_t4 		Mommy's gonna nail a +//.
+_t4 
+_t4 		a blanket up (.) on the back door because I +//.
+_t4 
+_t4 		that back door's just way too drafty for this cold weather . 
+_t4 		an(d) I think that's the problem . 
+_t4 		oh well , what William ? 
+_t4 		did it fall down ? 
+_t4 		alright , I'll fix it in just a minute , okay ? 
+_t4 		o:h , god  .
+_t4 
+_t4 		no , William , we're not playing football . 
+_t4 		&u:h , Mommy needs to find some nails . 
+_t4 		(be)cause I have_to nail this blanket up . 
+_t4 		because (.) I think this door's way too drafty +//.
+_t4 
+_t4 		d'you [: do you] want me to fix your +... 
+_t4 		cmon [: come on] I'll fix it , I'll fix your railroad . 
+_t4 		did it fall down ?
+_t4 
+_t4 		it did fall down .
+_t4 
+_t4 		it did . 
+_t4 		okay , yeah , it fell down . 
+_t4 		did it fall down ? 
+_t4 		if something is E I S flashing , what does it mean ?
+_t4 
+_t4 		flashing , it said E I S . 
+_t4 		okay .
+_t4 
+_t4 		what is it ? 
+_t4 		cmere [: come here] William , Mommy's gonna fix it . 
+_t4 		you want it ? 
+_t4 		William , d'you [: do you] want Mommy to fix it ? 
+_t4 		yes . 
+_t4 		where's your juice , William ? 
+_t4 		I do see , but I fixed it , okay ? 
+_t4 		it's all better . 
+_t4 		the only difference is that this doesn't loop around , so I don't know if you're +... 
+_t4 		wanting it to loop around and attach , because it does not . 
+_t4 		let's see , maybe we can find a way to do that if you really want it to . 
+_t4 		actually , we can't , because we would need +... 
+_t4 		unless +...
+_t4 
+_t4 		hold on , I have an idea . 
+_t4 		cmere [: come here] for a second , let's +//.
+_t4 
+_t4 		I wanna try something . 
+_t4 		why haven't I +...
+_t4 
+_t4 		you wanna do that here ?
+_t4 
+_t4 		the Tho:mas .
+_t4 
+_t4 		the Thomas . 
+_t4 		oh , is it funny ? 
+_t4 		the Thomas ?
+_t4 
+_t4 		hold o:n . 
+_t4 		there . 
+_t4 		how's that ?
+_t4 
+_t4 		how's that ?
+_t4 
+_t4 		that's pretty good , no ? 
+_t4 		alright , just +... 
+_t4 		here ya [: you] go . 
+_t4 		what's the matter ? 
+_t4 		well , you know what , don't step on the track and it won't fall down . 
+_t4 		oh yeah ? 
+_t4 		o:h . 
+_t4 		that's good . 
+_t4 		the busy saw ?
+_t4 
+_t4 		o:h . 
+_t4 		oh , bye bye saw , bye bye saw . 
+_t4 		I kno:w , Bob's busy saw . 
+_t4 		y'know [: you know] , people talk about that Bob the builder , but Mommy's never seen it , I don't know where it is , other than in the toy stores . 
+_t4 		there's s'posed [: supposed] to be a show . 
+_t4 		I've never seen it . 
+_t4 		oh , you know what I have_to do , William ? 
+_t4 		y'know [: you know] what I forgot , you wanna go see Sesame Street , I gotta call them and see . 
+_t4 		if they have any tickets left . 
+_t4 		you wanna go see Big Bird and Elmo ? 
+_t4 		William ? 
+_t4 		that something you'd like to do ? 
+_t4 		next week , maybe ? 
+_t4 		ready ?
+_t4 
+_t4 		how's that ? 
+_t4 		what's that ? 
+_t4 		oh , I'll fix it . 
+_t4 		I'm gonna fix it . 
+_t4 		what ?
+_t4 
+_t4 		I'll take it off .
+_t4 
+_t4 		here , put it over here . 
+_t4 		d'ya [: do you] wanna help me make muffins ? 
+_t4 		oh honey , it's oka:y . 
+_t4 		it's okay , cmon [: come on] , cmon [: come on] . 
+_t4 		cmon [: come on] an(d) help Mama . 
+_t4 		xxx Bob's busy saw ? 
+_t4 		show Mommy , (be)cause I don't understand what +//.
+_t4 
+_t4 		you're saying +//.
+_t4 
+_t4 		busy saw ? 
+_t4 		oh , you wanna read the book ? 
+_t4 		Bob's Busy Saw ? 
+_t4 		I think that's upstairs . 
+_t4 		I think that's upstairs , d'you [: do you] wanna go up and get Mommy the book ? 
+_t4 		okay , g'ahead [: go ahead] , go upstairs and bring it down and I'll read it to you . 
+_t4 		o:h , come on . 
+_t4 		hey listen . 
+_t4 		d'you [: do you] wanna go upstairs and get Bob's Busy Saw and your clothes , because it'd be good for you to get dressed . 
+_t4 		you know why ? 
+_t4 		(be)cause Theo's [: Theo is] gonna come over .
+_t4 
+_t4 		don't you wanna play with Theo ? 
+_t4 		then leave this alone . 
+_t4 		it's not a big deal , William . 
+_t4 		we'll change . 
+_t4 		o:h , come o:n . 
+_t4 		o:h , cmo:n . 
+_t4 		wanna sing a song ? 
+_t4 		oh cmon [: come on] , Will . 
+_t4 		ring around the rosie . 
+_t4 		alright . 
+_t4 		how long has it been , Manuela ? 
+_t4 		he's pretty +//.
+_t4 
+_t4 		he's getting really +... 
+_t4 		upset . 
+_t4 		he's +... 
+_t4 		he's +//.
+_t4 
+_t4 		he's not wanting it on anymore , is why he's crying . 

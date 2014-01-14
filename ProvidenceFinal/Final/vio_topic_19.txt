@@ -1,0 +1,628 @@
+_t4 		on ? 
+_t4 		here we go . 
+_t4 		alright ,  +... 
+_t4 		apparently it was +... 
+_t4 		mmmm (o)kay +/.
+_t4 
+_t4 		seems to be running . 
+_t4 		I dunno [: don't know] , but it might be running and not have been rewound but +... 
+_t4 		well , it's running .
+_t4 
+_t4 		if it stops then +/.
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		stops soon . 
+_t4 		if it stops then we'll just (.) rewind +//.
+_t4 
+_t4 		xxx   . 
+_t4 		xxx .
+_t4 
+_t4 		could you just hand me that (.) tea there ? 
+_t4 		thank you . 
+_t4 		alright , I'm gonna go work on that +...
+_t4 
+_t4 		alright . 
+_t4 		xxx . 
+_t4 		yeah , we gotta get a better tool scenario . 
+_t4 		yeah , I gotta work on it  . 
+_t4 		&aw (o)kay Violet , whatcha [: what do you] got ? 
+_t4 		I was getting all this makeup stuff together . 
+_t4 		that we always seem to have all over the place . 
+_t4 		huh ? 
+_t4 		I'll get the rest of the makeup in here . 
+_t4 		good jo:b ! 
+_t4 		here , let's put this on . 
+_t4 		xxx , gotta blow+dry your hair ? 
+_t4 		now I'll brush it . 
+_t4 		pre:tty , pretty . 
+_t4 		okay: , now I'm gonna put your makeup on . 
+_t4 		xxx  .
+_t4 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		now: I gotta put your: (.) perfume on . 
+_t4 		xxx  . 
+_t4 		where's your wrist ? 
+_t4 		xxx . 
+_t4 		now put it on this wrist . 
+_t4 		let's see the wrist . 
+_t4 		xxx  , okay . 
+_t4 		now you smell good , huh ? 
+_t4 		yeah . 
+_t4 		the only thing we need is some lipstick +//.
+_t4 
+_t4 		where's some lipstick ? 
+_t4 		this goes on here +... 
+_t4 		that's your makeup bag . 
+_t4 		hope that tape is rewound . 
+_t4 		you know where the lipstick is +//? 
+_t4 		I've seen it somewhere . 
+_t4 		here's the blow+drier . 
+_t4 		ooh , you sound kinda [: kind of] raspy , Violet . 
+_t4 		you alright ? 
+_t4 		okay . 
+_t4 		think you hafta put this one on first . 
+_t4 		the blue one first . 
+_t4 		right ? 
+_t4 		ya:y ! 
+_t4 		here's the top to the lipstick +... 
+_t4 		right ? 
+_t4 		that's the only thing missing +//.
+_t4 
+_t4 		should be the lipstick . 
+_t4 		see if it's over here . 
+_t4 		hello . 
+_t4 		what's that one ? 
+_t4 		you know what else we need is +//?
+_t4 
+_t4 		where's this one ? 
+_t4 		the wooden one ? 
+_t4 		that goes +//?
+_t4 
+_t4 		all these go with ? 
+_t4 		I found something . 
+_t4 		under here +... 
+_t4 		it's something else . 
+_t4 		here ya [: you] go . 
+_t4 		I don't know what that one's for . 
+_t4 		here's a baby bed . 
+_t4 		oh , good gir:l +//.
+_t4 
+_t4 		you putting (th)em all on again ? 
+_t4 		here's some baby clothes . 
+_t4 		here's this baby . 
+_t4 		okay: . 
+_t4 		let's check in this +//.
+_t4 
+_t4 		there might be something here . 
+_t4 		no lipstick . 
+_t4 		no: lipstick .
+_t4 
+_t4 		where's the lipstick ? 
+_t4 		where's the lipstick ? 
+_t4 		what's that one ? 
+_t4 		you think this is a lipstick ?
+_t4 
+_t4 		let's see . 
+_t4 		xxx . 
+_t4 		you wanna do on my lips ? 
+_t4 		my lips , where's my lips ? 
+_t4 		xxx , where's my mouth ? 
+_t4 		xxx do my lips . 
+_t4 		thank you . 
+_t4 		xxx tickle:  ! 
+_t4 		tickles  . 
+_t4 		put it in here ? 
+_t4 		oh: , pretty pretty . 
+_t4 		brush brush brush . 
+_t4 		that's your makeup . 
+_t4 		this one +//.
+_t4 
+_t4 		you dip this +//.
+_t4 
+_t4 		you dip it in . 
+_t4 		and then you brush it on , like that . 
+_t4 		you  do it to me ? 
+_t4 		thank you: . 
+_t4 		thank you:  . 
+_t4 		thank you . 
+_t4 		thank you +//.
+_t4 
+_t4 		do I look pretty ? 
+_t4 		do I look pretty ? 
+_t4 		do I look pretty ? 
+_t4 		thank you: . 
+_t4 		thank you:  . 
+_t4 		that's a pretty: +... 
+_t4 		it's pretty [x 
+_t4 		let's get some of the books outta [: out of] here . 
+_t4 		this comes with the +//.
+_t4 
+_t4 		we'll put this back on . 
+_t4 		xxx if I put it inside +... 
+_t4 		it'll be better . 
+_t4 		yep [: yes] . 
+_t4 		alright . 
+_t4 		you wanna play with the dolly house ? 
+_t4 		oh you're playing that , actually . 
+_t4 		ooh , I found Barney . 
+_t4 		what's he doing ? 
+_t4 		what's he doing ? 
+_t4 		found somebody's toothbrush +... 
+_t4 		where it doesn't belong . 
+_t0 		all by myself +... 
+_t0 		don't wanna be +...
+_t0 
+_t0 		all by myself ! 
+_t0 		la [x 
+_t0 		we'll put these in the little box they go in . 
+_t0 		oh you can put Barney in there ? 
+_t0 		silly Barney +... 
+_t0 		I dunno [: don't know] +//.
+_t0 
+_t0 		maybe we don't even need this box , huh ? 
+_t0 		there's a baby cry:ing over here . 
+_t0 		did you know that ? 
+_t0 		there's a baby crying over here , Violet . 
+_t0 		xxx .
+_t0 
+_t0 		la  da: , la      da: . 
+_t0 		xxx . 
+_t0 		the baby crying ? 
+_t0 		where's the baby ? 
+_t0 		where's the baby +//?
+_t0 
+_t0 		here's the +... 
+_t0 		here's the baby's bed +... 
+_t0 		here's the baby . 
+_t0 		xxx . 
+_t0 		la  dun: +... 
+_t0 		la  dun: , la  dun +... 
+_t0 		xxx . 
+_t0 		xxx . 
+_t0 		where's the baby ? 
+_t0 		where is the baby ? 
+_t0 		that's not the same baby , though , is it ? 
+_t0 		as the one that has that outfit . 
+_t0 		put the baby in there ? 
+_t0 		put the baby in the house ? 
+_t0 		where's the baby's house ? 
+_t0 		should we put the baby in there ? 
+_t0 		let's see +... 
+_t0 		put all those books there +... 
+_t0 		huh ? 
+_t0 		xxx . 
+_t0 		la   [x 
+_t4 		I dunno [: don't know] what to do about this thing here . 
+_t4 		let's see if we can set this up . 
+_t4 		that might make it better . 
+_t4 		xxx . 
+_t4 		there should be a cymbal . 
+_t4 		here's a cymbal +...
+_t4 
+_t4 		and the kazoo +...
+_t4 
+_t4 		and the other drumstick . 
+_t4 		xxx . 
+_t4 		let's see +... 
+_t4 		did you know that made music ? 
+_t4 		wanna read that book ? 
+_t4 		yeah ? 
+_t4 		(o)kay , cmon [: come on] . 
+_t4 		oy . 
+_t4 		xxx   . 
+_t4 		Santa's toy shop . 
+_t4 		it's Christmas Eve at the North Pole .
+_t4 
+_t4 		Santa's elves prepare for his sleigh ride . 
+_t4 		this doll is perfect for little Sally says Edgar Elf . 
+_t4 		Eric helps decorate the Claus family tree . 
+_t4 		Emma stands on tiptoe to place the last ornament . 
+_t4 		Emmet and Emma check the list twice . 
+_t4 		we'll have pie when they return , says Mrs Claus . 
+_t4 		Eli loads Santa's big sack of presents . 
+_t4 		dogs don't eat candy canes , Jingle , says Enid . 
+_t4 		don't forget to pack this bear , says Everett . 
+_t4 		have a safe trip , Santa , everyone shouts . 
+_t4 		ho [x 
+_t4 		that Santa Claus ? 
+_t4 		what does Santa say ? 
+_t4 		xxx   ,  ? 
+_t4 		what does Santa say ? 
+_t4 		does Santa say  [x 
+_t4 		can you say  [x 
+_t4 		xxx   . 
+_t4 		say  [x 
+_t4 		ho [x 
+_t4 		can you play these instruments here ? 
+_t4 		you try it ? 
+_t4 		you: wanna try it ? 
+_t4 		la  dum: , la    . 
+_t4 		ding [x 
+_t4 		la       . 
+_t4 		la  da:  , la  da:  . 
+_t4 		pretty [x 
+_t4 		pretty music . 
+_t4 		can you sing a song ? 
+_t4 		rain: , rain +... 
+_t4 		come again a +... 
+_t4 		little Violet wants to +... 
+_t4 		play: . 
+_t4 		rain [x 
+_t4 		it's rain:ing , it's +... 
+_t4 		the ol:d man is +... 
+_t4 		sno:ring . 
+_t4 		he went to bed , with a bump on his +... 
+_t4 		and he didn't get up til the +... 
+_t4 		mor:ning . 
+_t4 		rai:n rain +... 
+_t4 		go a +...
+_t4 
+_t4 		come again a +...
+_t4 
+_t4 		nother +... 
+_t4 		little Violet wants to +... 
+_t4 		rain [x 
+_t4 		xxx .
+_t4 
+_t4 		come a , come a +...
+_t4 
+_t4 		nother +... 
+_t4 		little Violet wants to +... 
+_t4 		rain [x 
+_t4 		go a +... 
+_t4 		I'm gonna hang that up .
+_t4 
+_t4 		in the closet . 
+_t4 		I'm having trouble in here , with all these clothes that you own . 
+_t4 		I don't know what to do with them . 
+_t4 		I don't know what to do , Violet ! 
+_t4 		we really don't . 
+_t4 		maybe we can use these drawers over here +... 
+_t4 		for more clothes . 
+_t4 		maybe we should just do that . 
+_t4 		we'll take the stuff out of here +... 
+_t4 		put it back in the closet , and use these drawers for clothes . 
+_t4 		let's do that . 
+_t4 		(be)cause you've got way: too much stuff here . 
+_t4 		hmmm ? 
+_t4 		that sound good ? 
+_t4 		good job ! 
+_t4 		alright , let's see what we got . 
+_t4 		little Violet wants to +... 
+_t4 		play .
+_t4 
+_t4 		you know any other songs ? 
+_t4 		happy birthday to +... 
+_t4 		you  .
+_t4 
+_t4 		happy birthday to +...
+_t4 
+_t4 		you: !
+_t4 
+_t4 		happy birthday , dear +... 
+_t4 		whose birthday is it ? 
+_t4 		anybody's birthday ? 
+_t4 		mommy +... 
+_t4 		ha:ppy birthday to +... 
+_t4 		xxx . 
+_t4 		you: .
+_t4 
+_t4 		how old are you now ? 
+_t4 		how old are you now ? 
+_t4 		how old are you no:w ? 
+_t4 		six ? 
+_t4 		no way ! 
+_t4 		no way !
+_t4 
+_t4 		how old are you ? 
+_t4 		six ? 
+_t4 		or three ? 
+_t4 		or two or one ? 
+_t4 		I think you're one . 
+_t4 		one year ol:d for Violet ! 
+_t4 		right ? 
+_t4 		xxx I dunno [: don't know]  we should put +//.
+_t4 
+_t4 		maybe we should put summer stuff over there ? 
+_t4 		la     dum: . 
+_t4 		la      dum: . 
+_t4 		la     [x 
+_t4 		la      . 
+_t4 		these are summer pee+jays . 
+_t4 		put all the pee+jays together . 
+_t4 		okay . 
+_t4 		happy birthday to +...
+_t4 
+_t4 		you  ! 
+_t4 		ha:ppy birthday to +...
+_t4 
+_t4 		xxx you !
+_t4 
+_t4 		xxx ha:ppy birthday dear +...
+_t4 
+_t4 		Vi(olet) +... 
+_t4 		(Vio)let +... 
+_t4 		happy birthday to: +/.
+_t4 
+_t4 		you: ! 
+_t4 		and many mo:re !
+_t4 
+_t4 		you got a lot of bathing suits , girl ! 
+_t4 		a lot of bathing suits .
+_t4 
+_t4 		ye:s ! 
+_t4 		should we sing happy birthday to Violet ? 
+_t4 		ha:ppy birthday to you +... 
+_t4 		you live in a +... 
+_t4 		zoo: . 
+_t4 		you look like a +... 
+_t4 		monkey: +... 
+_t4 		xxx . 
+_t4 		is that a funny one ? 
+_t4 		and you smell like one too ! 
+_t4 		we should put the sweatshirts in there .
+_t4 
+_t4 		that's what I'm gonna do .
+_t4 
+_t4 		okay , these tights +//.
+_t4 
+_t4 		jacket .
+_t4 
+_t4 		we spend half our lives in here , Violet +...
+_t4 
+_t4 		organizing your stuff . 
+_t4 		know that ? 
+_t4 		do you know that ? 
+_t4 		sweatshirts [x 
+_t4 		okay . 
+_t4 		what's this +//.
+_t4 
+_t4 		this is summer stuff +//.
+_t4 
+_t4 		goes in +//.
+_t4 
+_t4 		goes into summer stuff +/.
+_t4 
+_t4 		one , two , buckle my +...
+_t4 
+_t4 		three , four , shut the +... 
+_t4 		shut the +...
+_t4 
+_t4 		you okay ? 
+_t4 		you hurt your finger ? 
+_t4 		I'll take it . 
+_t4 		naughty stick .
+_t4 
+_t4 		naughty [x 
+_t4 		naughty [x 
+_t4 		naugh:ty naughty [x 
+_t4 		naugh:ty naughty [x 
+_t4 		there . 
+_t4 		that clears that out ! 
+_t4 		and those shoes , too . 
+_t4 		and this  will go in  room . 
+_t4 		here's the thing that those +...
+_t4 
+_t4 		guys go in .
+_t4 
+_t4 		&aw: ! 
+_t4 		you found somebody nice ? 
+_t4 		let's put the +//.
+_t4 
+_t4 		let's put the colors in here . 
+_t4 		should we put them in there ? 
+_t4 		where are the things that go in there ? 
+_t4 		that gonna go in there ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		happy birthday to [?] +...
+_t4 
+_t4 		you: . 
+_t4 		happy birthday to +... 
+_t4 		xxx , mommy ! 
+_t4 		happy to you ! 
+_t4 		happy [x 
+_t4 		happy [x 
+_t4 		xxx .
+_t4 
+_t4 		happy [x 
+_t4 		you live in a +... 
+_t4 		zoo . 
+_t4 		xxx .
+_t4 
+_t4 		you look like a +... 
+_t4 		and you smell like one +... 
+_t4 		too: . 
+_t4 		happy [x 
+_t4 		you: . 
+_t4 		you live in a +... 
+_t4 		zoo: . 
+_t4 		here let's put the colors in here +//.
+_t4 
+_t4 		you know what +//?
+_t4 
+_t4 		can you put these ones in ?
+_t4 
+_t4 		look at all these ones .
+_t4 
+_t4 		can you put those in ? 
+_t4 		can you put those in ? 
+_t4 		blue +... 
+_t4 		one two +... 
+_t4 		gree:n . 
+_t4 		what color is that one ? 
+_t4 		o:range +... 
+_t4 		and what else ? 
+_t4 		gree:n one's moving . 
+_t4 		which one are we missing ? 
+_t4 		the red one ? 
+_t4 		that's  .
+_t4 
+_t4 		let's see: if we can fix this house . 
+_t4 		look at the daddy   the high chair  . 
+_t4 		how's it going out there ? 
+_t4 		good . 
+_t4 		you gonna put that +//?
+_t4 
+_t4 		oh that lightbulb in ? 
+_t4 		yeah . 
+_t4 		nice . 
+_t4 		where's this going ? 
+_t4 		in the +//.
+_t4 
+_t4 		in the bedroom in the tall lamp . 
+_t4 		yeah I  +//.
+_t4 
+_t4 		I don't have the right glass , but I got one on there . 
+_t4 		good . 
+_t4 		I got a few fine tuning things to do . 
+_t4 		okay . 
+_t4 		not    +//.
+_t4 
+_t4 		let's see what happens with the rain .
+_t4 
+_t4 		I know , it's so bad . 
+_t4 		the rain  , settled the other  which I'm gonna hafta  out +//.
+_t4 
+_t4 		gonna try this out .
+_t4 
+_t4 		that's  .
+_t4 
+_t4 		xxx   .
+_t4 
+_t4 		you can bring   with you +//.
+_t4 
+_t4 		when you go  , if you want . 
+_t4 		xxx . 
+_t4 		oh , it looks great .
+_t4 
+_t4 		mhm , I bet .
+_t4 
+_t4 		xxx . 
+_t4 		huh ? 
+_t4 		take a look at it . 
+_t4 		oh yeah ! 
+_t4 		it looks real good , yup [: yes] .
+_t4 
+_t4 		I left this  one  clamp off , in the middle +/.
+_t4 
+_t4 		it looks great . 
+_t4 		I'm not sure if I'll need it but +//.
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		xxx . 
+_t4 		it was raining , but   +/.
+_t4 
+_t4 		very nice .
+_t4 
+_t4 		and closed +...
+_t4 
+_t4 		so you won't be able to get out of the backyard !
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		yeah: [: yes] , you're stuck in the backyard now , Violet . 
+_t4 		oh: +/.
+_t4 
+_t4 		did you turn this off ? 
+_t4 		no .
+_t4 
+_t4 		xxx . 
+_t4 		bet you did !
+_t4 
+_t4 		I don't think so .
+_t4 
+_t4 		bet you didn't realize it .
+_t4 
+_t4 		I'm bringing this downstairs . 
+_t4 		hi , sweet love . 
+_t4 		xxx   .
+_t4 
+_t4 		daddy put the lightbulbs in .
+_t4 
+_t4 		you wanna go see ?
+_t4 
+_t4 		yeah  no [x 
+_t4 		let's go see if daddy put the lightbulbs in .
+_t4 
+_t4 		cmon [: come on] let's go see . 
+_t4 		let's go see where the lightbulbs is . 
+_t4 		lightbulbs are . 
+_t4 		this way . 
+_t4 		right in here . 
+_t4 		oh: , see he put in the light ! 
+_t4 		now we have a light ! 
+_t4 		see that ? 
+_t4 		can you put this in  room ? 
+_t4 		thank you .
+_t4 
+_t4 		go put 
+_t4 		xxx's room ! 
+_t4 		xxx room ! 
+_t4 		and I have some stuff for Violet's room ! 
+_t4 		this is what I have for Violet's room +//.
+_t4 
+_t4 		you ready ? 
+_t4 		a shoe +... 
+_t4 		one shoe +... 
+_t4 		which isn't good +... 
+_t4 		to have one shoe , is it ? 
+_t4 		and all this stuff . 
+_t4 		you gonna put your shoe on ? 
+_t4 		where's the other one of those ? 
+_t4 		you find it ?
+_t4 
+_t4 		we need to find the other one , Violet . 
+_t4 		where's the other shoe ?
+_t4 
+_t4 		where's the other one ?
+_t4 
+_t4 		where's the other bindoo ?
+_t4 
+_t4 		where's the other bindoo ?
+_t4 
+_t4 		shoe [x 
+_t4 		one , two , buckle my shoe . 
+_t4 		you find something ? 
+_t4 		whatchoo [: what do you] got ? 
+_t4 		put these towels away . 
+_t4 		xxx go downstairs . 
+_t4 		that goes downstai:rs +... 
+_t4 		an:d +... 
+_t4 		how about mommy's clothes ? 
+_t4 		hmmm ? 
+_t4 		what am I gonna do with those ?
+_t4 
+_t4 		what am I gonna do ? 
+_t4 		uhp , wrong shoe +... 
+_t4 		wrong foot . 
+_t4 		wrong foot . 
+_t4 		help you +..?
+_t4 
+_t4 		put it on the other foot ? 
+_t4 		other one . 
+_t4 		xxx other one , yeah . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		good gir:l . 
+_t4 		I don't know where the other one went .
+_t4 
+_t4 		do you ?
+_t4 
+_t4 		you know where the other shoe went ? 
+_t4 		it up there ? 
+_t4 		I don't think so . 
+_t4 		where did it go ? 
+_t4 		is it in your room ? 
+_t4 		maybe it's in your room in the closet +... 
+_t4 		one , two , buckle my shoe . 
+_t4 		xxx you find one ? 
+_t4 		we'll take your shoes in here +//.
+_t4 
+_t4 		I'm gonna check in the closet +//.
+_t4 
+_t4 		put your shoes in the closet  . 
