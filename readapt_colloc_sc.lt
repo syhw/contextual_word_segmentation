@@ -1,0 +1,88 @@
+1 1 Root --> _t0 Collocs_t0
+1 1 Root --> _t1 Collocs_t1
+1 1 Root --> _t2 Collocs_t2
+1 1 Root --> _t3 Collocs_t3
+1 1 Root --> _t4 Collocs_t4
+1 1 Root --> _t5 Collocs_t5
+1 1 Root --> _t6 Collocs_t6
+1 1 Collocs_t0 --> Colloc_t0 Collocs_t0
+Colloc_t0 --> Words_t0
+1 1 Collocs_t1 --> Colloc_t1 Collocs_t1
+Colloc_t1 --> Words_t1
+1 1 Collocs_t2 --> Colloc_t2 Collocs_t2
+Colloc_t2 --> Words_t2
+1 1 Collocs_t3 --> Colloc_t3 Collocs_t3
+Colloc_t3 --> Words_t3
+1 1 Collocs_t4 --> Colloc_t4 Collocs_t4
+Colloc_t4 --> Words_t4
+1 1 Collocs_t5 --> Colloc_t5 Collocs_t5
+Colloc_t5 --> Words_t5
+1 1 Collocs_t6 --> Colloc_t6 Collocs_t6
+Colloc_t6 --> Words_t6
+1 1 Words_t0 --> Word_t0
+1 1 Words_t0 --> Word_t0 Words_t0
+1 1 Words_t1 --> Word_t1
+1 1 Words_t1 --> Word_t1 Words_t1
+1 1 Words_t2 --> Word_t2
+1 1 Words_t2 --> Word_t2 Words_t2
+1 1 Words_t3 --> Word_t3
+1 1 Words_t3 --> Word_t3 Words_t3
+1 1 Words_t4 --> Word_t4
+1 1 Words_t4 --> Word_t4 Words_t4
+1 1 Words_t5 --> Word_t5
+1 1 Words_t5 --> Word_t5 Words_t5
+1 1 Words_t6 --> Word_t6
+1 1 Words_t6 --> Word_t6 Words_t6
+1 1 Struct --> Phons
+1 1 Phons --> Phon
+1 1 Phons --> Phon Phons
+1 1 Phon --> &
+1 1 Phon --> 1
+1 1 Phon --> 3
+1 1 Phon --> 2
+1 1 Phon --> 5
+1 1 Phon --> 4
+1 1 Phon --> 6
+1 1 Phon --> 9
+1 1 Phon --> A
+1 1 Phon --> C
+1 1 Phon --> D
+1 1 Phon --> I
+1 1 Phon --> J
+1 1 Phon --> O
+1 1 Phon --> N
+1 1 Phon --> S
+1 1 Phon --> R
+1 1 Phon --> U
+1 1 Phon --> T
+1 1 Phon --> Z
+1 1 Phon --> a
+1 1 Phon --> b
+1 1 Phon --> e
+1 1 Phon --> d
+1 1 Phon --> g
+1 1 Phon --> f
+1 1 Phon --> i
+1 1 Phon --> h
+1 1 Phon --> k
+1 1 Phon --> m
+1 1 Phon --> l
+1 1 Phon --> o
+1 1 Phon --> n
+1 1 Phon --> p
+1 1 Phon --> s
+1 1 Phon --> r
+1 1 Phon --> u
+1 1 Phon --> t
+1 1 Phon --> w
+1 1 Phon --> v
+1 1 Phon --> y
+1 1 Phon --> z
+Word_t0 --> Word
+Word_t1 --> Word
+Word_t2 --> Word
+Word_t3 --> Word
+Word_t4 --> Word
+Word_t5 --> Word
+Word_t6 --> Word
+Word --> Struct
