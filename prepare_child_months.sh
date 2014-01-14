@@ -17,3 +17,17 @@ cat ${l_ylt[@]} > ${folder}/$1_docs_$2to$3m.ylt
 cat ${l_sin[@]} > ${folder}/$1_docs_$2to$3m.sin
 cut -d " " -f 2- ${folder}/$1_docs_$2to$3m.sin > ${folder}/${folder}.gold
 cut -d " " -f 2- ${folder}/$1_docs_$2to$3m.ylt > ${folder}/${folder}.ylt
+l_ylt=(ProvidenceFinal/Final/${chi}_topic_$2.ylt);
+l_sin=(ProvidenceFinal/Final/${chi}_topic_$2.sin);
+month=$2
+while [ $month -le $3 ]; do
+    month=$(($month+1))
+    l_ylt+=(ProvidenceFinal/Final/nai_topic_$month.ylt)
+    l_sin+=(ProvidenceFinal/Final/nai_topic_$month.sin)
+done
+echo ${l_ylt[@]}
+echo ${l_sin[@]}
+cat ${l_ylt[@]} > ${folder}/$1_topic_$2to$3m.ylt
+cat ${l_sin[@]} > ${folder}/$1_topic_$2to$3m.sin
+cut -d " " -f 2- ${folder}/$1_topic_$2to$3m.sin > ${folder}/${folder}_as_per_topic.gold
+cut -d " " -f 2- ${folder}/$1_topic_$2to$3m.ylt > ${folder}/${folder}.ylt
