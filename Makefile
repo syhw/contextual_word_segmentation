@@ -1,9 +1,9 @@
 CHILD=naima
 CHI=$(shell echo $(CHILD) | cut -c 1-3)
 SAGE=11
-EAGE=18
+EAGE=12
 PY_CFG=./py-cfg/py-cfg
-list_of_grammars=$(shell echo $(CHILD)_$(SAGE)to$(EAGE)m*.lt)
+list_of_grammars=$(shell echo $(CHILD)_$(SAGE)to$(EAGE)m_*.lt)
 
 
 all:
@@ -60,13 +60,24 @@ basic_AGs: $(CHILD)_$(SAGE)to$(EAGE)m
 
 
 %.prs: %.lt $(CHILD)_$(SAGE)to$(EAGE)m
-	qsub -N "$(CHILD)-$(SAGE)-$(EAGE)-docs-$(subst .lt,,$<)" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-docs-$(subst .lt,,$<)" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m
 	#qsub -N "$(CHILD)-docs-$(subst .lt,,$<)" -q cpu -cwd launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_splits_docs_$(SAGE)to$(EAGE)m $(CHILD)_splits_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m
 
 
 launch_jobs: $(subst .lt,.prs,$(list_of_grammars))
 	@echo "$(list_of_grammars)"
 	# this rule is just need to expand the list_of_grammars var after generation
+
+
+single_context_AGs: $(CHILD)_$(SAGE)to$(EAGE)m
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram_sc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_sc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll_sc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll_sc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc-r" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_unigram_sc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc-r" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_sc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc-r" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_syll_sc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r" -q all.q -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_syll_sc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m 
 
 
 clean:

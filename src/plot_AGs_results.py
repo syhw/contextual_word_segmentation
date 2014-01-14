@@ -6,13 +6,13 @@ import glob
 
 SAGE_XPS = 11
 SAGE = 12
-EAGE = 20
+EAGE = 18
 N_MONTHS = EAGE-SAGE+1
 
 results = defaultdict(lambda: np.zeros(N_MONTHS))
 
 for month in xrange(SAGE, EAGE+1):
-    for fname in glob.iglob('nai*_' + str(SAGE_XPS) + 'to' + str(month) 
+    for fname in glob.iglob('naima_' + str(SAGE_XPS) + 'to' + str(month) 
             + 'm/nai*-' + str(SAGE_XPS) + '-' + str(month) + '*.o*'):
         print fname
         fscore = None # token f-score
