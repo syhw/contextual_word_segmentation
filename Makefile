@@ -12,6 +12,8 @@ all:
 	$(MAKE) $(CHILD)_$(SAGE)to$(EAGE)m
 	@echo ">>> launching basic grammars"
 	$(MAKE) basic_AGs
+	@echo ">>> launching single context ("_sc") grammars"
+	$(MAKE) single_context_AGs
 	@echo ">>> generating all grammars as once"
 	$(MAKE) generate_grammars
 	@echo ">>> now launching adaptor grammars jobs using all those grammars:"

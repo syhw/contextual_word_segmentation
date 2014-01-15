@@ -6,18 +6,25 @@
 1 1 Root --> _t5 Collocs_t5
 1 1 Root --> _t6 Collocs_t6
 1 1 Collocs_t0 --> Colloc_t0 Collocs_t0
+1 1 Collocs_t0 --> Colloc_t0
 Colloc_t0 --> Words_t0
 1 1 Collocs_t1 --> Colloc_t1 Collocs_t1
+1 1 Collocs_t1 --> Colloc_t1
 Colloc_t1 --> Words_t1
 1 1 Collocs_t2 --> Colloc_t2 Collocs_t2
+1 1 Collocs_t2 --> Colloc_t2
 Colloc_t2 --> Words_t2
 1 1 Collocs_t3 --> Colloc_t3 Collocs_t3
+1 1 Collocs_t3 --> Colloc_t3
 Colloc_t3 --> Words_t3
 1 1 Collocs_t4 --> Colloc_t4 Collocs_t4
+1 1 Collocs_t4 --> Colloc_t4
 Colloc_t4 --> Words_t4
 1 1 Collocs_t5 --> Colloc_t5 Collocs_t5
+1 1 Collocs_t5 --> Colloc_t5
 Colloc_t5 --> Words_t5
 1 1 Collocs_t6 --> Colloc_t6 Collocs_t6
+1 1 Collocs_t6 --> Colloc_t6
 Colloc_t6 --> Words_t6
 1 1 Words_t0 --> Word_t0
 1 1 Words_t0 --> Word_t0 Words_t0
