@@ -6,14 +6,37 @@ import glob
 
 SAGE_XPS = 11
 SAGE = 12
-EAGE = 18
+EAGE = 22
 N_MONTHS = EAGE-SAGE+1
+TYPES = ["basic", "single-context", "topics"]
+#TYPES = ["basic", "topics"]
+ITERS = [500]
+#ITERS = [100, 500]
+PREFIX = ""
+#PREFIX = "old_naima_XPs/"
+TAKE_MAX_SCORE = True # in case of several results
 
 results = defaultdict(lambda: np.zeros(N_MONTHS))
 
 for month in xrange(SAGE, EAGE+1):
-    for fname in glob.iglob('naima_' + str(SAGE_XPS) + 'to' + str(month) 
+    for fname in glob.iglob(PREFIX+'naima_' + str(SAGE_XPS) + 'to' + str(month) 
             + 'm/nai*-' + str(SAGE_XPS) + '-' + str(month) + '*.o*'):
+        if "-sc" in fname and not "single-context" in TYPES:
+            continue
+        if "docs" in fname and not "topics" in TYPES:
+            continue
+        # always plots basic results currently
+        doit = False
+        with open (fname.replace(".o", ".e")) as f:
+            line = ""
+            for line in f:
+                pass
+            for iternumber in ITERS:
+                if str(iternumber) + " iterations" in line:
+                    doit = True
+                    break
+        if not doit:
+            continue
         print fname
         fscore = None # token f-score
         with open(fname) as f:
@@ -24,14 +47,29 @@ for month in xrange(SAGE, EAGE+1):
                 fscore = float(line.split('\t')[0])
             except:
                 pass
+        fname = '/'.join(fname.split('/')[1:])
         if 'docs' in fname:
             condname = '_'.join(fname.split('/')[1].split('-')[-1].split('.')[0].split('_')[2:])
             if condname == '': # topics-based unigram
                 condname = 'uni'
             condname = 'd_' + condname
+        elif '-sc' in fname:
+            fname = fname.replace('-sc', '')
+            condname = 't'
+            if '-r' in fname:
+                condname = 't_readapt'
+                fname = fname.replace('-r', '')
+            condname = '_'.join([condname] + fname.split('/')[1].split('-')[3:]).split('.')[0]
         else:
             condname = '_'.join(fname.split('/')[1].split('-')[3:]).split('.')[0]
-        results[condname][month-SAGE] = fscore
+
+        if TAKE_MAX_SCORE:
+            if results[condname][month-SAGE] != 0:
+                results[condname][month-SAGE] = max(fscore, results[condname][month-SAGE])
+            else:
+                results[condname][month-SAGE] = fscore
+        else:
+            results[condname][month-SAGE] = fscore
 
 print results
         

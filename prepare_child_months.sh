@@ -7,9 +7,9 @@ l_ylt=(ProvidenceFinal/Final/${chi}_docs_$2.ylt);
 l_sin=(ProvidenceFinal/Final/${chi}_docs_$2.sin);
 month=$2
 while [ $month -le $3 ]; do
-    month=$(($month+1))
     l_ylt+=(ProvidenceFinal/Final/nai_docs_$month.ylt)
     l_sin+=(ProvidenceFinal/Final/nai_docs_$month.sin)
+    month=$(($month+1))
 done
 echo ${l_ylt[@]}
 echo ${l_sin[@]}
@@ -21,9 +21,9 @@ l_ylt=(ProvidenceFinal/Final/${chi}_topic_$2.ylt);
 l_sin=(ProvidenceFinal/Final/${chi}_topic_$2.sin);
 month=$2
 while [ $month -le $3 ]; do
-    month=$(($month+1))
     l_ylt+=(ProvidenceFinal/Final/nai_topic_$month.ylt)
     l_sin+=(ProvidenceFinal/Final/nai_topic_$month.sin)
+    month=$(($month+1))
 done
 echo ${l_ylt[@]}
 echo ${l_sin[@]}
