@@ -44,7 +44,7 @@ if __name__ == '__main__':
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
         suffix = '_reseg_tokenized' + TFIDF_SUFFIX
-    from src.prepare_corpus import tokenize
+    from prepare_corpus import tokenize
     outputname = bfname + suffix
 
     with open('provi' + suffix + '.ldamodel') as f:
