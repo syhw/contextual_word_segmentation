@@ -2,7 +2,7 @@ import gensim, cPickle, sys, re
 import numpy as np
 from gensim.corpora.dictionary import Dictionary
 from gensim import utils
-from src.prepare_corpus import tokenize
+from prepare_corpus import tokenize
 
 usage = """python src/split_corpus.py $corpus_to_split.txt [$suffix]"""
 suffix = '_reseg_lemmatized_tfidf'
