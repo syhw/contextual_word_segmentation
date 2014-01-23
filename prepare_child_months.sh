@@ -31,3 +31,11 @@ cat ${l_ylt[@]} > ${folder}/$1_topic_$2to$3m.ylt
 cat ${l_sin[@]} > ${folder}/$1_topic_$2to$3m.sin
 cut -d " " -f 2- ${folder}/$1_topic_$2to$3m.sin > ${folder}/${folder}_as_per_topic.gold
 cut -d " " -f 2- ${folder}/$1_topic_$2to$3m.ylt > ${folder}/${folder}.ylt
+if ! cmp ${folder}/${folder}.gold ${folder}/${folder}_as_per_topic.gold
+then
+    echo "***********************************************"
+    echo "both ${folder}/${folder}*.gold files differ !!!"
+    echo "***********************************************"
+else
+    echo "both ${folder}/${folder}*.gold files are the same."
+fi
