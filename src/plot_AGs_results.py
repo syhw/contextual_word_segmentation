@@ -6,12 +6,13 @@ import glob
 
 SAGE_XPS = 11
 SAGE = 12
-EAGE = 22
+EAGE = 21
 N_MONTHS = EAGE-SAGE+1
-TYPES = ["basic", "single-context", "topics"]
-#TYPES = ["basic", "topics"]
-ITERS = [500]
+#TYPES = ["basic", "single-context", "topics"]
+TYPES = ["basic", "topics"]
+TYPES = ["basic", "single-context"]
 #ITERS = [100, 500]
+ITERS = [10, 100, 500]
 PREFIX = ""
 #PREFIX = "old_naima_XPs/"
 TAKE_MAX_SCORE = True # in case of several results
@@ -30,12 +31,12 @@ for month in xrange(SAGE, EAGE+1):
         with open (fname.replace(".o", ".e")) as f:
             line = ""
             for line in f:
-                pass
-            for iternumber in ITERS:
-                if str(iternumber) + " iterations" in line:
-                    doit = True
-                    break
+                for iternumber in ITERS:
+                    if str(iternumber) + " iterations" in line:
+                        doit = True
+                        break
         if not doit:
+            print "NOT DOING:", fname
             continue
         print fname
         fscore = None # token f-score
@@ -49,7 +50,7 @@ for month in xrange(SAGE, EAGE+1):
                 pass
         fname = '/'.join(fname.split('/')[1:])
         if 'docs' in fname:
-            condname = '_'.join(fname.split('/')[1].split('-')[-1].split('.')[0].split('_')[2:])
+            condname = '_'.join(fname.split('/')[-1].split('-')[-1].split('.')[0].split('_')[2:])
             if condname == '': # topics-based unigram
                 condname = 'uni'
             condname = 'd_' + condname
@@ -59,9 +60,9 @@ for month in xrange(SAGE, EAGE+1):
             if '-r' in fname:
                 condname = 't_readapt'
                 fname = fname.replace('-r', '')
-            condname = '_'.join([condname] + fname.split('/')[1].split('-')[3:]).split('.')[0]
+            condname = '_'.join([condname] + fname.split('/')[-1].split('-')[3:]).split('.')[0]
         else:
-            condname = '_'.join(fname.split('/')[1].split('-')[3:]).split('.')[0]
+            condname = '_'.join(fname.split('/')[-1].split('-')[3:]).split('.')[0]
 
         if TAKE_MAX_SCORE:
             if results[condname][month-SAGE] != 0:
@@ -87,12 +88,12 @@ for item in ([ax.title, ax.xaxis.label, ax.yaxis.label] +
 for cond, a in results.iteritems():
     linetype = ''
     if "syll" in cond:
-        linetype = '^:'
+        linetype = '^-.'
     else:
-        linetype = 'v:'
-    if "d_" in cond:
+        linetype = 'v-.'
+    if "d_" or "t_" in cond:
         linetype = linetype[0] + '--'
-    plt.plot(a, linetype, linewidth=3.5)#, alpha=0.8)
+    plt.plot(map(lambda x: 'NaN' if x <= 0.0 else x, a), linetype, linewidth=3.5)#, alpha=0.8)
     
 plt.xlabel('months')
 plt.ylabel('token f-score')
