@@ -26,6 +26,8 @@ python src/prepare_corpus_tfidf.py ProvidenceFinal/Final/ > ProvidenceFinal/topi
 ### edit the next file depending on which LDA model you want to use
 ### this also splits in kids name and months
 python src/prefix_sentences_by_docs.py ProvidenceFinal/Final/*_final_split.txt
+# optional, cuts sentences that are too long (see inside the *.py for params)
+python src/cut_too_long.py ProvidenceFinal/Final/${chi}_
 ### you need the 'phonology_dict' folder stuffed
 for name in `ls ProvidenceFinal/Final/${chi}_docs_*.txt`;
 do
