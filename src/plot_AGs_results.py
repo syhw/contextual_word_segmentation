@@ -6,13 +6,12 @@ import glob
 
 SAGE_XPS = 11
 SAGE = 12
-EAGE = 21
+EAGE = 22
 N_MONTHS = EAGE-SAGE+1
 #TYPES = ["basic", "single-context", "topics"]
-TYPES = ["basic", "topics"]
+#TYPES = ["basic", "topics"]
 TYPES = ["basic", "single-context"]
-#ITERS = [100, 500]
-ITERS = [10, 100, 500]
+ITERS = [100, 500]
 PREFIX = ""
 #PREFIX = "old_naima_XPs/"
 TAKE_MAX_SCORE = True # in case of several results
