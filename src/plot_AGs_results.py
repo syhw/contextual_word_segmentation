@@ -5,7 +5,7 @@ from collections import defaultdict
 import glob
 
 SAGE_XPS = 11
-SAGE = 12
+SAGE = 22
 EAGE = 22
 N_MONTHS = EAGE-SAGE+1
 #TYPES = ["basic", "single-context", "topics"]
@@ -14,9 +14,11 @@ TYPES = ["basic", "single-context"]
 ITERS = [10, 100, 500]
 PREFIX = ""
 #PREFIX = "old_naima_XPs/"
-TAKE_MAX_SCORE = True # in case of several results
+TAKE_MAX_SCORE = False # in case of several results, otherwise do the mean+std
 
-results = defaultdict(lambda: np.zeros(N_MONTHS))
+results = defaultdict(lambda: [[] for tmp_i in range(N_MONTHS)])
+if TAKE_MAX_SCORE:
+    results = defaultdict(lambda: np.zeros(N_MONTHS))
 
 for month in xrange(SAGE, EAGE+1):
     for fname in glob.iglob(PREFIX+'naima_' + str(SAGE_XPS) + 'to' + str(month) 
@@ -63,13 +65,14 @@ for month in xrange(SAGE, EAGE+1):
         else:
             condname = '_'.join(fname.split('/')[-1].split('-')[3:]).split('.')[0]
 
-        if TAKE_MAX_SCORE:
-            if results[condname][month-SAGE] != 0:
-                results[condname][month-SAGE] = max(fscore, results[condname][month-SAGE])
+        if fscore != None:
+            if TAKE_MAX_SCORE:
+                if results[condname][month-SAGE] != 0:
+                    results[condname][month-SAGE] = max(fscore, results[condname][month-SAGE])
+                else:
+                    results[condname][month-SAGE] = fscore
             else:
-                results[condname][month-SAGE] = fscore
-        else:
-            results[condname][month-SAGE] = fscore
+                results[condname][month-SAGE].append(fscore)
 
 print results
         
@@ -92,7 +95,14 @@ for cond, a in results.iteritems():
         linetype = 'v-.'
     if "d_" or "t_" in cond:
         linetype = linetype[0] + '--'
-    plt.plot(map(lambda x: 'NaN' if x <= 0.0 else x, a), linetype, linewidth=3.5)#, alpha=0.8)
+    vals = 0
+    stddevs = 0
+    if TAKE_MAX_SCORE:
+        vals = [x for x in a]
+    else:
+        vals = [np.mean(x) for x in a]
+        stddevs = [np.std(x) for x in a] # TODO (gaussian process or some smoothing)
+    plt.plot(map(lambda x: 'NaN' if x <= 0.0 else x, vals), linetype, linewidth=3.5, alpha=0.8)
     
 plt.xlabel('months')
 plt.ylabel('token f-score')
@@ -103,21 +113,29 @@ plt.savefig('progress_ages.png')
 for month in xrange(SAGE, EAGE+1):
     y_pos = [0.5]
     scores = []
+    stddevs = []
     conds = []
     for cond, a in results.iteritems():
-        score = a[month-SAGE]
+        score = 0
+        stddev = 0
+        if TAKE_MAX_SCORE:
+            score = a[month-SAGE]
+        else:
+            score = np.mean(a)
+            stddev = np.std(a)
         if score > 0:
             y_pos.append(y_pos[-1] + 1)
             scores.append(score)
+            stddevs.append(stddev)
             conds.append(cond)
     y_pos = y_pos[:-1]
     fig = plt.figure(figsize=(9, len(y_pos)), dpi=300)
     ax = plt.gca()
     ax.set_ylim([0, len(y_pos)+1])
-    tmp = zip(y_pos, scores, conds, ['g' for tmp_i in range(len(y_pos))])
-    tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 't_' in cond or 'd_' in cond else (y, s, cond, color), tmp)
-    y_pos, scores, conds, colors = zip(*tmp)
-    plt.barh(y_pos, scores, color=colors, alpha=0.4)
+    tmp = zip(y_pos, scores, stddevs, conds, ['g' for tmp_i in range(len(y_pos))])
+    tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 't_' in cond or 'd_' in cond else (y, s, sd, cond, color), tmp)
+    y_pos, scores, stddev, conds, colors = zip(*tmp)
+    plt.barh(y_pos, scores, xerr=stddev, color=colors, ecolor='r', alpha=0.5)
     plt.yticks(map(lambda x: x+0.5, y_pos), conds)
     plt.xlabel('token f-score')
     #plt.title('')

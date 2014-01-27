@@ -2,13 +2,13 @@ CHILD=naima
 CHI=$(shell echo $(CHILD) | cut -c 1-3)
 SAGE=11
 EAGE=22
-NITER=10
+NITER=50
 QUEUE=all.q
 PY_CFG=./py-cfg/py-cfg
 list_of_grammars=$(shell echo $(CHILD)_$(SAGE)to$(EAGE)m_*.lt)
 
 
-all:
+just_basic_and_single:
 	# make prepare_topics has still to be done by hand (once for all)
 	@echo ">>> creating the $(CHILD)_$(SAGE)to$(EAGE)m folder with needed data"
 	$(MAKE) $(CHILD)_$(SAGE)to$(EAGE)m
@@ -16,6 +16,10 @@ all:
 	$(MAKE) basic_AGs
 	@echo ">>> launching single context ("_sc") grammars"
 	$(MAKE) single_context_AGs
+
+
+all: 
+	$(MAKE) just_basic_and_single
 	@echo ">>> generating all grammars as once"
 	$(MAKE) generate_grammars
 	@echo ">>> now launching adaptor grammars jobs using all those grammars:"
