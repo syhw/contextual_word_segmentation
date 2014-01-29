@@ -8,7 +8,7 @@ import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 import glob, sys, cPickle, re
-from subprocess import Popen, PIPE, STDOUT
+from subprocess import Popen, PIPE 
 
 FOLDER = "ProvidenceFinal/Final"
 NO_BELOW = 20 # no word used less than 20 times
@@ -16,10 +16,11 @@ NO_ABOVE = 0.5 # no word which is in above 50% of the corpus
 VOCAB_SIZE = 10000 # 10k, more?
 N_TOPICS = 7 # number of topics
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
+LANG = 'en'
 FILTER_WORDS_ADD = 'to_filter.txt'
-LEMMATIZE = False # by default
-ONLY_NOUN_VERBS = False
-ONLY_NOUNS = True
+LEMMATIZE = True # by default
+ONLY_NOUN_VERBS = False # only works with the lemmatizer
+ONLY_NOUNS = True # only works with the lemmatizer
 DO_SPARSE_LDA = False # train the sparse LDA
 lemmatizer = None # scope to find the object
 
@@ -27,34 +28,36 @@ def tokenize(text, min_size=2):
     return [token.encode('utf8') for token in utils.tokenize(text, lower=True, errors='ignore') if min_size <= len(token) <= 20 and not token.startswith('_')]
 
 
-def build_lemmatizer(lexique_dict):
-    def lem(t):
-        MElt = Popen(['MElt', '-L'], stdout=PIPE, stdin=PIPE, stderr=PIPE)
-        out = MElt.communicate(input=t)[0]
-        # /!\ MElt mistakes a lot of tu pronouns into tu/VPP/taire
-        print out
-        #MElt(t).split(:)
-        # from MElt to Lexique
-        # DET -> ART, V* -> VER, NC -> NOM, CC -> CON, CL* -> PRO 
-        return map(lambda x: '/'.join(x.split('/')[1:]), out.split())
-    return lem
+def english_lemmatizer(text):
+    """ calls the "pattern" module lemmatizer through utils """
+    result = utils.lemmatize(text)
+    if ONLY_NOUN_VERBS:
+        result = filter(lambda x: x.split('/')[-1] == 'VB' or x.split('/')[-1] == 'NN', result)
+    if ONLY_NOUNS:
+        result = filter(lambda x: x.split('/')[-1] == 'NN', result)
+    return result
+
+
+def french_lemmatizer(text):
+    """ calls MElt lemmatizer (-L option), slow b/c MElt has no server mode """
+    # TODO hack MElt into a server (not reloading the model everytime)
+    # /!\ MElt mistakes a lot of tu pronouns into tu/VPP/taire
+    MElt = Popen(['MElt', '-L'], stdout=PIPE, stdin=PIPE, stderr=PIPE)
+    out = MElt.communicate(input=text)[0]
+    result = map(lambda x: '/'.join(x.split('/')[1:]), out.split())
+    if ONLY_NOUN_VERBS:
+        result = filter(lambda x: x.split('/')[0] == 'V' or x.split('/')[0] == 'VINF' or x.split('/')[0] == 'NC', result)
+    if ONLY_NOUNS:
+        result = filter(lambda x: x.split('/')[0] == 'NC', result)
+    return result
 
 
 class Lemmatizer:
     def __init__(self, lang):
         if lang == 'en':
-            self.__call__ = utils.lemmatize
+            self.__call__ = english_lemmatizer
         elif lang == 'fr':
-            lexique_dict = {}
-            with open("Lexique380.txt") as f: # download it from Lexique
-                header = True
-                for line in f:
-                    if not header:
-                        l = line.split('\t')
-                        lexique_dict[l[0]+'/'+l[3]] = l[2]
-                    else:
-                        header = False
-            self.__call__ = build_lemmatizer(lexique_dict)
+            self.__call__ = french_lemmatizer
         else:
             print >> sys.err, "this language (--(fr|en)) is not recognized"
             sys.exit(-1)
@@ -121,15 +124,11 @@ class CDS_Corpus(TextCorpus):
                         text += ' '.join(sentence) + ' '
                     else:
                         docs += 1
-                        print text
-                        if docs > 3: # TODO
+                        if docs > 10: # TODO
                             sys.exit(-1) # TODO
                         if LEMMATIZE:
                             result = lemmatizer(text)
-                            if ONLY_NOUN_VERBS:
-                                result = filter(lambda x: x.split('/')[-1] == 'VB' or x.split('/')[-1] == 'NN', result)
-                            if ONLY_NOUNS:
-                                result = filter(lambda x: x.split('/')[-1] == 'NN', result)
+                            print result
                             positions += len(result)
                             yield result
                         else:
@@ -140,10 +139,6 @@ class CDS_Corpus(TextCorpus):
                 docs += 1
                 if LEMMATIZE:
                     result = lemmatizer(text)
-                    if ONLY_NOUN_VERBS:
-                        result = filter(lambda x: x.split('/')[-1] == 'VB' or x.split('/')[-1] == 'NN', result)
-                    elif ONLY_NOUNS:
-                        result = filter(lambda x: x.split('/')[-1] == 'NN', result)
                     positions += len(result)
                     yield result
                 else:
@@ -160,7 +155,6 @@ def parse_args(argv):
     """ parses args and build the correct lemmatizer if possible """
     argv_sorted = sorted(argv)
     lang = 'en'
-    lem = False
     lemmatizer = None
     if argv_sorted[0][0] == '-':
         lang = argv_sorted[0].replace('--','')
@@ -172,7 +166,10 @@ def parse_args(argv):
     except:
         print >> sys.err, "we couldn't build the lemmatizer, tokenizing instead"
         lemmatizer = None
-    return lemmatizer
+    if lang == 'fr':
+        return lemmatizer, 'to_filter_fr.txt'
+    else:
+        return lemmatizer, FILTER_WORDS_ADD
 
 
 if __name__ == '__main__':
@@ -184,9 +181,12 @@ if __name__ == '__main__':
     FOLDER = sys.argv[1]
     prefix = FOLDER.split('/')[0]
 
-    lemmatizer = parse_args(sys.argv)
-    if lemmatizer != None:
-        LEMMATIZE = True
+    if LEMMATIZE:
+        lemmatizer, FILTER_WORDS_ADD = parse_args(sys.argv)
+        if lemmatizer != None:
+            LEMMATIZE = True
+        else:
+            LEMMATIZE = False
 
     if not LEMMATIZE:
         ONLY_NOUN_VERBS = False
