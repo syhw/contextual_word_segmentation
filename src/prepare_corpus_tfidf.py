@@ -8,27 +8,59 @@ import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 import glob, sys, cPickle, re
+from subprocess import Popen, PIPE, STDOUT
 
 FOLDER = "ProvidenceFinal/Final"
 NO_BELOW = 20 # no word used less than 20 times
 NO_ABOVE = 0.5 # no word which is in above 50% of the corpus
 VOCAB_SIZE = 10000 # 10k, more?
-LEMMATIZE = utils.HAS_PATTERN
-#LEMMATIZE = False
 N_TOPICS = 7 # number of topics
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 FILTER_WORDS_ADD = 'to_filter.txt'
+LEMMATIZE = False # by default
 ONLY_NOUN_VERBS = False
 ONLY_NOUNS = True
-if not LEMMATIZE:
-    ONLY_NOUN_VERBS = False
-    ONLY_NOUNS = False
 DO_SPARSE_LDA = False # train the sparse LDA
+lemmatizer = None # scope to find the object
 
-def tokenize(text):
-    return [token.encode('utf8') for token in utils.tokenize(text, lower=True, errors='ignore') if 2 <= len(token) <= 20 and not token.startswith('_')]
+def tokenize(text, min_size=2):
+    return [token.encode('utf8') for token in utils.tokenize(text, lower=True, errors='ignore') if min_size <= len(token) <= 20 and not token.startswith('_')]
 
-class ProvidenceCorpus(TextCorpus):
+
+def build_lemmatizer(lexique_dict):
+    def lem(t):
+        MElt = Popen(['MElt', '-L'], stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        out = MElt.communicate(input=t)[0]
+        # /!\ MElt mistakes a lot of tu pronouns into tu/VPP/taire
+        print out
+        #MElt(t).split(:)
+        # from MElt to Lexique
+        # DET -> ART, V* -> VER, NC -> NOM, CC -> CON, CL* -> PRO 
+        return map(lambda x: '/'.join(x.split('/')[1:]), out.split())
+    return lem
+
+
+class Lemmatizer:
+    def __init__(self, lang):
+        if lang == 'en':
+            self.__call__ = utils.lemmatize
+        elif lang == 'fr':
+            lexique_dict = {}
+            with open("Lexique380.txt") as f: # download it from Lexique
+                header = True
+                for line in f:
+                    if not header:
+                        l = line.split('\t')
+                        lexique_dict[l[0]+'/'+l[3]] = l[2]
+                    else:
+                        header = False
+            self.__call__ = build_lemmatizer(lexique_dict)
+        else:
+            print >> sys.err, "this language (--(fr|en)) is not recognized"
+            sys.exit(-1)
+
+
+class CDS_Corpus(TextCorpus):
     def __init__(self, folder, dictionary=None):
         """
         Takes the list of txt files in a folder from Isabelle 
@@ -62,7 +94,6 @@ class ProvidenceCorpus(TextCorpus):
                 for line in f:
                     filter_words_add.append(line.rstrip('\n'))
             filter_words_add = set(filter_words_add)
-            #print "and the other the following words will be filtered", filter_words_add
 
         positions, hn_articles = 0, 0
         fnamelist = []
@@ -90,8 +121,11 @@ class ProvidenceCorpus(TextCorpus):
                         text += ' '.join(sentence) + ' '
                     else:
                         docs += 1
+                        print text
+                        if docs > 3: # TODO
+                            sys.exit(-1) # TODO
                         if LEMMATIZE:
-                            result = utils.lemmatize(text)
+                            result = lemmatizer(text)
                             if ONLY_NOUN_VERBS:
                                 result = filter(lambda x: x.split('/')[-1] == 'VB' or x.split('/')[-1] == 'NN', result)
                             if ONLY_NOUNS:
@@ -105,10 +139,11 @@ class ProvidenceCorpus(TextCorpus):
                         text = ""
                 docs += 1
                 if LEMMATIZE:
-                    result = utils.lemmatize(text)
-                    #if ONLY_NOUN_VERBS:
-                    if ONLY_NOUNS:
+                    result = lemmatizer(text)
+                    if ONLY_NOUN_VERBS:
                         result = filter(lambda x: x.split('/')[-1] == 'VB' or x.split('/')[-1] == 'NN', result)
+                    elif ONLY_NOUNS:
+                        result = filter(lambda x: x.split('/')[-1] == 'NN', result)
                     positions += len(result)
                     yield result
                 else:
@@ -121,22 +156,50 @@ class ProvidenceCorpus(TextCorpus):
         self.length = docs # cache corpus length
 
 
-if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        FOLDER = sys.argv[1]
-        if len(sys.argv) > 2:
-            print """Usage: python src/prepare_corpus_tfidf.py [$FOLDER]
-            look at the start of the src/prepare_corpus_tfidf.py file for params"""
+def parse_args(argv):
+    """ parses args and build the correct lemmatizer if possible """
+    argv_sorted = sorted(argv)
+    lang = 'en'
+    lem = False
+    lemmatizer = None
+    if argv_sorted[0][0] == '-':
+        lang = argv_sorted[0].replace('--','')
+        if lang != 'fr' and lang != 'en':
+            print >> sys.err, "this language (--(fr|en)) is not recognized"
             sys.exit(-1)
+    try:
+        lemmatizer = Lemmatizer(lang)
+    except:
+        print >> sys.err, "we couldn't build the lemmatizer, tokenizing instead"
+        lemmatizer = None
+    return lemmatizer
+
+
+if __name__ == '__main__':
+    if len(sys.argv) < 2:
+        print """Usage: python src/prepare_corpus_tfidf.py $FOLDER [--(en|fr)]
+        look at the start of the src/prepare_corpus_tfidf.py file for params"""
+        sys.exit(-1)
+
+    FOLDER = sys.argv[1]
+    prefix = FOLDER.split('/')[0]
+
+    lemmatizer = parse_args(sys.argv)
+    if lemmatizer != None:
+        LEMMATIZE = True
+
+    if not LEMMATIZE:
+        ONLY_NOUN_VERBS = False
+        ONLY_NOUNS = False
 
     if LEMMATIZE:
-        print "you have pattern: we will lemmatize ('you were'->'be/VB')"
-        outputname = 'provi_reseg_lemmatized_tfidf'
-        inputname = 'provi_reseg_lemmatized'
+        print "we will lemmatize ('you were'->'be/VB')"
+        outputname = prefix + '_lemmatized_tfidf'
+        inputname = prefix + '_lemmatized'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
-        outputname = 'provi_reseg_tokenized_tfidf'
-        inputname = 'provi_reseg_tokenized'
+        outputname = prefix + '_tokenized_tfidf'
+        inputname = prefix + '_tokenized'
 
     try:
 
@@ -145,7 +208,7 @@ if __name__ == '__main__':
         print ">>> Loaded corpus from serialized files"
     except:
         print ">>> Extracting articles..."
-        corpus = ProvidenceCorpus(FOLDER)
+        corpus = CDS_Corpus(FOLDER)
         corpus.dictionary.save_as_text(outputname + '_wordids.txt')
         print ">>> Saved dictionary as " + outputname + "_wordids.txt"
         MmCorpus.serialize(outputname + '_bow.mm', corpus, progress_cnt=1000)

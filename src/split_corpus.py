@@ -2,11 +2,12 @@ import gensim, cPickle, sys, re
 import numpy as np
 from gensim.corpora.dictionary import Dictionary
 from gensim import utils
-from prepare_corpus import tokenize
+from prepare_corpus import tokenize, parse_args
 
 usage = """python src/split_corpus.py $corpus_to_split.txt [$suffix]"""
-suffix = '_reseg_lemmatized_tfidf'
-LEMMATIZE = utils.HAS_PATTERN
+prefix = ''
+suffix = '_lemmatized_tfidf'
+LEMMATIZE = True
 MIN_LINES = 10 # minimum number of lines to be considered for topic-based seg.
 MAX_KL_DIST = 1.0 # we add a next final doc segment when both prev and next 
                   # KL divergences are above this threshold
@@ -93,13 +94,19 @@ if __name__ == '__main__':
         sys.exit(-1)
 
     fname = sys.argv[1]
+    prefix = fname.split('/')[0]
     if len(sys.argv) > 2:
         suffix = sys.argv[2]
 
+    lemmatizer = parse_args(sys.argv)
+    if lemmatizer == None:
+        LEMMATIZE = False
+        suffix = '_tokenized_tfidf'
+
     lda = None
-    with open('provi' + suffix + '.ldamodel') as f:
+    with open(prefix + suffix + '.ldamodel') as f:
         lda = cPickle.load(f)
-    id2token = Dictionary.load_from_text('provi' + suffix + '_wordids.txt')
+    id2token = Dictionary.load_from_text(prefix + suffix + '_wordids.txt')
 
     docs = []
     with open(fname) as f:
@@ -142,9 +149,9 @@ if __name__ == '__main__':
                 prev_doc = ' '.join(map(extract_sentence, docs[p_i][1:]))
                 next_doc = ' '.join(map(extract_sentence, docs[n_i][1:]))
                 if LEMMATIZE:
-                    current_doc = utils.lemmatize(current_doc)
-                    prev_doc = utils.lemmatize(prev_doc)
-                    next_doc = utils.lemmatize(next_doc)
+                    current_doc = lemmatizer(current_doc)
+                    prev_doc = lemmatizer(prev_doc)
+                    next_doc = lemmatizer(next_doc)
                 else:
                     current_doc = tokenize(current_doc)
                     prev_doc = tokenize(prev_doc)
