@@ -27,7 +27,7 @@ all:
 
 
 prepare_topics:
-	./topics_do_all.sh $(CHILD)
+	./topics_do_all_Providence.sh $(CHILD)
 
 
 remove_long_lines:
