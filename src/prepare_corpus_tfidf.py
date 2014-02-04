@@ -9,6 +9,7 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 import glob, sys, cPickle, re
 from subprocess import Popen, PIPE 
+from unidecode import unidecode
 
 FOLDER = "ProvidenceFinal/Final"
 NO_BELOW = 20 # no word used less than 20 times
@@ -19,9 +20,10 @@ FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to rem
 LANG = 'en'
 FILTER_WORDS_ADD = 'to_filter.txt'
 LEMMATIZE = True # by default
-ONLY_NOUN_VERBS = False # only works with the lemmatizer
-ONLY_NOUNS = True # only works with the lemmatizer
+ONLY_NOUN_VERBS = True # only works with the lemmatizer
+ONLY_NOUNS = False # only works with the lemmatizer
 DO_SPARSE_LDA = False # train the sparse LDA
+DEBUG = False # debug output
 lemmatizer = None # scope to find the object
 
 def tokenize(text, min_size=2):
@@ -35,6 +37,9 @@ def english_lemmatizer(text):
         result = filter(lambda x: x.split('/')[-1] == 'VB' or x.split('/')[-1] == 'NN', result)
     if ONLY_NOUNS:
         result = filter(lambda x: x.split('/')[-1] == 'NN', result)
+    if DEBUG:
+        print text
+        print result
     return result
 
 
@@ -43,12 +48,17 @@ def french_lemmatizer(text):
     # TODO hack MElt into a server (not reloading the model everytime)
     # /!\ MElt mistakes a lot of tu pronouns into tu/VPP/taire
     MElt = Popen(['MElt', '-L'], stdout=PIPE, stdin=PIPE, stderr=PIPE)
-    out = MElt.communicate(input=text)[0]
+    tmp = unidecode(text.decode('utf-8'))
+    out = MElt.communicate(input=tmp)[0]
     result = map(lambda x: '/'.join(x.split('/')[1:]), out.split())
     if ONLY_NOUN_VERBS:
         result = filter(lambda x: x.split('/')[0] == 'V' or x.split('/')[0] == 'VINF' or x.split('/')[0] == 'NC', result)
     if ONLY_NOUNS:
         result = filter(lambda x: x.split('/')[0] == 'NC', result)
+    result = filter(lambda x: not '*' in x, result) # unrecognized words
+    if DEBUG:
+        print tmp
+        print result
     return result
 
 
@@ -121,14 +131,11 @@ class CDS_Corpus(TextCorpus):
                             for ind, word in enumerate(sentence):
                                 if word in filter_words_add:
                                     sentence[ind] = ''
-                        text += ' '.join(sentence) + ' '
+                        text += ' '.join(sentence) + '\n'
                     else:
                         docs += 1
-                        if docs > 10: # TODO
-                            sys.exit(-1) # TODO
                         if LEMMATIZE:
                             result = lemmatizer(text)
-                            print result
                             positions += len(result)
                             yield result
                         else:
