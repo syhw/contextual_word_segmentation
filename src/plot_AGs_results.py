@@ -5,16 +5,16 @@ from collections import defaultdict
 import glob
 
 SAGE_XPS = 11
-SAGE = 22
+SAGE = 12
 EAGE = 22
 N_MONTHS = EAGE-SAGE+1
 #TYPES = ["basic", "single-context", "topics"]
 #TYPES = ["basic", "topics"]
 TYPES = ["basic", "single-context"]
-ITERS = [10, 100, 500]
+ITERS = [100, 500]
 PREFIX = ""
 #PREFIX = "old_naima_XPs/"
-TAKE_MAX_SCORE = False # in case of several results, otherwise do the mean+std
+TAKE_MAX_SCORE = True # in case of several results, otherwise do the mean+std
 
 results = defaultdict(lambda: [[] for tmp_i in range(N_MONTHS)])
 if TAKE_MAX_SCORE:
@@ -95,8 +95,8 @@ for cond, a in results.iteritems():
         linetype = 'v-.'
     if "d_" or "t_" in cond:
         linetype = linetype[0] + '--'
-    vals = 0
-    stddevs = 0
+    vals = None
+    stddevs = None
     if TAKE_MAX_SCORE:
         vals = [x for x in a]
     else:
@@ -132,10 +132,16 @@ for month in xrange(SAGE, EAGE+1):
     fig = plt.figure(figsize=(9, len(y_pos)), dpi=300)
     ax = plt.gca()
     ax.set_ylim([0, len(y_pos)+1])
-    tmp = zip(y_pos, scores, stddevs, conds, ['g' for tmp_i in range(len(y_pos))])
-    tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 't_' in cond or 'd_' in cond else (y, s, sd, cond, color), tmp)
-    y_pos, scores, stddev, conds, colors = zip(*tmp)
-    plt.barh(y_pos, scores, xerr=stddev, color=colors, ecolor='r', alpha=0.5)
+    if TAKE_MAX_SCORE:
+        tmp = zip(y_pos, scores, conds, ['g' for tmp_i in range(len(y_pos))])
+        tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 't_' in cond or 'd_' in cond else (y, s, cond, color), tmp)
+        y_pos, scores, conds, colors = zip(*tmp)
+        plt.barh(y_pos, scores, color=colors, ecolor='r', alpha=0.5)
+    else:
+        tmp = zip(y_pos, scores, stddevs, conds, ['g' for tmp_i in range(len(y_pos))])
+        tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 't_' in cond or 'd_' in cond else (y, s, sd, cond, color), tmp)
+        y_pos, scores, stddev, conds, colors = zip(*tmp)
+        plt.barh(y_pos, scores, xerr=stddev, color=colors, ecolor='r', alpha=0.5)
     plt.yticks(map(lambda x: x+0.5, y_pos), conds)
     plt.xlabel('token f-score')
     #plt.title('')
