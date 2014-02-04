@@ -9,7 +9,7 @@ list_of_grammars=$(shell echo $(CHILD)_$(SAGE)to$(EAGE)m_*.lt)
 
 
 just_basic_and_single:
-	# make prepare_topics has still to be done by hand (once for all)
+	# make prepare_topics_* has still to be done by hand (once for all)
 	@echo ">>> creating the $(CHILD)_$(SAGE)to$(EAGE)m folder with needed data"
 	$(MAKE) $(CHILD)_$(SAGE)to$(EAGE)m
 	@echo ">>> launching basic grammars"
@@ -26,8 +26,12 @@ all:
 	$(MAKE) launch_jobs
 
 
-prepare_topics:
+prepare_topics_Providence:
 	./topics_do_all_Providence.sh $(CHILD)
+
+
+prepare_topics_Lyon:
+	./topics_do_all_Lyon.sh $(CHILD)
 
 
 remove_long_lines:

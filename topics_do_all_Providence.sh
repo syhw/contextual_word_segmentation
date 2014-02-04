@@ -1,5 +1,6 @@
 #!/bin/bash
-echo ">>> usage: ./topics_do_all.sh child_name, e.g. ./topics_do_all.sh naima"
+echo ">>> usage: ./topics_do_all_Providence.sh child_name,"
+echo "e.g. ./topics_do_all_Providence.sh naima"
 echo "This scripts segments all ProvidenceFinal/ToSegment/*.txt into documents"
 echo "based on the KL-divergence with topics learned from over-segmentation,"
 echo "and then relearns a topics model."
