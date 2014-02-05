@@ -20,10 +20,10 @@ FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to rem
 LANG = 'en'
 FILTER_WORDS_ADD = 'to_filter.txt'
 LEMMATIZE = True # by default
-ONLY_NOUN_VERBS = True # only works with the lemmatizer
-ONLY_NOUNS = False # only works with the lemmatizer
+ONLY_NOUN_VERBS = False # only works with the lemmatizer
+ONLY_NOUNS = True # only works with the lemmatizer
 DO_SPARSE_LDA = False # train the sparse LDA
-DEBUG = False # debug output
+DEBUG = True # debug output
 lemmatizer = None # scope to find the object
 
 def tokenize(text, min_size=2):
