@@ -229,8 +229,8 @@ if __name__ == '__main__':
     corpus_tfidf = tfidf[mm]
 
     lda = models.ldamodel.LdaModel(corpus=corpus_tfidf, id2word=id2token, 
-            num_topics=N_TOPICS, update_every=0, passes=69)
-            #num_topics=N_TOPICS, update_every=1, chunksize=800, passes=42)
+            num_topics=N_TOPICS, alpha='auto',
+            update_every=1, chunksize=800, passes=50)
 
     f = open(outputname + '.ldamodel', 'w')
     cPickle.dump(lda, f)
@@ -243,7 +243,6 @@ if __name__ == '__main__':
         alpha = [x/div for x in alpha]
         lda_sparse = models.ldamodel.LdaModel(corpus=corpus_tfidf, id2word=id2token, 
                 num_topics=N_TOPICS, update_every=0, passes=51,
-                #num_topics=N_TOPICS, update_every=1, chunksize=420, passes=42,
                 alpha=alpha)
 
         f = open(outputname + '.ldasparsemodel', 'w')
