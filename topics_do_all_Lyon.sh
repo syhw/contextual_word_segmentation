@@ -23,7 +23,7 @@ cp LyonFinal/ToSegment/*_final_split.txt LyonFinal/Final/
 ###  - 'phonology_dict/filterWords.txt'
 ###  - 'phonology_dict/words.txt'
 ###  - 'phonology_dict/phoneSet'
-python src/prepare_corpus_tfidf.py LyonFinal/Final/ > LyonFinal/topics.txt
+python src/prepare_corpus_tfidf.py LyonFinal/Final/ &>LyonFinal/topics.txt
 ### edit the next file depending on which LDA model you want to use
 ### this also splits in kids name and months
 python src/prefix_sentences_by_docs.py LyonFinal/Final/*_final_split.txt

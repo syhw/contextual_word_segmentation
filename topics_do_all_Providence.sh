@@ -23,7 +23,7 @@ cp ProvidenceFinal/ToSegment/*_final_split.txt ProvidenceFinal/Final/
 ###  - 'phonology_dict/filterWords.txt'
 ###  - 'phonology_dict/words.txt'
 ###  - 'phonology_dict/phoneSet'
-python src/prepare_corpus_tfidf.py ProvidenceFinal/Final/ > ProvidenceFinal/topics.txt
+python src/prepare_corpus_tfidf.py ProvidenceFinal/Final/ &>ProvidenceFinal/topics.txt
 ### edit the next file depending on which LDA model you want to use
 ### this also splits in kids name and months
 python src/prefix_sentences_by_docs.py ProvidenceFinal/Final/*_final_split.txt
