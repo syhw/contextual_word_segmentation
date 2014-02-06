@@ -4,14 +4,14 @@ from gensim.corpora.dictionary import Dictionary
 from gensim import utils
 from prepare_corpus_tfidf import tokenize, parse_args
 
-usage = """python src/split_corpus.py $corpus_to_split.txt [$suffix]"""
+usage = """python src/split_corpus.py $corpus_to_split.txt [$suffix] [--en/fr]"""
 prefix = ''
 suffix = '_lemmatized_tfidf'
 LEMMATIZE = True
 MIN_LINES = 10 # minimum number of lines to be considered for topic-based seg.
 MAX_KL_DIST = 1.0 # we add a next final doc segment when both prev and next 
                   # KL divergences are above this threshold
-DEBUG = False # debug output
+DEBUG = True # debug output
 
 
 def find_start_end(doc):
@@ -95,18 +95,24 @@ if __name__ == '__main__':
 
     fname = sys.argv[1]
     prefix = fname.split('/')[0]
-    if len(sys.argv) > 2:
+    if len(sys.argv) > 2 and sys.argv[2][0:2] != '--':
         suffix = sys.argv[2]
 
-    lemmatizer = parse_args(sys.argv)
+    lemmatizer, filter_words = parse_args(sys.argv)
     if lemmatizer == None:
         LEMMATIZE = False
         suffix = '_tokenized_tfidf'
+    else:
+        suffix = '_lemmatized_tfidf'
 
     lda = None
     with open(prefix + suffix + '.ldamodel') as f:
         lda = cPickle.load(f)
     id2token = Dictionary.load_from_text(prefix + suffix + '_wordids.txt')
+
+    if DEBUG:
+        print "prefix:", prefix
+        print "suffix:", suffix
 
     docs = []
     with open(fname) as f:
@@ -145,9 +151,9 @@ if __name__ == '__main__':
                     if len(d):
                         break
                     n_i += 1
-                current_doc = ' '.join(map(extract_sentence, doc[1:]))
-                prev_doc = ' '.join(map(extract_sentence, docs[p_i][1:]))
-                next_doc = ' '.join(map(extract_sentence, docs[n_i][1:]))
+                current_doc = ' . '.join(map(extract_sentence, doc[1:]))
+                prev_doc = ' . '.join(map(extract_sentence, docs[p_i][1:]))
+                next_doc = ' . '.join(map(extract_sentence, docs[n_i][1:]))
                 if LEMMATIZE:
                     current_doc = lemmatizer(current_doc)
                     prev_doc = lemmatizer(prev_doc)
