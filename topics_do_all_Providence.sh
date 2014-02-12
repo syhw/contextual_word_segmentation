@@ -47,7 +47,7 @@ cat ProvidenceFinal/Final/${chi}_topic_1*.sin ProvidenceFinal/Final/${chi}_topic
 cut -d " " -f 2- $1_docs_11to22m.sin > $1_11to22m.gold
 #cut -d " " -f 2- $1_topic_11to22m.sin > $1_11to22m.gold ### useless
 
-python src/write_grammar.py $1_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_reseg_lemmatized_tfidf.pickle # writes grammar.lt
+python src/write_grammar.py $1_docs_11to22m.ylt ProvidenceFinal/Final/*_doc_topics_lemmatized_tfidf.pickle # writes grammar.lt
 ### now you need the py-cfg adaptor grammar compiled and in py-cfg
 # use the Makefile, the workflow looks like:
 #./launch_adaptor.sh
