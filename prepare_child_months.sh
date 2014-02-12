@@ -1,14 +1,14 @@
 #!/bin/bash
-# usage: ./prepare_child_months.sh $CHILD $START_AGE $END_AGE
+# usage: ./prepare_child_months.sh $CHILD $START_AGE $END_AGE $BASE_FOLDER
 folder=$1_$2to$3m
 mkdir $folder
 chi=$(echo "$1" | cut -c 1-3)
-l_ylt=(ProvidenceFinal/Final/${chi}_docs_$2.ylt);
-l_sin=(ProvidenceFinal/Final/${chi}_docs_$2.sin);
+l_ylt=($4/Final/${chi}_docs_$2.ylt);
+l_sin=($4/Final/${chi}_docs_$2.sin);
 month=$2
 while [ $month -le $3 ]; do
-    l_ylt+=(ProvidenceFinal/Final/${chi}_docs_$month.ylt)
-    l_sin+=(ProvidenceFinal/Final/${chi}_docs_$month.sin)
+    l_ylt+=($4/Final/${chi}_docs_$month.ylt)
+    l_sin+=($4/Final/${chi}_docs_$month.sin)
     month=$(($month+1))
 done
 echo ${l_ylt[@]}
@@ -17,12 +17,12 @@ cat ${l_ylt[@]} > ${folder}/$1_docs_$2to$3m.ylt
 cat ${l_sin[@]} > ${folder}/$1_docs_$2to$3m.sin
 cut -d " " -f 2- ${folder}/$1_docs_$2to$3m.sin > ${folder}/${folder}.gold
 cut -d " " -f 2- ${folder}/$1_docs_$2to$3m.ylt > ${folder}/${folder}.ylt
-l_ylt=(ProvidenceFinal/Final/${chi}_topic_$2.ylt);
-l_sin=(ProvidenceFinal/Final/${chi}_topic_$2.sin);
+l_ylt=($4/Final/${chi}_topic_$2.ylt);
+l_sin=($4/Final/${chi}_topic_$2.sin);
 month=$2
 while [ $month -le $3 ]; do
-    l_ylt+=(ProvidenceFinal/Final/${chi}_topic_$month.ylt)
-    l_sin+=(ProvidenceFinal/Final/${chi}_topic_$month.sin)
+    l_ylt+=($4/Final/${chi}_topic_$month.ylt)
+    l_sin+=($4/Final/${chi}_topic_$month.sin)
     month=$(($month+1))
 done
 echo ${l_ylt[@]}

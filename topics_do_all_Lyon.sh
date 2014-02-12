@@ -32,14 +32,14 @@ python src/cut_too_long.py LyonFinal/Final/${chi}_
 ### you need the 'phonology_dict' folder stuffed
 for name in `ls LyonFinal/Final/${chi}_docs_*.txt`;
 do
-    python src/text_to_phon.py $name;
+    python src/text_to_phon_fr.py $name;
     python src/split_sin.py < ${name%.*}.sin > ${name%.*}.ylt;
 done;
 cat LyonFinal/Final/${chi}_docs_1*.ylt LyonFinal/Final/${chi}_docs_20.ylt LyonFinal/Final/${chi}_docs_21.ylt LyonFinal/Final/${chi}_docs_23.ylt > $1_docs_11to23m.ylt
 cat LyonFinal/Final/${chi}_docs_1*.sin LyonFinal/Final/${chi}_docs_20.sin LyonFinal/Final/${chi}_docs_21.sin LyonFinal/Final/${chi}_docs_23.sin > $1_docs_11to23m.sin
 for name in `ls LyonFinal/Final/${chi}_topic_*.txt`;
 do
-    python src/text_to_phon.py $name;
+    python src/text_to_phon_fr.py $name;
     python src/split_sin.py < ${name%.*}.sin > ${name%.*}.ylt;
 done;
 cat LyonFinal/Final/${chi}_topic_1*.ylt LyonFinal/Final/${chi}_topic_20.ylt LyonFinal/Final/${chi}_topic_21.ylt LyonFinal/Final/${chi}_topic_23.ylt > $1_topic_11to23m.ylt

@@ -2,7 +2,7 @@ CHILD=naima
 CHI=$(shell echo $(CHILD) | cut -c 1-3)
 SAGE=11
 EAGE=22
-NITER=504
+NITER=500
 QUEUE=cpu
 PY_CFG=./py-cfg/py-cfg
 list_of_grammars=$(shell echo $(CHILD)_$(SAGE)to$(EAGE)m_*.lt)
@@ -18,7 +18,7 @@ just_basic_and_single:
 	$(MAKE) single_context_AGs
 
 
-all: 
+all_Providence: 
 	$(MAKE) just_basic_and_single
 	@echo ">>> generating all grammars as once"
 	$(MAKE) generate_grammars
@@ -59,7 +59,11 @@ generate_grammars:
 
 
 $(CHILD)_$(SAGE)to$(EAGE)m:
-	./prepare_child_months.sh $(CHILD) $(SAGE) $(EAGE)
+	./prepare_child_months.sh $(CHILD) $(SAGE) $(EAGE) ProvidenceFinal
+
+
+$(CHILD)_fr_$(SAGE)to$(EAGE)m:
+	./prepare_child_months.sh $(CHILD) $(SAGE) $(EAGE) LyonFinal
 
 
 basic_AGs: $(CHILD)_$(SAGE)to$(EAGE)m
@@ -101,17 +105,25 @@ single_context_with_neutral_words: $(CHILD)_$(SAGE)to$(EAGE)m
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r+2" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_common2_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 
 
-test:
+$(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_train.ylt:
 	python src/split_train_test.py $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m.ylt $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_$(SAGE)to$(EAGE)m.gold 0.2
+
+
+$(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_nopfx.ylt: $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_train.ylt
+	cut -d " " -f 2- $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_test.ylt > $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_nopfx.ylt
+
+
+test: $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_train.ylt 
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-test-coll-syll" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_test.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-test-coll-syll-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_test.sh $(PY_CFG) colloc_common_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-test-coll-syll-sc-r+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_test.sh $(PY_CFG) readapt_colloc_common_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-test-coll-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_test.sh $(PY_CFG) colloc_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 
 
-test_wo_prefix_topic: test
-	cut -d " " -f 2- $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_test.ylt > $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_nopfx.ylt
+test_wo_prefix_topic: $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_nopfx.ylt
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-nopfx-coll-syll-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_nopfx.sh $(PY_CFG) colloc_common_syll_sc_nopfx $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-nopfx-coll-syll-sc-r+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_nopfx.sh $(PY_CFG) readapt_colloc_common_syll_sc_nopfx $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-nopfx-coll-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_nopfx.sh $(PY_CFG) colloc_syll_sc_nopfx $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 
 
 single_context_learn_topics: $(CHILD)_$(SAGE)to$(EAGE)m
