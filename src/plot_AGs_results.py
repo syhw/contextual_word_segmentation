@@ -11,10 +11,11 @@ N_MONTHS = EAGE-SAGE+1
 #TYPES = ["basic", "single-context", "topics"]
 #TYPES = ["basic", "topics"]
 TYPES = ["basic", "single-context"]
-ITERS = [100, 500]
+ITERS = [500, 501, 502, 503]
 PREFIX = ""
 #PREFIX = "old_naima_XPs/"
 TAKE_MAX_SCORE = True # in case of several results, otherwise do the mean+std
+SORTED = True # sort the histograms by score
 
 results = defaultdict(lambda: [[] for tmp_i in range(N_MONTHS)])
 if TAKE_MAX_SCORE:
@@ -121,8 +122,8 @@ for month in xrange(SAGE, EAGE+1):
         if TAKE_MAX_SCORE:
             score = a[month-SAGE]
         else:
-            score = np.mean(a)
-            stddev = np.std(a)
+            score = np.mean(a[month-SAGE])
+            stddev = np.std(a[month-SAGE])
         if score > 0:
             y_pos.append(y_pos[-1] + 1)
             scores.append(score)
@@ -132,17 +133,24 @@ for month in xrange(SAGE, EAGE+1):
     fig = plt.figure(figsize=(9, len(y_pos)), dpi=300)
     ax = plt.gca()
     ax.set_ylim([0, len(y_pos)+1])
+    tmp = ()
     if TAKE_MAX_SCORE:
         tmp = zip(y_pos, scores, conds, ['g' for tmp_i in range(len(y_pos))])
         tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 't_' in cond or 'd_' in cond else (y, s, cond, color), tmp)
-        y_pos, scores, conds, colors = zip(*tmp)
-        plt.barh(y_pos, scores, color=colors, ecolor='r', alpha=0.5)
     else:
         tmp = zip(y_pos, scores, stddevs, conds, ['g' for tmp_i in range(len(y_pos))])
         tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 't_' in cond or 'd_' in cond else (y, s, sd, cond, color), tmp)
+    if SORTED:
+        ys = map(lambda x: x[0], tmp)
+        tmp = sorted(tmp, key=lambda x: x[1])
+        tmp = map(lambda y,t: sum(((y,), t[1:]), ()), ys, tmp)
+    if TAKE_MAX_SCORE:
+        y_pos, scores, conds, colors = zip(*tmp)
+        plt.barh(y_pos, scores, color=colors, ecolor='r', alpha=0.5)
+    else:
         y_pos, scores, stddev, conds, colors = zip(*tmp)
         plt.barh(y_pos, scores, xerr=stddev, color=colors, ecolor='r', alpha=0.5)
     plt.yticks(map(lambda x: x+0.5, y_pos), conds)
     plt.xlabel('token f-score')
     #plt.title('')
-    plt.savefig('histogram_' + str(SAGE_XPS) + 'to' + str(month) + 'm.png')
+    plt.savefig('histogram_' + str(SAGE_XPS) + 'to' + str(month) + 'm.png', bbox_inches='tight')

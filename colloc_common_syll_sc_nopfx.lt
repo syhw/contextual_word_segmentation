@@ -1,3 +1,10 @@
+1 1 Root --> Collocs_t0
+1 1 Root --> Collocs_t1
+1 1 Root --> Collocs_t2
+1 1 Root --> Collocs_t3
+1 1 Root --> Collocs_t4
+1 1 Root --> Collocs_t5
+1 1 Root --> Collocs_t6
 1 1 Root --> _t0 Collocs_t0
 1 1 Root --> _t1 Collocs_t1
 1 1 Root --> _t2 Collocs_t2
@@ -8,8 +15,6 @@
 1 1 Collocs --> Colloc Collocs
 1 1 Collocs --> Colloc
 Colloc --> Words
-1 1 Words --> Word Words
-1 1 Words --> Word
 1 1 Collocs_t0 --> Collocs Collocs_t0
 1 1 Collocs_t0 --> Colloc_t0 Collocs_t0
 1 1 Collocs_t0 --> Colloc_t0 Collocs
@@ -45,6 +50,8 @@ Colloc_t5 --> Words_t5
 1 1 Collocs_t6 --> Colloc_t6 Collocs
 1 1 Collocs_t6 --> Colloc_t6
 Colloc_t6 --> Words_t6
+1 1 Words --> Word_ Words
+1 1 Words --> Word_
 1 1 Words_t0 --> Word_t0
 1 1 Words_t0 --> Word_t0 Words_t0
 1 1 Words_t1 --> Word_t1
@@ -59,56 +66,78 @@ Colloc_t6 --> Words_t6
 1 1 Words_t5 --> Word_t5 Words_t5
 1 1 Words_t6 --> Word_t6
 1 1 Words_t6 --> Word_t6 Words_t6
-1 1 Struct --> Phons
-1 1 Phons --> Phon
-1 1 Phons --> Phon Phons
-1 1 Phon --> &
-1 1 Phon --> 1
-1 1 Phon --> 3
-1 1 Phon --> 2
-1 1 Phon --> 5
-1 1 Phon --> 4
-1 1 Phon --> 6
-1 1 Phon --> 9
-1 1 Phon --> A
-1 1 Phon --> C
-1 1 Phon --> D
-1 1 Phon --> I
-1 1 Phon --> J
-1 1 Phon --> O
-1 1 Phon --> N
-1 1 Phon --> S
-1 1 Phon --> R
-1 1 Phon --> U
-1 1 Phon --> T
-1 1 Phon --> Z
-1 1 Phon --> a
-1 1 Phon --> b
-1 1 Phon --> e
-1 1 Phon --> d
-1 1 Phon --> g
-1 1 Phon --> f
-1 1 Phon --> i
-1 1 Phon --> h
-1 1 Phon --> k
-1 1 Phon --> m
-1 1 Phon --> l
-1 1 Phon --> o
-1 1 Phon --> n
-1 1 Phon --> p
-1 1 Phon --> s
-1 1 Phon --> r
-1 1 Phon --> u
-1 1 Phon --> t
-1 1 Phon --> w
-1 1 Phon --> v
-1 1 Phon --> y
-1 1 Phon --> z
-Word_t0 --> Word
-Word_t1 --> Word
-Word_t2 --> Word
-Word_t3 --> Word
-Word_t4 --> Word
-Word_t5 --> Word
-Word_t6 --> Word
-Word --> Struct
+1 1 Struct --> SyllIF
+1 1 Struct --> SyllI Sylls
+1 1 Sylls --> SyllF
+1 1 Sylls --> Syll Sylls
+2 1 Syll --> Onset Rhyme
+1 1 Syll --> Rhyme
+2 1 SyllI --> OnsetI Rhyme
+1 1 SyllI --> Rhyme
+2 1 SyllF --> Onset RhymeF
+1 1 SyllF --> RhymeF
+2 1 SyllIF --> OnsetI RhymeF
+1 1 SyllIF --> RhymeF
+2 1 Rhyme --> Nucleus
+1 1 Rhyme --> Nucleus Coda
+2 1 RhymeF --> Nucleus CodaF
+1 1 RhymeF --> Nucleus
+Onset --> Consonants
+OnsetI --> Consonants
+Nucleus --> Vowels
+Coda --> Consonants
+CodaF --> Consonants
+1 1 Consonants --> Consonant
+1 1 Consonants --> Consonant Consonants
+1 1 Vowels --> Vowel
+1 1 Vowels --> Vowel Vowel
+1 1 Vowel --> A
+1 1 Vowel --> a
+1 1 Vowel --> e
+1 1 Vowel --> &
+1 1 Vowel --> i
+1 1 Vowel --> o
+1 1 Vowel --> 1
+1 1 Vowel --> I
+1 1 Vowel --> 3
+1 1 Vowel --> 2
+1 1 Vowel --> 5
+1 1 Vowel --> 4
+1 1 Vowel --> O
+1 1 Vowel --> 6
+1 1 Vowel --> y
+1 1 Vowel --> u
+1 1 Vowel --> R
+1 1 Vowel --> U
+1 1 Consonant --> 9
+1 1 Consonant --> C
+1 1 Consonant --> D
+1 1 Consonant --> J
+1 1 Consonant --> N
+1 1 Consonant --> S
+1 1 Consonant --> T
+1 1 Consonant --> Z
+1 1 Consonant --> b
+1 1 Consonant --> d
+1 1 Consonant --> g
+1 1 Consonant --> f
+1 1 Consonant --> h
+1 1 Consonant --> k
+1 1 Consonant --> m
+1 1 Consonant --> l
+1 1 Consonant --> n
+1 1 Consonant --> p
+1 1 Consonant --> s
+1 1 Consonant --> r
+1 1 Consonant --> t
+1 1 Consonant --> w
+1 1 Consonant --> v
+1 1 Consonant --> z
+Word_t0 --> Struct
+Word_t1 --> Struct
+Word_t2 --> Struct
+Word_t3 --> Struct
+Word_t4 --> Struct
+Word_t5 --> Struct
+Word_t6 --> Struct
+Word_ --> Struct

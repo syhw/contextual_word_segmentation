@@ -12,21 +12,21 @@ echo "==> We will do that for the child $1"
 echo "-----------------------------------------"
 chi=$(echo "$1" | cut -c 1-3)
 ### First extract .cha to .txt to cut them into documents, put them into
-### the folder 'LyonFinal/ToSegment' (alternatively use Lan's docs split)
+### the folder 'LyonFinal/ToSegment'
 mkdir -p LyonFinal/OverSeg
-sed -e s/@?/@/ LyonFinal/ToSegment/*.txt > LyonFinal/OverSeg/all_over_seg.txt
+sed -e s/@?/@/ LyonFinal/ToSegment/segmented_w_age.txt > LyonFinal/OverSeg/segmented_w_age_over_seg.txt
 python src/prepare_corpus_tfidf.py LyonFinal/OverSeg/ --fr
-python src/split_corpus.py LyonFinal/ToSegment/*.txt --fr
+python src/split_corpus.py LyonFinal/ToSegment/segmented_w_age.txt --fr
 mkdir -p LyonFinal/Final
 cp LyonFinal/ToSegment/*_final_split.txt LyonFinal/Final/
 ### we also assume that you have:
 ###  - 'phonology_dict/filterWords.txt'
 ###  - 'phonology_dict/words.txt'
 ###  - 'phonology_dict/phoneSet'
-python src/prepare_corpus_tfidf.py LyonFinal/Final/ &>LyonFinal/topics.txt
+python src/prepare_corpus_tfidf.py LyonFinal/Final/ --fr &>LyonFinal/topics.txt
 ### edit the next file depending on which LDA model you want to use
 ### this also splits in kids name and months
-python src/prefix_sentences_by_docs.py LyonFinal/Final/*_final_split.txt
+python src/prefix_sentences_by_docs.py LyonFinal/Final/*_final_split.txt --fr
 # optional, cuts sentences that are too long (see inside the *.py for params)
 python src/cut_too_long.py LyonFinal/Final/${chi}_
 ### you need the 'phonology_dict' folder stuffed

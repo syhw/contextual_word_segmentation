@@ -1,19 +1,22 @@
 import sys, re, cPickle
-from gensim import corpora, models, similarities, utils
+from gensim import corpora, models, similarities 
 from gensim.corpora.dictionary import Dictionary
 from gensim.corpora.textcorpus import TextCorpus
 from gensim.corpora.mmcorpus import MmCorpus
+from prepare_corpus_tfidf import tokenize, parse_args
 
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 FILTER_WORDS = 'phonology_dict/filterWords.txt' # path to a list of words to remove
 TFIDF_SUFFIX = '_tfidf' # set it to the empty string for no TF-IDF
+LEMMATIZE = True
+DEBUG = True
 
 def parse_kid(line, kid):
     """ parses a "@   ale01.cha   1;4.28" line into name/month ("ale", 16) """
     tmp = line.split('\t')
-    if len(tmp) < 3 or not "cha" in tmp[1]:
+    if len(tmp) < 3 or not (".cha" in tmp[1] or ".txt" in tmp[1]):
         return kid
     else:
         date = tmp[2].split(';')
@@ -36,21 +39,26 @@ if __name__ == '__main__':
     fname = sys.argv[1]
     bfname = fname.split('.')[0]
     basefolder = '/'.join(fname.split('/')[:-1]) + '/'
+    prefix = fname.split('/')[0]
 
-    LEMMATIZE = utils.HAS_PATTERN
-    if LEMMATIZE:
-        print "you have pattern: we will lemmatize ('you were'->'be/VB')"
-        suffix = '_reseg_lemmatized' + TFIDF_SUFFIX
+    lemmatizer, filter_words = parse_args(sys.argv)
+    if lemmatizer == None:
+        LEMMATIZE = False
+        suffix = '_tokenized' + TFIDF_SUFFIX
     else:
-        print "you don't have pattern: we will tokenize ('you were'->'you','were')"
-        suffix = '_reseg_tokenized' + TFIDF_SUFFIX
-    from prepare_corpus_tfidf import tokenize
+        suffix = '_lemmatized' + TFIDF_SUFFIX
     outputname = bfname + suffix
 
-    with open('provi' + suffix + '.ldamodel') as f:
+    with open(prefix + suffix + '.ldamodel') as f:
         lda = cPickle.load(f)
 
-    id2token = Dictionary.load_from_text('provi' + suffix + '_wordids.txt')
+    id2token = Dictionary.load_from_text(prefix + suffix + '_wordids.txt')
+
+    if DEBUG:
+        print "prefix:", prefix
+        print "suffix:", suffix
+        print "using dict:", prefix + suffix + '_wordids.txt'
+        print id2token
 
     doc_topics = {}
 
@@ -83,10 +91,10 @@ if __name__ == '__main__':
             else:
                 if doc != 0: # doc == 0 is the first header
                     if LEMMATIZE:
-                        result = utils.lemmatize(' '.join(text))
+                        result = lemmatizer(' . '.join(text))
                         topics = lda[id2token.doc2bow(result)]
                     else:
-                        result = tokenize(' '.join(text)) # text into tokens here
+                        result = tokenize(' . '.join(text)) # text into tokens here
                         topics = lda[id2token.doc2bow(result)]
                     doc_topics['_d'+str(doc)] = topics
                     out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')
@@ -110,10 +118,10 @@ if __name__ == '__main__':
                 doc += 1
 
         if LEMMATIZE:
-            result = utils.lemmatize(' '.join(text))
+            result = lemmatizer(' . '.join(text))
             topics = lda[id2token.doc2bow(result)]
         else:
-            result = tokenize(' '.join(text)) # text into tokens here
+            result = tokenize(' . '.join(text)) # text into tokens here
             topics = lda[id2token.doc2bow(result)]
         doc_topics['_d'+str(doc)] = topics
         out_topics.write('_d'+str(doc)+' '+str(topics)+'\n')

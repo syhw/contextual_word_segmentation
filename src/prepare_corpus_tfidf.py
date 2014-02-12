@@ -201,27 +201,24 @@ if __name__ == '__main__':
 
     if LEMMATIZE:
         print "we will lemmatize ('you were'->'be/VB')"
-        outputname = prefix + '_lemmatized_tfidf'
-        inputname = prefix + '_lemmatized'
+        mname = prefix + '_lemmatized_tfidf'
     else:
         print "you don't have pattern: we will tokenize ('you were'->'you','were')"
-        outputname = prefix + '_tokenized_tfidf'
-        inputname = prefix + '_tokenized'
+        mname = prefix + '_tokenized_tfidf'
 
     try:
-
-        id2token = Dictionary.load_from_text(inputname + '_wordids.txt')
-        mm = MmCorpus(inputname + '_bow.mm')
+        id2token = Dictionary.load_from_text(mname + '_wordids.txt')
+        mm = MmCorpus(mname + '_bow.mm')
         print ">>> Loaded corpus from serialized files"
     except:
         print ">>> Extracting articles..."
         corpus = CDS_Corpus(FOLDER)
-        corpus.dictionary.save_as_text(outputname + '_wordids.txt')
-        print ">>> Saved dictionary as " + outputname + "_wordids.txt"
-        MmCorpus.serialize(outputname + '_bow.mm', corpus, progress_cnt=1000)
-        print ">>> Saved MM corpus as " + outputname + "_bow.mm"
-        id2token = Dictionary.load_from_text(outputname + '_wordids.txt')
-        mm = MmCorpus(outputname + '_bow.mm')
+        corpus.dictionary.save_as_text(mname + '_wordids.txt')
+        print ">>> Saved dictionary as " + mname + "_wordids.txt"
+        MmCorpus.serialize(mname + '_bow.mm', corpus, progress_cnt=1000)
+        print ">>> Saved MM corpus as " + mname + "_bow.mm"
+        id2token = Dictionary.load_from_text(mname + '_wordids.txt')
+        mm = MmCorpus(mname + '_bow.mm')
         del corpus
 
     print ">>> Using TF-IDF"
@@ -232,7 +229,7 @@ if __name__ == '__main__':
             num_topics=N_TOPICS, alpha='auto',
             update_every=1, chunksize=800, passes=50)
 
-    f = open(outputname + '.ldamodel', 'w')
+    f = open(mname + '.ldamodel', 'w')
     cPickle.dump(lda, f)
     f.close()
 
@@ -245,7 +242,7 @@ if __name__ == '__main__':
                 num_topics=N_TOPICS, update_every=0, passes=51,
                 alpha=alpha)
 
-        f = open(outputname + '.ldasparsemodel', 'w')
+        f = open(mname + '.ldasparsemodel', 'w')
         cPickle.dump(lda_sparse, f)
 
     print "================================================"

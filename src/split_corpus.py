@@ -113,6 +113,8 @@ if __name__ == '__main__':
     if DEBUG:
         print "prefix:", prefix
         print "suffix:", suffix
+        print "using dict:", prefix + suffix + '_wordids.txt'
+        print id2token
 
     docs = []
     with open(fname) as f:
