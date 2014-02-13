@@ -11,8 +11,8 @@ with open(sys.argv[2]) as g:
 with open(sys.argv[1]) as f:
     with open(sys.argv[1].split('.')[0] + '_test.ylt', 'w') as teylt:
         with open(sys.argv[1].split('.')[0] + '_train.ylt', 'w') as trylt:
-            with open(sys.argv[1].split('.')[0] + '_test.gold', 'w') as tegld:
-                with open(sys.argv[1].split('.')[0] + '_train.gold', 'w') as trgld:
+            with open(sys.argv[2].split('.')[0] + '_test.gold', 'w') as tegld:
+                with open(sys.argv[2].split('.')[0] + '_train.gold', 'w') as trgld:
                     for i, line in enumerate(f):
                         if random.random() < test_fraction:
                             teylt.write(line)
