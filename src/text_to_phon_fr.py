@@ -1,27 +1,16 @@
 import sys, re
 
 words_dict = {}
-with open('phonology_dict/words.txt') as f:
+with open('phonology_dict/words_fr.txt') as f:
     for line in f:
-        words_dict[line.split('[')[0].rstrip('\t ')] = line.split(']')[1].split()
-
-
-phns_dict = {}
-with open('phonology_dict/phoneSet') as f:
-    for line in f:
-        tmp_l = line.split()
-        phns_dict[tmp_l[0]] = tmp_l[1]
+        tmp = line.split('\t')
+        words_dict[tmp[0].rstrip('\t ')] = tmp[1].rstrip('\n')
 
 
 def wrd_to_phn(w):
-    w = w.upper()
+    w = w.lower()
     if w in words_dict:
-        tmp = []
-        for phn in words_dict[w]:
-            if not phn in phns_dict:
-                return ''
-            tmp.append(phns_dict[phn])
-        return ''.join(tmp)
+        return words_dict[w]
     return ''
 
 
@@ -30,7 +19,9 @@ with open(sys.argv[1]) as rf:
         for line in rf:
             line = re.sub('\[[^\]]*\]', '', line, count=len(line))
             line = re.sub('\([^\)]*\)', '', line, count=len(line))
-            line = re.sub('[.?!+/]*', '', line, count=len(line))
+            line = re.sub('&=\w*', '', line, count=len(line))
+            line = line.replace('+', ' ')
+            line = re.sub('[.,?!/]*', '', line, count=len(line))
             line = line.split()
             if len(line) == 0:
                 continue

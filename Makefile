@@ -1,8 +1,8 @@
-CHILD=naima
+CHILD=ana
 CHI=$(shell echo $(CHILD) | cut -c 1-3)
-SAGE=11
-EAGE=22
-NITER=501
+SAGE=12
+EAGE=23
+NITER=10
 QUEUE=cpu
 PY_CFG=./py-cfg/py-cfg
 list_of_grammars=$(shell echo $(CHILD)_$(SAGE)to$(EAGE)m_*.lt)
@@ -16,6 +16,16 @@ just_basic_and_single:
 	$(MAKE) basic_AGs
 	@echo ">>> launching single context ("_sc") grammars"
 	$(MAKE) single_context_AGs
+
+
+just_basic_and_single_fr:
+	# make prepare_topics_* has still to be done by hand (once for all)
+	@echo ">>> creating the $(CHILD)_fr_$(SAGE)to$(EAGE)m folder with needed data"
+	$(MAKE) $(CHILD)_fr_$(SAGE)to$(EAGE)m
+	@echo ">>> launching basic grammars"
+	$(MAKE) basic_AGs_fr
+	#@echo ">>> launching single context ("_sc") grammars"
+	#$(MAKE) single_context_AGs_fr
 
 
 all_Providence: 
@@ -76,20 +86,13 @@ basic_AGs: $(CHILD)_$(SAGE)to$(EAGE)m
 
 
 basic_AGs_fr: $(CHILD)_fr_$(SAGE)to$(EAGE)m
-	# or $(CHILD)_$(SAGE)to$(EAGE)m???
-	# TODO all these rules in FR with FR phoenemes.
 	cut -d " " -f 2- $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt > $(CHILD)_$(SAGE)to$(EAGE)m.ylt
 	# for qsub with Open-MPI, use -pe openmpi_ib 8-16
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	cut -d " " -f 2- $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt > $(CHILD)_$(SAGE)to$(EAGE)m.ylt
-	# for qsub with Open-MPI, use -pe openmpi_ib 8-16
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram_fr $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_fr $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll_fr $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll" -q cpu -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll_fr $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+
 
 %.prs: %.lt $(CHILD)_$(SAGE)to$(EAGE)m
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-docs-$(subst .lt,,$<)" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) $(subst .lt,,$<) $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
@@ -111,6 +114,15 @@ single_context_AGs: $(CHILD)_$(SAGE)to$(EAGE)m
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	$(MAKE) single_context_with_neutral_words
+
+
+single_context_AGs_fr: $(CHILD)_fr_$(SAGE)to$(EAGE)m
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	#$(MAKE) single_context_with_neutral_words TODO
 
 
 single_context_with_neutral_words: $(CHILD)_$(SAGE)to$(EAGE)m
