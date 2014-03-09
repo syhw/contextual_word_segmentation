@@ -1,27 +1,15 @@
 import sys, re
 
 words_dict = {}
-with open('phonology_dict/words.txt') as f:
+with open('phonology_dict/words_fr.txt') as f:
     for line in f:
-        words_dict[line.split('[')[0].rstrip('\t ')] = line.split(']')[1].split()
-
-
-phns_dict = {}
-with open('phonology_dict/phoneSet') as f:
-    for line in f:
-        tmp_l = line.split()
-        phns_dict[tmp_l[0]] = tmp_l[1]
+        words_dict[line.split('\t')[0]] = list(line.split('\t')[1])
 
 
 def wrd_to_phn(w):
-    w = w.upper()
+    w = w.lower()
     if w in words_dict:
-        tmp = []
-        for phn in words_dict[w]:
-            if not phn in phns_dict:
-                return ''
-            tmp.append(phns_dict[phn])
-        return ''.join(tmp)
+        return ''.join(words_dict[w])
     return ''
 
 
