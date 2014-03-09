@@ -8,30 +8,39 @@ import readline # otherwise the wrong readline is imported by rpy2
 
 SAGE_XPS = 11
 SAGE = 12
-EAGE = 22
+EAGE = 23
 N_MONTHS = EAGE-SAGE+1
 #TYPES = ["basic", "single-context", "topics"]
 #TYPES = ["basic", "topics"]
 TYPES = ["basic", "single-context"]
 TEST = False # if True, just use the values evaluated on a test test
 ITERS = range(500, 520)
-#ITERS = [1000]
+#ITERS = range(1000,1005)
 PREFIX = ""
 #PREFIX = "old_naima_XPs/"
 TAKE_MAX_SCORE = False # in case of several results, otherwise do the mean+std
 SORTED = True # sort the histograms by score
 FACTOR_STD = 1. # 1.96 for 95% confidence interval
+FULL = False # try and plot all simple + t_ (single-context) grammars
 
-#DO_ONLY = {'unigram': 'unigram', 'syll': 'syll', 'colloc': 'colloc', 
 DO_ONLY = {'syll': 'syll', 'colloc': 'colloc', 
         't_readapt_colloc': 't_colloc_shr_vocab', 
-        #'t_colloc': 't_colloc_spl_vocab', 
-        't_syll': 't_syll', 
+        't_syll': 't_syll_spl_vocab', 
         't_readapt_colloc+': 't_colloc_w/_common', 
         'colloc_syll': 'colloc_syll', 
         't_colloc_syll': 't_colloc_syll_spl_vocab',
         't_readapt_colloc_syll': 't_colloc_syll_shr_vocab',
         't_colloc_syll+': 't_colloc_syll_w/_common'}
+if FULL:
+    DO_ONLY = {'unigram': 'unigram', 'syll': 'syll', 'colloc': 'colloc', 
+            't_readapt_colloc': 't_colloc_shr_vocab', 
+            't_colloc': 't_colloc_spl_vocab', 
+            't_syll': 't_syll_spl_vocab',
+            't_readapt_colloc+': 't_colloc_w/_common', 
+            'colloc_syll': 'colloc_syll', 
+            't_colloc_syll': 't_colloc_syll_spl_vocab',
+            't_readapt_colloc_syll': 't_colloc_syll_shr_vocab',
+            't_colloc_syll+': 't_colloc_syll_w/_common'}
 if TEST:
     DO_ONLY = {'t_nopfx_coll_syll+': 't_colloc_syll_w/_common_nopfx',
             't_test_coll_syll+': 't_colloc_syll_w/_common_test',
@@ -162,11 +171,14 @@ matplotlib.rcParams.update({'axes.labelcolor': "black"})
 matplotlib.rcParams.update({'xtick.color': "black"})
 matplotlib.rcParams.update({'ytick.color': "black"})
 
+plotted_results = {} # plotted_results[month][cond][score_type] = mean
+
 for month in xrange(SAGE, EAGE+1):
     y_pos = [0.5]
     scores = []
     stddevs = []
     conds = []
+    s_dicts = []
     for cond, a in results.iteritems():
         score = 0
         stddev = 0
@@ -180,6 +192,13 @@ for month in xrange(SAGE, EAGE+1):
             scores.append(score)
             stddevs.append(stddev)
             conds.append(cond)
+            s_dicts.append({'token_f-score': score,
+                'token_precision': np.mean(a[month-SAGE]['token_precision']),
+                'token_recall': np.mean(a[month-SAGE]['token_recall']),
+                'boundary_f-score': np.mean(a[month-SAGE]['boundary_f-score']),
+                'boundary_precision': np.mean(a[month-SAGE]['boundary_precision']),
+                'boundary_recall': np.mean(a[month-SAGE]['boundary_recall'])})
+    plotted_results[month] = dict(zip(conds, s_dicts))
     if len(conds) == 0:
         continue
     y_pos = y_pos[:-1]
@@ -231,12 +250,13 @@ for key, value in mydata.iteritems():
     mydata[key] = [j for i in value for j in i]
 print mydata
 mydataframe = DataFrame(mydata)
-#my_lng = pd.melt(mydataframe[['months', 'unigram', 'colloc', 'syll', 't_colloc_spl_vocab', 't_colloc_shr_vocab', 't_colloc_w/_common', 't_syll', 't_colloc_syll_shr_vocab', 'colloc_syll', 't_colloc_syll_w/_common', 't_colloc_syll_spl_vocab']], id_vars='months') # TODO for the complete graph with all results
 my_lng = pd.melt(mydataframe[['months', 't_colloc_syll_shr_vocab', 'colloc_syll', 't_colloc_syll_w/_common', 't_colloc_syll_spl_vocab']], id_vars='months')
+if FULL:
+    my_lng = pd.melt(mydataframe[['months', 'unigram', 'colloc', 'syll', 't_colloc_spl_vocab', 't_colloc_shr_vocab', 't_colloc_w/_common', 't_syll_spl_vocab', 't_colloc_syll_shr_vocab', 'colloc_syll', 't_colloc_syll_w/_common', 't_colloc_syll_spl_vocab']], id_vars='months')
 
 # from ggplot_import_*
 # #p = ggplot(aes(x='months', y='colloc'), data=mydataframe) + geom_point(color='lightgreen') + stat_smooth(se=True) + xlab('age in months') + ylab('token f-score')
-# my_lng = pd.melt(mydataframe[['months', 't_colloc syll shr vocab', 'colloc syll', 't_colloc_syll_w/_common', 't_colloc_syll_spl_vocab', 'colloc', 'syll', 't_syll']], id_vars='months')
+# my_lng = pd.melt(mydataframe[['months', 't_colloc syll shr vocab', 'colloc syll', 't_colloc_syll_w/_common', 't_colloc_syll_spl_vocab', 'colloc', 'syll', 't_syll_spl_vocab']], id_vars='months')
 # #p = ggplot(aes(x='months', y='value', color='variable'), data=my_lng) + stat_smooth(se=True, method='lm', level=0.95) + xlab('age in months') + ylab('token f-score')
 # p = ggplot(aes(x='months', y='value', color='variable'), data=my_lng) + stat_smooth(se=False) + xlab('age in months') + ylab('token f-score')
 # ggsave(p, 'ggplot_progress.png')
@@ -256,6 +276,8 @@ lng_r = com.convert_to_r_dataframe(my_lng)
 data_r = com.convert_to_r_dataframe(mydataframe)
 globalenv['lng_r'] = lng_r
 globalenv['data_r'] = data_r
+globalenv['eage'] = EAGE
+globalenv['sage'] = SAGE
 print "==================="
 print "and now for the R part"
 print "==================="
@@ -271,8 +293,8 @@ plotFunc_2 = robj.r("""
 
                 p <- ggplot(data=lng_r, aes(x=months, y=value, group=variable, colour=variable, fill=variable))\
                 + scale_y_continuous(name='token f-score')\
-                + scale_x_discrete('age in months', breaks=seq(12,22), labels=seq(12,22))\
-                + coord_cartesian(xlim = c(12, 22))\
+                + scale_x_discrete('age in months', breaks=seq(eage,sage), labels=seq(eage,sage))\
+                + coord_cartesian(xlim = c(eage, sage))\
                 + theme_bw()\
                 + scale_colour_discrete("model", drop=TRUE, limits=cLevels)\
                 + scale_fill_discrete("model", drop=TRUE, limits=cLevels)\
@@ -288,7 +310,7 @@ plotFunc_2 = robj.r("""
                 #+ geom_point()
                 #+ xlab('age in months')\
                 #+ ylab('token f-score')\
-                #+ scale_x_continuous('age in months', breaks=seq(12,22), limits=c(12,22))\
+                #+ scale_x_continuous('age in months', breaks=seq(eage,sage), limits=c(eage,sage))\
 
                 ggsave('ggplot2_progress.pdf', plot=p, width=22, height=16)
 
@@ -299,3 +321,50 @@ plotFunc_2 = robj.r("""
 print "==================="
 print "and now for the LaTeX tables"
 print "==================="
+
+
+header_table = """
+\begin{table*}[ht] \caption{Mean f-scores (f), precisions (p), and recalls (r) for different models depending on the size of dataset}
+\vspace{-0.5cm}
+\begin{center}
+\begin{scriptsize}
+\begin{tabular}{|c|ccc|ccc|ccc|ccc|ccc|ccc|ccc|ccc|}
+\hline
+& \multicolumn{3}{|c|}{syll}
+& \multicolumn{3}{|c|}{t\_syll}
+& \multicolumn{3}{|c|}{colloc}
+& \multicolumn{3}{|c|}{t\_coll\_w/\_common}
+& \multicolumn{3}{|c|}{coll\_syll}
+& \multicolumn{3}{|c|}{t\_coll\_syll\_shr\_voc}
+& \multicolumn{3}{|c|}{t\_coll\_syll\_spl\_voc}
+& \multicolumn{3}{|c|}{t\_coll\_syll\_w/\_com}\\\\
+"""
+print header_table
+for typ in ['token', 'boundary']:
+    print typ + """ & f & p & r & f & p & r & f & p & r & f & p & r & f & p & r & f & p & r & f & p & r & f & p & r \\\\
+        \hline """
+
+    for month, d in plotted_results.iteritems():
+        print str(SAGE_XPS) + "-" + str(month),
+        for cond in ['syll', 't_syll_spl_vocab', 'colloc', 't_colloc_w/_common', 'colloc_syll', 't_colloc_syll_shr_vocab', 't_colloc_syll_spl_vocab', 't_colloc_syll_w/_common']:
+            s_dict = d[cond]
+            f = s_dict[typ+'_f-score']
+            p = s_dict[typ+'_precision']
+            r = s_dict[typ+'_recall']
+            print " & ",
+            print "%.3f" % f,
+            print " & ",
+            print "%.3f" % p,
+            print " & ",
+            print "%.3f" % r,
+        print "\\\\"
+    print "\hline"
+
+footer_table = """
+\end{tabular}
+\label{results}
+\end{scriptsize}
+\end{center}
+\end{table*}
+"""
+print footer_table
