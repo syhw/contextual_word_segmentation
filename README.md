@@ -22,3 +22,6 @@ To get all the data points and plot them, use e.g.:
 
 for eage in `range 12 22`; do make just_basic_and_single CHILD=naima SAGE=11 EAGE=$eage NITER=500; done
 python src/plot_AGs_results.py
+
+the 500-520 iterations and 1000-1010 iterations are ran with a Gamma(100,0.001) PYP b parameter prior
+the 600-620 iterations are ran with a Gamma(100,0.01) PYP b parameter prior

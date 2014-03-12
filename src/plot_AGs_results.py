@@ -8,7 +8,7 @@ import readline # otherwise the wrong readline is imported by rpy2
 
 SAGE_XPS = 11
 SAGE = 12
-EAGE = 23
+EAGE = 28
 N_MONTHS = EAGE-SAGE+1
 #TYPES = ["basic", "single-context", "topics"]
 #TYPES = ["basic", "topics"]
@@ -16,37 +16,46 @@ TYPES = ["basic", "single-context"]
 TEST = False # if True, just use the values evaluated on a test test
 ITERS = range(500, 520)
 #ITERS = range(1000,1005)
+#ITERS = range(600, 620)
 PREFIX = ""
 #PREFIX = "old_naima_XPs/"
 TAKE_MAX_SCORE = False # in case of several results, otherwise do the mean+std
 SORTED = True # sort the histograms by score
 FACTOR_STD = 1. # 1.96 for 95% confidence interval
-FULL = False # try and plot all simple + t_ (single-context) grammars
+OLDVERSION = False # version before March 10
+LAST_ITERS = 20 # take the last XX iterations as results (considering converged)
+if LAST_ITERS > 1 and TEST:
+    TAKE_MAX_SCORE = False
 
-DO_ONLY = {'syll': 'syll', 'colloc': 'colloc', 
-        't_readapt_colloc': 't_colloc_shr_vocab', 
-        't_syll': 't_syll_spl_vocab', 
-        't_readapt_colloc+': 't_colloc_w/_common', 
-        'colloc_syll': 'colloc_syll', 
-        't_colloc_syll': 't_colloc_syll_spl_vocab',
-        't_readapt_colloc_syll': 't_colloc_syll_shr_vocab',
-        't_colloc_syll+': 't_colloc_syll_w/_common'}
-if FULL:
-    DO_ONLY = {'unigram': 'unigram', 'syll': 'syll', 'colloc': 'colloc', 
+DO_ONLY = {'unigram': 'unigram', 't_readapt_unigram': 'unigram share vocab', 
+        't_unigram': 'unigram split vocab', 
+        'colloc_syll': 'baseline', 
+        't_colloc_syll': 'split vocab',
+        't_readapt_colloc_syll': 'share vocab',
+        't_colloc_syll_wth_common': 'with common',
+        't_readapt_colloc_syll_wth_common': 'share vocab with common',
+        't_readapt_colloc_syll_wth_common2': 'share vocab with common 2'}
+if OLDVERSION:
+    DO_ONLY = {'syll': 'syll', 'colloc': 'colloc', 
             't_readapt_colloc': 't_colloc_shr_vocab', 
-            't_colloc': 't_colloc_spl_vocab', 
-            't_syll': 't_syll_spl_vocab',
-            't_readapt_colloc+': 't_colloc_w/_common', 
+            't_syll': 't_syll_spl_vocab', 
+            't_readapt_colloc_wth_common': 't_colloc_wth_common', 
             'colloc_syll': 'colloc_syll', 
             't_colloc_syll': 't_colloc_syll_spl_vocab',
             't_readapt_colloc_syll': 't_colloc_syll_shr_vocab',
-            't_colloc_syll+': 't_colloc_syll_w/_common'}
+            't_colloc_syll_wth_common': 't_colloc_syll_wth_common'}
 if TEST:
-    DO_ONLY = {'t_nopfx_coll_syll+': 't_colloc_syll_w/_common_nopfx',
-            't_test_coll_syll+': 't_colloc_syll_w/_common_test',
-            't_nopfx_coll_syll': 't_colloc_syll_spl_vocab_nopfx',
-            'test_coll_syll': 'colloc_syll_test',
-            't_test_coll_syll': 't_colloc_syll_spl_vocab_test'}
+    DO_ONLY = {'t_nopfx_coll_syll_wth_common': 'with common no prefix',
+            't_test_coll_syll_wth_common': 'with common test',
+            't_nopfx_coll_syll': 'split vocab no prefix',
+            'test_coll_syll': 'baseline test',
+            't_test_coll_syll': 'split vocab test'}
+    if OLDVERSION:
+        DO_ONLY = {'t_nopfx_coll_syll_wth_common': 't_colloc_syll_wth_common_nopfx',
+                't_test_coll_syll_wth_common': 't_colloc_syll_wth_common_test',
+                't_nopfx_coll_syll': 't_colloc_syll_spl_vocab_nopfx',
+                'test_coll_syll': 'colloc_syll_test',
+                't_test_coll_syll': 't_colloc_syll_spl_vocab_test'}
 #DO_ONLY = {}
 # for cosmetics when preparing figures for papers
 # e.g. DO_ONLY = {'t_colloc': 'colloc with topics'}
@@ -87,16 +96,19 @@ for month in xrange(SAGE, EAGE+1):
             last_lines = []
             for line in f:
                 last_lines.append(line)
-                if len(last_lines) > 5: # just for smoothing results a little
-                    last_lines.pop(0)
             try:
-                if TEST:
-                    scores = [np.mean(map(lambda x: float(x.split('\t')[i]), last_lines)) for i in range(6)]
+                if TEST and LAST_ITERS > 1 and len(last_lines) > LAST_ITERS+1:
+                    for iter_to_take in range(1,LAST_ITERS+1):
+                        scores = [float(last_lines[-iter_to_take].split('\t')[i]) for i in range(6)]
+                        if not len(s_dict):
+                            s_dict = [dict(zip(scores_order, scores))]
+                        else:
+                            s_dict.append(dict(zip(scores_order, scores)))
                 else:
                     scores = [float(last_lines[-1].split('\t')[i]) for i in range(6)]
-                s_dict = dict(zip(scores_order, scores))
+                    s_dict = dict(zip(scores_order, scores))
             except:
-                pass
+                print "PARSE ERROR: parse went wrongly for", fname
         fname = '/'.join(fname.split('/')[1:])
         if 'docs' in fname:
             condname = '_'.join(fname.split('/')[-1].split('-')[-1].split('.')[0].split('_')[2:])
@@ -104,11 +116,14 @@ for month in xrange(SAGE, EAGE+1):
                 condname = 'uni'
             condname = 'd_' + condname
         elif '-sc' in fname:
+            fname = fname.replace('coll-', 'colloc-')
             fname = fname.replace('-sc', '')
             condname = 't'
             if '-r' in fname:
                 condname = 't_readapt'
                 fname = fname.replace('-r', '')
+            if '+' in fname:
+                fname = fname.replace('+', '_wth_common')
             condname = '_'.join([condname] + fname.split('/')[-1].split('-')[3:]).split('.')[0]
         else:
             condname = '_'.join(fname.split('/')[-1].split('-')[3:]).split('.')[0]
@@ -121,13 +136,18 @@ for month in xrange(SAGE, EAGE+1):
                 continue
         ########## /cosmetic (for legends) ##########
 
-        if len(s_dict) == 6:
+        if type(s_dict) == type({}) and len(s_dict) == 6:
             if TAKE_MAX_SCORE:
                 if results[condname][month-SAGE]['token_f-score'] == 0 or s_dict['token_f-score'] > results[condname][month-SAGE]['token_f-score']:
                     results[condname][month-SAGE] = s_dict
             else:
                 for k, v in s_dict.iteritems():
                     results[condname][month-SAGE][k].append(v)
+        elif type(s_dict) == type([]):
+            for e in s_dict:
+                for k, v in e.iteritems():
+                    results[condname][month-SAGE][k].append(v)
+
 
 print results
         
@@ -211,10 +231,16 @@ for month in xrange(SAGE, EAGE+1):
     tmp = ()
     if TAKE_MAX_SCORE:
         tmp = zip(y_pos, scores, conds, ['g' for tmp_i in range(len(y_pos))])
-        tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 't' == cond[0] or 'd' == cond[0] else (y, s, cond, color), tmp)
+        if OLDVERSION:
+            tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 't' == cond[0] or 'd' == cond[0] else (y, s, cond, color), tmp)
+        else:
+            tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 'b' != cond[0] or 'd' == cond[0] else (y, s, cond, color), tmp)
     else:
         tmp = zip(y_pos, scores, stddevs, conds, ['g' for tmp_i in range(len(y_pos))])
-        tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 't' == cond[0] or 'd' == cond[0] else (y, s, sd, cond, color), tmp)
+        if OLDVERSION:
+            tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 't' == cond[0] or 'd' == cond[0] else (y, s, sd, cond, color), tmp)
+        else:
+            tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 'b' != cond[0] else (y, s, sd, cond, color), tmp)
     if SORTED:
         ys = map(lambda x: x[0], tmp)
         tmp = sorted(tmp, key=lambda x: x[1])
@@ -250,13 +276,13 @@ for key, value in mydata.iteritems():
     mydata[key] = [j for i in value for j in i]
 print mydata
 mydataframe = DataFrame(mydata)
-my_lng = pd.melt(mydataframe[['months', 't_colloc_syll_shr_vocab', 'colloc_syll', 't_colloc_syll_w/_common', 't_colloc_syll_spl_vocab']], id_vars='months')
-if FULL:
-    my_lng = pd.melt(mydataframe[['months', 'unigram', 'colloc', 'syll', 't_colloc_spl_vocab', 't_colloc_shr_vocab', 't_colloc_w/_common', 't_syll_spl_vocab', 't_colloc_syll_shr_vocab', 'colloc_syll', 't_colloc_syll_w/_common', 't_colloc_syll_spl_vocab']], id_vars='months')
+my_lng = pd.melt(mydataframe[['months', 'share vocab', 'baseline', 'with common', 'split vocab']], id_vars='months')
+if OLDVERSION:
+    my_lng = pd.melt(mydataframe[['months', 't_colloc_syll_shr_vocab', 'colloc_syll', 't_colloc_syll_wth_common', 't_colloc_syll_spl_vocab']], id_vars='months')
 
 # from ggplot_import_*
 # #p = ggplot(aes(x='months', y='colloc'), data=mydataframe) + geom_point(color='lightgreen') + stat_smooth(se=True) + xlab('age in months') + ylab('token f-score')
-# my_lng = pd.melt(mydataframe[['months', 't_colloc syll shr vocab', 'colloc syll', 't_colloc_syll_w/_common', 't_colloc_syll_spl_vocab', 'colloc', 'syll', 't_syll_spl_vocab']], id_vars='months')
+# my_lng = pd.melt(mydataframe[['months', 't_colloc syll shr vocab', 'colloc syll', 't_colloc_syll_wth_common', 't_colloc_syll_spl_vocab', 'colloc', 'syll', 't_syll_spl_vocab']], id_vars='months')
 # #p = ggplot(aes(x='months', y='value', color='variable'), data=my_lng) + stat_smooth(se=True, method='lm', level=0.95) + xlab('age in months') + ylab('token f-score')
 # p = ggplot(aes(x='months', y='value', color='variable'), data=my_lng) + stat_smooth(se=False) + xlab('age in months') + ylab('token f-score')
 # ggsave(p, 'ggplot_progress.png')
@@ -324,20 +350,20 @@ print "==================="
 
 
 header_table = """
-\begin{table*}[ht] \caption{Mean f-scores (f), precisions (p), and recalls (r) for different models depending on the size of dataset}
-\vspace{-0.5cm}
-\begin{center}
-\begin{scriptsize}
-\begin{tabular}{|c|ccc|ccc|ccc|ccc|ccc|ccc|ccc|ccc|}
+\\begin{table*}[ht] \caption{Mean f-scores (f), precisions (p), and recalls (r) for different models depending on the size of dataset}
+\\vspace{-0.5cm}
+\\begin{center}
+\\begin{scriptsize}
+\\begin{tabular}{|c|ccc|ccc|ccc|ccc|ccc|ccc|ccc|ccc|}
 \hline
 & \multicolumn{3}{|c|}{syll}
 & \multicolumn{3}{|c|}{t\_syll}
 & \multicolumn{3}{|c|}{colloc}
-& \multicolumn{3}{|c|}{t\_coll\_w/\_common}
+& \multicolumn{3}{|c|}{t\_coll\_wth\_common}
 & \multicolumn{3}{|c|}{coll\_syll}
 & \multicolumn{3}{|c|}{t\_coll\_syll\_shr\_voc}
 & \multicolumn{3}{|c|}{t\_coll\_syll\_spl\_voc}
-& \multicolumn{3}{|c|}{t\_coll\_syll\_w/\_com}\\\\
+& \multicolumn{3}{|c|}{t\_coll\_syll\_wth\_com}\\\\
 """
 print header_table
 for typ in ['token', 'boundary']:
@@ -346,7 +372,10 @@ for typ in ['token', 'boundary']:
 
     for month, d in plotted_results.iteritems():
         print str(SAGE_XPS) + "-" + str(month),
-        for cond in ['syll', 't_syll_spl_vocab', 'colloc', 't_colloc_w/_common', 'colloc_syll', 't_colloc_syll_shr_vocab', 't_colloc_syll_spl_vocab', 't_colloc_syll_w/_common']:
+        if OLDVERSION:
+            listmodels =  ['syll', 't_syll_spl_vocab', 'colloc', 't_colloc_wth_common', 'colloc_syll', 't_colloc_syll_shr_vocab', 't_colloc_syll_spl_vocab', 't_colloc_syll_wth_common']
+        listmodels = ['unigram', 'unigram share vocab', 'unigram split vocab', 'baseline', 'share vocab', 'split vocab', 'with common']
+        for cond in listmodels:
             s_dict = d[cond]
             f = s_dict[typ+'_f-score']
             p = s_dict[typ+'_precision']
