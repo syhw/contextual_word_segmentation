@@ -7,34 +7,42 @@ import glob
 import readline # otherwise the wrong readline is imported by rpy2
 
 SAGE_XPS = 11
-SAGE = 12
-EAGE = 28
+SAGE = 22
+EAGE = 24
 N_MONTHS = EAGE-SAGE+1
 #TYPES = ["basic", "single-context", "topics"]
 #TYPES = ["basic", "topics"]
 TYPES = ["basic", "single-context"]
 TEST = False # if True, just use the values evaluated on a test test
-ITERS = range(500, 520)
+ITERS = range(499, 520)
 #ITERS = range(1000,1005)
 #ITERS = range(600, 620)
 PREFIX = ""
 #PREFIX = "old_naima_XPs/"
 TAKE_MAX_SCORE = False # in case of several results, otherwise do the mean+std
-SORTED = True # sort the histograms by score
+SORTED = True # sort the histograms by score, disable at your own risk!
 FACTOR_STD = 1. # 1.96 for 95% confidence interval
 OLDVERSION = False # version before March 10
-LAST_ITERS = 20 # take the last XX iterations as results (considering converged)
+LAST_ITERS = 10 # take the last XX iterations as results (considering converged)
+                # USED ONLY FOR TEST currently
 if LAST_ITERS > 1 and TEST:
     TAKE_MAX_SCORE = False
 
-DO_ONLY = {'unigram': 'unigram', 't_readapt_unigram': 'unigram share vocab', 
-        't_unigram': 'unigram split vocab', 
-        'colloc_syll': 'baseline', 
+DO_ONLY = {'colloc_syll': 'baseline', 
         't_colloc_syll': 'split vocab',
         't_readapt_colloc_syll': 'share vocab',
         't_colloc_syll_wth_common': 'with common',
-        't_readapt_colloc_syll_wth_common': 'share vocab with common',
-        't_readapt_colloc_syll_wth_common2': 'share vocab with common 2'}
+        #'t_permuted_colloc_syll': 'permuted split vocab',
+        't_permuted_colloc_syll_wth_common': 'permuted with common',
+        #'t_random_colloc_syll': 'random split vocab',
+        't_random_colloc_syll_wth_common': 'random with common'}
+        #'syll': 'syll',
+        #'t_syll': 'syll split vocab',
+        #'t_readapt_syll': 'syll share vocab'}
+        #'unigram': 'unigram', 't_readapt_unigram': 'unigram share vocab', 
+        #'t_unigram': 'unigram split vocab'}
+        #'t_readapt_colloc_syll_wth_common': 'share vocab with common',
+        #'t_readapt_colloc_syll_wth_common2': 'share vocab with common 2'}
 if OLDVERSION:
     DO_ONLY = {'syll': 'syll', 'colloc': 'colloc', 
             't_readapt_colloc': 't_colloc_shr_vocab', 
@@ -45,11 +53,11 @@ if OLDVERSION:
             't_readapt_colloc_syll': 't_colloc_syll_shr_vocab',
             't_colloc_syll_wth_common': 't_colloc_syll_wth_common'}
 if TEST:
-    DO_ONLY = {'t_nopfx_coll_syll_wth_common': 'with common no prefix',
-            't_test_coll_syll_wth_common': 'with common test',
-            't_nopfx_coll_syll': 'split vocab no prefix',
+    DO_ONLY = {'t_nopfx_colloc_syll_wth_common': 'with common no prefix',
+            't_test_colloc_syll_wth_common': 'with common test',
+            't_nopfx_colloc_syll': 'split vocab no prefix',
             'test_coll_syll': 'baseline test',
-            't_test_coll_syll': 'split vocab test'}
+            't_test_colloc_syll': 'split vocab test'}
     if OLDVERSION:
         DO_ONLY = {'t_nopfx_coll_syll_wth_common': 't_colloc_syll_wth_common_nopfx',
                 't_test_coll_syll_wth_common': 't_colloc_syll_wth_common_test',
@@ -82,13 +90,14 @@ for month in xrange(SAGE, EAGE+1):
             line = ""
             for line in f:
                 for iternumber in ITERS:
-                    if str(iternumber) + " iterations" in line:
+                    striter = str(iternumber)
+                    if striter + " iterations" in line or "Iteration " + striter in line:
                         doit = True
                         break
         if not doit:
             print "NOT DOING:", fname
-            continue
-        print fname
+        else:
+            print fname
         scores = []
         s_dict = {}
 
@@ -110,19 +119,23 @@ for month in xrange(SAGE, EAGE+1):
             except:
                 print "PARSE ERROR: parse went wrongly for", fname
         fname = '/'.join(fname.split('/')[1:])
+        fname = fname.replace('coll-', 'colloc-')
         if 'docs' in fname:
             condname = '_'.join(fname.split('/')[-1].split('-')[-1].split('.')[0].split('_')[2:])
             if condname == '': # topics-based unigram
                 condname = 'uni'
             condname = 'd_' + condname
         elif '-sc' in fname:
-            fname = fname.replace('coll-', 'colloc-')
             fname = fname.replace('-sc', '')
             condname = 't'
-            if '-r' in fname:
+            if '-r+' in fname or '-r.' in fname:
                 condname = 't_readapt'
                 fname = fname.replace('-r', '')
-            if '+' in fname:
+            if 'w+' in fname:
+                fname = fname.replace('+', '_words_common')
+            elif 'c+' in fname:
+                fname = fname.replace('+', '_collocs_common')
+            elif '+' in fname:
                 fname = fname.replace('+', '_wth_common')
             condname = '_'.join([condname] + fname.split('/')[-1].split('-')[3:]).split('.')[0]
         else:
@@ -234,23 +247,27 @@ for month in xrange(SAGE, EAGE+1):
         if OLDVERSION:
             tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 't' == cond[0] or 'd' == cond[0] else (y, s, cond, color), tmp)
         else:
-            tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 'b' != cond[0] or 'd' == cond[0] else (y, s, cond, color), tmp)
+            tmp = map(lambda (y, s, cond, color): (y, s, cond, 'b') if 'b' != cond[0] or 'd' == cond[0] else (y, s, cond, color), tmp) # cond[0]=='b' for cond=='baseline'
     else:
         tmp = zip(y_pos, scores, stddevs, conds, ['g' for tmp_i in range(len(y_pos))])
         if OLDVERSION:
             tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 't' == cond[0] or 'd' == cond[0] else (y, s, sd, cond, color), tmp)
         else:
-            tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 'b' != cond[0] else (y, s, sd, cond, color), tmp)
+            if TEST:
+                tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 'no prefix' in cond else (y, s, sd, cond, color), tmp) # "no prefix" cond => different color
+                tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'grey') if 'b' == cond[0] else (y, s, sd, cond, color), tmp) # cond[0]=='b' for cond=='baseline'
+            else:
+                tmp = map(lambda (y, s, sd, cond, color): (y, s, sd, cond, 'b') if 'b' != cond[0] else (y, s, sd, cond, color), tmp) # cond[0]=='b' for cond=='baseline'
     if SORTED:
         ys = map(lambda x: x[0], tmp)
         tmp = sorted(tmp, key=lambda x: x[1])
         tmp = map(lambda y,t: sum(((y,), t[1:]), ()), ys, tmp)
     if TAKE_MAX_SCORE:
         y_pos, scores, conds, colors = zip(*tmp)
-        plt.barh(y_pos, scores, color=colors, ecolor='r', alpha=0.7)
+        plt.barh(y_pos, scores, color=colors, ecolor='r', alpha=0.8)
     else:
         y_pos, scores, stddev, conds, colors = zip(*tmp)
-        plt.barh(y_pos, scores, xerr=stddev, color=colors, ecolor='r', alpha=0.7)
+        plt.barh(y_pos, scores, xerr=stddev, color=colors, ecolor='r', alpha=0.8)
     plt.yticks(map(lambda x: x+0.5, y_pos), conds)
     plt.xlabel('token f-score')
     #plt.title('')
@@ -274,9 +291,15 @@ for key, value in mydata.iteritems():
     for i, l in enumerate(value):
         value[i] = l + [np.nan for j in range(ages_max_points[i] - len(l))]
     mydata[key] = [j for i in value for j in i]
+    if np.all(map(np.isnan, mydata[key])): # remove data that is only nan
+        mydata.pop(key)
 print mydata
+print mydata.keys()
 mydataframe = DataFrame(mydata)
-my_lng = pd.melt(mydataframe[['months', 'share vocab', 'baseline', 'with common', 'split vocab']], id_vars='months')
+my_lng = pd.melt(mydataframe[['months'] + [k for k in mydata.keys() if k != 'months']], id_vars='months')
+#my_lng = pd.melt(mydataframe[['months', 'share vocab', 'baseline', 'with common', 'split vocab']], id_vars='months')
+#my_lng = pd.melt(mydataframe[['months', 't_permuted_colloc_syll', 't_permuted_colloc_syll_wth_common', 'unigram', 't_unigram', 't_readapt_unigram', 'colloc_syll', 't_colloc_syll', 't_colloc_syll_wth_common']], id_vars='months')
+
 if OLDVERSION:
     my_lng = pd.melt(mydataframe[['months', 't_colloc_syll_shr_vocab', 'colloc_syll', 't_colloc_syll_wth_common', 't_colloc_syll_spl_vocab']], id_vars='months')
 
@@ -307,41 +330,55 @@ globalenv['sage'] = SAGE
 print "==================="
 print "and now for the R part"
 print "==================="
-plotFunc_2 = robj.r("""
-                library("ggplot2")
-                library("grid")
 
-                #print(lng_r)
-                #print(factor(lng_r$months))
-                #print(factor(lng_r$variable))
+rstring = """
+library("ggplot2")
+library("grid")
 
-                cLevels <- levels(lng_r$variable)
+#print(lng_r)
+#print(factor(lng_r$months))
+#print(factor(lng_r$variable))
 
-                p <- ggplot(data=lng_r, aes(x=months, y=value, group=variable, colour=variable, fill=variable))\
-                + scale_y_continuous(name='token f-score')\
-                + scale_x_discrete('age in months', breaks=seq(eage,sage), labels=seq(eage,sage))\
-                + coord_cartesian(xlim = c(eage, sage))\
-                + theme_bw()\
-                + scale_colour_discrete("model", drop=TRUE, limits=cLevels)\
-                + scale_fill_discrete("model", drop=TRUE, limits=cLevels)\
-                + stat_smooth(level=0.68, size=1.2)\
-                + opts(legend.position = c(0.98, 0.5),
-                       legend.justification = c(1, 0.5),
-                       legend.background = element_rect(colour = "grey70", fill = "white"),
-                       legend.text=element_text(size=44),
-                       legend.title=element_text(size=44),
-                       legend.key.size=unit(2, "cm"),
-                       plot.margin=unit(c(1,1,1,1), "cm"))\
-                + theme(text = element_text(size=44))
-                #+ geom_point()
-                #+ xlab('age in months')\
-                #+ ylab('token f-score')\
-                #+ scale_x_continuous('age in months', breaks=seq(eage,sage), limits=c(eage,sage))\
+cLevels <- levels(lng_r$variable)
 
-                ggsave('ggplot2_progress.pdf', plot=p, width=22, height=16)
-
-                """)
+p <- ggplot(data=lng_r, aes(x=months, y=value, group=variable, colour=variable, fill=variable, shape=variable, linetype=variable))\
++ scale_y_continuous(name='token f-score')\
++ scale_x_discrete('age in months', breaks=seq(eage,sage), labels=seq(eage,sage))\
++ coord_cartesian(xlim = c(eage, sage))\
++ theme_bw()\
++ scale_colour_discrete("model", drop=TRUE, limits=cLevels)\
++ scale_fill_discrete("model", drop=TRUE, limits=cLevels)\
++ scale_shape_discrete("model", drop=TRUE, limits=cLevels)\
++ scale_linetype_discrete("model", drop=TRUE, limits=cLevels)\
++ stat_smooth(level=0.68, size=1.8)\
++ theme(text = element_text(size=44))\
+"""
+#+ geom_point()\
+#+ xlab('age in months')\
+#+ ylab('token f-score')\
+#+ scale_x_continuous('age in months', breaks=seq(eage,sage), limits=c(eage,sage))\
 # + scale_x_discrete('age in months') 
+if len(DO_ONLY) and len(DO_ONLY) < 5:
+    rstring += """+ opts(legend.position = c(0.96, 0.5),
+       legend.justification = c(1, 0.5),
+       legend.background = element_rect(colour = "grey70", fill = "white"),
+       legend.text=element_text(size=44),
+       legend.title=element_text(size=44),
+       legend.key.size=unit(2, "cm"),
+       plot.margin=unit(c(1,1,1,1), "cm"))
+       """
+else:
+    rstring += """+ opts(legend.background = element_rect(colour = "grey70", fill = "white"),
+       legend.text=element_text(size=44),
+       legend.title=element_text(size=44),
+       legend.key.size=unit(2, "cm"),
+       plot.margin=unit(c(1,1,1,1), "cm"))
+       """
+rstring += """
+ggsave('ggplot2_progress.pdf', plot=p, width=22, height=16)
+"""
+
+plotFunc_2 = robj.r(rstring)
 
 
 print "==================="

@@ -79,10 +79,10 @@ $(CHILD)_fr_$(SAGE)to$(EAGE)m:
 basic_AGs: $(CHILD)_$(SAGE)to$(EAGE)m
 	cut -d " " -f 2- $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt > $(CHILD)_$(SAGE)to$(EAGE)m.ylt
 	# for qsub with Open-MPI, use -pe openmpi_ib 8-16
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) unigram $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 
 
 basic_AGs_fr: $(CHILD)_fr_$(SAGE)to$(EAGE)m
@@ -105,40 +105,44 @@ launch_jobs: $(subst .lt,.prs,$(list_of_grammars))
 
 
 unigram_grammars: $(CHILD)_$(SAGE)to$(EAGE)m
+	#qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) syll_common_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) unigram $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) unigram_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_unigram_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) unigram_common_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+    # TODO grammars with different Word --> Phon Phons values
 
 
 single_context_AGs: $(CHILD)_$(SAGE)to$(EAGE)m
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_unigram_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) unigram_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_unigram_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_colloc_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_colloc_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	$(MAKE) single_context_with_neutral_words
 
 
 single_context_AGs_fr: $(CHILD)_fr_$(SAGE)to$(EAGE)m
 	# TODO 
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) unigram_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-unigram-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) unigram_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_colloc_syll_sc_fr $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	#$(MAKE) single_context_with_neutral_words TODO
 
 
 single_context_with_neutral_words: $(CHILD)_$(SAGE)to$(EAGE)m
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_common_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_common_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc-r+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_common_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_common_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r+2" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) readapt_colloc_common2_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_common_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_common_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-sc-r+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_colloc_common_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_colloc_common_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-r+2" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) readapt_colloc_common2_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-w+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_syll_sc_common_words $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc-c+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_syll_sc_common_collocs $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 
 
 $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_topic_$(SAGE)to$(EAGE)m_train.ylt:
@@ -191,8 +195,21 @@ topics_learn_topics: $(CHILD)_$(SAGE)to$(EAGE)m
 
 
 multiple_levels: $(CHILD)_$(SAGE)to$(EAGE)m
-	# TODO learn 3 levels of colloc without syll, TODO with topics
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-learn-topics-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor.sh $(PY_CFG) colloc_common_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-three-levels" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) three_levels $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-three-levels-one-lower" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) three_levels_one_lower $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-three-levels-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) three_levels_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-three-levels-one-lower-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) three_levels_one_lower_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+
+
+generic_levels: $(CHILD)_$(SAGE)to$(EAGE)m
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-four-levels" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_generic.sh $(PY_CFG) four_levels $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-four-levels-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_generic.sh $(PY_CFG) four_levels_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+
+
+mbr_single_context_bests: $(CHILD)_$(SAGE)to$(EAGE)m
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_syll $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-sc+" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean.sh $(PY_CFG) colloc_common_syll_sc $(CHILD)_topic_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	
 
 clean:

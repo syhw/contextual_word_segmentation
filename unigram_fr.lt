@@ -1,0 +1,36 @@
+1 1 Root --> Words
+1 1 Words --> Word
+1 1 Words --> Word Words
+Word --> Phons
+1 1 Phons --> Phon
+1 1 Phons --> Phon Phons
+1 1 Phon --> (
+1 1 Phon --> )
+1 1 Phon --> 1
+1 1 Phon --> 2
+1 1 Phon --> 5
+1 1 Phon --> 8
+1 1 Phon --> 9
+1 1 Phon --> @
+1 1 Phon --> a
+1 1 Phon --> e
+1 1 Phon --> i
+1 1 Phon --> o
+1 1 Phon --> u
+1 1 Phon --> y
+1 1 Phon --> b
+1 1 Phon --> d
+1 1 Phon --> f
+1 1 Phon --> g
+1 1 Phon --> j
+1 1 Phon --> k
+1 1 Phon --> l
+1 1 Phon --> m
+1 1 Phon --> n
+1 1 Phon --> p
+1 1 Phon --> r
+1 1 Phon --> s
+1 1 Phon --> t
+1 1 Phon --> v
+1 1 Phon --> w
+1 1 Phon --> z

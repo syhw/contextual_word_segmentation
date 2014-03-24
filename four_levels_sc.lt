@@ -1,0 +1,135 @@
+1 1 Root --> _t0 Levels3_t0
+1 1 Root --> _t1 Levels3_t1
+1 1 Root --> _t2 Levels3_t2
+1 1 Root --> _t3 Levels3_t3
+1 1 Root --> _t4 Levels3_t4
+1 1 Root --> _t5 Levels3_t5
+1 1 Root --> _t6 Levels3_t6
+1 1 Levels3_t0 --> Level3_t0
+1 1 Levels3_t0 --> Level3_t0 Levels3_t0
+Level3_t0 --> Levels2_t0
+1 1 Levels2_t0 --> Level2_t0
+1 1 Levels2_t0 --> Level2_t0 Levels2_t0
+Level2_t0 --> Levels1_t0
+1 1 Levels1_t0 --> Level1_t0
+1 1 Levels1_t0 --> Level1_t0 Levels1_t0
+Level1_t0 --> Levels0_t0
+1 1 Levels3_t1 --> Level3_t1
+1 1 Levels3_t1 --> Level3_t1 Levels3_t1
+Level3_t1 --> Levels2_t1
+1 1 Levels2_t1 --> Level2_t1
+1 1 Levels2_t1 --> Level2_t1 Levels2_t1
+Level2_t1 --> Levels1_t1
+1 1 Levels1_t1 --> Level1_t1
+1 1 Levels1_t1 --> Level1_t1 Levels1_t1
+Level1_t1 --> Levels0_t1
+1 1 Levels3_t2 --> Level3_t2
+1 1 Levels3_t2 --> Level3_t2 Levels3_t2
+Level3_t2 --> Levels2_t2
+1 1 Levels2_t2 --> Level2_t2
+1 1 Levels2_t2 --> Level2_t2 Levels2_t2
+Level2_t2 --> Levels1_t2
+1 1 Levels1_t2 --> Level1_t2
+1 1 Levels1_t2 --> Level1_t2 Levels1_t2
+Level1_t2 --> Levels0_t2
+1 1 Levels3_t3 --> Level3_t3
+1 1 Levels3_t3 --> Level3_t3 Levels3_t3
+Level3_t3 --> Levels2_t3
+1 1 Levels2_t3 --> Level2_t3
+1 1 Levels2_t3 --> Level2_t3 Levels2_t3
+Level2_t3 --> Levels1_t3
+1 1 Levels1_t3 --> Level1_t3
+1 1 Levels1_t3 --> Level1_t3 Levels1_t3
+Level1_t3 --> Levels0_t3
+1 1 Levels3_t4 --> Level3_t4
+1 1 Levels3_t4 --> Level3_t4 Levels3_t4
+Level3_t4 --> Levels2_t4
+1 1 Levels2_t4 --> Level2_t4
+1 1 Levels2_t4 --> Level2_t4 Levels2_t4
+Level2_t4 --> Levels1_t4
+1 1 Levels1_t4 --> Level1_t4
+1 1 Levels1_t4 --> Level1_t4 Levels1_t4
+Level1_t4 --> Levels0_t4
+1 1 Levels3_t5 --> Level3_t5
+1 1 Levels3_t5 --> Level3_t5 Levels3_t5
+Level3_t5 --> Levels2_t5
+1 1 Levels2_t5 --> Level2_t5
+1 1 Levels2_t5 --> Level2_t5 Levels2_t5
+Level2_t5 --> Levels1_t5
+1 1 Levels1_t5 --> Level1_t5
+1 1 Levels1_t5 --> Level1_t5 Levels1_t5
+Level1_t5 --> Levels0_t5
+1 1 Levels3_t6 --> Level3_t6
+1 1 Levels3_t6 --> Level3_t6 Levels3_t6
+Level3_t6 --> Levels2_t6
+1 1 Levels2_t6 --> Level2_t6
+1 1 Levels2_t6 --> Level2_t6 Levels2_t6
+Level2_t6 --> Levels1_t6
+1 1 Levels1_t6 --> Level1_t6
+1 1 Levels1_t6 --> Level1_t6 Levels1_t6
+Level1_t6 --> Levels0_t6
+1 1 Levels0_t0 --> Level0_t0
+1 1 Levels0_t0 --> Level0_t0 Levels0_t0
+1 1 Levels0_t1 --> Level0_t1
+1 1 Levels0_t1 --> Level0_t1 Levels0_t1
+1 1 Levels0_t2 --> Level0_t2
+1 1 Levels0_t2 --> Level0_t2 Levels0_t2
+1 1 Levels0_t3 --> Level0_t3
+1 1 Levels0_t3 --> Level0_t3 Levels0_t3
+1 1 Levels0_t4 --> Level0_t4
+1 1 Levels0_t4 --> Level0_t4 Levels0_t4
+1 1 Levels0_t5 --> Level0_t5
+1 1 Levels0_t5 --> Level0_t5 Levels0_t5
+1 1 Levels0_t6 --> Level0_t6
+1 1 Levels0_t6 --> Level0_t6 Levels0_t6
+Level0_t0 --> Phons
+Level0_t1 --> Phons
+Level0_t2 --> Phons
+Level0_t3 --> Phons
+Level0_t4 --> Phons
+Level0_t5 --> Phons
+Level0_t6 --> Phons
+1 1 Phons --> Phon
+1 1 Phons --> Phon Phons
+1 1 Phon --> &
+1 1 Phon --> 1
+1 1 Phon --> 3
+1 1 Phon --> 2
+1 1 Phon --> 5
+1 1 Phon --> 4
+1 1 Phon --> 6
+1 1 Phon --> 9
+1 1 Phon --> A
+1 1 Phon --> C
+1 1 Phon --> D
+1 1 Phon --> I
+1 1 Phon --> J
+1 1 Phon --> O
+1 1 Phon --> N
+1 1 Phon --> S
+1 1 Phon --> R
+1 1 Phon --> U
+1 1 Phon --> T
+1 1 Phon --> Z
+1 1 Phon --> a
+1 1 Phon --> b
+1 1 Phon --> e
+1 1 Phon --> d
+1 1 Phon --> g
+1 1 Phon --> f
+1 1 Phon --> i
+1 1 Phon --> h
+1 1 Phon --> k
+1 1 Phon --> m
+1 1 Phon --> l
+1 1 Phon --> o
+1 1 Phon --> n
+1 1 Phon --> p
+1 1 Phon --> s
+1 1 Phon --> r
+1 1 Phon --> u
+1 1 Phon --> t
+1 1 Phon --> w
+1 1 Phon --> v
+1 1 Phon --> y
+1 1 Phon --> z

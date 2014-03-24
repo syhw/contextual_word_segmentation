@@ -149,12 +149,15 @@ def evaluate(options, trainwords, trainstringpos, goldwords, goldstringpos):
         sys.stdout.write('\t')
         sys.stdout.write(options.extra)
 
+    if options.levelname:
+        sys.stdout.write("\t(" + options.levelname + ")")
     sys.stdout.write('\n')
     sys.stdout.flush()
              
 
 if __name__ == '__main__':
     parser = optparse.OptionParser(usage=usage)
+    parser.add_option("-n", "--name", dest="levelname", help="name of the adaptor being evaluated")
     parser.add_option("-g", "--gold", dest="goldfile", help="gold file")
     parser.add_option("-t", "--train", dest="trainfile", help="train file")
     parser.add_option("--gold-trees", dest="goldtree_flag", default=False,
