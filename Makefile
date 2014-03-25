@@ -192,7 +192,7 @@ topics_learn_topics: $(CHILD)_$(SAGE)to$(EAGE)m
 	python src/topics_learning_grammars.py $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m/$(CHILD)_docs_$(SAGE)to$(EAGE)m.ylt $(NTOPICS) $(NLEVELS)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-syll-learn-topics" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean_samefolder.sh $(PY_CFG) $(CHILD)_$(SAGE)to$(EAGE)m/colloc_syll_learn_topics $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-colloc-common-syll-learn-topics" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean_samefolder.sh $(PY_CFG) $(CHILD)_$(SAGE)to$(EAGE)m/colloc_common_syll_learn_topics $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
-	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-$(NLEVELS)-levels-learn-topics" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_mean_samefolder.sh $(PY_CFG) $(CHILD)_$(SAGE)to$(EAGE)m/levels_$(NLEVELS)_learn_topics $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
+	qsub -N "$(CHI)-$(SAGE)-$(EAGE)-$(NLEVELS)-levels-learn-topics" -q $(QUEUE) -cwd -o `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m -e `pwd`/$(CHILD)_$(SAGE)to$(EAGE)m launch_adaptor_generic_samefolder.sh $(PY_CFG) $(CHILD)_$(SAGE)to$(EAGE)m/levels_$(NLEVELS)_learn_topics $(CHILD)_docs_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(CHILD)_$(SAGE)to$(EAGE)m $(NITER)
 
 
 multiple_levels: $(CHILD)_$(SAGE)to$(EAGE)m
