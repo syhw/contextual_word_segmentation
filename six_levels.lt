@@ -1,0 +1,63 @@
+1 1 Root --> Levels5
+1 1 Levels5 --> Level5
+1 1 Levels5 --> Level5 Levels5
+Level5 --> Levels4
+1 1 Levels4 --> Level4
+1 1 Levels4 --> Level4 Levels4
+Level4 --> Levels3
+1 1 Levels3 --> Level3
+1 1 Levels3 --> Level3 Levels3
+Level3 --> Levels2
+1 1 Levels2 --> Level2
+1 1 Levels2 --> Level2 Levels2
+Level2 --> Levels1
+1 1 Levels1 --> Level1
+1 1 Levels1 --> Level1 Levels1
+Level1 --> Levels0
+1 1 Levels0 --> Level0
+1 1 Levels0 --> Level0 Levels0
+Level0 --> Phons
+1 1 Phons --> Phon
+1 1 Phons --> Phon Phons
+1 1 Phon --> &
+1 1 Phon --> 1
+1 1 Phon --> 3
+1 1 Phon --> 2
+1 1 Phon --> 5
+1 1 Phon --> 4
+1 1 Phon --> 6
+1 1 Phon --> 9
+1 1 Phon --> A
+1 1 Phon --> C
+1 1 Phon --> D
+1 1 Phon --> I
+1 1 Phon --> J
+1 1 Phon --> O
+1 1 Phon --> N
+1 1 Phon --> S
+1 1 Phon --> R
+1 1 Phon --> U
+1 1 Phon --> T
+1 1 Phon --> Z
+1 1 Phon --> a
+1 1 Phon --> b
+1 1 Phon --> e
+1 1 Phon --> d
+1 1 Phon --> g
+1 1 Phon --> f
+1 1 Phon --> i
+1 1 Phon --> h
+1 1 Phon --> k
+1 1 Phon --> m
+1 1 Phon --> l
+1 1 Phon --> o
+1 1 Phon --> n
+1 1 Phon --> p
+1 1 Phon --> s
+1 1 Phon --> r
+1 1 Phon --> u
+1 1 Phon --> t
+1 1 Phon --> w
+1 1 Phon --> v
+1 1 Phon --> y
+1 1 Phon --> z
