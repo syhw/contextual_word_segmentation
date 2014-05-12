@@ -7,14 +7,14 @@ import glob
 import readline # otherwise the wrong readline is imported by rpy2
 
 SAGE_XPS = 11
-SAGE = 22
-EAGE = 24
+SAGE = 12
+EAGE = 31
 N_MONTHS = EAGE-SAGE+1
 #TYPES = ["basic", "single-context", "topics"]
 #TYPES = ["basic", "topics"]
 TYPES = ["basic", "single-context"]
 TEST = False # if True, just use the values evaluated on a test test
-ITERS = range(499, 520)
+ITERS = range(499, 520) + range(1000,1005)
 #ITERS = range(1000,1005)
 #ITERS = range(600, 620)
 PREFIX = ""
@@ -33,9 +33,11 @@ DO_ONLY = {'colloc_syll': 'baseline',
         't_readapt_colloc_syll': 'share vocab',
         't_colloc_syll_wth_common': 'with common',
         #'t_permuted_colloc_syll': 'permuted split vocab',
-        't_permuted_colloc_syll_wth_common': 'permuted with common',
+###        't_permuted_colloc_syll_wth_common': 'permuted with common',
         #'t_random_colloc_syll': 'random split vocab',
-        't_random_colloc_syll_wth_common': 'random with common'}
+###        't_random_colloc_syll_wth_common': 'random with common',
+        'colloc3_syll': 'colloc3 syll',
+        't_colloc3_syll_collocs_common': 'colloc3 syll collocs common'}
         #'syll': 'syll',
         #'t_syll': 'syll split vocab',
         #'t_readapt_syll': 'syll share vocab'}
@@ -119,7 +121,7 @@ for month in xrange(SAGE, EAGE+1):
             except:
                 print "PARSE ERROR: parse went wrongly for", fname
         fname = '/'.join(fname.split('/')[1:])
-        fname = fname.replace('coll-', 'colloc-')
+        fname = fname.replace('coll-', 'colloc-')  # old names
         if 'docs' in fname:
             condname = '_'.join(fname.split('/')[-1].split('-')[-1].split('.')[0].split('_')[2:])
             if condname == '': # topics-based unigram
@@ -131,10 +133,10 @@ for month in xrange(SAGE, EAGE+1):
             if '-r+' in fname or '-r.' in fname:
                 condname = 't_readapt'
                 fname = fname.replace('-r', '')
-            if 'w+' in fname:
-                fname = fname.replace('+', '_words_common')
-            elif 'c+' in fname:
-                fname = fname.replace('+', '_collocs_common')
+            if '-w+' in fname:
+                fname = fname.replace('-w+', '_words_common')
+            elif '-c+' in fname:
+                fname = fname.replace('-c+', '_collocs_common')
             elif '+' in fname:
                 fname = fname.replace('+', '_wth_common')
             condname = '_'.join([condname] + fname.split('/')[-1].split('-')[3:]).split('.')[0]
@@ -294,6 +296,7 @@ for key, value in mydata.iteritems():
     if np.all(map(np.isnan, mydata[key])): # remove data that is only nan
         mydata.pop(key)
 print mydata
+print ">>> conditions that will be plotted"
 print mydata.keys()
 mydataframe = DataFrame(mydata)
 my_lng = pd.melt(mydataframe[['months'] + [k for k in mydata.keys() if k != 'months']], id_vars='months')
