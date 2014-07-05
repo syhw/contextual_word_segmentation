@@ -1,0 +1,921 @@
+_t4 		Da ?
+_t4 
+_t4 		Da ? 
+_t4 		is it turned on , it's turned on ? 
+_t4 		yep [: yes] .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		what ? 
+_t4 		Da ?
+_t4 
+_t4 		yeah ?
+_t4 
+_t4 		where are you ?
+_t4 
+_t4 		why ? 
+_t4 		because +...
+_t4 
+_t4 		xxx . 
+_t4 		so you want some toast Will ? 
+_t4 		xxx . 
+_t4 		I'm doing good , how are you doing ? 
+_t4 		you're not going to school today , are ya [: you] ? 
+_t4 		uh no , I don't think you are . 
+_t4 		what's today ? 
+_t4 		do you know what today is ? 
+_t4 		what ? 
+_t4 		what's today  ? 
+_t4 		huh ? 
+_t4 		today's [: today is] +/.
+_t4 
+_t4 		no , no school today . 
+_t4 		today's Thursday . 
+_t4 		xxx .
+_t4 
+_t4 		yeah . 
+_t4 		Da ? 
+_t4 		that's right .
+_t4 
+_t4 		which one do you want ? 
+_t4 		you just want toast ?
+_t4 
+_t4 		okay .
+_t4 
+_t4 		me ? 
+_t4 		no your bus is gonna be here any minute  . 
+_t4 		Dad ? 
+_t4 		yeah ? 
+_t4 		how are you ? 
+_t4 		I'm okay , how are you ? 
+_t4 		xxx why why ? 
+_t4 		Da ?
+_t4 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		whoops . 
+_t4 		xxx . 
+_t4 		okay you could go out . 
+_t4 		huh ?
+_t4 
+_t4 		you go out .
+_t4 
+_t4 		Ta ? 
+_t4 		yeah ? 
+_t4 		why ? 
+_t4 		because . 
+_t4 		okay . 
+_t4 		okay , I'll , I'll .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		I'll leave the door open .
+_t4 
+_t4 		yeah , i'm going to work . 
+_t4 		you can sit in there and I'll leave that door +...
+_t4 
+_t4 		so you can sit inside , okay ? 
+_t4 		and get the bus . 
+_t4 		xxx ,  , Will you want a banana ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		no ?
+_t4 
+_t4 		alright . 
+_t4 		xxx . 
+_t4 		alright  , hold on . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		here's some toast Will . 
+_t4 		would you like some milk or juice ? 
+_t4 		what's the matter ? 
+_t4 		okay , go ahead , come on . 
+_t4 		I'm hungry . 
+_t4 		you ate , here . 
+_t4 		xxx .
+_t4 
+_t4 		xxx you want it right there ?
+_t4 
+_t4 		go away . 
+_t4 		no I'll just wait right here until the bus comes and then you can go , alright . 
+_t4 		okay . 
+_t4 		he(re) +//.
+_t4 
+_t4 		here you go . 
+_t4 		keep the butter side up so you don't get all messy , alright . 
+_t4 		do you want some juice or milk , Will ? 
+_t4 		juice .
+_t4 
+_t4 		how's the toast ? 
+_t4 		good . 
+_t4 		there's some juice for ya . 
+_t4 		sure 
+_t4 		Daddy's [: Daddy is] gonna have some banana with his cereal . 
+_t4 		oops . 
+_t4 		what is that ? 
+_t4 		yeah (be)cause I +...
+_t4 
+_t4 		what do you call this ?
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		but what's this part of the banana called ? 
+_t4 		you don't know ?
+_t4 
+_t4 		it's called the peel . 
+_t4 		the banana peel . 
+_t4 		did you have a good sleep last night ? 
+_t4 		yeah . 
+_t4 		you were tired , you went right to sleep . 
+_t4 		do you want some jam on that toast ? 
+_t4 		strawberry , no , okay . 
+_t4 		is it good ? 
+_t4 		I put lot's [: a lot] of butter on it .
+_t4 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		it's okay  keep it there . 
+_t4 		we put cream on your face last night , right ?
+_t4 
+_t4 		we put cream on your face . 
+_t4 		remember ? 
+_t4 		mmmm , right . 
+_t4 		why ? 
+_t4 		you have your oodle shirt on , huh ? 
+_t4 		is that your favorite shirt ? 
+_t4 		she's outside .
+_t4 
+_t4 		she's in +/.
+_t4 
+_t4 		she's in the living room . 
+_t4 		she's reading a book . 
+_t4 		xxx .
+_t4 
+_t4 		mmmm . 
+_t4 		what's it doing outside ? 
+_t4 		what's it doing outside ? 
+_t4 		is it snowing ? 
+_t4 		I don't think so . 
+_t4 		it's like snowing . 
+_t4 		it's kinda [: kind of] light snowing , but what do you call it when it's like snowing . 
+_t4 		it's raining . 
+_t4 		it's raining . 
+_t4 		mmmm+hmmm . 
+_t4 		Mommy went to the dentist this morning . 
+_t4 		she'll be back . 
+_t4 		what do you want 
+_t4 		w(hat) +//.
+_t4 
+_t4 		what do you want to do today ?
+_t4 
+_t4 		I can't hear you . 
+_t4 		I can't hear you with your bottle in your mouth . 
+_t4 		I can't hear you with your bottle in your mouth . 
+_t4 		with your juice cup . 
+_t4 		that's better . 
+_t4 		what did you want 
+_t4 		do you want 
+_t4 		you want 
+_t4 		what instrument ?
+_t4 
+_t4 		a guitar ? 
+_t4 		what else ? 
+_t4 		a drum ?
+_t4 
+_t4 		and what else ? 
+_t4 		a piano ? 
+_t4 		uh , that's good . 
+_t4 		I hear it . 
+_t4 		what do you think it is ? 
+_t4 		what do you think it is , what's that sound ? 
+_t4 		yes . 
+_t4 		I think it's an ambulance . 
+_t4 		or may(be) +/.
+_t4 
+_t4 		it's a fire+engine ? 
+_t4 		maybe you're right . 
+_t4 		it does have a siren on it . 
+_t4 		it's like a police car , you're right , it could be that . 
+_t4 		you know what , I bet you it is a police car . 
+_t4 		I bet you it is a police car . 
+_t4 		I think it probably is . 
+_t4 		yeah . 
+_t4 		I know you do . 
+_t4 		I don't know . 
+_t4 		it might've [: might have] been  . 
+_t4 		use your napkin . 
+_t4 		xxx . 
+_t4 		today's [: today is] a good day to stay inside and play . 
+_t4 		yeah , it is . 
+_t4 		do you want a clementine ? 
+_t4 		you want a clementine ? 
+_t4 		you know what that is . 
+_t4 		oh , the heat , the sound you mean ?
+_t4 
+_t4 		yeah , it's the heat , I think you're right Will . 
+_t4 		that's a clementine . 
+_t4 		don't throw it . 
+_t4 		uh+oh . 
+_t4 		xxx . 
+_t4 		I was hungry this morning . 
+_t4 		were you hungry ? 
+_t4 		were you hungry this morning ? 
+_t4 		xxx . 
+_t4 		hey , Will . 
+_t4 		can I ask you a question ? 
+_t4 		how come +..? 
+_t4 		how come you don't eat the ,  , other part of the bread ? 
+_t4 		do you know what this part of +//.
+_t4 
+_t4 		what's this part of the bread called ? 
+_t4 		the what ? 
+_t4 		xxx . 
+_t4 		it's the crust . 
+_t4 		you don't like the crust ? 
+_t4 		uh+huh . 
+_t4 		you're eating like a tiger  . 
+_t4 		are you eating like a tiger ? 
+_t4 		no , no thank you , you can put it down . 
+_t4 		who's your favorite tiger ? 
+_t4 		what's the matter ? 
+_t4 		you wanna go play on your table ? 
+_t4 		thank you . 
+_t4 		xxx   , good throw . 
+_t4 		let's go  fix your table . 
+_t4 		let's go clean up your table . 
+_t4 		it's kind of a mess . 
+_t4 		yeah , come on , let's go fix it up . 
+_t4 		you wanna help me ? 
+_t4 		good . 
+_t4 		you can show me . 
+_t4 		you got some pictures here . 
+_t4 		wow , whose pictures are these ? 
+_t4 		oh +... 
+_t4 		whose birthday is that ? 
+_t4 		Elmo ? 
+_t4 		yeah , Elmo  on the cake , right ?
+_t4 
+_t4 		but whose birthday was it ? 
+_t4 		yeah . 
+_t4 		what does it say ? 
+_t4 		let's read it , okay , what does it say ?
+_t4 
+_t4 		happy . 
+_t4 		birthday . 
+_t4 		who's that what's 
+_t4 		you can read it . 
+_t4 		what's that letter ? 
+_t4 		yeah , who's  letter is w ?
+_t4 
+_t4 		William . 
+_t4 		xxx .
+_t4 
+_t4 		yeah . 
+_t4 		you know what they are . 
+_t4 		you're right .
+_t4 
+_t4 		oh y(eah) +//.
+_t4 
+_t4 		Uncle Dean , right . 
+_t4 		oh .
+_t4 
+_t4 		there's Elmo . 
+_t4 		Alex , yeah . 
+_t4 		yeah . 
+_t4 		and William looks a little smaller , doesn't he ? 
+_t4 		yeah . 
+_t4 		xxx . 
+_t4 		did you have fun at that party ?
+_t4 
+_t4 		yeah . 
+_t4 		uh+huh . 
+_t4 		that's just the date and the time from the camera . 
+_t4 		I don't know who that is . 
+_t4 		yeah , there's Mommy . 
+_t4 		who's that ? 
+_t4 		who's that ?
+_t4 
+_t4 		uh+huh , and who's that over here ? 
+_t4 		yeah , you're right . 
+_t4 		there's Liam . 
+_t4 		xxx .
+_t4 
+_t4 		yeah . 
+_t4 		who is that ? 
+_t4 		neither do I . 
+_t4 		are you crying ? 
+_t4 		that's William . 
+_t4 		is he crying , I don't know .
+_t4 
+_t4 		mmmm .
+_t4 
+_t4 		yeah . 
+_t4 		xxx a lot of pictures of Will of  Elmo , right ? 
+_t4 		it was nice of Elmo to come to your party , wasn't it ?
+_t4 
+_t4 		yeah . 
+_t4 		&aw , isn't that a nice picture ? 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		there's everybody . 
+_t4 		yeah , that's Evan . 
+_t4 		yeah . 
+_t4 		I don't know . 
+_t4 		mmmm .
+_t4 
+_t4 		mmmm+hmmm . 
+_t4 		xxx  , took the last picture .
+_t4 
+_t4 		where's Daddy , yeah .
+_t4 
+_t4 		that was your , that was your first birthday party remember ? 
+_t4 		yeah . 
+_t4 		it was .
+_t4 
+_t4 		I know . 
+_t4 		it's a mess . 
+_t4 		don't you think ? 
+_t4 		do you want to clean it up ?
+_t4 
+_t4 		you like it like that ?
+_t4 
+_t4 		that's a police , yeah , that's a police garage , right .
+_t4 
+_t4 		where's the police car ? 
+_t4 		is it ?
+_t4 
+_t4 		is it , is that a police car ?
+_t4 
+_t4 		how about that ? 
+_t4 		xxx , who's this ? 
+_t4 		Percy ? 
+_t4 		uh+huh . 
+_t4 		you know what , I don't see the police car anywhere . 
+_t4 		xxx  .
+_t4 
+_t4 		there's  bus . 
+_t4 		she's going out , yep . 
+_t4 		you think Percy'll [: Percy will] fit in there ? 
+_t4 		and he does ! 
+_t4 		can he fit ? 
+_t4 		I don't think so . 
+_t4 		Percy , might be too +... 
+_t4 		what , too big ?
+_t4 
+_t4 		that was  wheelchair , I'll be right back , I'm gonna see if she gets out okay . 
+_t4 		you okay ? 
+_t4 		xxx . 
+_t4 		(o)kay , go ahead . 
+_t4 		alright , yeah . 
+_t4 		I know . 
+_t4 		xxx  . 
+_t4 		xxx   .
+_t4 
+_t4 		xxx . 
+_t4 		I think that one's [: one is] better . 
+_t4 		xxx .
+_t4 
+_t4 		go ahead .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx yay +... 
+_t4 		xxx .
+_t4 
+_t4 		she's over in her bus .
+_t4 
+_t4 		what're [: what are] you putting in there ? 
+_t4 		I don't know , your hand ? 
+_t4 		xxx where's the poli(ce) +//? 
+_t4 		oh I think I see it , is that it over there  ?
+_t4 
+_t4 		no it's +...
+_t4 
+_t4 		it's not not the police car , is it ? 
+_t4 		it's a car , right . 
+_t4 		you have so many cars William , don't you ?
+_t4 
+_t4 		what's your favorite favorite favorite car ? 
+_t4 		this , do you like this guy now ? 
+_t4 		oh yeah , and what do you push down when  you , when you play with it what do you push down there ? 
+_t4 		what about these things , you go like that ? 
+_t4 		oh . 
+_t4 		I thought you w(ent) +//.
+_t4 
+_t4 		I thought you went like this and you push +/.
+_t4 
+_t4 		okay .
+_t4 
+_t4 		uh+huh . 
+_t4 		you push , you push down the teeth though .
+_t4 
+_t4 		xxx ! 
+_t4 		yeah . 
+_t4 		xxx .
+_t4 
+_t4 		alright , I'll keep it closed okay . 
+_t4 		what's that called ?
+_t4 
+_t4 		mmmm . 
+_t4 		wh(at) +//.
+_t4 
+_t4 		sounds like +//.
+_t4 
+_t4 		what does 
+_t4 		you don't know ? 
+_t4 		sounds like a rattle snake doesn't it ? 
+_t4 		it crashed into the gate , huh ? 
+_t4 		yeah . 
+_t4 		xxx . 
+_t4 		what kind of truck is this ? 
+_t4 		yeah . 
+_t4 		this is a nice one . 
+_t4 		what does it pour ? 
+_t4 		what does it pour ? 
+_t4 		oh , I see .
+_t4 
+_t4 		gas , you're right . 
+_t4 		yeah , that's the gas tanks . 
+_t4 		I see .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		I don't know , you can try it . 
+_t4 		it looks close . 
+_t4 		no , maybe not . 
+_t4 		what is that truck called ? 
+_t4 		what is that name of that truck ? 
+_t4 		ready to go . 
+_t4 		where's it going ? 
+_t4 		where's it going ?
+_t4 
+_t4 		oh . 
+_t4 		xxx .
+_t4 
+_t4 		that's a , that's a big o(ne) +//.
+_t4 
+_t4 		that's a big one . 
+_t4 		I said that has big tires , doesn't it ? 
+_t4 		yeah . 
+_t4 		yeah . 
+_t4 		yeah , like that one , mmmm+hmmm .
+_t4 
+_t4 		xxx   .
+_t4 
+_t4 		that's a nice one .
+_t4 
+_t4 		oh , look what I found over here . 
+_t4 		xxx .
+_t4 
+_t4 		I don't know is he swimming in the police garage ?
+_t4 
+_t4 		bad . 
+_t4 		a turtle doesn't belong in the police garage , does he ?
+_t4 
+_t4 		no .
+_t4 
+_t4 		the farm , yeah . 
+_t4 		yeah , that is .
+_t4 
+_t4 		yeah , it scoops .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		what is it ? 
+_t4 		oh yeah , you can go on either side . 
+_t4 		but I think you're supposed to go on that side .
+_t4 
+_t4 		that's good . 
+_t4 		whoops . 
+_t4 		you have a better one somewhere , don't you ?
+_t4 
+_t4 		oh .
+_t4 
+_t4 		motor+home , you're right ! 
+_t4 		that's what that is . 
+_t4 		it's missing +/.
+_t4 
+_t4 		it's missing something thought , isn't it ?
+_t4 
+_t4 		what is it missing ?
+_t4 
+_t4 		yeah , where did it go ? 
+_t4 		which one , this ? 
+_t4 		that goes in the police garage , doesn't it ?
+_t4 
+_t4 		I see . 
+_t4 		mmmm+hmmm . 
+_t4 		there's something else around .
+_t4 
+_t4 		I think they're over there . 
+_t4 		what's this though ? 
+_t4 		Something else around .
+_t4 
+_t4 		yeah . 
+_t4 		d for daddy ? 
+_t4 		oh +... 
+_t4 		okay . 
+_t4 		whoa ! 
+_t4 		what happened ?
+_t4 
+_t4 		you fell , are you okay ? 
+_t4 		you went boom .
+_t4 
+_t4 		how'd [: how did] that happen ? 
+_t4 		yeah . 
+_t4 		how did that happen ?
+_t4 
+_t4 		yeah , you do . 
+_t4 		xxx .
+_t4 
+_t4 		good . 
+_t4 		l(ook) +//.
+_t4 
+_t4 		look what I have  over here .
+_t4 
+_t4 		and there's another 
+_t4 		yeah . 
+_t4 		ooh . 
+_t4 		hello . 
+_t4 		be nice though . 
+_t4 		okay , what is this one called ? 
+_t4 		xxx   that hurt my thumb .
+_t4 
+_t4 		alright . 
+_t4 		hello Mister Pig . 
+_t4 		my name , my name begins with , my , my name is , is begins with a c . 
+_t4 		and I go moo +... 
+_t4 		yeah  that's right . 
+_t4 		I have milk . 
+_t4 		what do you have ? 
+_t4 		xxx .
+_t4 
+_t4 		that's grass ? 
+_t4 		where do you live ? 
+_t4 		oh , so do I . 
+_t4 		what's , what's the name of your farm ?
+_t4 
+_t4 		is it Old McDonald's ?
+_t4 
+_t4 		okay , hi Mister Pig . 
+_t4 		how are you ? 
+_t4 		why'd [: why did] you go over there for ?
+_t4 
+_t4 		okay . 
+_t4 		hello . 
+_t4 		xxx .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		you took a long trip . 
+_t4 		you went all the way around the farm .
+_t4 
+_t4 		this , this farm's [: farm is] a lot , full of a lot of cars , isn't it ? 
+_t4 		what are all these cars doing on my farm ?
+_t4 
+_t4 		and , and what else is on this farm ? 
+_t4 		and this ?
+_t4 
+_t4 		what's this ? 
+_t4 		okay , that's better . 
+_t4 		and trains ?
+_t4 
+_t4 		xxx . 
+_t4 		okay . 
+_t4 		moo: +...
+_t4 
+_t4 		that's not nice , Mister Pig . 
+_t4 		you think so ? 
+_t4 		you think that's nice ? 
+_t4 		yeah ? 
+_t4 		does it eat g(rass) +//? 
+_t4 		nice trees on the farm .
+_t4 
+_t4 		they're not trees ? 
+_t4 		oh , I'm gonna eat the grass , I like to eat grass .
+_t4 
+_t4 		okay . 
+_t4 		okay .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		yeah , they're thirsty . 
+_t4 		what are they gonna drink ?
+_t4 
+_t4 		what are they gonna drink ? 
+_t4 		mmmm . 
+_t4 		yeah . 
+_t4 		what kind of food 
+_t4 		what kind of food do they like ? 
+_t4 		what kind of foods do pigs +..?
+_t4 
+_t4 		yeah . 
+_t4 		let me see it , bring it over here . 
+_t4 		xxx gentle .
+_t4 
+_t4 		let's see , look . 
+_t4 		make a little farmhouse   . 
+_t4 		see ? 
+_t4 		wanna sing me a song on the guitar ? 
+_t4 		what song ? 
+_t4 		sing one . 
+_t4 		you don't want to ? 
+_t4 		I don't know , what is it ?
+_t4 
+_t4 		tell me .
+_t4 
+_t4 		let's see . 
+_t4 		oh , it's f(or) +//.
+_t4 
+_t4 		I see you're right , it goes in the goes m(otor) +/.
+_t4 
+_t4 		it goes in the motor+home ? 
+_t4 		I see . 
+_t4 		does it go in here like this ?
+_t4 
+_t4 		I see . 
+_t4 		I don't see the little holes for it though . 
+_t4 		it goes somewhere in there , you're right . 
+_t4 		there's 
+_t4 		oh , it goes i(n) +//.
+_t4 
+_t4 		no , that's not it .
+_t4 
+_t4 		there he is . 
+_t4 		can he fit under the tunnel ?
+_t4 
+_t4 		he can't , why not ? 
+_t4 		he's gonna slide down ? 
+_t4 		whoa ! 
+_t4 		yeah .
+_t4 
+_t4 		better be careful , you're gonna hurt Mister Pig . 
+_t4 		you shouldn't  him too much . 
+_t4 		right ? 
+_t4 		no . 
+_t4 		he's too +//. 
+_t4 		what is he ?
+_t4 
+_t4 		he's too +...
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		where's Thomas ? 
+_t4 		where's Thomas ? 
+_t4 		do you see him ? 
+_t4 		you see in the corner over there ? 
+_t4 		xxx . 
+_t4 		oh +... 
+_t4 		do you wanna carry the pig on there ? 
+_t4 		xxx okay . 
+_t4 		xxx 
+_t4 		there you go . 
+_t4 		the pig's [: pig is] getting a ride . 
+_t4 		xxx ! 
+_t4 		oh no . 
+_t4 		that's not good . 
+_t4 		you're gonna get some medicine ?
+_t4 
+_t4 		oh . 
+_t4 		no , we have_to take him to do the doctor , right ? 
+_t4 		yeah ? 
+_t4 		oh . 
+_t4 		is he +..?
+_t4 
+_t4 		oh . 
+_t4 		xxx  if you give him medicine he'll [: he will] be all better , right ? 
+_t4 		yeah . 
+_t4 		let me see .
+_t4 
+_t4 		oh , I think I know +//. 
+_t4 		do you know what that is ?
+_t4 
+_t4 		what ?
+_t4 
+_t4 		I think it's a wheel , right ? 
+_t4 		is it a wheel to something ?
+_t4 
+_t4 		what shape is it ? 
+_t4 		you know what that is . 
+_t4 		yeah . 
+_t4 		okay . 
+_t4 		go(od) +//.
+_t4 
+_t4 		good catch . 
+_t4 		catch it and then throw it .
+_t4 
+_t4 		okay , good .
+_t4 
+_t4 		xxx . 
+_t4 		okay . 
+_t4 		yes , see if you can roll to me . 
+_t4 		in the middle  . 
+_t4 		look , I'll show you . 
+_t4 		you go gentle , it's like this right down the middle , see ? 
+_t4 		catch it and then do that . 
+_t4 		you like the blue one ?
+_t4 
+_t4 		right here 
+_t4 		yay ! 
+_t4 		you got it in . 
+_t4 		yay +//. 
+_t4 		oh !
+_t4 
+_t4 		xxx . 
+_t4 		good . 
+_t4 		one . 
+_t4 		xxx let's see how many we can do .
+_t4 
+_t4 		two .
+_t4 
+_t4 		y(ou) +//.
+_t4 
+_t4 		you count . 
+_t4 		three . 
+_t4 		four . 
+_t4 		oh , eight . 
+_t4 		nine . 
+_t4 		ten . 
+_t4 		eleven . 
+_t4 		good .
+_t4 
+_t4 		thirteen . 
+_t4 		fourteen . 
+_t4 		fifteen . 
+_t4 		yes .
+_t4 
+_t4 		seventeen . 
+_t4 		xxx . 
+_t4 		what's that ? 
+_t4 		eighteen .
+_t4 
+_t4 		nineteen . 
+_t4 		twenty , we're doing good . 
+_t4 		one . 
+_t4 		you're right . 
+_t4 		how come your eyes are itching ? 
+_t4 		xxx  , almost +/.
+_t4 
+_t4 		you almost missed .
+_t4 
+_t4 		oh . 
+_t4 		that wasn't very good . 
+_t4 		see it's all  +//. 
+_t4 		we have_to start over again .
+_t4 
+_t4 		one .
+_t4 
+_t4 		which , what broke ? 
+_t4 		the red +/.
+_t4 
+_t4 		the red ball broke ?
+_t4 
+_t4 		oh , okay . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		that's not good to throw it though , you  +/. 
+_t4 		I know you did . 
+_t4 		yeah . 
+_t4 		no , no it's not like that .
+_t4 
+_t4 		it's too hard . 
+_t4 		it'll [: it will] break . 
+_t4 		it's not a soft ball for bouncing . 
+_t4 		you can roll it .
+_t4 
+_t4 		alright . 
+_t4 		uh+oh . 
+_t4 		uh+oh . 
+_t4 		you're welcome , honey . 
+_t4 		xxx .
+_t4 
+_t4 		xxx  ! 
+_t4 		it crashed .
+_t4 
+_t4 		that's not good . 
+_t4 		yes it is  .
+_t4 
+_t4 		alright , go ahead . 
+_t4 		whoops , see you can hit it . 
+_t4 		xxx . 
+_t4 		you missed , good try . 
+_t4 		you know what , Will , you gotta be careful with the camera , right ? 
+_t4 		yeah . 
+_t4 		don't throw it , roll it . 
+_t4 		xxx .
+_t4 
+_t4 		oh , good one . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		okay , I'll try . 
+_t4 		it's hard though . 
+_t4 		you ready ? 
+_t4 		go . 
+_t4 		oh , we missed . 
+_t4 		get the red one . 
+_t4 		yeah . 
+_t4 		where'd [: where did] it go ? 
+_t4 		yeah . 
+_t4 		oh ,  good throw . 
+_t4 		this isn't for throwing in the air though . 
+_t4 		it's a hard ball , right ?
+_t4 
+_t4 		alright .
+_t4 
+_t4 		alright . 
+_t4 		you got it . 
+_t4 		you got the blue one and the red one . 
+_t4 		xxx . 
+_t4 		okay . 
+_t4 		I got it . 
+_t4 		why don't you go over there ? 
+_t4 		I'll go over here .
+_t4 
+_t4 		alright . 
+_t4 		what ? 
+_t4 		oh , well . 
+_t4 		I think that one's [: one is] all gone . 
+_t4 		that one's [: one is] all gone . 
+_t4 		let me take this home . 
+_t4 		do you wanna go see the animals ? 
+_t4 		do you wanna go see the animals in the stable ? 
+_t4 		there it is , see it there in front of you ? 
+_t4 		it was hiding .
+_t4 
+_t4 		yeah . 
+_t4 		thank you . 
+_t4 		okay , alright  . 
+_t4 		oh !
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		yeah , boom . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		good throw .
+_t4 
+_t4 		you ready ? 
+_t4 		go ahead . 
+_t4 		oh !
+_t4 
+_t4 		just missed , you get yours  .
+_t4 
+_t4 		good hit . 
+_t4 		okay , go ahead . 
+_t4 		xxx  , do it again , do it , roll it . 
+_t4 		yeah , I'm ready . 
+_t4 		whoa , okay  . 
+_t4 		oh .
+_t4 
+_t4 		you  . 
+_t4 		oh . 
+_t4 		go ahead . 
+_t4 		easy , easy . 
+_t4 		xxx . 
+_t4 		where'd [: where did] that one go ? 
+_t4 		oh , there it is . 
+_t4 		I'm ready . 
+_t4 		xxx  .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		okay , go ahead .
+_t4 
+_t4 		go ahead . 
+_t4 		no , roll it . 
+_t4 		see like this . 
+_t4 		can you do that ? 
+_t4 		oh !
+_t4 
+_t4 		great hit . 
+_t4 		xxx .
+_t4 
+_t4 		xxx , go ahead . 
+_t4 		xxx . 
+_t4 		oh , you missed . 
+_t4 		xxx .
+_t4 
+_t4 		it missed . 
+_t4 		okay .
+_t4 
+_t4 		ready to hit , go . 
+_t4 		oh ! 
+_t4 		xxx .
+_t4 
+_t4 		xxx ready go .
+_t4 
+_t4 		oh . 

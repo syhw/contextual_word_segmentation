@@ -1,0 +1,2952 @@
+_t4 		what's in this box Alex , look at would you like to open this box ?
+_t4 
+_t4 		oh boy , what's in this ? 
+_t4 		hmmm I don't know , but let's look .
+_t4 
+_t4 		what do you think could be in here ? 
+_t4 		would you like to get the step stool ? 
+_t4 		xxx wow  let's go on the step stool come over here come over here look at .
+_t4 
+_t4 		come with Mommy and I'll help ya I'll get ya [: you] a bowl .
+_t4 
+_t4 		would ya [: you] like a bowl ? 
+_t4 		a bowl . 
+_t4 		would ya like to get a bowl ?
+_t4 
+_t4 		how about .
+_t4 
+_t4 		would you like +/.
+_t4 
+_t4 		this blue and white bowl ? 
+_t4 		and would ya like to get on your step stool ? 
+_t4 		an(d) come up here . 
+_t4 		yeah and I have_to fix your pants though your pants are fallin(g) . 
+_t4 		you have all these prizes in this box . 
+_t4 		wow:  an(d) it even has a ba:king sheet . 
+_t4 		d'ya [: do you] feel better you're not crying . 
+_t4 		xxx what's that ? 
+_t4 		get the mix . 
+_t4 		okay . 
+_t4 		there's spoon . 
+_t4 		an(d) a cookie sheet . 
+_t4 		I love it . 
+_t4 		now what are we going to mix would you like to get some thin(gs) some things to mix ? 
+_t4 		I wish Gigi would hurry up with the eggs . 
+_t4 		wha(t) honey ? 
+_t4 		a(ll)+right let's see what Mommy can find in here for you to play with . 
+_t4 		I have_to  . 
+_t4 		find some things that you can use . 
+_t4 		look some macaroni . 
+_t4 		what's this ? 
+_t4 		is a rolling pin . 
+_t4 		two . 
+_t4 		three four , here look at . 
+_t4 		put the macaroni in it . 
+_t4 		oh: . 
+_t4 		oh isn't that lovely: ? 
+_t4 		how come yer [: you are] not balancin(g) good . 
+_t4 		there that better ? 
+_t4 		no don't eat the macaroni . 
+_t4 		xxx it's not cooked . 
+_t4 		blech . 
+_t4 		who's that ? 
+_t4 		it's a little chef . 
+_t4 		you gonna put the macaroni in here look . 
+_t4 		whoop . 
+_t4 		where i(t) go ? 
+_t4 		there . 
+_t4 		you can mix it . 
+_t4 		see . 
+_t4 		can ya mix it all up ? 
+_t4 		uh+oh I dropped one . 
+_t4 		we'll find it . 
+_t4 		Alex are ya [: you] throwin(g) it on the floor honey , don't throw the macaroni on the floor . 
+_t4 		it's okay if it falls . 
+_t4 		what's this ? 
+_t4 		a heart . 
+_t4 		one . 
+_t4 		two . 
+_t4 		this is a big spoon look at this big spoon .
+_t4 
+_t4 		okay . 
+_t4 		ya [: you] like dat [: that] .
+_t4 		inat [: isn't that] nice ? 
+_t4 		&aw: yes mixing and stirring . 
+_t4 		is that yer [: your] macaroni ? 
+_t4 		I can't  . 
+_t4 		put it over here look . 
+_t4 		there's a little ginger bread . 
+_t4 		see ? 
+_t4 		ther:e . 
+_t4 		wow: . 
+_t4 		no no don't eat that I'll [x 
+_t4 		kay . 
+_t4 		how's that ? 
+_t4 		that good ? 
+_t4 		xxx .
+_t4 
+_t4 		hmmm . 
+_t4 		wha(t) honey ? 
+_t4 		one . 
+_t4 		yeah . 
+_t4 		two . 
+_t4 		two elbows . 
+_t4 		one , what happened to three ? 
+_t4 		you forgot three . 
+_t4 		thank you . 
+_t4 		very nice . 
+_t4 		you [x 
+_t4 		you try . 
+_t4 		xxx . 
+_t4 		wha(t) honey ? 
+_t4 		oh that's very nice mixing . 
+_t4 		you're doing a fabulous job . 
+_t4 		two nine inch . 
+_t4 		wha(t) honey ? 
+_t4 		this is a draw(er) fulla [: full of] pans . 
+_t4 		different pans . 
+_t4 		that's (.) the cover .
+_t4 		wha(t) honey ? 
+_t4 		which one ? 
+_t4 		are you cooking ? 
+_t4 		what're [: what are] you doing ? 
+_t4 		xxx . 
+_t4 		you should dump (th)em in  [: the] bowl . 
+_t4 		like this look dump (th)em in here . 
+_t4 		lift . 
+_t4 		whoop  ! 
+_t4 		see . 
+_t4 		i(s) that good cereal ? 
+_t4 		hmmm and bite your graham cracker too . 
+_t4 		well there's your graham cracker ya didn't finish . 
+_t4 		want that back . 
+_t4 		this is so cute . 
+_t4 		that's a little gingerbread man , see ? 
+_t4 		he stands up , look . 
+_t4 		uh that's an elbow macaroni . 
+_t4 		it's elbow pasta .
+_t4 
+_t4 		eat the cereal don't eat the macaroni . 
+_t4 		I'm sure it doesn't taste very good (.) not cooked . 
+_t4 		there . 
+_t4 		xxx . 
+_t4 		o:ne . 
+_t4 		that's okay . 
+_t4 		that's all+right if they fall it's okay we'll pick (th)em up after . 
+_t4 		it's all+right . 
+_t4 		xxx .
+_t4 
+_t4 		one . 
+_t4 		two . 
+_t4 		put (th)em in [x 
+_t4 		like that . 
+_t4 		sc(oop) scoop (th)em up . 
+_t4 		putem [: put them] in the bowl . 
+_t4 		or ya [: you] could put em [: them] in the big bowl . 
+_t4 		then dump (th)em out . 
+_t4 		there . 
+_t4 		kay [: okay] . 
+_t4 		xxx . 
+_t4 		wha(t) honey ? 
+_t4 		what honey ? 
+_t4 		what is it ? 
+_t4 		that's a rolling pin .
+_t4 
+_t4 		yes ? 
+_t4 		that that's cereal and that's elbow pasta . 
+_t4 		you ready ? 
+_t4 		a mixer . 
+_t4 		hi: . 
+_t4 		oh boy . 
+_t4 		hi: . 
+_t4 		hi Gigi .
+_t4 
+_t4 		what're [: what are] ya [: you] cookin(g) Alex ?
+_t4 
+_t4 		whoa: .
+_t4 
+_t4 		oh no no please don't throw it . 
+_t4 		Grammy says it's a good thing she doesn't rely on you to eat , she'd starve to death . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx I can't believe  . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx forgot .
+_t4 
+_t4 		xxx so I'm sure . 
+_t4 		oh: my god my poor Mommy .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		what're you saying  no about ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		huh ? 
+_t4 		xxx .
+_t4 
+_t4 		are ya saying  no because you're throwing things on the floor ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		an(d) (th)en Mommy has to pick them up ? 
+_t4 		xxx I feel awful .
+_t4 
+_t4 		I have_to call her . 
+_t4 		oh well .
+_t4 
+_t4 		xxx what is it honey ? 
+_t4 		xxx .
+_t4 
+_t4 		oh no .
+_t4 
+_t4 		yeah say  no I'm throwing everythin(g) on the floor so (.) try not to step on it . 
+_t4 		oh okay . 
+_t4 		Alex please don't do that . 
+_t4 		come on . 
+_t4 		don't throw the stuff on the floor . 
+_t4 		it's not very nice . 
+_t4 		oh . 
+_t4 		Alex don't put that in the +//. 
+_t4 		yes because +/. 
+_t4 		Alex . 
+_t4 		it'll blow up .
+_t4 
+_t4 		hello what is this ? 
+_t4 		what're you cooking ? 
+_t4 		what's that ? 
+_t4 		wow: . 
+_t4 		can you count ? 
+_t4 		what's that ? 
+_t4 		can you count , one , two ? 
+_t4 		come on [?] . 
+_t4 		you do it . 
+_t4 		oh: you're stirring . 
+_t4 		very nice , very nice stirring . 
+_t4 		you do it like Mommy does ? 
+_t4 		look at this beau:tyful [: beautiful] rolling pin .
+_t4 
+_t4 		Mom did you get my messages ? 
+_t4 		no . 
+_t4 		okay . 
+_t4 		what ? 
+_t4 		no I [x 
+_t4 		oh: . 
+_t4 		xxx  that's okay because  (.) came downstairs +/.
+_t4 
+_t4 		yeah ? 
+_t4 		and  +/.
+_t4 
+_t4 		he put in some requests for tomorrow and Saturday so I have_to go to the market anyway . 
+_t4 		okay . 
+_t4 		an(d) get stuff for him . 
+_t4 		all+right . 
+_t4 		um (.) so if there's anything else . 
+_t4 		okay so we're all set for tonight . 
+_t4 		did you  +/.
+_t4 
+_t4 		yes honey ? 
+_t4 		oh: beau:tyful [: beautiful] +/.
+_t4 
+_t4 		oh and Montessori called back . 
+_t4 		and ? 
+_t4 		and  . 
+_t4 		beautyful [: beautiful] , beautyful [: beautiful] cooking . 
+_t4 		you left me a message . 
+_t4 		yes . 
+_t4 		and that  she wanted to make an appointment for tomorrow at ten+thirty . 
+_t4 		but then she also gave a second ch(oice) [x 
+_t4 		okay . 
+_t4 		which was Monday at ten+thirty .
+_t4 
+_t4 		okay . 
+_t4 		so I   like almost immediately called back . 
+_t4 		and ? 
+_t4 		and no one no god bless you +//.
+_t4 
+_t4 		god bless you .
+_t4 
+_t4 		nobody answered . 
+_t4 		was there  an answer machine ? 
+_t4 		no . 
+_t4 		it just rang and rang and rang and rang +//.
+_t4 
+_t4 		god bless you .
+_t4 
+_t4 		maybe she was on the line . 
+_t4 		so  I'm gonna jus(t) to have_to keep trying (.) ya [: you] know I'll call back again . 
+_t4 		okay let's put the , come on Alex . 
+_t4 		he's concentrating he's a lil [: little] quiet . 
+_t4 		oh . 
+_t4 		what's that ? 
+_t4 		itsa [: it is a] +//.
+_t4 
+_t4 		that's a whisk .
+_t4 
+_t4 		itsa [: it is a] whisk . 
+_t4 		gently , very gently . 
+_t4 		it's your turn . 
+_t4 		spoon . 
+_t4 		very gently here . 
+_t4 		okay +//.
+_t4 
+_t4 		well ya you only have two hands . 
+_t4 		xxx .
+_t4 
+_t4 		thatsa [: that is a] boy .
+_t4 
+_t4 		eh yup [: yes] . 
+_t4 		I'm stirring . 
+_t4 		xxx . 
+_t4 		and Auntie called  .
+_t4 
+_t4 		xxx .
+_t4 		xxx .
+_t4 
+_t4 		I know  . 
+_t4 		xxx .
+_t4 
+_t4 		oh you know about the draw+ring [: drawing] . 
+_t4 		no . 
+_t4 		oh: then what're you laughin(g) about ? 
+_t4 		I don'(t) know , what drawing ? 
+_t4 		she ca(me) +//. 
+_t4 		she wants she called and asked me if I could +//.
+_t4 
+_t4 		Alex , please do no do that . 
+_t4 		am I haf [: have] to take your your (.) stuff away . 
+_t4 		wha(t) what was it that she wanted  [: to] +..? 
+_t4 		she's ,  has a book report due Monday . 
+_t4 		yup [: yes] on Monday . 
+_t4 		xxx .
+_t4 
+_t4 		an(d) they to  draw (.) a sce:ne from the book on the cover . 
+_t4 		so she can't draw she says . 
+_t4 		oh . 
+_t4 		she has to draw a staircase , she can't draw a staircase .
+_t4 
+_t4 		oh . 
+_t4 		so +/. 
+_t4 		that's easy enough to do .
+_t4 
+_t4 		xxx is gonna do it . 
+_t4 		she's +/.
+_t4 
+_t4 		oh .
+_t4 
+_t4 		she's droppin(g) all the stuff off at four+thirty after  (.) basketball . 
+_t4 		o:kay . 
+_t4 		I'm jus(t) gonna leave these bags here for now , all+right ? 
+_t4 		yeah that's fine . 
+_t4 		oh no you can't do that you can't stick this stuff in the gas ya [: you] have_to put it in the bowl . 
+_t4 		two: . 
+_t4 		very hot . 
+_t4 		three: . 
+_t4 		and close . 
+_t4 		put on the (.) timer . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		wha(t) [x 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		this is the timer , Mommy's setting the timer up for the cakes . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		ugh these are potatoes . 
+_t4 		xxx .
+_t4 
+_t4 		yeah . 
+_t4 		xxx . 
+_t4 		oh: .
+_t4 
+_t4 		wha(t) honey ? 
+_t4 		ya [: you] want some more cereal to play with ? 
+_t4 		whoops . 
+_t4 		look at . 
+_t4 		wow: oh: want a marshmallow ? 
+_t4 		hmmm delicious .
+_t4 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		how (a)bout so(me) +//. 
+_t4 		would ya [: you] like these cups to play with ?
+_t4 
+_t4 		can you say thank you ?
+_t4 
+_t4 		xxx can you say thank you ? 
+_t4 		thank you: . 
+_t4 		lemme [: let me] get a kiss  . 
+_t4 		thank you Mommy for the cu:ps .
+_t4 
+_t4 		wha(t) honey ? 
+_t4 		what is it ?
+_t4 
+_t4 		wha(t) honey ? 
+_t4 		uh+oh pi:nk . 
+_t4 		gre:en .
+_t4 
+_t4 		xxx and I just walked in the back . 
+_t4 		oranch [: orange] .
+_t4 
+_t4 		xxx store  . 
+_t4 		uh that's a like a marble color all different shades . 
+_t4 		xxx .
+_t4 
+_t4 		purple . 
+_t4 		xxx .
+_t4 
+_t4 		an(d) he didn't have_to go ?
+_t4 
+_t4 		no  ! 
+_t4 		xxx .
+_t4 
+_t4 		blu:e  ! 
+_t4 		xxx .
+_t4 
+_t4 		caught it . 
+_t4 		xxx .
+_t4 
+_t4 		and ya [: you] can't  .
+_t4 
+_t4 		until I bring it in here ! 
+_t4 		xxx .
+_t4 
+_t4 		that is true . 
+_t4 		so  .
+_t4 		xxx .
+_t4 
+_t4 		oh the fabric store called . 
+_t4 		wha(t) ? 
+_t4 		the fabric store left you a message .
+_t4 
+_t4 		oh my trim ? 
+_t4 		uh something of fabric . 
+_t4 		yup [: yes] . 
+_t4 		oh ,  which fabric store ? 
+_t4 		hancock . 
+_t4 		oh that's the fabric [x 
+_t4 		all+right , I'll call (th)em back . 
+_t4 		very nice , now dump it in here . 
+_t4 		would you like to dump it into the tray ? 
+_t4 		xxx . 
+_t4 		you'll put it in here . 
+_t4 		xxx . 
+_t4 		this put [x 
+_t4 		oh ray: [: hurray] very good ! 
+_t4 		you did a nice job pouring . 
+_t4 		xxx .
+_t4 
+_t4 		from in here ? 
+_t4 		xxx .
+_t4 
+_t4 		what's this called ? 
+_t4 		whoop ,  . 
+_t4 		what's that ? 
+_t4 		xxx .
+_t4 
+_t4 		a cup . 
+_t4 		xxx .
+_t4 
+_t4 		say please .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		say please . 
+_t4 		xxx .
+_t4 
+_t4 		can you say please ? 
+_t4 		no really  .
+_t4 
+_t4 		what is this called ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		a spoon: . 
+_t4 		xxx .
+_t4 
+_t4 		a whisk . 
+_t4 		xxx .
+_t4 
+_t4 		mixing up my cereal (.) all: done , your turn . 
+_t4 		xxx .
+_t4 
+_t4 		what's this ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		a what ? 
+_t4 		a spoon ? 
+_t4 		spoon . 
+_t4 		xxx .
+_t4 
+_t4 		mixing up my spoon , mixing with my spoo:n . 
+_t4 		all done: . 
+_t4 		thank you .
+_t4 
+_t4 		you [x 
+_t4 		you show Mommy how to mix . 
+_t4 		can you mix ?
+_t4 
+_t4 		can you mix ?
+_t4 
+_t4 		that's a heart . 
+_t4 		an(d) your gingerbread . 
+_t4 		that's a lil [: little] gingerbread man .
+_t4 
+_t4 		an(d) that's a heart . 
+_t4 		xxx .
+_t4 
+_t4 		how come this is a little warped ? 
+_t4 		xxx .
+_t4 
+_t4 		there's something stuck , nope [: no] . 
+_t4 		yyy ! 
+_t4 		what ? 
+_t4 		why ya [: you] gettin(g) aggravated ? 
+_t4 		wha(t) ? 
+_t4 		what's what ? 
+_t4 		that's a spoo(n) ! 
+_t4 		that's a spoon ! 
+_t4 		no . 
+_t4 		don't put it ona [: on the] on the stove . 
+_t4 		ya [: you] hafta put (th)em in the bowl . 
+_t4 		this scoop this up . 
+_t4 		one: . 
+_t4 		two: . 
+_t4 		easy . 
+_t4 		three . 
+_t4 		you do one . 
+_t4 		would you like to put it in there ? 
+_t4 		oh boy very nice , that's fabulous ! 
+_t4 		xxx .
+_t4 
+_t4 		t(h)ere [?] . 
+_t4 		xxx .
+_t4 
+_t4 		very nice .
+_t4 
+_t4 		I'll put your bowl right there . 
+_t4 		okay . 
+_t4 		so ya can reach it . 
+_t4 		ya can eat it if ya want it's okay to eat the cereal . 
+_t4 		ther:e . 
+_t4 		xxx the cookie . 
+_t4 		all+right ? 
+_t4 		now  . 
+_t4 		that (.)  , this way . 
+_t4 		xxx .
+_t4 
+_t4 		no that's okay . 
+_t4 		xxx .
+_t4 
+_t4 		mmmm+hmmm ? 
+_t4 		wha(t) honey ? 
+_t4 		yep [: yes] . 
+_t4 		okay . 
+_t4 		yeah . 
+_t4 		which one ? 
+_t4 		which one ? 
+_t4 		show me . 
+_t4 		show me which one . 
+_t4 		that's a heart: . 
+_t4 		ginger bread man . 
+_t4 		she's in the other room . 
+_t4 		yeah .
+_t4 
+_t4 		a baby's [: baby is] out in there [?] .
+_t4 
+_t4 		xxx . 
+_t4 		I don't  .
+_t4 
+_t4 		hi Alex .
+_t4 
+_t4 		are you still cooking ? 
+_t4 		xxx what did you make ? 
+_t4 		uh (.) angel food cake . 
+_t4 		oh . 
+_t4 		it's fast like outta [: out of] the box , not real . 
+_t4 		o:h . 
+_t4 		you're leaving ? 
+_t4 		be very careful . 
+_t4 		no  it's the cerea(l) give it to Mommy . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		hi Alex . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		yes Mommy ? 
+_t4 		that's dishes that's  Gigi has to unpack those for Thanksgiving . 
+_t4 		come on !
+_t4 
+_t4 		that's a magazine .
+_t4 
+_t4 		say it ? 
+_t4 		(maga)zine . 
+_t4 		no interesting pictures in here ,  what're these ? 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		Alex !
+_t4 
+_t4 		it's a rainbow (.) see the rainbow . 
+_t4 		pretty rainbow . 
+_t4 		xxx . 
+_t4 		what     what's that all about ?
+_t4 
+_t4 		what are you doing ? 
+_t4 		easy . 
+_t4 		oh he's fooling us now .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		did you tell +/?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		how come you're fakin(g) ya [: you] lil [: little] faker baker ? 
+_t4 		huh ? 
+_t4 		xxx .
+_t4 
+_t4 		somebody's full of bolo:gna . 
+_t4 		whadya [: what do you] wanna do honey ? 
+_t4 		ya [: you] wanna get down ? 
+_t4 		now where you going ? 
+_t4 		hi Alex .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		yes ? 
+_t4 		yes ?
+_t4 
+_t4 		hi Ale(x) . 
+_t4 		hi Alex . 
+_t4 		Alex . 
+_t4 		Mommy's calling you . 
+_t4 		yes ? 
+_t4 		what're ya doin(g) ? 
+_t4 		xxx .
+_t4 
+_t4 		what ? 
+_t4 		that's a tree outside . 
+_t4 		Alex . 
+_t4 		what does Mommy have ?
+_t4 
+_t4 		what does Mommy have ? 
+_t4 		yer [: you are] gonna get hurt in here . 
+_t4 		there are plenty of obstacles .
+_t4 
+_t4 		come on . 
+_t4 		oh: what're you doin(g) ?
+_t4 		hmmm ? 
+_t4 		are ya doin(g) a surprise for Mommy ? 
+_t4 		go tell Mommy what you're doin(g) . 
+_t4 		go ahead , go tell her . 
+_t4 		go ahead , you remember . 
+_t4 		that's a tree . 
+_t4 		Mommy . 
+_t4 		what ?
+_t4 
+_t4 		Alex has a surprise . 
+_t4 		oh . 
+_t4 		okay you hafta move outta [: out of] the way because there's a hot (.) iron here . 
+_t4 		yes . 
+_t4 		come on  stand here for a minute please . 
+_t4 		okay . 
+_t4 		what're [: what are] you doing ? 
+_t4 		wha(t) honey ? 
+_t4 		do ya [: you] have something to tell me ? 
+_t4 		what ? 
+_t4 		what , do you have something to tell me ? 
+_t4 		hurray !
+_t4 
+_t4 		(hur)ray: !
+_t4 
+_t4 		what a good boy , I'm so happy you told me .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		that's a curtain . 
+_t4 		what a +/.
+_t4 
+_t4 		I'm so (.) happy you told me .
+_t4 
+_t4 		good boy . 
+_t4 		do you have something else to tell me ? 
+_t4 		do you have something to tell Mommy ? 
+_t4 		tell me . 
+_t4 		tell Mommy . 
+_t4 		Alex can you tell Mommy ? 
+_t4 		Alexander . 
+_t4 		can you tell me ? 
+_t4 		that's a ruler . 
+_t4 		yes . 
+_t4 		itza [: it is a] ruler . 
+_t4 		are you all done ? 
+_t4 		okay . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		are you all done ? 
+_t4 		no , do you need to have your diaper changed now ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		I think you do . 
+_t4 		I don't know if he's done . 
+_t4 		that's a ruler . 
+_t4 		tape measure actually . 
+_t4 		xxx .
+_t4 
+_t4 		a what ? 
+_t4 		a pop ? 
+_t4 		oh +/.
+_t4 
+_t4 		buy pop ? 
+_t4 		pins . 
+_t4 		these are pins . 
+_t4 		Grammy ordered a bracelet off of tv . 
+_t4 		Grammy Annie ? 
+_t4 		yeah all by herself she called me to do it (.) but I couldn't cuz [: because] I had my hands full .
+_t4 
+_t4 		oh . 
+_t4 		was she  +/?
+_t4 
+_t4 		so I told that I would call her back an(d) help her do it . 
+_t4 		yeah . 
+_t4 		but she did it all by herself . 
+_t4 		oh boy that's dangerous . 
+_t4 		are you all done now ?
+_t4 
+_t4 		nope [: no] . 
+_t4 		iron . 
+_t4 		it's an iron . 
+_t4 		oh he's still +/.
+_t4 
+_t4 		yeah see . 
+_t4 		still going .
+_t4 
+_t4 		yeah . 
+_t4 		an iron . 
+_t4 		this is what we use to iron our clothing . 
+_t4 		yes my darling ?
+_t4 
+_t4 		op ! 
+_t4 		op ! 
+_t4 		what is all that about ? 
+_t4 		xxx he's so +/.
+_t4 
+_t4 		high drama .
+_t4 
+_t4 		you're so full of bologna .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		get away from the ion [: iron] .
+_t4 
+_t4 		high drama !
+_t4 
+_t4 		don't get too close . 
+_t4 		yes . 
+_t4 		you know what that is . 
+_t4 		all+right you ready ? 
+_t4 		wha(t) honey ? 
+_t4 		do ya [: you] have something to tell me ? 
+_t4 		don't touch it .
+_t4 
+_t4 		xxx  no .
+_t4 
+_t4 		what Mommy . 
+_t4 		this (.) this is an ironing board . 
+_t4 		cur(t)ain . 
+_t4 		Gigi's cur(t)ain . 
+_t4 		do you have_to tell Mommy something ? 
+_t4 		a pin .
+_t4 
+_t4 		this is an iron an(d) it's very hot . 
+_t4 		an(d) you could get burnt . 
+_t4 		don [: do] not touch . 
+_t4 		you are such a good boy .
+_t4 
+_t4 		no no no please it's hot . 
+_t4 		okay that's +/.
+_t4 
+_t4 		a(ll)+right come let's go get changed come on . 
+_t4 		wheredya [: where do you] go to get changed ? 
+_t4 		wha(t) did ya [: you] do ? 
+_t4 		you still goin(g) . 
+_t4 		xxx .
+_t4 
+_t4 		cur(t)ain . 
+_t4 		come o(n) let's go . 
+_t4 		you ready ? 
+_t4 		was [: what is] that noise ? 
+_t4 		wha(t) honey ? 
+_t4 		wha(t) ?
+_t4 
+_t4 		let's go see come on I'll show you . 
+_t4 		show me . 
+_t4 		I like yer [: your] spoons . 
+_t4 		come on . 
+_t4 		cook today ? 
+_t4 		let's go , I made  lunch . 
+_t4 		no I was talkin(g) to Alex  .
+_t4 
+_t4 		oh  . 
+_t4 		come on let's go get changed up you'll feel much better . 
+_t4 		what ? 
+_t4 		come on . 
+_t4 		up up . 
+_t4 		oh come on let's go .
+_t4 
+_t4 		we'll be right back . 
+_t4 		bye bye Alex I'll be right here .
+_t4 
+_t4 		come back to see me .
+_t4 
+_t4 		don't hit . 
+_t4 		okay . 
+_t4 		you're still hitting me a little I feel it . 
+_t4 		I'll let you do the change +/.
+_t4 
+_t4 		okay thank you I'm sure that ya [: you] are .
+_t4 
+_t4 		quickly .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		quickly ! 
+_t4 		okay . 
+_t4 		the(r)e . 
+_t4 		let's get all clean . 
+_t4 		okay ? 
+_t4 		all clean , let's get all clea:n . 
+_t4 		the(r)e . 
+_t4 		all clea:n . 
+_t4 		whadya [: what do you] say ? 
+_t4 		Alex look at . 
+_t4 		whadya [: what do you] say ? 
+_t4 		can you say all clean ?
+_t4 
+_t4 		god bless you . 
+_t4 		god bless you .
+_t4 
+_t4 		bye: . 
+_t4 		um  couple of  . 
+_t4 		god bless you sweethea(r)t how come you keep sneezing ? 
+_t4 		god bless you , get it out . 
+_t4 		get all your little sneezes out . 
+_t4 		okay up up one two three . 
+_t4 		kay [: okay] can you say bye ? 
+_t4 		ghead [: go ahead] . 
+_t4 		there bye . 
+_t4 		let's go (.) wrap it up an(d) put it in the trash and wash our hands . 
+_t4 		xxx .
+_t4 
+_t4 		uh huh .
+_t4 
+_t4 		xxx avenue . 
+_t4 		yeah I'm not familiar with that one .
+_t4 
+_t4 		that's the older  . 
+_t4 		that's from  . 
+_t4 		that's kindergarten through age four +//.
+_t4 
+_t4 		god bless that baby .
+_t4 
+_t4 		god bless ya [: you] don't put your hands up here baby .
+_t4 
+_t4 		hot . 
+_t4 		it's pins and a cur(t)ain . 
+_t4 		will you will you help Gigi when you get older ? 
+_t4 		god ble(ss)  he seems like he's havin(g) an allergic reaction to somethin(g) . 
+_t4 		what ? 
+_t4 		uh  . 
+_t4 		there's somethin(g) in here . 
+_t4 		come here honey . 
+_t4 		there's somethin(g) .
+_t4 
+_t4 		mmmm+hmmm . 
+_t4 		could be . 
+_t4 		woo  ! 
+_t4 		wha(t) ! 
+_t4 		nothin(g) . 
+_t4 		oh my god . 
+_t4 		I think he's okay though it just missed him . 
+_t4 		missed naturally . 
+_t4 		oh scared me . 
+_t4 		Alex . 
+_t4 		Alexander .
+_t4 
+_t4 		wha(t) happened ?
+_t4 
+_t4 		Gigi . 
+_t4 		uh .
+_t4 
+_t4 		your mom left the room for a second so  .
+_t4 
+_t4 		okay . 
+_t4 		the iron fell then . 
+_t4 		ugh .
+_t4 
+_t4 		it didn'(t) go near him .
+_t4 
+_t4 		xxx . 
+_t4 		I know but Ma ya [: you] can't leave him alone like that . 
+_t4 		what's a [: the] matter with you ? 
+_t4 		you're not supposed to be in here anyway let's go play with your toys come on . 
+_t4 		out ! 
+_t4 		out [x 
+_t4 		thank you +/.
+_t4 
+_t4 		yes ?
+_t4 
+_t4 		come on . 
+_t4 		a(ll)+right I'm gonna put on yer [: your] +/.
+_t4 
+_t4 		so the second I like moved up he like  +/.
+_t4 
+_t4 		oh yeah he that's all it takes . 
+_t4 		I'm gonna play with your trains . 
+_t4 		wha(t) ?
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx all week long . 
+_t4 		okay you would .
+_t4 
+_t4 		xxx them .
+_t4 
+_t4 		that I would be able to .
+_t4 
+_t4 		make it tomorrow cuz [: cause] like .
+_t4 
+_t4 		all I did .
+_t4 
+_t4 		appointment  .
+_t4 
+_t4 		wha(t) honey ? 
+_t4 		xxx .
+_t4 
+_t4 		okay well let's play with your trains .
+_t4 
+_t4 		xxx and  . 
+_t4 		um I also called  .
+_t4 
+_t4 		an(d) your cars . 
+_t4 		but she'd been out sick . 
+_t4 		xxx .
+_t4 
+_t4 		do ya [: you] mind bringing that  yeah okay thanks .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		okay come o(n) come o(n) come o(n) come o(n) come o(n) come o(n) come o(n) .
+_t4 
+_t4 		xxx to the office .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		ready ? 
+_t4 		xxx . 
+_t4 		here we go . 
+_t4 		where's your blocks ? 
+_t4 		well I want , I want my daughter to come with me and she is not available tomorrow . 
+_t4 		on:e .
+_t4 
+_t4 		any other . 
+_t4 		Friday would be a good day .
+_t4 
+_t4 		two: .
+_t4 
+_t4 		any you know will be better  .
+_t4 
+_t4 		three: . 
+_t4 		tomorrow  .
+_t4 
+_t4 		my  just can't do it . 
+_t4 		what comes after three ?
+_t4 
+_t4 		I  .
+_t4 
+_t4 		what comes after three ? 
+_t4 		xxx .
+_t4 
+_t4 		four . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		all week . 
+_t4 		so I talked to   . 
+_t4 		what comes after four ?
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		well the person from singular .
+_t4 
+_t4 		and   .
+_t4 
+_t4 		wow ! 
+_t4 		xxx .
+_t4 
+_t4 		and her name is Alex .
+_t4 
+_t4 		here let's do (th)em over here . 
+_t4 		xxx .
+_t4 
+_t4 		four . 
+_t4 		xxx hiccups  .
+_t4 
+_t4 		two six seven six six so if you continually call that .
+_t4 
+_t4 		one .
+_t4 
+_t4 		two: three . 
+_t4 		first two days .
+_t4 
+_t4 		xxx . 
+_t4 		three days  .
+_t4 
+_t4 		cra:sh ! 
+_t4 		cra:sh .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		not an emergency or  .
+_t4 
+_t4 		xxx how many  .
+_t4 
+_t4 		I can't do more than two though I [x 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		can't do more than two . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		and she was supposed to call me back . 
+_t4 		here turn this way there . 
+_t4 		okay . 
+_t4 		one . 
+_t4 		bird . 
+_t4 		that's a bird . 
+_t4 		okay . 
+_t4 		no I mean I want more .
+_t4 
+_t4 		one . 
+_t4 		then come with me and  .
+_t4 
+_t4 		available .
+_t4 
+_t4 		two . 
+_t4 		xxx .
+_t4 
+_t4 		went ahead and made this appointment  .
+_t4 
+_t4 		three . 
+_t4 		xxx .
+_t4 
+_t4 		oh .
+_t4 
+_t4 		four . 
+_t4 		hello .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		two . 
+_t4 		xxx .
+_t4 
+_t4 		no . 
+_t4 		wow: . 
+_t4 		wha(t) honey ? 
+_t4 		one .
+_t4 
+_t4 		xxx authorized .
+_t4 
+_t4 		xxx what I said to this girl Alex .
+_t4 
+_t4 		xxx I said  .
+_t4 
+_t4 		cra:sh ! 
+_t4 		what's that ?
+_t4 
+_t4 		xxx available but .
+_t4 
+_t4 		Alex what's this ? 
+_t4 		moon . 
+_t4 		what's that ? 
+_t4 		xxx .
+_t4 
+_t4 		a lion what does the lion say ? 
+_t4 		xxx okay .
+_t4 
+_t4 		xxx she really is .
+_t4 
+_t4 		goo(d) boy . 
+_t4 		what's that .
+_t4 
+_t4 		but . 
+_t4 		what's tha(t) ? 
+_t4 		a key . 
+_t4 		um .
+_t4 
+_t4 		um like every other .
+_t4 
+_t4 		uh there's .
+_t4 
+_t4 		where's that one ? 
+_t4 		xxx still there ?
+_t4 
+_t4 		moon . 
+_t4 		xxx .
+_t4 
+_t4 		good boy .
+_t4 
+_t4 		what's that ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx yeah . 
+_t4 		an owl . 
+_t4 		xxx .
+_t4 
+_t4 		what does the owl say ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		hoo . 
+_t4 		xxx .
+_t4 
+_t4 		good boy . 
+_t4 		xxx them .
+_t4 
+_t4 		what's: a boat , that a boat ? 
+_t4 		ya know  yeah they're  so .
+_t4 
+_t4 		(o)kay . 
+_t4 		what's that ? 
+_t4 		Mondays and Wednesdays  .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		bear: . 
+_t4 		xxx .
+_t4 
+_t4 		you know .
+_t4 
+_t4 		what's that ? 
+_t4 		I'm trying to go  the doctor .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		clown . 
+_t4 		what's that ? 
+_t4 		good boy .
+_t4 
+_t4 		what's that ? 
+_t4 		xxx payment .
+_t4 
+_t4 		I also spoke with  .
+_t4 
+_t4 		what is it ? 
+_t4 		xxx .
+_t4 
+_t4 		apple . 
+_t4 		are you .
+_t4 
+_t4 		apple .
+_t4 
+_t4 		I spoke with her and  .
+_t4 
+_t4 		xxx against the .
+_t4 
+_t4 		what's that ? 
+_t4 		xxx .
+_t4 
+_t4 		kitty . 
+_t4 		and she said  .
+_t4 
+_t4 		meow . 
+_t4 		xxx .
+_t4 
+_t4 		xxx so .
+_t4 
+_t4 		yeah . 
+_t4 		one , two , three . 
+_t4 		four . 
+_t4 		oh .
+_t4 
+_t4 		five ,  ! 
+_t4 		oh .
+_t4 
+_t4 		what's this ? 
+_t4 		oh no . 
+_t4 		is that  is that a cow ? 
+_t4 		xxx .
+_t4 
+_t4 		what's the cow say ?
+_t4 
+_t4 		two . 
+_t4 		two  ! 
+_t4 		you have three new messages you have .
+_t4 
+_t4 		one old message .
+_t4 
+_t4 		hi  this is  .
+_t4 
+_t4 		op . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		one: balance . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx one . 
+_t4 		two .
+_t4 
+_t4 		hi Katie  .
+_t4 
+_t4 		woo ! 
+_t4 		xxx .
+_t4 
+_t4 		you do it . 
+_t4 		xxx .
+_t4 
+_t4 		one . 
+_t4 		xxx .
+_t4 
+_t4 		whoa: .
+_t4 
+_t4 		what is , what's this ? 
+_t4 		are these your beads ? 
+_t4 		hi  this  . 
+_t4 		one . 
+_t4 		xxx and   .
+_t4 
+_t4 		whoops . 
+_t4 		xxx .
+_t4 
+_t4 		I'm fixing it , I'm fixing it . 
+_t4 		choo   . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		ah .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		ooh . 
+_t4 		you have two new messages . 
+_t4 		you have one old message . 
+_t4 		there .
+_t4 
+_t4 		hi Katie  fabric city  .
+_t4 
+_t4 		there . 
+_t4 		fabrics  you can come and pick it up anytime , thanks . 
+_t4 		your message has been erased . 
+_t4 		hi my name is .
+_t4 
+_t4 		is Katrina and I'm calling from  on  . 
+_t4 		Thursday three . 
+_t4 		what's that ? 
+_t4 		your message has been erased . 
+_t4 		end of messages . 
+_t4 		what's that ?
+_t4 
+_t4 		you have one old message . 
+_t4 		tweet , tweet .
+_t4 
+_t4 		your message has been .
+_t4 
+_t4 		one . 
+_t4 		erased , end of messages .
+_t4 
+_t4 		two . 
+_t4 		oop(s) let's go check . 
+_t4 		xxx . 
+_t4 		your babies are in there you have_to go over there though to see the baby . 
+_t4 		you have_to go over here , come over here . 
+_t4 		wha(t) honey ?
+_t4 
+_t4 		how about . 
+_t4 		how (a)bout these cars ? 
+_t4 		wow . 
+_t4 		these are great . 
+_t4 		wha(t) [?]  here's another one .
+_t4 
+_t4 		here's another car: . 
+_t4 		do ya like to put Joey in the car .
+_t4 		oh Joey's going for a ride in the car . 
+_t4 		xxx . 
+_t4 		where's the green car ? 
+_t4 		where's the green car ? 
+_t4 		xxx there it is , you found it !
+_t4 
+_t4 		wha(t) honey ? 
+_t4 		Joey's in the car ? 
+_t4 		Joey's going for a ride in the car ? 
+_t4 		Joey's going for a ride . 
+_t4 		would you like some help ? 
+_t4 		ready ?
+_t4 
+_t4 		there he goes , ready one , two , three  . 
+_t4 		oh no , where'd [: where did] the green car go ? 
+_t4 		hmmm . 
+_t4 		you found it !
+_t4 
+_t4 		there it is . 
+_t4 		wha(t) honey ? 
+_t4 		jus(t) take it out gently . 
+_t4 		there ya [: you] go . 
+_t4 		see ? 
+_t4 		how come his (.) legs are on backwards ? 
+_t4 		xxx have a stuffed up nose huh ? 
+_t4 		there . 
+_t4 		okay , there goes , bye Joey ! 
+_t4 		bye Joey , have a good ride . 
+_t4 		just easy [x 
+_t4 		there . 
+_t4 		see ?
+_t4 
+_t4 		op what's that noise ? 
+_t4 		that's the timer . 
+_t4 		let's go see how things are moving . 
+_t4 		oh look what you  did you crushed your cracker . 
+_t4 		now ya [: you] have cracker crumbs . 
+_t4 		thank you . 
+_t4 		xxx . 
+_t4 		shoot where'd [: where did] it go ? 
+_t4 		what on the rug ? 
+_t4 		oh no it didn't go on the rug it  his shirt . 
+_t4 		oh . 
+_t4 		it's on the floor . 
+_t4 		don't don't don't do that , please , please ! 
+_t4 		you crushed your cookie . 
+_t4 		what's that ? 
+_t4 		yes darling .
+_t4 
+_t4 		what honey ? 
+_t4 		woof [x 
+_t4 		where's the baby ? 
+_t4 		xxx camera .
+_t4 
+_t4 		oh yeah . 
+_t4 		oh:  .
+_t4 
+_t4 		that's right . 
+_t4 		here Alex have bite . 
+_t4 		xxx look at Alex .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		mmmm . 
+_t4 		alright wait a minute I'll give it to you . 
+_t4 		xxx  Alex we're not doing good today . 
+_t4 		we are making a mess I have_to go get you a shirt now . 
+_t4 		huh ? 
+_t4 		you need a clean shirt . 
+_t4 		oh  .
+_t4 
+_t4 		it's alright .
+_t4 
+_t4 		xxx . 
+_t4 		ah will you feed him while I go get him a shirt he's having a heart attack . 
+_t4 		ya [: you] need to  have a changed shirt ? 
+_t4 		oh no ? 
+_t4 		xxx .
+_t4 
+_t4 		yup [: yes] Mommy's [: Mommy is] gonna get you a new shirt she said .
+_t4 
+_t4 		okay ? 
+_t4 		uh+oh it's okay . 
+_t4 		you can eat while Mommy brings you a shirt . 
+_t4 		mmmm delicious . 
+_t4 		mmmm+mmmm . 
+_t4 		yup [: yes] say please . 
+_t4 		wha(t) +/?
+_t4 
+_t4 		what is tha(t) ? 
+_t4 		that's a lady bug . 
+_t4 		have a little drink .
+_t4 
+_t4 		okay ? 
+_t4 		Mommy's [: Mommy is] coming she went upstair(s) . 
+_t4 		I know , I know . 
+_t4 		can't have your hand dirty , can ya [: you] ? 
+_t4 		here comes Mommy now , she's gonna change your shirt . 
+_t4 		Alex , what's this ? 
+_t4 		Alexander , what's that ? 
+_t4 		wha(t) ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		I have a clean shirt for you . 
+_t4 		oops .
+_t4 
+_t4 		jus(t) in case he needs it . 
+_t4 		xxx .
+_t4 
+_t4 		xxx getting boring . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx than the one I have .
+_t4 
+_t4 		alright let's keep eating with the dirty shirt an(d) then we'll [: we will] put on a clean shirt . 
+_t4 		how's that sound ? 
+_t4 		uh+oh what ? 
+_t4 		alright lemme [: let me] see .
+_t4 
+_t4 		a dirty shirt is that what he said ? 
+_t4 		xxx .
+_t4 
+_t4 		yeah but that's alright .
+_t4 
+_t4 		it was an accident we'll [: we will] wash it . 
+_t4 		it's okay . 
+_t4 		xxx . 
+_t4 		would you like your cracker ? 
+_t4 		no .
+_t4 
+_t4 		xxx . 
+_t4 		a spoon , sure . 
+_t4 		it's macaroni . 
+_t4 		oh what do ya [: you] wanna eat ? 
+_t4 		wanna give him some apple ? 
+_t4 		peel some apple . 
+_t4 		want do you like some pear ? 
+_t4 		oh .
+_t4 
+_t4 		let's just try it . 
+_t4 		xxx .
+_t4 
+_t4 		okay . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		who has +/?
+_t4 
+_t4 		who has pretty eyes ? 
+_t4 		xxx show me those pretty eyes . 
+_t4 		xxx that's no good . 
+_t4 		throw that away . 
+_t4 		it's probably very juicy . 
+_t4 		it's probably very disgusting . 
+_t4 		just peel it .
+_t4 
+_t4 		where'd [: where did] these apples come from ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		an ap(ple) all+right you can have +/.
+_t4 
+_t4 		east side market . 
+_t4 		oh . 
+_t4 		pink colby , I don't know this apple .
+_t4 
+_t4 		yeah they're delicious . 
+_t4 		oh are you gettin(g) me a knife and a plate ? 
+_t4 		yes . 
+_t4 		thank you . 
+_t4 		alright we have_to wait for Gigi to get the knife and the plate . 
+_t4 		maybe by the time you're eighteen you can eat this apple  .
+_t4 
+_t4 		she's a lil [: little] she's a little slow .
+_t4 
+_t4 		alright it's comin(g) . 
+_t4 		don't smash it . 
+_t4 		you're  .
+_t4 
+_t4 		would you like some soup ? 
+_t4 		would you like some macaroni ? 
+_t4 		look . 
+_t4 		macaroni ? 
+_t4 		alright , thank you .
+_t4 
+_t4 		apple . 
+_t4 		okay . 
+_t4 		here we go . 
+_t4 		oh you got me this knife that doesn't cut water . 
+_t4 		we'll jus(t) have_to hear it  there it is thank you . 
+_t4 		oh . 
+_t4 		there you go . 
+_t4 		there it is . 
+_t4 		Mom can you get me the  small knife please that cuts . 
+_t4 		hello ? 
+_t4 		this knife is not good . 
+_t4 		what am I doing ? 
+_t4 		what's that that's the apple peel . 
+_t4 		that's the peel . 
+_t4 		that's the peel , can you say peel ? 
+_t4 		can you say peel ? 
+_t4 		I think that small knife that you want is  .
+_t4 
+_t4 		no Alex ! 
+_t4 		uh here's another one .
+_t4 
+_t4 		he just threw the peel on the floor . 
+_t4 		thank you .
+_t4 
+_t4 		oh Alex . 
+_t4 		what're [: what are] you doing ? 
+_t4 		that's the peel .
+_t4 
+_t4 		(ca)n you say peel ? 
+_t4 		where's the peel , you threw it on the floor ? 
+_t4 		there . 
+_t4 		how very nice , let's push over the peel . 
+_t4 		okay ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx I'm just lookin(g) for my  .
+_t4 
+_t4 		oh . 
+_t4 		this knife stinks ! 
+_t4 		xxx . 
+_t4 		xxx I think that  .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		hi Alex . 
+_t4 		xxx .
+_t4 
+_t4 		hi baby boy . 
+_t4 		what did you call her ? 
+_t4 		you can say hello Manuela .
+_t4 
+_t4 		can you say that ? 
+_t4 		apple , chew . 
+_t4 		xxx .
+_t4 
+_t4 		you better chew [x 
+_t4 		now I just  . 
+_t4 		xxx use a  . 
+_t4 		xxx .
+_t4 
+_t4 		xxx I'd like to think ,  . 
+_t4 		you are such a good boy ! 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		you have_to chew: . 
+_t4 		xxx .
+_t4 
+_t4 		xxx pick it up because of the baby . 
+_t4 		chew: . 
+_t4 		musta [: must have] really put it in a safe place and forgot it . 
+_t4 		xxx .
+_t4 
+_t4 		which one the silver one ? 
+_t4 		no the little  .
+_t4 
+_t4 		eh . 
+_t4 		yes ? 
+_t4 		apple one .
+_t4 
+_t4 		okay . 
+_t4 		apple two .
+_t4 
+_t4 		xxx . 
+_t4 		no just ea(t) have the one and the two right now . 
+_t4 		until you chew . 
+_t4 		oh here it is .
+_t4 
+_t4 		g(o)ahead eat those . 
+_t4 		find it ? 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		that's okay well we have a clean shirt Mommy has your clean shirt right here . 
+_t4 		xxx .
+_t4 
+_t4 		one apple .
+_t4 
+_t4 		okay Alex . 
+_t4 		two apple . 
+_t4 		mmmm+mmmm+mmmm . 
+_t4 		that's okay it's alright look . 
+_t4 		we'll brush it off . 
+_t4 		okay ? 
+_t4 		oh Al(ex)  . 
+_t4 		don'(t) worry about it . 
+_t4 		clean freak . 
+_t4 		it's wha(t) ? 
+_t4 		he's a clean freak .
+_t4 
+_t4 		yeah . 
+_t4 		I ag(ree) [?] yeah . 
+_t4 		xxx . 
+_t4 		it's a good thing . 
+_t4 		that's o(kay) +/.
+_t4 
+_t4 		yeah that's okay . 
+_t4 		having apple ? 
+_t4 		one . 
+_t4 		delicious . 
+_t4 		apple one . 
+_t4 		and here's two . 
+_t4 		and three you can have three .
+_t4 
+_t4 		did you see that  Michael Jackson thing ? 
+_t4 		oh , I did .
+_t4 
+_t4 		xxx baby .
+_t4 
+_t4 		xxx . 
+_t4 		psycho . 
+_t4 		psycho .
+_t4 
+_t4 		I'm telling you . 
+_t4 		he is gonzo .
+_t4 
+_t4 		xxx . 
+_t4 		did they say why he did it ? 
+_t4 		yeah cause [: because] he's a nut+job  . 
+_t4 		ya [: you] guys are better at explaining it than me . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		I think he just all of the fans were screaming for him outside I think this was in Germany or something .
+_t4 
+_t4 		oh god . 
+_t4 		xxx .
+_t4 
+_t4 		Alex . 
+_t4 		I saw that . 
+_t4 		they were trying to shout for him to come out and make an appearance with the baby . 
+_t4 		they wanted to see the baby . 
+_t4 		so . 
+_t4 		so he showed them the baby .
+_t4 
+_t4 		so he dangled him out the window .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		and dangled him from the balcony .
+_t4 
+_t4 		yes .
+_t4 
+_t4 		clearly he's white . 
+_t4 		yeah . 
+_t4 		wha(t) honey ?
+_t4 
+_t4 		all his kids are .
+_t4 
+_t4 		ya [: you] wanna get down ? 
+_t4 		another kid  .
+_t4 
+_t4 		do ya [: you] want a pop ?
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		you eat your apple ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		an(d) then I can give you a pop . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		what ? 
+_t4 		xxx he put  . 
+_t4 		xxx .
+_t4 
+_t4 		what ? 
+_t4 		nothin(g) he just put the apple back on the plate . 
+_t4 		oh .
+_t4 
+_t4 		it made me laugh . 
+_t4 		cause [: because] he doesn't want it . 
+_t4 		right , right Alex .
+_t4 
+_t4 		no lunch and no apple .
+_t4 
+_t4 		no apple , no lunch .
+_t4 
+_t4 		no cracker . 
+_t4 		wha(t) what can I get for you ? 
+_t4 		no ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		no that is not . 
+_t4 		it's juice . 
+_t4 		xxx .
+_t4 
+_t4 		alright , is there anything you'd like ? 
+_t4 		nothing ? 
+_t4 		do you want a pop ? 
+_t4 		wha(t)'s tha(t) ? 
+_t4 		a what ?
+_t4 
+_t4 		that's fabric . 
+_t4 		xxx jus(t) tryin(g) to  .
+_t4 
+_t4 		yes .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		where's a tree ? 
+_t4 		where's a tree ? 
+_t4 		no tree ? 
+_t4 		xxx . 
+_t4 		alright  . 
+_t4 		would you like to get down ? 
+_t4 		my+goodness .
+_t4 
+_t4 		no ?
+_t4 
+_t4 		would you like a pop ? 
+_t4 		boy you must not be feeling too hot , if ya [: you] don't want a pop .
+_t4 
+_t4 		can I get a kiss ? 
+_t4 		n(o) , I can't get a kiss ? 
+_t4 		how come you don't wanna gimme [: give me] a kiss ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx Elmo , wanna get your new toy ? 
+_t4 		wanna get your new toys ? 
+_t4 		from your birthday party ?
+_t4 
+_t4 		alright , go sit down on the rug and I'll get you some toys . 
+_t4 		after I pick up all the food you threw on the floor .
+_t4 
+_t4 		there's apple somewhere around here .
+_t4 
+_t4 		right there .
+_t4 
+_t4 		are you helpin(g) Gigi ?
+_t4 
+_t4 		where ? 
+_t4 		right where ? 
+_t4 		where is it ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		I , it's right  an apple piece ? 
+_t4 		yeah he chucked , I mean it went flyin(g) .
+_t4 
+_t4 		oh . 
+_t4 		so . 
+_t4 		what Alex ?
+_t4 
+_t4 		who knows we'll find it's +/.
+_t4 
+_t4 		about to leave the house .
+_t4 
+_t4 		would you like to help me ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		would you like to help me cut this fabric ?
+_t4 
+_t4 		okay well you have_to just get over it .
+_t4 
+_t4 		I'll find it . 
+_t4 		xxx .
+_t4 
+_t4 		yup [: yes] .
+_t4 
+_t4 		you can help me . 
+_t4 		would you like to help Gigi cut this fabric , we have_to make a cur(t)ain here . 
+_t4 		we don'(t) have all day . 
+_t4 		okay ? 
+_t4 		yes . 
+_t4 		&aw what're we doin(g) here . 
+_t4 		where is Alex , I cannot find .
+_t4 
+_t4 		there he is .
+_t4 
+_t4 		where is he ? 
+_t4 		I can't find him . 
+_t4 		peek a boo , there he is ! 
+_t4 		yes ? 
+_t4 		I cannot find Alex . 
+_t4 		xxx . 
+_t4 		can not find him . 
+_t4 		I think he's hiding , uh+oh look what Mommy has . 
+_t4 		xxx . 
+_t4 		what's this ? 
+_t4 		oh .
+_t4 
+_t4 		this is the zoo . 
+_t4 		would ya like to play with your new zoo ? 
+_t4 		oh boy . 
+_t4 		brand new .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		zoo , zoo , zoo .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		you say zoo . 
+_t4 		zoo .
+_t4 
+_t4 		zoo .
+_t4 
+_t4 		zoo , z , z , z , z . 
+_t4 		yes .
+_t4 
+_t4 		ow ,  ,  . 
+_t4 		what are you okay ?
+_t4 
+_t4 		xxx . 
+_t4 		yeah I just got about forty cardboard cuts .
+_t4 
+_t4 		staples . 
+_t4 		you need the scissor ? 
+_t4 		no , but I need a bandaid . 
+_t4 		hmmm . 
+_t4 		oh I found the apple . 
+_t4 		or maybe just a tissue . 
+_t4 		please . 
+_t4 		wow . 
+_t4 		wow wow wow , a zoo !
+_t4 
+_t4 		xxx . 
+_t4 		thank you . 
+_t4 		oh Alex ! 
+_t4 		this is such a great gift , you know I even looked at this to buy you .
+_t4 
+_t4 		did ya ? 
+_t4 		good thing I didn't buy it . 
+_t4 		wow I can't believe it . 
+_t4 		here would you like the animals ? 
+_t4 		where's the animals ?
+_t4 
+_t4 		xxx . 
+_t4 		here's , who's this ? 
+_t4 		who's this , let me see .
+_t4 
+_t4 		xxx . 
+_t4 		maybe . 
+_t4 		let me see .
+_t4 
+_t4 		xxx . 
+_t4 		the room . 
+_t4 		let me see , what's that ?
+_t4 
+_t4 		xxx . 
+_t4 		is that a tree ? 
+_t4 		xxx .
+_t4 
+_t4 		I have_to go , go with . 
+_t4 		is that a tree ?
+_t4 
+_t4 		and in order to match the  . 
+_t4 		wait a minute I'm gettin(g) the little people .
+_t4 
+_t4 		let's see . 
+_t4 		this I think is Carlos .
+_t4 
+_t4 		xxx you have  . 
+_t4 		xxx .
+_t4 
+_t4 		if I remember correctly , that is what his name is .
+_t4 
+_t4 		xxx  right . 
+_t4 		xxx so .
+_t4 
+_t4 		he's Carlos the zoo keeper . 
+_t4 		hello Carlos . 
+_t4 		hi . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		a what , the elephant ? 
+_t4 		the lion ,  so lion , what does the lion say ? 
+_t4 		the string . 
+_t4 		xxx figure out .
+_t4 
+_t4 		Alex what does the lion say ? 
+_t4 		what does the lion say ? 
+_t4 		xxx . 
+_t4 		more , more animals ?
+_t4 
+_t4 		xxx . 
+_t4 		what's this ? 
+_t4 		yeah this  I love it .
+_t4 
+_t4 		an elephant !
+_t4 
+_t4 		xxx . 
+_t4 		I'm gettin(g) the other one . 
+_t4 		let's see , I don't know , what is it ? 
+_t4 		no [x 
+_t4 		xxx .
+_t4 
+_t4 		a polar bear how cute .
+_t4 
+_t4 		did you see the polar bear at the zoo ?
+_t4 
+_t4 		another one ? 
+_t4 		xxx . 
+_t4 		a seal . 
+_t4 		did you see a seal at the aquarium ?
+_t4 
+_t4 		another one ? 
+_t4 		xxx what's that , tweet tweet . 
+_t4 		tweet [x 
+_t4 		tweet , Alex you can not hold them all  . 
+_t4 		I know you're desperately +/.
+_t4 
+_t4 		what ? 
+_t4 		xxx there is no more . 
+_t4 		xxx .
+_t4 
+_t4 		let Mommy read the directions , let's see . 
+_t4 		xxx . 
+_t4 		mmmm . 
+_t4 		animal sounds zoo . 
+_t4 		xxx .
+_t4 
+_t4 		battery compartment drawer , we need to go get the screw driver . 
+_t4 		xxx .
+_t4 
+_t4 		xxx no actually . 
+_t4 		where's the battery ? 
+_t4 		xxx fifteen .
+_t4 
+_t4 		okay let's get the screw Mom grab could you please grab the screw driver out of the drawer ? 
+_t4 		sure . 
+_t4 		let's get the screw driver . 
+_t4 		an(d) put the batteries , here's the car . 
+_t4 		xxx . 
+_t4 		tired . 
+_t4 		xxx . 
+_t4 		where's Carlos , put Carlos in there . 
+_t4 		of course Carlos .
+_t4 
+_t4 		okay ? 
+_t4 		xxx .
+_t4 
+_t4 		le(t) Mommy put the fence on . 
+_t4 		xxx . 
+_t4 		this is such a fabulous gift . 
+_t4 		xxx .
+_t4 
+_t4 		an apple head . 
+_t4 		what a nice toy . 
+_t4 		xxx .
+_t4 
+_t4 		and then the  .
+_t4 
+_t4 		couple a [: of]  . 
+_t4 		how do we do it , like this ?
+_t4 
+_t4 		one fence ? 
+_t4 		their   .
+_t4 
+_t4 		where do we put , where else do we put the fence ? 
+_t4 		from the day she started . 
+_t4 		an(d) we have_to put the fence over here . 
+_t4 		this way . 
+_t4 		xxx . 
+_t4 		screwdriver . 
+_t4 		sales to their church . 
+_t4 		but there's a nice story , an(d) they have a nice area  Pennsylvania . 
+_t4 		oh really ?
+_t4 
+_t4 		chirpy chirp  . 
+_t4 		you also  . 
+_t4 		wop wha(t)'s that ? 
+_t4 		xxx .
+_t4 
+_t4 		wha(t)'s that ? 
+_t4 		wha(t)'s that , wha(t)'s that ? 
+_t4 		xxx .
+_t4 
+_t4 		wha(t)'s that ? 
+_t4 		xxx . 
+_t4 		wha(t)'s that ? 
+_t4 		xxx with all this  .
+_t4 
+_t4 		xxx drive .
+_t4 
+_t4 		where's the birdy ? 
+_t4 		no ya gotta put the birdy in the tree , look . 
+_t4 		xxx . 
+_t4 		put the birdy in the tree . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		no ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx I know  . 
+_t4 		Mom , may I have the screwdriver please ? 
+_t4 		why ?
+_t4 
+_t4 		xxx story .
+_t4 
+_t4 		ping . 
+_t4 		ping . 
+_t4 		but I [x 
+_t4 		xxx .
+_t4 
+_t4 		where's the car ? 
+_t4 		where's the zoo keeper ? 
+_t4 		xxx the postman ? 
+_t4 		xxx .
+_t4 
+_t4 		wee . 
+_t4 		here ya are . 
+_t4 		thank you . 
+_t4 		no I just need +/.
+_t4 
+_t4 		I have  both . 
+_t4 		I don'(t) need that one . 
+_t4 		alright . 
+_t4 		alright , let's put the batteries in . 
+_t4 		and  . 
+_t4 		xxx . 
+_t4 		both are leaving . 
+_t4 		xxx along with the  . 
+_t4 		xxx .
+_t4 
+_t4 		oh boy , this is so much fun . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		so much fun . 
+_t4 		xxx .
+_t4 
+_t4 		xxx actually  . 
+_t4 		yeah .
+_t4 
+_t4 		xxx . 
+_t4 		I think they have one more that's worth quite a bit of money and that was the  one . 
+_t4 		one . 
+_t4 		that could  .
+_t4 
+_t4 		as a Christmas gift . 
+_t4 		xxx .
+_t4 
+_t4 		two . 
+_t4 		xxx .
+_t4 
+_t4 		what's this one ? 
+_t4 		xxx she was in her late forties .
+_t4 
+_t4 		what comes after two ? 
+_t4 		xxx .
+_t4 
+_t4 		what ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx like a big .
+_t4 
+_t4 		what's that noise ? 
+_t4 		xxx .
+_t4 
+_t4 		uh huh . 
+_t4 		and I rigged up a wire  .
+_t4 
+_t4 		what is that noise ? 
+_t4 		xxx . 
+_t4 		what's that ? 
+_t4 		and I don't know +... 
+_t4 		who is that ? 
+_t4 		xxx . 
+_t4 		where's the lion ? 
+_t4 		xxx .
+_t4 
+_t4 		look . 
+_t4 		xxx .
+_t4 
+_t4 		listen listen  .
+_t4 
+_t4 		this one press it . 
+_t4 		press it . 
+_t4 		xxx .
+_t4 
+_t4 		polar bear goes over here see here's the polar bear here's the polar bear you put him in there . 
+_t4 		Mom . 
+_t4 		xxx .
+_t4 
+_t4 		quiet .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		look at press it press it . 
+_t4 		xxx .
+_t4 
+_t4 		the elephant .
+_t4 
+_t4 		goes here . 
+_t4 		where the elephant goes right here look . 
+_t4 		see the elephant ? 
+_t4 		you put the elephant inside , open the door . 
+_t4 		and then he goes  [x 
+_t4 		and look at ready one two li(sten) listen .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		wow .
+_t4 
+_t4 		this this one goes +... 
+_t4 		oh he doesn't make a noise ? 
+_t4 		xxx .
+_t4 
+_t4 		yeah it was really lucky you have , and I didn't even know it .
+_t4 
+_t4 		the seal +... 
+_t4 		the seal . 
+_t4 		he goes over here but I guess he doesn't make a sound , he goes over here . 
+_t4 		xxx . 
+_t4 		oh no he does .
+_t4 
+_t4 		he goes up here . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		the birdy ready ?
+_t4 
+_t4 		listen one two three . 
+_t4 		xxx . 
+_t4 		tweet [x 
+_t4 		that is so cute .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		press this one . 
+_t4 		xxx . 
+_t4 		that's the monkey .
+_t4 
+_t4 		xxx . 
+_t4 		which one you wanna press now ?
+_t4 
+_t4 		which one ?
+_t4 
+_t4 		the elephant ? 
+_t4 		xxx . 
+_t4 		polar bear . 
+_t4 		xxx . 
+_t4 		li(on) lion . 
+_t4 		xxx . 
+_t4 		the seal . 
+_t4 		xxx . 
+_t4 		what about the birdy ? 
+_t4 		you wanna press the birdy ? 
+_t4 		go ahead press the birdy . 
+_t4 		xxx . 
+_t4 		&aw .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		elephant . 
+_t4 		xxx . 
+_t4 		put the elephant in his little spot , so he can , see he has peanuts +...
+_t4 
+_t4 		and leaves . 
+_t4 		and berries +... 
+_t4 		that he eats . 
+_t4 		yeah see you gotta put him on that .
+_t4 
+_t4 		and then press it . 
+_t4 		xxx . 
+_t4 		what was that ? 
+_t4 		what  you wanna open the door ? 
+_t4 		xxx .
+_t4 
+_t4 		that's the tweet .
+_t4 
+_t4 		xxx nineteen ninety two .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		that's the elephant . 
+_t4 		how do you say elephant in spanish ? 
+_t4 		xxx . 
+_t4 		well and there are only forty some odd +... 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx fifty six .
+_t4 
+_t4 		where's the +...
+_t4 
+_t4 		birdy go , birdy goes in the tree . 
+_t4 		the bird goes in the tree . 
+_t4 		put the bird in the tree show Mommy how you do it . 
+_t4 		xxx you did it ! 
+_t4 		no that's okay !
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		the lion , the lion goes over here see there's the lion .
+_t4 
+_t4 		and what does the lion eat ? 
+_t4 		berries and grapes and a banana .
+_t4 
+_t4 		an apple . 
+_t4 		and something else I dunno [: don't know] what that's supposed to be . 
+_t4 		whoops . 
+_t4 		now this +...
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		the seal .
+_t4 
+_t4 		goes up here . 
+_t4 		you see look watch . 
+_t4 		he goes +... 
+_t4 		boop [x 
+_t4 		xxx . 
+_t4 		which one ? 
+_t4 		you do it . 
+_t4 		press it . 
+_t4 		press the elephant .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		good boy .
+_t4 
+_t4 		press the polar bear . 
+_t4 		good boy .
+_t4 
+_t4 		lion . 
+_t4 		xxx .
+_t4 
+_t4 		where's the mo(nkey) +/.
+_t4 
+_t4 		where's the monkey ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx and he seems to get +...
+_t4 
+_t4 		what honey ?
+_t4 
+_t4 		you have_to say elephant .
+_t4 
+_t4 		say +/.
+_t4 
+_t4 		polar bear .
+_t4 
+_t4 		xxx . 
+_t4 		yes .
+_t4 
+_t4 		elephant . 
+_t4 		xxx . 
+_t4 		see ? 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		now where does the birdy , where's the bird go ?
+_t4 
+_t4 		xxx . 
+_t4 		where does the bird go ?
+_t4 
+_t4 		no the bird goes in the tree . 
+_t4 		xxx .
+_t4 
+_t4 		xxx kids everywhere and +... 
+_t4 		live entertainment  .
+_t4 
+_t4 		live entertainment  .
+_t4 
+_t4 		xxx . 
+_t4 		open bar .
+_t4 
+_t4 		xxx woo+hoo . 
+_t4 		xxx . 
+_t4 		three+d cake  .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		and so we were joking with them .
+_t4 
+_t4 		and I invited them . 
+_t4 		so I said   we need to go to  .
+_t4 
+_t4 		xxx I missed my time down there  have_to buy myself one or two every year . 
+_t4 		what honey ?
+_t4 
+_t4 		say polar bear . 
+_t4 		good boy .
+_t4 
+_t4 		a lion . 
+_t4 		very good .
+_t4 
+_t4 		that's okay it's okay just push it from the back . 
+_t4 		see ? 
+_t4 		just  if you go gentle then it works . 
+_t4 		but when you get  +/.
+_t4 
+_t4 		elephant .
+_t4 
+_t4 		xxx  +... 
+_t4 		xxx . 
+_t4 		seal . 
+_t4 		xxx . 
+_t4 		xxx  yeah that'll be good . 
+_t4 		where's the seal go ? 
+_t4 		xxx . 
+_t4 		he goes up here . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		where's the bir(dy) what about the birdy ?
+_t4 
+_t4 		no he goes up here look . 
+_t4 		xxx .
+_t4 
+_t4 		that's where the seal goes and the elephant goes here . 
+_t4 		what about the bird ? 
+_t4 		in the tree ? 
+_t4 		and what about ca(rlos) what about the zoo keeper ?
+_t4 
+_t4 		where's the zoo keeper ? 
+_t4 		xxx put the fishes in the back see ?
+_t4 
+_t4 		I'm gonna [: going] to bring the fishes to the polar bear  . 
+_t4 		here you go polar bear eat the fish .
+_t4 
+_t4 		eat the fish . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		no the bird , put the bird in the tree Alex . 
+_t4 		xxx .
+_t4 
+_t4 		put the bird in the tree . 
+_t4 		where's the bird ? 
+_t4 		xxx . 
+_t4 		yeah put it in the tree . 
+_t4 		very tired though  +... 
+_t4 		up here .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		yes ?
+_t4 
+_t4 		what one ?
+_t4 
+_t4 		a one and a two . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		there okay ? 
+_t4 		what a fabulous gift . 
+_t4 		this is a nice toy huh ? 
+_t4 		I'm trying to see if I'm making sure I('m) I'm doing everything but I think we , I think that's it , think we got everything . 
+_t4 		xxx . 
+_t4 		look they have a farm and they have a , a little train , but you have one of the , the little trains already . 
+_t4 		the seal barks and rides on the flip up slide . 
+_t4 		the flip up slide ? 
+_t4 		xxx where's the seal ? 
+_t4 		lemme [: let me] see what this is all about . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		I have_to kiss you ! 
+_t4 		that's the bird ! 
+_t4 		bird ! 
+_t4 		tweet tweet ! 
+_t4 		an elephant ! 
+_t4 		wha(t) honey ? 
+_t4 		yes ?
+_t4 
+_t4 		what is that ?
+_t4 
+_t4 		what ? 
+_t4 		what is this ? 
+_t4 		a lion and what does the lion say ?
+_t4 
+_t4 		what's [: what does] the lion say ? 
+_t4 		no he doesn't say +... 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx where's the polar bear ? 
+_t4 		that's the fish . 
+_t4 		that's the that's the bucket see look at .
+_t4 
+_t4 		one two three four five six seven eight nine . 
+_t4 		what ? 
+_t4 		wha(t) yeah right what ? 
+_t4 		better not be talkin(g) (a)bout my man . 
+_t4 		xxx  no . 
+_t4 		yes Alex ? 
+_t4 		xxx .
+_t4 
+_t4 		that's the lion .
+_t4 
+_t4 		which one ?
+_t4 
+_t4 		xxx that's an elephant what does the elephant say ? 
+_t4 		xxx . 
+_t4 		that's not music . 
+_t4 		what happened to your you don't get any scratches or boo+boos Alex (un)til after Wednesday . 
+_t4 		xxx . 
+_t4 		may I have a kiss ? 
+_t4 		gimme [: give me] kisses . 
+_t4 		xxx .
+_t4 
+_t4 		wha(t) honey ? 
+_t4 		xxx do this one . 
+_t4 		xxx . 
+_t4 		that's the monkey . 
+_t4 		xxx . 
+_t4 		what's the matter you're alright . 
+_t4 		that's nothin(g) . 
+_t4 		that's a bird . 
+_t4 		put the bird in the tree . 
+_t4 		xxx . 
+_t4 		put the zoo+keeper in the car . 
+_t4 		xxx make him drive . 
+_t4 		there . 
+_t4 		yes honey ?
+_t4 
+_t4 		very good .
+_t4 
+_t4 		xxx where's he goin(g) ?
+_t4 
+_t4 		watch the tree . 
+_t4 		what's that ? 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		that's the polar bear the polar bear goes in here in the oc(ean) in the water . 
+_t4 		ribbit ribbit ribbit and the fish one two three four five six seven . 
+_t4 		and the star where's the star see the star ? 
+_t4 		xxx . 
+_t4 		Alex say excuse me . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		what honey ? 
+_t4 		monkey press this one . 
+_t4 		see press the purple . 
+_t4 		see the purple look . 
+_t4 		right here . 
+_t4 		see see see see . 
+_t4 		now what ? 
+_t4 		what ? 
+_t4 		no you don't have_to pull that . 
+_t4 		now what ? 
+_t4 		where ya [: you] goin(g) with your animals ? 
+_t4 		hey ! 
+_t4 		wha(t) honey ? 
+_t4 		xxx is that a lion ?
+_t4 
+_t4 		wow .
+_t4 
+_t4 		what ? 
+_t4 		come on . 
+_t4 		come over here to the zoo .
+_t4 
+_t4 		yes Alex ?
+_t4 
+_t4 		what's what ? 
+_t4 		come on . 
+_t4 		come over here where ya [: you] goin(g) ? 
+_t4 		come here .
+_t4 
+_t4 		Alex look !
+_t4 
+_t4 		what's that ? 
+_t4 		xxx . 
+_t4 		Alex +... 
+_t4 		look at the bird . 
+_t4 		tweet [x 
+_t4 		tweet  . 
+_t4 		lemme [: let me] have one . 
+_t4 		no ! 
+_t4 		xxx !
+_t4 
+_t4 		you're not gonna share ? 
+_t4 		no .
+_t4 
+_t4 		I want this one .
+_t4 
+_t4 		you can't carry (th)em all ! 
+_t4 		xxx Alex you can't even carry (th)em all . 
+_t4 		whadya [: what do you] got there ? 
+_t4 		let's see . 
+_t4 		what's that ?
+_t4 
+_t4 		come over here . 
+_t4 		hi there . 
+_t4 		hi hi .
+_t4 
+_t4 		hi there . 
+_t4 		hello . 
+_t4 		hello ? 
+_t4 		hello ? 
+_t4 		come over here . 
+_t4 		where's your train ? 
+_t4 		where are you going ? 
+_t4 		xxx I think he doesn't want me  those animals .
+_t4 
+_t4 		what ? 
+_t4 		Alex .
+_t4 
+_t4 		would you like me to get your train ? 
+_t4 		go sit down I'll get your train . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		yes ? 
+_t4 		would you like your train ? 
+_t4 		wow ! 
+_t4 		what else ? 
+_t4 		what's this ? 
+_t4 		what's this ? 
+_t4 		come here . 
+_t4 		wanna open this ? 
+_t4 		Alex would you like to open this ? 
+_t4 		come here  . 
+_t4 		it's a puzzle . 
+_t4 		let's see . 
+_t4 		this is great . 
+_t4 		if I can open it . 
+_t4 		here we go . 
+_t4 		wow ! 
+_t4 		wow ! 
+_t4 		isn't this nice ? 
+_t4 		a nice wooden puzzle . 
+_t4 		xxx ! 
+_t4 		xxx ! 
+_t4 		oh where'd [: where did] the pieces go ? 
+_t4 		let's see . 
+_t4 		okay ready ? 
+_t4 		get the pieces . 
+_t4 		okay where's one ? 
+_t4 		let's see +... 
+_t4 		one +... 
+_t4 		wait a minute . 
+_t4 		xxx put it in the right spot . 
+_t4 		one +... 
+_t4 		two +... 
+_t4 		I don't know where this one goes Alex . 
+_t4 		we hafta wait . 
+_t4 		nope [: no] that must be in the middle . 
+_t4 		nope [: no] we hafta wait on that one . 
+_t4 		okay  let's do another one . 
+_t4 		this one ? 
+_t4 		three +... 
+_t4 		thank you . 
+_t4 		three  what's this one this one goes over here four +... 
+_t4 		that one must go there . 
+_t4 		this one . 
+_t4 		five +... 
+_t4 		which other one ? 
+_t4 		six +... 
+_t4 		xxx we have one missing ? 
+_t4 		hmmm +... 
+_t4 		where'd [: where did] the other one go ? 
+_t4 		xxx there it is it's behind you . 
+_t4 		right there right here . 
+_t4 		right here right there . 
+_t4 		there it is ! 
+_t4 		that goes right here . 
+_t4 		very good !
+_t4 
+_t4 		you did it it's all done . 
+_t4 		now what ? 
+_t4 		wanna tip it over ? 
+_t4 		wee ! 
+_t4 		okay let's do one . 
+_t4 		one +... 
+_t4 		that goes  there .
+_t4 
+_t4 		and let's see +...
+_t4 
+_t4 		a two that goes there . 
+_t4 		a three +...
+_t4 
+_t4 		that goes there . 
+_t4 		four +... 
+_t4 		yeah . 
+_t4 		okay . 
+_t4 		what's that ?
+_t4 
+_t4 		five . 
+_t4 		that goes over there . 
+_t4 		six +... 
+_t4 		xxx got two more . 
+_t4 		seven . 
+_t4 		xxx where's the other one ? 
+_t4 		xxx where is it ? 
+_t4 		you found it !
+_t4 
+_t4 		that makes eight . 
+_t4 		excellent ! 
+_t4 		very good !
+_t4 
+_t4 		what's that ? 
+_t4 		see you could do one +... 
+_t4 		two +... 
+_t4 		xxx why ?
+_t4 
+_t4 		tip it . 
+_t4 		there ya [: you] go . 
+_t4 		there . 
+_t4 		what ? 
+_t4 		that's one . 
+_t4 		that goes there . 
+_t4 		it goes right there . 
+_t4 		that goes right +... 
+_t4 		there . 
+_t4 		that goes right +... 
+_t4 		there . 
+_t4 		what's that one ? 
+_t4 		put it right here . 
+_t4 		in the middle . 
+_t4 		that goes up here right here .
+_t4 
+_t4 		slide it in . 
+_t4 		slide in the piece there . 
+_t4 		there . 
+_t4 		this way . 
+_t4 		okay . 
+_t4 		that goes here . 
+_t4 		no turn it . 
+_t4 		turn it . 
+_t4 		turn . 
+_t4 		there . 
+_t4 		xxx . 
+_t4 		one more where's the other one ? 
+_t4 		put that in there . 
+_t4 		you did it !
+_t4 
+_t4 		one . 
+_t4 		two . 
+_t4 		three ! 
+_t4 		woo ! 
+_t4 		crash ! 
+_t4 		put this one at the top . 
+_t4 		all the way at the top top  very good ! 
+_t4 		that goes over here . 
+_t4 		in the corner . 
+_t4 		very good . 
+_t4 		that goes over here . 
+_t4 		all the way up . 
+_t4 		up up up up . 
+_t4 		turn it . 
+_t4 		turn turn . 
+_t4 		which one ? 
+_t4 		that goes over here . 
+_t4 		slide it . 
+_t4 		push push . 
+_t4 		over there . 
+_t4 		like this this way . 
+_t4 		now push it . 
+_t4 		see ? 
+_t4 		there .
+_t4 
+_t4 		that one goes up here . 
+_t4 		in the middle . 
+_t4 		okay ?
+_t4 
+_t4 		and +... 
+_t4 		that one +...
+_t4 
+_t4 		that's very good  very good ! 
+_t4 		and one more that goes here . 
+_t4 		this way turn it . 
+_t4 		very good ! 
+_t4 		one two three ! 
+_t4 		what's that ? 
+_t4 		now let me see you try to do the puzzle . 
+_t4 		you got that first piece is right . 
+_t4 		first piece is right . 
+_t4 		second piece that's his body turn it . 
+_t4 		there . 
+_t4 		that goes here . 
+_t4 		see gonna match it up . 
+_t4 		that's his arm . 
+_t4 		right there . 
+_t4 		that goes in the in the corner . 
+_t4 		that goes over here . 
+_t4 		that goes up here . 
+_t4 		turn it . 
+_t4 		turn it . 
+_t4 		the tree ? 
+_t4 		whoa ! 
+_t4 		push it over here . 
+_t4 		xxx . 
+_t4 		xxx you got one on the underneath look . 
+_t4 		yeah not decorated with Christmas . 
+_t4 		xxx . 
+_t4 		okay go (a)head show me how to do it . 
+_t4 		help Mommy . 
+_t4 		help me . 
+_t4 		help me make a puzzle .
+_t4 
+_t4 		good boy !
+_t4 
+_t4 		right here . 
+_t4 		down in the corner . 
+_t4 		there ya [: you] go very good . 
+_t4 		xxx . 
+_t4 		we can't just do regular ? 
+_t4 		I was thinking we'd have a theme . 
+_t4 		so dumb .
+_t4 
+_t4 		just be just let's just decorate like we do every year . 
+_t4 		I like a mish+mosh tree it's festive .
+_t4 
+_t4 		you wanna have  +... 
+_t4 		I like to have all my wrapping paper the same .
+_t4 
+_t4 		xxx I'm a pain in the neck . 
+_t4 		yeah but I used to do that too but you know .
+_t4 
+_t4 		xxx I wrap like  .
+_t4 
+_t4 		like say +...
+_t4 
+_t4 		wha(t) honey ?
+_t4 
+_t4 		okay I wrap like all of  in the same paper that way I know what belongs to who . 
+_t4 		but +... 
+_t4 		I don't like a theme tree .
+_t4 
+_t4 		it's boring . 
+_t4 		what ? 
+_t4 		yeah . 
+_t4 		that goes up here . 
+_t4 		turn it . 
+_t4 		turn .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		three . 
+_t4 		four . 
+_t4 		five . 
+_t4 		six . 
+_t4 		say seven . 
+_t4 		where's eight ? 
+_t4 		eight . 
+_t4 		bird . 
+_t4 		what does the bird say ?
+_t4 
+_t4 		what's [: what does] a bird say ? 
+_t4 		what's [: what does] the bird say ?
+_t4 
+_t4 		one lookit here I go I'm gonna flip it . 
+_t4 		one +... 
+_t4 		two +... 
+_t4 		oh no three  ! 
+_t4 		you do it show me how to do it .
+_t4 
+_t4 		oh you help me .
+_t4 
+_t4 		go (a)head show me .
+_t4 
+_t4 		turn it over . 
+_t4 		you do it . 
+_t4 		you .
+_t4 
+_t4 		Alex .
+_t4 
+_t4 		Alex can do it .
+_t4 
+_t4 		show me .
+_t4 
+_t4 		watch the tree +... 
+_t4 		be careful of the tree +... 
+_t4 		okay show me how to make the puzzle . 
+_t4 		you do it .
+_t4 
+_t4 		you do it .
+_t4 
+_t4 		I don't want to .
+_t4 
+_t4 		no it's your turn .
+_t4 
+_t4 		please !
+_t4 
+_t4 		say please . 
+_t4 		you always make me laugh . 
+_t4 		you're so funny sometimes .
+_t4 
+_t4 		okay you do it . 
+_t4 		show me .
+_t4 
+_t4 		it goes right +//.
+_t4 
+_t4 		xxx I'm no doin(g) it you do it . 
+_t4 		it's your turn . 
+_t4 		xxx .
+_t4 
+_t4 		that's not nice . 
+_t4 		get +//.
+_t4 
+_t4 		get your puzzle piece .
+_t4 
+_t4 		thank you . 
+_t4 		get out of the tree . 
+_t4 		thank you . 
+_t4 		okay go ahead . 
+_t4 		show me .
+_t4 
+_t4 		it's your turn .
+_t4 
+_t4 		help me .
+_t4 
+_t4 		go ahead .
+_t4 
+_t4 		yes . 
+_t4 		I really want you to do it . 
+_t4 		I don't wanna make the puzzle .
+_t4 
+_t4 		I don't +/.
+_t4 
+_t4 		xxx . 
+_t4 		you do it . 
+_t4 		go ahead .
+_t4 
+_t4 		put it right here . 
+_t4 		one . 
+_t4 		where's the one ? 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		no you do it .
+_t4 
+_t4 		come on put it right here .
+_t4 
+_t4 		alright I'm doin(g) these . 
+_t4 		this one's [: one is] mine .
+_t4 
+_t4 		this one's [: one is] mine .
+_t4 
+_t4 		this one's [: one is] mine . 
+_t4 		this one's [: one is] mine . 
+_t4 		this one's [: one is] mine . 
+_t4 		I need two more . 
+_t4 		two more . 
+_t4 		two more . 
+_t4 		look  piece please .
+_t4 
+_t4 		xxx this one .
+_t4 
+_t4 		all done . 
+_t4 		all done . 
+_t4 		all done . 
+_t4 		whoa . 
+_t4 		there goes the puzzle . 
+_t4 		thank you .
+_t4 
+_t4 		one . 
+_t4 		may I have another one please ? 
+_t4 		xxx . 
+_t4 		who moved those puzzle pieces ? 
+_t4 		I need a puzzle piece . 
+_t4 		I need a puzzle piece . 
+_t4 		I need a puzzle piece , I need a puzzle piece please . 
+_t4 		thank you . 
+_t4 		okay do you have another one ? 
+_t4 		give me one of those puzzle pieces I need +... 
+_t4 		one of those puzzle pieces give me one of those please ! 
+_t4 		this one ? 
+_t4 		uh+oh I can't remember how this one goes . 
+_t4 		there it goes .
+_t4 
+_t4 		xxx where's the puzzle pieces ? 
+_t4 		here's one . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		gonna get the puzzle pieces I'm gonna get the puzzle pieces I really need them ! 
+_t4 		I need them I need them please give me one ! 
+_t4 		thank you . 
+_t4 		thank you . 
+_t4 		xxx get it , I really need it . 
+_t4 		thank you . 
+_t4 		all done . 
+_t4 		xxx . 
+_t4 		there goes the puzzle .
+_t4 
+_t4 		that's a reflection . 
+_t4 		that's you . 
+_t4 		in the tree . 
+_t4 		and that's the tree with the lights . 
+_t4 		the Christmas tree . 
+_t4 		where's the puzzle board ? 
+_t4 		hi baby . 

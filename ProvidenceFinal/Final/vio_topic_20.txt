@@ -1,0 +1,1269 @@
+_t4 		did you do it ? 
+_t4 		can you throw this one away too ? 
+_t4 		thank you ! 
+_t4 		hmmm . 
+_t4 		
+_t4 		(o)kay . 
+_t4 		thank you . 
+_t4 		
+_t4 		alright . 
+_t4 		let's make sure now . 
+_t4 		yeah we don't need that one . 
+_t4 		let's make sure yours is on . 
+_t4 		let's see . 
+_t4 		okay . 
+_t4 		what are they doing outside , huh ? 
+_t4 		let's [x 
+_t4 		too . 
+_t4 		just in case +... 
+_t4 		where do we put this  here ? 
+_t4 		ready ? 
+_t4 		no [x 
+_t4 		there we go . 
+_t4 		open the door .
+_t4 
+_t4 		yeah that one , open . 
+_t4 		can you open the door ? 
+_t4 		can you open it ? 
+_t4 		no ? 
+_t4 		(o)kay , throw it away . 
+_t4 		thank you ! 
+_t4 		xxx . 
+_t4 		we've gotta sweep up in here . 
+_t4 		want to help me sweep ?
+_t4 
+_t4 		let's put this in the other room . 
+_t4 		xxx . 
+_t4 		which one do you want ?
+_t4 
+_t4 		this one ? 
+_t4 		this one ?
+_t4 
+_t4 		(o)kay , come on .
+_t4 
+_t4 		hmmm ? 
+_t4 		wonder where we can put that camera .
+_t4 
+_t4 		table ?
+_t4 
+_t4 		what if we tilted it like this ? 
+_t4 		
+_t4 		alright , come on . 
+_t4 		sweep that under the chair . 
+_t4 		can you sweep ?
+_t4 
+_t4 		I need a sweeper .
+_t4 
+_t4 		I found a person .
+_t4 
+_t4 		I found a little person .
+_t4 
+_t4 		look , it's one of these little people .
+_t4 
+_t4 		where's that people go ? 
+_t4 		he goes away ? 
+_t4 		where'd the people go ?
+_t4 
+_t4 		where did the people go ?
+_t4 
+_t4 		hmmm ?
+_t4 
+_t4 		where'd the people go ? 
+_t4 		hmmm ? 
+_t4 		where'd the people go ? 
+_t4 		went away ? 
+_t4 		did he run away ?
+_t4 
+_t4 		run away .
+_t4 
+_t4 		did he run away ? 
+_t4 		did he fall under the table ?
+_t4 
+_t4 		where did the +//?
+_t4 
+_t4 		where did the man go , did he run away ?
+_t4 
+_t4 		he's under the table ?
+_t4 
+_t4 		can you get him ? 
+_t4 		there he is . 
+_t4 		there he is . 
+_t4 		xxx .
+_t4 
+_t4 		yes , darlin(g) .
+_t4 
+_t4 		you all done ?
+_t4 
+_t4 		okay .
+_t4 
+_t4 		as soon as I ,  , finish sweeping we can do the mop+mop .
+_t4 
+_t4 		(o)kay ? 
+_t4 		you wanna do the mop+mop ? 
+_t4 		you like that better , doncha [: don't you] ? 
+_t4 		and I'll give you a sponge to do ? 
+_t4 		wait a minute , I'll get it . 
+_t4 		we've gotta , we've gotta finish the sweep+sweep first .
+_t4 
+_t4 		let's see . 
+_t4 		let's sweep  . 
+_t4 		grosso , huh ? 
+_t4 		dirty . 
+_t4 		dirty Gertie . 
+_t4 		okay . 
+_t4 		now I'm gonna get you a sponge . 
+_t4 		and some soap . 
+_t4 		okay . 
+_t4 		okay , let me put these mops away , I mean , these brooms away  .
+_t4 
+_t4 		is this where you wanna put your sponge in ? 
+_t4 		okay . 
+_t4 		want some bubbles in there ? 
+_t4 		now , you (re)member how to do it ? 
+_t4 		let's find you a spot that's dirty . 
+_t4 		how (a)bout right here ? 
+_t4 		this is whatcha [: what you] do . 
+_t4 		you squee:ze the sponge over the water . 
+_t4 		and then scrub , scrub , scrub . 
+_t4 		okay ? 
+_t4 		squee:ze the sponge over the water . 
+_t4 		let me dump out a little water , (be)cause that's gonna make a  , you're just gonna dump it out . 
+_t4 		okay . 
+_t4 		that's still too much , but we'll give it to ya [: you] , huh ? 
+_t4 		(o)kay: , clean up Violet . 
+_t4 		clea:n (th)em up . 
+_t4 		let's see if we have any paper towels . 
+_t4 		maybe in here . 
+_t4 		we're gettin(g) clean ? 
+_t4 		no , not on your hands , scrub it on the floor . 
+_t4 		scrub the floor . 
+_t4 		notcha [: not your] hands . 
+_t4 		here ,  up . 
+_t4 		pull up your pants . 
+_t4 		you're still gonna get soaked I bet . 
+_t4 		okay , there you go . 
+_t4 		scrubby [x 
+_t4 		let's move this thing out here . 
+_t4 		uh+oh . 
+_t4 		xxx , Viole:t . 
+_t4 		I knew that was gonna happen . 
+_t4 		xxx . 
+_t4 		(o)kay , why don't you scrub this  . 
+_t4 		scrubby+scrubby . 
+_t4 		good girl . 
+_t4 		I'm gonna get the mop . 
+_t4 		okay . 
+_t4 		xxx . 
+_t4 		okay then . 
+_t4 		okay then . 
+_t4 		here , we'll wipe it up with this little thing . 
+_t4 		xxx . 
+_t4 		okay . 
+_t4 		how's it comin(g) ? 
+_t4 		whoa , careful ! 
+_t4 		you don't wanna  +//.
+_t4 
+_t4 		let me wipe it up a little so you don't slide all over the place . 
+_t4 		the:re we go , that better ? 
+_t4 		little bit ? 
+_t4 		careful you don't slip . 
+_t4 		now what should we do about this table ? 
+_t4 		huh ? 
+_t4 		should we just leave it like that ? 
+_t4 		clean the table a little bit ? 
+_t4 		put it near the sponges . 
+_t4 		huh ?
+_t4 
+_t4 		xxx . 
+_t4 		good gir:l . 
+_t4 		yeah , clean the table . 
+_t4 		are you a good cleaner ?
+_t4 
+_t4 		mhm .
+_t4 
+_t4 		xxx , table .
+_t4 
+_t4 		you makin(g) a clean table ? 
+_t4 		hmmm ? 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		I need the sprayer . 
+_t4 		you're gonna get all wet . 
+_t4 		xxx . 
+_t4 		you washin(g) your feet ? 
+_t4 		are you washin(g) your feet ? 
+_t4 		huh ? 
+_t4 		are your feet dirty ? 
+_t4 		clean feet ! 
+_t4 		gonna hafta clean +... 
+_t4 		clean your entire +... 
+_t4 		suit . 
+_t4 		I bet . 
+_t4 		hmmm ? 
+_t4 		are your feet clean +..? 
+_t4 		or dirty ? 
+_t4 		huh , Vaivy ? 
+_t4 		alright . 
+_t4 		well +... 
+_t4 		xxx  so much you can do , huh ? 
+_t4 		are you cleaned up ? 
+_t4 		you all cleaned ? 
+_t4 		(o)kay . 
+_t4 		lemme [: let me] do the floor a little bit then +... 
+_t4 		with this . 
+_t4 		I gotta do this . 
+_t4 		hmmm ?
+_t4 
+_t4 		hmmm ? 
+_t4 		this is a mop . 
+_t4 		this is a mop . 
+_t4 		you know what a mop is ? 
+_t4 		it's a mop . 
+_t4 		don't eat that ,  ! 
+_t4 		no , no face ! 
+_t4 		no mouth and no face . 
+_t4 		no: . 
+_t4 		Violet ! 
+_t4 		no: face ! 
+_t4 		no face ! 
+_t4 		no eating it . 
+_t4 		woo , careful !
+_t4 
+_t4 		ca:reful . 
+_t4 		we:ll , you did a good job cleaning over here . 
+_t4 		xxx ,  , no face ! 
+_t4 		good gir:l . 
+_t4 		you little Cinderella ! 
+_t4 		here , clean this wall over here . 
+_t4 		that wall is dirty . 
+_t4 		xxx you clean the walls ? 
+_t4 		whoa: , it's slippery . 
+_t4 		slippery . 
+_t4 		slippery !
+_t4 
+_t4 		what do you need again ? 
+_t4 		some more water ? 
+_t4 		alright ,  do em here .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		mommy [x 
+_t4 		alright , you gonna , you gonna do some ?
+_t4 
+_t4 		careful , you're gonna slide all over the place ! 
+_t4 		I'll hold you up . 
+_t4 		push , push ! 
+_t4 		xxx .
+_t4 
+_t4 		ya [: you] gotta push like this . 
+_t4 		mop , mop . 
+_t4 		okay , do right here . 
+_t4 		whoops ! 
+_t4 		uh+oh ! 
+_t4 		yep [: yes] , mop+mop ,    here (be)cause it's not as wet . 
+_t4 		this is  +//.
+_t4 
+_t4 		this is gonna be injury land , huh ?
+_t4 
+_t4 		(o)kay , push !
+_t4 
+_t4 		okay ?
+_t4 
+_t4 		you moppin(g) ?
+_t4 
+_t4 		is it all clean ?
+_t4 
+_t4 		I hate cleanin(g) the kitchen . 
+_t4 		alright .
+_t4 
+_t4 		careful when you walk . 
+_t4 		more what ? 
+_t4 		more water ? 
+_t4 		on where ? 
+_t4 		you want your sponge back ? 
+_t4 		(o)kay , here . 
+_t4 		yeah , give me the sponge .
+_t4 
+_t4 		and I'll finish the mop(ping) . 
+_t4 		careful when you walk , careful , go slow ! 
+_t4 		(be)cause you know what ? 
+_t4 		slippery , slippery . 
+_t4 		go slow: ! 
+_t4 		go slow: ! 
+_t4 		care:ful and slow . 
+_t4 		great ! 
+_t4 		xxx , looks a little better , huh ?
+_t4 
+_t4 		mmmm , (o)kay , lemme [: let me] mop that . 
+_t4 		tha:nk you ! 
+_t4 		okay ,  . 
+_t4 		tha:nk you ! 
+_t4 		okay: ! 
+_t4 		thank you ! 
+_t4 		let me have the mop now +//.
+_t4 
+_t4 		let me have the sponge . 
+_t4 		thank you: !
+_t4 
+_t4 		(o)kay .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		let's go this way ,    we're gonna  the chairs back in here .
+_t4 
+_t4 		whoa: slippery ! 
+_t4 		slippery [x 
+_t4 		put these away . 
+_t4 		xxx , we're gonna put the chairs back .
+_t4 
+_t4 		right ?
+_t4 
+_t4 		one +...
+_t4 
+_t4 		other one +... 
+_t4 		slippery [x 
+_t4 		and this one +...
+_t4 
+_t4 		alrigh:t , now let's go find another job . 
+_t4 		(o)kay ?
+_t4 
+_t4 		check for a job in here . 
+_t4 		while we let that dry . 
+_t4 		okay , we're gonna  this , we're gonna bring this around the corner .
+_t4 
+_t4 		so we can see if we can +...
+_t4 
+_t4 		let's tape you in here .
+_t4 
+_t4 		the problem is that we don't have the stand in here .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		let's see . 
+_t4 		alright , let's work at this table over here . 
+_t4 		right here . 
+_t4 		wanna sit here +//?
+_t4 
+_t4 		this would be a good place to sit , you wanna sit here ?
+_t4 
+_t4 		let's see , this needs a new battery , so +... 
+_t4 		but you know what +//?
+_t4 
+_t4 		oh actually , no , it's not a battery +//.
+_t4 
+_t4 		what did I say +//?
+_t4 
+_t4 		a lightbulb . 
+_t4 		has to go in there . 
+_t4 		right ? 
+_t4 		okay .
+_t4 
+_t4 		so let's put this in here . 
+_t4 		and let's move this off the table +//.
+_t4 
+_t4 		xxx  make some pictures . 
+_t4 		wanna make some pictures ? 
+_t4 		that one doesn't work right now . 
+_t4 		but , we can make some pictures with the:se . 
+_t4 		that goes in there . 
+_t4 		let's see if we have any paper left in here . 
+_t4 		this thing's [: thing is] (a)bout ready to go . 
+_t4 		hmmm . 
+_t4 		let's try this page . 
+_t4 		let's see what we can make . 
+_t4 		(o)kay +...
+_t4 
+_t4 		what would you like to make ? 
+_t4 		you're gonna use a marker , huh ?
+_t4 
+_t4 		who colored on these with the marker ?
+_t4 
+_t4 		did you do that ? 
+_t4 		or did  ? 
+_t4 		xxx .
+_t4 
+_t4 		mommy didn't do it .
+_t4 
+_t4 		(o)kay , let's make something on here +//.
+_t4 
+_t4 		what are we gonna make ? 
+_t4 		I'm gonna ma:ke +... 
+_t4 		a what ? 
+_t4 		oh , kitty+cat . 
+_t4 		okay , you ready ? 
+_t4 		here comes a kitty+ca:t +...
+_t4 
+_t4 		here come(s) my kitty cat +... 
+_t4 		and a big fat belly: +... 
+_t4 		and a big puffy tail: +... 
+_t4 		there's my kitty+cat ! 
+_t4 		mhm , kind of a funny kitty+cat , huh ? 
+_t4 		what are you gonna make ? 
+_t4 		you're gonna make a kitty+cat , too ?
+_t4 
+_t4 		oh: , purple kitty: ! 
+_t4 		where's his tail ? 
+_t4 		oh: , where's his eyes ? 
+_t4 		oh: , good [x 
+_t4 		okay , where's his (.) whiskers ? 
+_t4 		where's his feet ? 
+_t4 		very goo:d !
+_t4 
+_t4 		I like your kitty+cat +//.
+_t4 
+_t4 		know what my kitty+cat's name is ? 
+_t4 		my kitty+cat's name is (.) Taffy . 
+_t4 		what's your kitty+cat's name ? 
+_t4 		oh: , how  that could be the baby kitty+cat ? 
+_t4 		and this could be the mama . 
+_t4 		is that good ? 
+_t4 		ooh: , what's that ? 
+_t4 		is that a kitty+cat ? 
+_t4 		oh , those are eyes ? 
+_t4 		ready I'll make something and you tell me what it is . 
+_t4 		what's this Vaivy ? 
+_t4 		ri:ght !
+_t4 
+_t4 		yeah ?
+_t4 
+_t4 		wanna trade ?
+_t4 
+_t4 		(o)kay . 
+_t4 		now I'm gonna make something else and you tell me what it is . 
+_t4 		what's this ? 
+_t4 		s:nake .
+_t4 
+_t4 		snake ! 
+_t4 		oh , those his eyes ? 
+_t4 		or is that his tail ? 
+_t4 		ready , now I'll make something big . 
+_t4 		what's this gonna be ? 
+_t4 		no . 
+_t4 		xxx , let's see .
+_t4 
+_t4 		what's this Vaivy ? 
+_t4 		what's this ? 
+_t4 		is it 
+_t4 		not a very good elephant , is it ? 
+_t4 		that's his eyes , right ? 
+_t4 		and these are his ears right here .
+_t4 
+_t4 		he has bi:g ears . 
+_t4 		now let's see +//.
+_t4 
+_t4 		let's make +... 
+_t4 		a girl .
+_t4 
+_t4 		oh: . 
+_t4 		let's make her wear the pretty skirt +... 
+_t4 		and fancy shoes +... 
+_t4 		and what will she hold in her hand ? 
+_t4 		there's her hand +//.
+_t4 
+_t4 		what will she hold in her hand ? 
+_t4 		what will she hold ? 
+_t4 		baba +..? 
+_t4 		or bubbles ? 
+_t4 		bubbles ?
+_t4 
+_t4 		okay , here's the bubbles +//.
+_t4 
+_t4 		woo: , she caught one: ! 
+_t4 		I'm gonna take , take a shower in a little bit . 
+_t4 		let's see , it's five past +... 
+_t4 		oh yeah , let's do this page ! 
+_t4 		let's ma:ke +... 
+_t4 		a: +... 
+_t4 		xxx , (a)nother kitty ? 
+_t4 		I'm gonna make +... 
+_t4 		how (a)bout I make a house ? 
+_t4 		okay .
+_t4 
+_t4 		xxx through my house ?
+_t4 
+_t4 		ooh: , does it look like a house ? 
+_t4 		hmmm ? 
+_t4 		does it look like a house ? 
+_t4 		okay .
+_t4 
+_t4 		whose house is this ? 
+_t4 		is this +//?
+_t4 
+_t4 		is this: +..? 
+_t4 		let's +//.
+_t4 
+_t4 		it will be the kitty's house . 
+_t4 		okay ? 
+_t4 		yeah . 
+_t4 		and there will be a little mouse that lives in the kitty's house . 
+_t4 		so the kitty can catch him . 
+_t4 		a little mouse . 
+_t4 		we'll see his little legs . 
+_t4 		hmmm . 
+_t4 		there's a mouse . 
+_t4 		let's see if you know what this is +... 
+_t4 		what's that ? 
+_t4 		bo:ne +... 
+_t4 		xxx  make a doggy . 
+_t4 		I'm gonna make a doggy +... 
+_t4 		who wants to have his bone .
+_t4 
+_t4 		here he is . 
+_t4 		here's the doggy . 
+_t4 		ruff [x 
+_t4 		doggy couldn't get his bone ? 
+_t4 		he can have big teeth . 
+_t4 		oh: , he got a big mouth , that doggy +... 
+_t4 		xxx , I always have trouble makin(g) dogs . 
+_t4 		hmmm . 
+_t4 		uh+oh , what did ya [: you] make ?
+_t4 
+_t4 		oh , where'd the mouse go ?
+_t4 
+_t4 		is he hiding ? 
+_t4 		where's the mouse ? 
+_t4 		is he in there ? 
+_t4 		maybe I'll make +//.
+_t4 
+_t4 		I'll make a heart . 
+_t4 		there . 
+_t4 		wanna try this crayon ?
+_t4 
+_t4 		put that back . 
+_t4 		let's try this one . 
+_t4 		here's a clou:d in the sky . 
+_t4 		that look like a cloud ? 
+_t4 		and you know what comes out of a cloud ? 
+_t4 		rai:n . 
+_t4 		and what do you need when it rains ? 
+_t4 		do you need your umbrella ? 
+_t4 		let's make an umbrella . 
+_t4 		xxx . 
+_t4 		rainy day: ! 
+_t4 		bone and a +... 
+_t4 		right .
+_t4 
+_t4 		you know I'd like to know what this eraser is for +//.
+_t4 
+_t4 		it says eraser . 
+_t4 		it must just be +//. 
+_t4 		I don't know what it could be for +//.
+_t4 
+_t4 		just for the (.) regular pencil +..? 
+_t4 		let's see +//.
+_t4 
+_t4 		wait a minute . 
+_t4 		well it kinda [: kind of] works on the pastels +//.
+_t4 
+_t4 		maybe it's for the pastels +... 
+_t4 		thank you ! 
+_t4 		do it on this one . 
+_t4 		I think it works on there . 
+_t4 		what's this ? 
+_t4 		it's not chalk , it's a crayon . 
+_t4 		crayon . 
+_t4 		you're gonna open the crayon some more ? 
+_t4 		can you peel it off ? 
+_t4 		uh+oh +...
+_t4 
+_t4 		broken . 
+_t4 		it's broken Vaivy . 
+_t4 		you can still color with it though . 
+_t4 		I'll make big polka+dots . 
+_t4 		mhm . 
+_t4 		you peelin(g) it off ? 
+_t4 		I'm just gonna get some water . 
+_t4 		la [x 
+_t4 		xxx . 
+_t4 		xxx , whatchya [: what are you] makin(g) ? 
+_t4 		oh , ok .
+_t4 
+_t4 		that's  . 
+_t4 		you makin(g) on the paint circles ? 
+_t4 		xxx . 
+_t4 		hmmm ?
+_t4 
+_t4 		xxx   what happened to the lighters    . 
+_t4 		xxx   . 
+_t4 		xxx   . 
+_t4 		only on the paper ! 
+_t4 		we never have any lighters , Violet . 
+_t4 		where did they go +..? 
+_t4 		no:body know:s . 
+_t4 		matches +..? 
+_t4 		nothing . 
+_t4 		want me to scoot you in ? 
+_t4 		there . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		&aw . 
+_t4 		daddy is gonna get it ! 
+_t4 		whadja [: what did you] make ? 
+_t4 		pretty pretty: . 
+_t4 		
+_t4 		lemme [: let me] see . 
+_t4 		you made a pretty house ? 
+_t4 		wo:w , good job ! 
+_t4 		a pretty house , yeah .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		make another pretty house ? 
+_t4 		wanna go up in the +..? 
+_t4 		pretty house ! 
+_t4 		oh it's a very pretty house  ! 
+_t4 		very pretty hou:se ! 
+_t4 		is this what  made ? 
+_t4 		should we take off our backpacks now ?
+_t4 
+_t4 		do you wanna come take a shower ?
+_t4 
+_t4 		putting this away . 
+_t4 		well , I'm glad you made a pretty house ! 
+_t4 		whatchya [: what are you] doin(g) ? 
+_t4 		you wanna get the money ? 
+_t4 		yeah , I'll get it down . 
+_t4 		I'll get it . 
+_t4 		hop down . 
+_t4 		xxx .
+_t4 
+_t4 		hop down . 
+_t4 		here's some money . 
+_t4 		uh+oh Vaivy , see that's why I don't give you money ! 
+_t4 		you need to pick it up now . 
+_t4 		now you need to pick up all that money ! 
+_t4 		and put it back in the cup . 
+_t4 		no , I'm not giving you anymore money .
+_t4 
+_t4 		you throw it all over the place +//.
+_t4 
+_t4 		you gotta pick it up . 
+_t4 		put it in the cup . 
+_t4 		yeah +...
+_t4 
+_t4 		you pick it up . 
+_t4 		pick up the money .
+_t4 
+_t4 		xxx +/. 
+_t4 		gross . 
+_t4 		you putting it in the cup ? 
+_t4 		huh ? 
+_t4 		you putting it in a cup ? 
+_t4 		xxx need to figure out how to light this one +... 
+_t4 		let's see +... 
+_t4 		I know what I'm gonna  . 
+_t4 		xxx .
+_t4 
+_t4 		xxx everywhe:re !
+_t4 
+_t4 		xxx coming down ! 
+_t4 		xxx . 
+_t4 		did you put all the money away ?
+_t4 
+_t4 		xxx . 
+_t4 		xxx are everywhere . 
+_t4 		xxx  down . 
+_t4 		alright . 
+_t4 		well it's smellin(g) a little better in here , huh ? 
+_t4 		good gir:l ! 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		alri:ght , did you clean up the money ? 
+_t4 		you wanna bring it upstairs and put it in the piggy ?
+_t4 
+_t4 		alright , let's take off the +//.
+_t4 
+_t4 		let's take off our backpack(s) +//.
+_t4 
+_t4 		oh , here's a piggy . 
+_t4 		yeah , let's bring it upstairs . 
+_t4 		(o)kay +//?
+_t4 
+_t4 		cmon [: come on] we hafta take a shower . 
+_t4 		so let's take off our +//.
+_t4 
+_t4 		let's take off our backpacks .
+_t4 
+_t4 		xxx take off our backpack ?
+_t4 
+_t4 		mhm ,   money in the piggy .
+_t4 
+_t4 		okay ?
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		hi gorgeous girl . 
+_t4 		mommy gotta get hers . 
+_t4 		you don't play with that .
+_t4 
+_t4 		that's danger +//.
+_t4 
+_t4 		you go get some books . 
+_t4 		let me get the other  +//.
+_t4 
+_t4 		I gotta get the other piece . 
+_t4 		see . 
+_t4 		I gotta put this piece on . 
+_t4 		see this one ? 
+_t4 		right ? 
+_t4 		this one's [: one is] mommy's . 
+_t4 		and this one +... 
+_t4 		we gotta plug into the camera . 
+_t4 		I always forget where it plugs in . 
+_t4 		do you remember where it plugs in ? 
+_t4 		here it is . 
+_t4 		okay . 
+_t4 		yeah . 
+_t4 		this one mine ? 
+_t4 		thank you . 
+_t4 		I be f+two and you be f+one , okay ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx things you can  . 
+_t4 		I don't +//.
+_t4 
+_t4 		I don't  we need those ones .
+_t4 
+_t4 		do you ? 
+_t4 		I don't think we need those ones . 
+_t4 		shall we go sit on the couch and read some books ? 
+_t4 		okay .
+_t4 
+_t4 		let's pick some books here . 
+_t4 		wanna do +//?
+_t4 
+_t4 		wanna pick some books ? 
+_t4 		that +//?
+_t4 
+_t4 		do you like that one ?
+_t4 
+_t4 		I see . 
+_t4 		what else you like ? 
+_t4 		you like this one ? 
+_t4 		(o)kay . 
+_t4 		xxx .
+_t4 
+_t4 		sorry . 
+_t4 		sorry . 
+_t4 		I hadda [: had to] get a shirt . 
+_t4 		(o)kay , cmon [: come on] . 
+_t4 		sorry , I hadda [: had to] get a shirt . 
+_t4 		okay , now I put mine on . 
+_t4 		xxx  okay . 
+_t4 		yep [: yes] ? 
+_t4 		gonna sit right here . 
+_t4 		okay . 
+_t4 		which one you wanna read first ?
+_t4 
+_t4 		animal books ?
+_t4 
+_t4 		(o)kay . 
+_t4 		I don't know about this thing .
+_t4 
+_t4 		huh ? 
+_t4 		it's a(n) animal I spy ? 
+_t4 		xxx . 
+_t4 		oh: . 
+_t4 		says , where do I live ? 
+_t4 		I am a red fox . 
+_t4 		I hunt for rodents and birds .
+_t4 
+_t4 		where do I live ? 
+_t4 		in the trees ? 
+_t4 		in the forest ? 
+_t4 		I am a polar+bear .
+_t4 
+_t4 		where do I live ? 
+_t4 		ice , right . 
+_t4 		I am an angel+fish .
+_t4 
+_t4 		where do I live ?
+_t4 
+_t4 		where's the +//?
+_t4 
+_t4 		where do +//?
+_t4 
+_t4 		where do fishies live ? 
+_t4 		in the water ?
+_t4 
+_t4 		in the ocean ? 
+_t4 		I'm a gorilla .
+_t4 
+_t4 		where do I live ? 
+_t4 		he lives at the trees too +//.
+_t4 
+_t4 		he eats the trees , doesn't he ? 
+_t4 		I'm a zebra .
+_t4 
+_t4 		where do I live ? 
+_t4 		in the grass . 
+_t4 		xxx  that grass ? 
+_t4 		I'm a penguin . 
+_t4 		where do I live ? 
+_t4 		the snow . 
+_t4 		which one is that ? 
+_t4 		who's this one ? 
+_t4 		you know who's this one ? 
+_t4 		who's this one ? 
+_t4 		who's this one , Violet ? 
+_t4 		yep [: yes] .
+_t4 
+_t4 		and who's this one ? 
+_t4 		right . 
+_t4 		xxx I'm a pelican . 
+_t4 		where does he live ?
+_t4 
+_t4 		mhm .
+_t4 
+_t4 		I'm a camel .
+_t4 
+_t4 		where does he live ? 
+_t4 		he lives in the desert .
+_t4 
+_t4 		see all the sand ?
+_t4 
+_t4 		he lives in the sandy desert . 
+_t4 		mhm .
+_t4 
+_t4 		what's that ?
+_t4 
+_t4 		oh yeah ?
+_t4 
+_t4 		where does the frog live ? 
+_t4 		xxx .
+_t4 
+_t4 		he lives in the pond .
+_t4 
+_t4 		right ?
+_t4 
+_t4 		does he live in the pond ? 
+_t4 		mmmm egret . 
+_t4 		it's a pretty bird . 
+_t4 		he lives in the marsh . 
+_t4 		birdies outside ? 
+_t4 		you hear (th)em ? 
+_t4 		xxx what's that ? 
+_t4 		bumble bee: !
+_t4 
+_t4 		where does he live ? 
+_t4 		he lives in the flowers , right ? 
+_t4 		what's that ? 
+_t4 		starfish .
+_t4 
+_t4 		this one .
+_t4 
+_t4 		where does he live ? 
+_t4 		the ocean ? 
+_t4 		look at all the starfish .
+_t4 
+_t4 		how many starfish are there ? 
+_t4 		one (.) two (.) three (.) four (.) five (.) six (.) seven starfish ! 
+_t4 		seven ! 
+_t4 		mmmm .
+_t4 
+_t4 		wanna read this one ? 
+_t4 		oh whe:re's the kitty+cat hiding ? 
+_t4 		peek+a+boo: !
+_t4 
+_t4 		meow: ! 
+_t4 		oh who's hiding ? 
+_t4 		woof roof [x 
+_t4 		it's a doggy ! 
+_t4 		who is hiding ? 
+_t4 		wow !
+_t4 
+_t4 		it('s) a bunny ! 
+_t4 		hmmm . 
+_t4 		who's hiding ? 
+_t4 		peek+a+boo , it's the boy ! 
+_t4 		the baby boy . 
+_t4 		huh . 
+_t4 		wanna play the game on the back ? 
+_t4 		where (.) is (.) the +..? 
+_t4 		elephant ? 
+_t4 		right . 
+_t4 		xxx , where is the +..? 
+_t4 		rabbit ? 
+_t4 		righ:t . 
+_t4 		where (.) is (.) the +..? 
+_t4 		dragon ? 
+_t4 		righ:t . 
+_t4 		where is the snowman ? 
+_t4 		where's the snowman ? 
+_t4 		righ:t . 
+_t4 		where is the: +..? 
+_t4 		kangaroo ? 
+_t4 		right . 
+_t4 		where is the +..? 
+_t4 		koala ? 
+_t4 		right . 
+_t4 		where is (.) the penguin ? 
+_t4 		right . 
+_t4 		where is the (.) flowers ? 
+_t4 		right . 
+_t4 		where is the: +..? 
+_t4 		squirrel ? 
+_t4 		where's the squirrel ? 
+_t4 		no , that's not the squirrel . 
+_t4 		where's the squirrel ? 
+_t4 		no ,  . 
+_t4 		how (a)bout over here ? 
+_t4 		this the squirrel ? 
+_t4 		is this the squirrel ? 
+_t4 		yeah ? 
+_t4 		
+_t4 		we read another book ? 
+_t4 		ya [: you] like this one ? 
+_t4 		ooh , what's in there ? 
+_t4 		big truck . 
+_t4 		dump+truck . 
+_t4 		stop . 
+_t4 		go ! 
+_t4 		stop . 
+_t4 		go . 
+_t4 		ooh , what's in there ? 
+_t4 		there's an engine is . 
+_t4 		xxx . 
+_t4 		huh ?
+_t4 
+_t4 		what's that called ? 
+_t4 		ladder .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		ladder . 
+_t4 		xxx . 
+_t4 		that's a ladder . 
+_t4 		what's in there ? 
+_t4 		hmmm ?
+_t4 
+_t4 		sunglasses ? 
+_t4 		and what's that ? 
+_t4 		pencil . 
+_t4 		gotta brush your hair , huh ? 
+_t4 		what's in there ? 
+_t4 		what's that ? 
+_t4 		there tools ?
+_t4 
+_t4 		screwdri:ver . 
+_t4 		and a wrench . 
+_t4 		just like tools like daddy has . 
+_t4 		hmmm ?
+_t4 
+_t4 		for fixing ? 
+_t4 		are those tools for fixing ? 
+_t4 		yeah . 
+_t4 		gonna try and put your hair up like two little piggy tails today . 
+_t4 		
+_t4 		want this one ?
+_t4 
+_t4 		where is baby ? 
+_t4 		here I am  . 
+_t4 		where is the baby ? 
+_t4 		xxx here I am ! 
+_t4 		where is the baby ? 
+_t4 		xxx ! 
+_t4 		look at all her babies ! 
+_t4 		how many babies does she have ? 
+_t4 		one (.) two (.) three , four , five babies ! 
+_t4 		look at this one ,  . 
+_t4 		do you remember when we saw the baby bird yesterday ? 
+_t4 		did we see a baby bird ? 
+_t4 		did you see that baby bird ? 
+_t4 		how come it wasn't in the nest ? 
+_t4 		grampa +//.
+_t4 
+_t4 		grampa picked up the baby bird (.) and put him back in his nest , huh ? 
+_t4 		yeah . 
+_t4 		(be)cause he fell out of his nest . 
+_t4 		where is the baby ? 
+_t4 		bir:d ! 
+_t4 		wanna read this one ? 
+_t4 		who's on the barrel ? 
+_t4 		piggy . 
+_t4 		who's in the house ?
+_t4 
+_t4 		doggy: !
+_t4 
+_t4 		what does he have ? 
+_t4 		he have a bone ?
+_t4 
+_t4 		xxx who's behind the yarn ?
+_t4 
+_t4 		righ:t ! 
+_t4 		kitty+cat . 
+_t4 		xxx who's behind the bear ? 
+_t4 		who's it ? 
+_t4 		that a boy ? 
+_t4 		yeah . 
+_t4 		should we look out the window and see if we see anything ?
+_t4 
+_t4 		let's look out the window and see if we see anything out this window here . 
+_t4 		wanna look out the window ? 
+_t4 		do you see anything ? 
+_t4 		xxx . 
+_t4 		let's see if we +//.
+_t4 
+_t4 		I see +//.
+_t4 
+_t4 		I hear some birdies +//.
+_t4 
+_t4 		do you hear the birdies ? 
+_t4 		listen !
+_t4 
+_t4 		do you hear birdies ? 
+_t4 		there goes a ca:r .
+_t4 
+_t4 		all the birdies are talking to each other , aren't they ? 
+_t4 		what ?
+_t4 
+_t4 		you wanna do that one again ?
+_t4 
+_t4 		this one ? 
+_t4 		where do I live ? 
+_t4 		gonna be a hot one today . 
+_t4 		I'm a red fox . 
+_t4 		where do I live ? 
+_t4 		in the tree:s !
+_t4 
+_t4 		in the forest ! 
+_t4 		you don't want that one ? 
+_t4 		which one ya [: you] want now ?
+_t4 
+_t4 		xxx Violet , which one you want ?
+_t4 
+_t4 		hmmm ? 
+_t4 		this one ? 
+_t4 		okay . 
+_t4 		where's my baby ? 
+_t4 		who's my squirmy worm ? 
+_t4 		xxx   , is it you ?
+_t4 
+_t4 		that's mommy's microphone . 
+_t4 		hmmm ? 
+_t4 		yeah mommy +//.
+_t4 
+_t4 		is for mommy . 
+_t4 		gotta leave it there . 
+_t4 		xxx . 
+_t4 		gotta leave it there . 
+_t4 		ready ?
+_t4 
+_t4 		let's see . 
+_t4 		xxx . 
+_t4 		where's the baby: ? 
+_t4 		you see his little hand ? 
+_t4 		you can peek out baby koala . 
+_t4 		hi baby koala . 
+_t4 		where's the baby: ? 
+_t4 		are they in there ? 
+_t4 		the babies are inside the eggs ? 
+_t4 		there's the babies . 
+_t4 		which babies 
+_t4 		that one ? 
+_t4 		look +//.
+_t4 
+_t4 		look at that baby .
+_t4 
+_t4 		he has a(n) egg on his head , huh ? 
+_t4 		silly . 
+_t4 		he can't see where he's goin(g) . 
+_t4 		xxx the baby . 
+_t4 		xxx ,  . 
+_t4 		wanna get some juice ? 
+_t4 		(o)kay . 
+_t4 		go get you some juice .
+_t4 
+_t4 		xxx did you say bakery ? 
+_t4 		xxx   , did you say bakery ? 
+_t4 		xxx   .
+_t4 
+_t4 		breakfast ?
+_t4 
+_t4 		let's get you some juice first .
+_t4 
+_t4 		I don't know what we have for breakfast . 
+_t4 		xxx   . 
+_t4 		(o)kay , lemme [: let me] get your cup . 
+_t4 		xxx   . 
+_t4 		xxx  . 
+_t4 		I'll toast you some little bagel . 
+_t4 		(o)kay . 
+_t4 		oh  they're yucky . 
+_t4 		can't toast you the little bagels (be)cause they're all moldy . 
+_t4 		let's see +... 
+_t4 		xxx   . 
+_t4 		okay . 
+_t4 		xxx what do you got in here ? 
+_t4 		not much . 
+_t4 		shut the door ?
+_t4 
+_t4 		wait a minute , wait a minute . 
+_t4 		do you wanna [: want a] peach ? 
+_t4 		xxx you wanna see what it looks like ?
+_t4 
+_t4 		you like a peach ? 
+_t4 		okay , wait a minute . 
+_t4 		wait I minute .
+_t4 
+_t4 		I gotta shut the  .
+_t4 
+_t4 		okay . 
+_t4 		well , I'm making you some toast . 
+_t4 		good girl .
+_t4 
+_t4 		yes , honey . 
+_t4 		no what ? 
+_t4 		want some cereal ?
+_t4 
+_t4 		do you want some cereal ?
+_t4 
+_t4 		mommy's [: mommy is] getting  cereal .
+_t4 
+_t4 		do you want some cereal ? 
+_t4 		hmmm ? 
+_t4 		do you want some cereal ? 
+_t4 		something on your  ?
+_t4 
+_t4 		here , let's put this +...
+_t4 
+_t4 		cmere [: come here] .
+_t4 
+_t4 		come and sit in here for a minute . 
+_t4 		wanna sit at the little table ?
+_t4 
+_t4 		xxx   the video camera .
+_t4 
+_t4 		you sit 
+_t4 		let's see . 
+_t4 		well let's sit at the table so we can eat our breakfast .
+_t4 
+_t4 		cmon [: come on] , I'll show you . 
+_t4 		xxx me show you ? 
+_t4 		cmere [: come here] . 
+_t4 		right here . 
+_t4 		look what I found . 
+_t4 		wanna sit ? 
+_t4 		have some of the +//?
+_t4 
+_t4 		have some cereal ? 
+_t4 		it's yummy . 
+_t4 		we'll get to look at  key+chain , too . 
+_t4 		cool , huh ? 
+_t4 		these are so good . 
+_t4 		mhm . 
+_t4 		you gotta press the button . 
+_t4 		you got 
+_t4 		see ? 
+_t4 		does he have a red mouth ? 
+_t4 		does he have a red mouth ? 
+_t4 		xxx . 
+_t4 		xxx you press this button . 
+_t4 		mmmm . 
+_t4 		I don't think it opens that way . 
+_t4 		you gotta press the button , Violet . 
+_t4 		yeah . 
+_t4 		press this button . 
+_t4 		that's a girl . 
+_t4 		yup [: yes] (.) ya [: you] did it . 
+_t4 		do it again . 
+_t4 		you did it . 
+_t4 		what color's [: color is] in there ? 
+_t4 		a red ? 
+_t4 		I'm gonna bring my cereal in here , okay ? 
+_t4 		do you want milk in your cereal or you'd like it like this ? 
+_t4 		I'll get your toast . 
+_t4 		would you like butter on your toast ? 
+_t4 		alright . 
+_t4 		here you go . 
+_t4 		now mommy's [: mommy is] gonna get her cereal . 
+_t4 		may I sit with you ? 
+_t4 		xxx get my medicine . 
+_t4 		hmmm ? 
+_t4 		you wanna get a medicine ? 
+_t4 		ya [: you] need your vitamin ? 
+_t4 		you pick one . 
+_t4 		mmmm . 
+_t4 		do you pick orange ?
+_t4 
+_t4 		I don't know if that was orange +... 
+_t4 		was it orange ?
+_t4 
+_t4 		or was it (.) red ? 
+_t4 		it was red . 
+_t4 		(o)kay , cmon [: come on] . 
+_t4 		let's have our breakfast . 
+_t4 		xxx   clean up all these little people here ? 
+_t4 		huh ? 
+_t4 		who's gonna clean up all those little people ? 
+_t4 		thank you . 
+_t4 		thank you . 
+_t4 		how do ya [: you] like that thing , huh ? 
+_t4 		mhm . 
+_t4 		mhm . 
+_t4 		here's some more . 
+_t4 		want more people on there ? 
+_t4 		what do you need ? 
+_t4 		you wanna hold the person ? 
+_t4 		xxx  people on the floor . 
+_t4 		mhm . 
+_t4 		xxx piece of hair . 
+_t4 		you look like you got a scratch last night . 
+_t4 		did you scratch your eye ?
+_t4 
+_t4 		you scratched your head ? 
+_t4 		that why you were cryin(g) last night ? 
+_t4 		daddy said you were cryin(g) . 
+_t4 		xxx  that I didn't hear you . 
+_t4 		I must've been real tired . 
+_t4 		xxx .
+_t4 
+_t4 		hmmm ? 
+_t4 		xxx . 
+_t4 		drummin(g) ? 
+_t4 		your brother's [: brother is] sleeping late today , huh ? 
+_t4 		
+_t4 		he's sleeping in his bed , huh ? 
+_t4 		he's tired .
+_t4 
+_t4 		wanna  finish your toast ? 
+_t4 		xxx  eat your toast ? 
+_t4 		mmmm , that sounds pretty . 
+_t4 		having my breakfast !
+_t4 
+_t4 		having my breakfast . 
+_t4 		having my breakfast !
+_t4 
+_t4 		xxx   . 
+_t4 		hmmm . 
+_t4 		xxx .
+_t4 
+_t4 		I hear your brother .
+_t4 
+_t4 		wanna go get him ? 
+_t4 		xxx . 
+_t4 		what ? 
+_t4 		we're downstairs . 
+_t4 		huh ? 
+_t4 		xxx . 
+_t4 		okay . 
+_t4 		xxx  . 
+_t4 		Violet . 
+_t4 		xxx .
+_t4 
+_t4 		hi !
+_t4 
+_t4 		how's it going ? 
+_t4 		oh: yeah . 
+_t4 		don't touch the fan , Violet .
+_t4 
+_t4 		you gotta leave it alone +//.
+_t4 
+_t4 		no , do(n't) don't touch . 
+_t4 		don't touch . 
+_t4 		fa:n , yeah . 
+_t4 		
+_t4 		xxx   touch it    . 
+_t4 		gotta shut these things off . 
+_t4 		let's take off your backpack . 

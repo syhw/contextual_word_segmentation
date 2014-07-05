@@ -1,0 +1,988 @@
+_t4 		should we pump up the balloon ? 
+_t4 		okay . 
+_t4 		oka:y . 
+_t4 		pu:mp . 
+_t4 		you gotta keep pumping , keep pumping . 
+_t4 		can you try ? 
+_t4 		you try it now . 
+_t4 		pump pump pump quickly it's going down ! 
+_t4 		pump . 
+_t4 		we'll do it together . 
+_t4 		pump . 
+_t4 		you know what I think there must be a hole in this one . 
+_t4 		maybe not . 
+_t4 		try again . 
+_t4 		pu:mp . 
+_t4 		pu:mp , pu:mp . 
+_t4 		there you go , looks like the sun . 
+_t4 		do you want it ? 
+_t4 		xxx keep pumping +//?
+_t4 
+_t4 		ouch . 
+_t4 		uh+oh it's deflati:ng , it's deflating , it's shrinking , it's +... 
+_t4 		uh+oh where did it go: ? 
+_t4 		right next to your bottle !
+_t4 
+_t4 		it appeared , yes it did . 
+_t4 		it's not disappeared , now it's appeared . 
+_t4 		I'm gonna turn on this fan here . 
+_t4 		now we'll be cool .
+_t4 
+_t4 		you put the balloon on the pump again ? 
+_t4 		oh then we have_to switch right ? 
+_t4 		to take this one off . 
+_t4 		stick that one on there , now can you stick the balloon on the pump ? 
+_t4 		there you go ! 
+_t4 		rea:dy ? 
+_t4 		I'll hold it down . 
+_t4 		I'll hold it down and you go up and do:wn , there you go . 
+_t4 		and up again . 
+_t4 		xxx you have_to keep going . 
+_t4 		putting more and more air inside ,  . 
+_t4 		eh ,  . 
+_t4 		it's hard work , huh ? 
+_t4 		there you go . 
+_t4 		now one more time ! 
+_t4 		xxx . 
+_t4 		one more time ! 
+_t4 		whoosh .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		keep goi(ng) +//.
+_t4 
+_t4 		oh it shrunk . 
+_t4 		you want me to do it ? 
+_t4 		you want me to do it ? 
+_t4 		a present for you . 
+_t4 		you wanna tie it , you want me to make it bigger ? 
+_t4 		should I tie it when it's bigger ? 
+_t4 		oops . 
+_t4 		big enough ? 
+_t4 		now should I tie it ? 
+_t4 		you wanna tie it onto what ? 
+_t4 		your finger +//?
+_t4 
+_t4 		heh . 
+_t4 		let's see . 
+_t4 		it might hurt ! 
+_t4 		let's tie it onto the train . 
+_t4 		or something .
+_t4 
+_t4 		let's see if we can figure out a way +//.
+_t4 
+_t4 		you can take your backpack off if you want . 
+_t4 		let's see .
+_t4 
+_t4 		can we tie it onto the back of the train ? 
+_t4 		okay , yeah , that'll be interesting . 
+_t4 		let's see if we could do that . 
+_t4 		I'm gonna try . 
+_t4 		mmmm yep [: yes] !
+_t4 
+_t4 		and I think I have_to let a little air out . 
+_t4 		okay . 
+_t4 		now I have_to make a knot .
+_t4 
+_t4 		a:nd stick it i:n . 
+_t4 		and +... 
+_t4 		there we go , now let's make the train go . 
+_t4 		what happened +//?
+_t4 
+_t4 		oh . 
+_t4 		xxx , uh+oh it's gonna knock everything over .
+_t4 
+_t4 		xxx . 
+_t4 		it won't be able to go through that bridge . 
+_t4 		(be)cause the balloon is too big . 
+_t4 		it's stuck stuck stuck ! 
+_t4 		what should we do about it ? 
+_t4 		I don't know ! 
+_t4 		let's see , we'll lift it up woo: and then let it go again . 
+_t4 		balloon train !
+_t4 
+_t4 		uh ! 
+_t4 		did that one , uh+oh it's coming to the stuck place again . 
+_t4 		xxx . 
+_t4 		what are we gonna do about it ? 
+_t4 		I don't know ! 
+_t4 		okay move that out of the way . 
+_t4 		that didn't help . 
+_t4 		the train +//.
+_t4 
+_t4 		the bridge is too narrow . 
+_t4 		and the balloon is too +..? 
+_t4 		what's the opposite of narrow ? 
+_t4 		I can't make the bridge wide ! 
+_t4 		yeah maybe we need a different kind of bridge . 
+_t4 		let's see . 
+_t4 		yeah we need a wide bridge , this is not wide is it ? 
+_t4 		that's pretty narrow too . 
+_t4 		and that one is even more narrow than that one . 
+_t4 		uh+oh: .
+_t4 
+_t4 		you wanna take that one away +//?
+_t4 
+_t4 		okay . 
+_t4 		and let's turn this off for a little bit . 
+_t4 		while you switch the tracks +//.
+_t4 
+_t4 		it's right behind you honey .
+_t4 
+_t4 		that's right .
+_t4 
+_t4 		there you go . 
+_t4 		xxx . 
+_t4 		you can make the Little Engine That Could go through that bridge . 
+_t4 		whoops . 
+_t4 		not backwards it won't . 
+_t4 		perfect ! 
+_t4 		perfect for a plane ? 
+_t4 		to go through , yeah . 
+_t4 		let's lift up the green thing ,  . 
+_t4 		it's gotta stop ! 
+_t4 		now pull the green thing down . 
+_t4 		pull the lever . 
+_t4 		will you push the lever ? 
+_t4 		that's right ,  , thank you . 
+_t4 		now the Little Engine can go . 
+_t4 		oop , we need the tunnel huh ? 
+_t4 		right through the trestle+bridge . 
+_t4 		earth to Ethan , earth to Etha:n , are you there ? 
+_t4 		are you thinking ?
+_t4 
+_t4 		oop , let's keep that up there . 
+_t4 		want some more +..?
+_t4 
+_t4 		should we make +//.
+_t4 
+_t4 		you wanna make Hokey and Pokey ? 
+_t4 		you wanna make Hokey and Pokey ? 
+_t4 		no ? 
+_t4 		
+_t4 		here . 
+_t4 		what color do you wanna make Pokey ? 
+_t4 		what +//?
+_t4 
+_t4 		or Pokey . 
+_t4 		which one , which color ? 
+_t4 		xxx . 
+_t4 		you're gonna make a big stack ? 
+_t4 		xxx .
+_t4 
+_t4 		the truck's gonna knock it down , okay there you go .
+_t4 
+_t4 		o:h !
+_t4 
+_t4 		xxx , you knocked down my Play  stack . 
+_t4 		xxx . 
+_t4 		that's a fancy black car . 
+_t4 		I like that car . 
+_t4 		and you like that truck +//.
+_t4 
+_t4 		what about this ? 
+_t4 		xxx , too short ,  . 
+_t4 		it's not a tall enough hill . 
+_t4 		yoo: ! 
+_t4 		oh those are the sunglasses you made for the truck . 
+_t4 		everything looks fuzzy and funny when you took the glasses off , that's what happens . 
+_t4 		he has a box , I wonder what's in the box . 
+_t4 		what do you think ?
+_t4 
+_t4 		maybe something , I bet you're right , it's something , wee: . 
+_t4 		xxx . 
+_t4 		hey , so are we gonna build Hokey ? 
+_t4 		or Pokey ?
+_t4 
+_t4 		we can't get the bench out of the way sweetie (be)cause it's stuck there . 
+_t4 		what house ? 
+_t4 		in the shed ,  the shed we made .
+_t4 
+_t4 		can you squeeze the Play  all up between the walls of the house ? 
+_t4 		o:h ! 
+_t4 		xxx , is it getting squashed ? 
+_t4 		xxx . 
+_t4 		is that your squashing machine ? 
+_t4 		your special super+duper squashing machine ? 
+_t4 		let's do it on the mat okay ? 
+_t4 		not on the rug . 
+_t4 		on the mat . 
+_t4 		whoops . 
+_t4 		xxx . 
+_t4 		this looks like a big tongue , doesn't it ? 
+_t4 		xxx , huh . 
+_t4 		xxx . 
+_t4 		but it's really (.) a wing for a plane . 
+_t4 		don't flap a  ,  , what was it +//? 
+_t4 		wobble a wing !
+_t4 
+_t4 		xxx , could be the flap too . 
+_t4 		yeah . 
+_t4 		xxx .
+_t4 
+_t4 		why don't we make an airplane this time ? 
+_t4 		we're always making trains , let's make the airplane . 
+_t4 		I think the wings go in the side of the plane . 
+_t4 		woo: .
+_t4 
+_t4 		it needs something to land , does it need its wheels ?
+_t4 
+_t4 		which ones are the plane wheels +//?
+_t4 
+_t4 		oh here they are .
+_t4 
+_t4 		right ? 
+_t4 		xxx it's flyi:ng ! 
+_t4 		xxx , it landed just (.) on its body with no wheels . 
+_t4 		mmmm+hmmm . 
+_t4 		there you go , it's a funny shape plane . 
+_t4 		usually the wheels go on the si(de) +//.
+_t4 
+_t4 		the wings go on this side right ? 
+_t4 		and then you could put the face in . 
+_t4 		xxx . 
+_t4 		a face up top ? 
+_t4 		and what about the tail ? 
+_t4 		you want this tail or (.) that tail ? 
+_t4 		(o)kay . 
+_t4 		there you go .
+_t4 
+_t4 		and it needs its wheels . 
+_t4 		it already has a hole doesn't it ? 
+_t4 		there you go !
+_t4 
+_t4 		Buzz One to ranger station , Buzz One . 
+_t4 		coming down for a landing ,  ! 
+_t4 		it is a sea+plane . 
+_t4 		except it has wheels instead of +... 
+_t4 		pontoons !
+_t4 
+_t4 		okay , I'll put the  pontoons in +//.
+_t4 
+_t4 		there's one . 
+_t4 		and two . 
+_t4 		want me to hold it up for you ?
+_t4 
+_t4 		let's fill up this hole first .
+_t4 
+_t4 		mmmm+hmmm . 
+_t4 		other way , yep [: yes] . 
+_t4 		xxx , spread (th)em out .
+_t4 
+_t4 		now it really is a sea+plane . 
+_t4 		di(d) +//.
+_t4 
+_t4 		and we made a lake on the cardboard . 
+_t4 		(re)member we made a lake ? 
+_t4 		it can land ,  it's skating . 
+_t4 		the +//.
+_t4 
+_t4 		whoops . 
+_t4 		there's the lake .
+_t4 
+_t4 		whoops .
+_t4 
+_t4 		he needs to be repaired a little huh ? 
+_t4 		let's fix his body . 
+_t4 		are you gonna put his ice+skates on ? 
+_t4 		I'd like to see an airplane ice+skating , that would be interesting . 
+_t4 		then we would need what kinda [: kind of] truck to clean the ice ? 
+_t4 		what kinda [: kind of] truck cleans the ice ? 
+_t4 		a  +... 
+_t4 		
+_t4 		Zamboni , that's right ,  ! 
+_t4 		okay , you want to put the   pontoons in ? 
+_t4 		xxx . 
+_t4 		the fan was making a funny noise huh ? 
+_t4 		okay . 
+_t4 		it's ice+skating , gli:de , gli:de , gli:(de) +//.
+_t4 
+_t4 		woo doing fancy tricks on i(ce) +//. 
+_t4 		skates ,  . 
+_t4 		you have the wheels between your toes . 
+_t4 		mmmm you're a little monkey , you can pick up things with your toes . 
+_t4 		so can I . 
+_t4 		xxx .
+_t4 
+_t4 		okay . 
+_t4 		xxx , there we go . 
+_t4 		now what face ? 
+_t4 		you wanna put the Dooby face in ? 
+_t4 		yeah that face is really for a plane . 
+_t4 		hoo . 
+_t4 		where is it +//?
+_t4 
+_t4 		ah here it is . 
+_t4 		okay . 
+_t4 		pig nose here . 
+_t4 		another piece . 
+_t4 		now you wanna cover up his eyes ? 
+_t4 		xxx it'll look green ? 
+_t4 		a pinch here . 
+_t4 		a pinch there . 
+_t4 		xxx . 
+_t4 		gobble up some grub here . 
+_t4 		mmmm+hmmm . 
+_t4 		mmmm+hmmm . 
+_t4 		that's a snack+truck , yep [: yes] , in the book . 
+_t4 		have your snack . 
+_t4 		now he looks really funny ,  .
+_t4 
+_t4 		green eyes and a pink nose . 
+_t4 		xxx his eyeballs are covered up by the green huh ? 
+_t4 		mmmm yep [: yes] . 
+_t4 		does he need any wings or anything ? 
+_t4 		and pontoons , well there's one pontoon . 
+_t4 		xxx . 
+_t4 		xxx    . 
+_t4 		that goes on the bottom right ? 
+_t4 		that's where the pontoons go . 
+_t4 		yeah a little pink got in there huh ? 
+_t4 		must have been from his nose . 
+_t4 		good boy .
+_t4 
+_t4 		xxx huh ?
+_t4 
+_t4 		wheels .
+_t4 
+_t4 		what if there were no wheels Ethan , how would people go ? 
+_t4 		whee:l ,  . 
+_t4 		I'm thirsty little guy . 
+_t4 		I need to get something to drink .
+_t4 
+_t4 		ups ! 
+_t4 		xxx . 
+_t4 		yep [: yes] . 
+_t4 		xxx . 
+_t4 		do you wanna open one ? 
+_t4 		or two ? 
+_t4 		that's +...
+_t4 
+_t4 		yep [: yes] ,  . 
+_t4 		do you wanna race them ? 
+_t4 		mmmm+hmmm , this is the car container . 
+_t4 		yep [: yes] , you're right , two car containers (.) for two cars . 
+_t4 		hmmm . 
+_t4 		I'm not sure that will come off . 
+_t4 		xxx try ? 
+_t4 		xxx .
+_t4 
+_t4 		yep [: yes] ! 
+_t4 		yep [: yes] ,  . 
+_t4 		oh your microphone fell . 
+_t4 		snap crackle . 
+_t4 		whoops . 
+_t4 		maybe you could stick the two containers together to make one big container for one car . 
+_t4 		stick the car in here . 
+_t4 		we could tape them together . 
+_t4 		you want some tape ? 
+_t4 		where's the tape +//?
+_t4 
+_t4 		here it is . 
+_t4 		something's happening with the air+conditioner . 
+_t4 		the car is broken ? 
+_t4 		mmmm ,  . 
+_t4 		it's also the shape of the box +//.
+_t4 
+_t4 		do you want to hook the two +..?
+_t4 
+_t4 		oh you mean like the engine in the park was broken (be)cause it was sticking up in the air . 
+_t4 		so they could see the engine .
+_t4 
+_t4 		who could help out ?
+_t4 
+_t4 		he pulled and pulled , he's trying to fix him ? 
+_t4 		he did it . 
+_t4 		he got him out of that tough situation , huh ? 
+_t4 		that was a tough situation when he went into the mine . 
+_t4 		here , do you need a piece of tape ? 
+_t4 		hmmm  ? 
+_t4 		you're gonna hook the two boxes together ?
+_t4 
+_t4 		there you go . 
+_t4 		whoops , do you have the tape upside down Ev ? 
+_t4 		it's sticking to your fingers , you have_to flip it over . 
+_t4 		like that . 
+_t4 		xxx . 
+_t4 		let's see . 
+_t4 		xxx , now they're stuck together . 
+_t4 		mmmm+hmmm . 
+_t4 		now they're front to front .
+_t4 
+_t4 		kind of front to front right ? 
+_t4 		what truck can help out ? 
+_t4 		can a fire+truck help in this situation ? 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		what about the other one +//?
+_t4 
+_t4 		he's still stuck . 
+_t4 		do you know what number he is +//?
+_t4 
+_t4 		he has a number on him . 
+_t4 		do you see what number he is ? 
+_t4 		yeah he it is plain , this one has the number seven . 
+_t4 		I think it is plain , you're right . 
+_t4 		(ex)cept it has a gold stripe on it . 
+_t4 		shoop ! 
+_t4 		you wanna unstick them together ? 
+_t4 		no ? 
+_t4 		naw he can't fit . 
+_t4 		the cars can , yep [: yes] . 
+_t4 		xxx  dreaming about it ? 
+_t4 		oh what is the car dreaming about ? 
+_t4 		I think cars dream about roads (.) where they can go fast and far . 
+_t4 		xxx , sometimes they're in trouble yeah . 
+_t4 		maybe this ti:me an airplane can help out ! 
+_t4 		xxx   . 
+_t4 		xxx  . 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		well we could close the door +//.
+_t4 
+_t4 		you want me to show you like this ? 
+_t4 		put them together , okay . 
+_t4 		put the car inside . 
+_t4 		xxx , then it's got a little shed inside , then we can tape it . 
+_t4 		xxx . 
+_t4 		now the door's really closed , it's stuck inside . 
+_t4 		xxx . 
+_t4 		who could help out that situation ? 
+_t4 		where is the other car +//?
+_t4 
+_t4 		yeah . 
+_t4 		it's invisible: ! 
+_t4 		he's disappeared somewhere ! 
+_t4 		there , it appeared . 
+_t4 		xxx can't budge it ,  . 
+_t4 		xxx .
+_t4 
+_t4 		that's right , that's what you hafta do . 
+_t4 		
+_t4 		or do you want the truck+bot to help out ? 
+_t4 		he had the good hand , I think he could do it , watch this . 
+_t4 		xxx    ,     . 
+_t4 		xxx .
+_t4 
+_t4 		the truck+bot did it .
+_t4 
+_t4 		good job !
+_t4 
+_t4 		he made the word stop ? 
+_t4 		xxx , he was very useful , he's saying hip+hip+hoora:y ! 
+_t4 		hip+hip+hoora:y ! 
+_t4 		ooh !
+_t4 
+_t4 		there he has a good view from up there . 
+_t4 		xxx , yeah he's watching the Little Engine That Could . 
+_t4 		whoops !
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		my head grew ? 
+_t4 		it did ? 
+_t4 		is it still growing and growing and growing ? 
+_t4 		it's a grownup head , it is a grownup head . 
+_t4 		it's bigger than your head . 
+_t4 		xxx , you are so sweet .
+_t4 		xxx .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		do you wanna look at my head +//?
+_t4 
+_t4 		xxx . 
+_t4 		my big head ? 
+_t4 		my growing growing growing head ? 
+_t4 		now it looks tiny , it looks tiny all the way over there . 
+_t4 		xxx .
+_t4 
+_t4 		look at my head +//?
+_t4 
+_t4 		xxx . 
+_t4 		look at this . 
+_t4 		whoops ! 
+_t4 		uh+oh: . 
+_t4 		uh+oh I'm crooked . 
+_t4 		wanna wave +//?
+_t4 
+_t4 		hi: , hi: , hi over the:re . 
+_t4 		oh . 
+_t4 		I'm not crooked anymore , thank you . 
+_t4 		hoo ! 
+_t4 		I popped back . 
+_t4 		xxx . 
+_t4 		oh thank goodness . 
+_t4 		now I'm straight . 
+_t4 		oh no , what happened this time ?
+_t4 
+_t4 		it's the kisser , it's the kisse:r ! 
+_t4 		don't kiss me please ! 
+_t4 		xxx please don't kiss me: . 
+_t4 		oh no: ! 
+_t4 		o:h , you'll leave me crying like this ?
+_t4 
+_t4 		will you make me feel better plea:se ?
+_t4 
+_t4 		please please please +//?
+_t4 
+_t4 		oh o:h , I'm so glad , come give me a hug , give me a hug . 
+_t4 		oh thank you , I feel so much  be +//.
+_t4 
+_t4 		xxx  my gosh it's the kisser , he's still here ! 
+_t4 		xxx . 
+_t4 		my head looks very small ?
+_t4 
+_t4 		so does yours , I can hardly see you way down there . 
+_t4 		xxx . 
+_t4 		xxx  ! 
+_t4 		yeah .
+_t4 
+_t4 		you're getting closer and closer and your head is getting big(ger) +//.
+_t4 
+_t4 		bigger and uh+oh not anymore , you're going backwards , careful don't bump into the bi:n ! 
+_t4 		the bin is behind you . 
+_t4 		you wanna pump up ? 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		we need something to pump up don't we ? 
+_t4 		hmmm .
+_t4 
+_t4 		xxx    .
+_t4 
+_t4 		hmmm chase after the noonoo ? 
+_t4 		
+_t4 		xxx . 
+_t4 		xxx , I wonder  +... 
+_t4 		you wanna blow up a balloon ? 
+_t4 		a different one ? 
+_t4 		this one's still attached to the train isn't it ?
+_t4 
+_t4 		okay . 
+_t4 		all clea:r , train coming through with a balloon on the back . 
+_t4 		all clear ! 
+_t4 		uh+oh . 
+_t4 		uh+o:h . 
+_t4 		uh+o:h . 
+_t4 		yep [: yes] it's stuck there . 
+_t4 		xxx .
+_t4 
+_t4 		let the tr(ain) +//.
+_t4 
+_t4 		oh ! 
+_t4 		that's funny . 
+_t4 		it suddenly moved but there's nothing it can do now . 
+_t4 		the Little Engine is going to come and to try to rescue it by pushing it back out of the tunnel . 
+_t4 		let's see what happens . 
+_t4 		push Little Engine push ! 
+_t4 		push Little Engine push ,  it is ! 
+_t4 		it's getting it out of the tough situation . 
+_t4 		push Little Engine push ! 
+_t4 		uh ! 
+_t4 		there we go ! 
+_t4 		the Little Engine saved the day ! 
+_t4 		huh ? 
+_t4 		yep [: yes] it's a plane engine with no face but it has an engine+ear . 
+_t4 		see the engine+ear ? 
+_t4 		you're blowing on me .
+_t4 
+_t4 		keep doing it . 
+_t4 		I'm pumping you up , right ,  .
+_t4 
+_t4 		you made me big , here . 
+_t4 		whoops , shrunk . 
+_t4 		xxx .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		oo:h , wow I blew up a little bit didn't I ? 
+_t4 		what about you ?
+_t4 
+_t4 		can I blow you up ? 
+_t4 		xxx . 
+_t4 		okay ready ? 
+_t4 		you're much bigger now ! 
+_t4 		you're almost as big as I am ! 
+_t4 		you 
+_t4 		xxx somewhere else . 
+_t4 		huh       a:h . 
+_t4 		xxx  that ,    . 
+_t4 		you could look at yourself . 
+_t4 		why don't you look at yourself . 
+_t4 		whoops , ups . 
+_t4 		can you see ?
+_t4 
+_t4 		there you are ! 
+_t4 		oop , you disappeared . 
+_t4 		no , let's not do that sweetie . 
+_t4 		yeah . 
+_t4 		better to move , but I can see you . 
+_t4 		in the box +//?
+_t4 
+_t4 		when Amanda comes back . 
+_t4 		wanna read a story ? 
+_t4 		the couch is looks funny doesn't it . 
+_t4 		I know let's read your favorite . 
+_t4 		xxx  wanna read Honey Bunny ? 
+_t4 		Funny Bunny ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		I'm gonna turn that off (be)cause it's not doing any good . 
+_t4 		xxx . 
+_t4 		(o)kay . 
+_t4 		Honey Bunny Funny Bunny had a big brother . 
+_t4 		his name was +... 
+_t4 		p+j Funny Bunny . 
+_t4 		xxx .
+_t4 
+_t4 		yep [: yes] it's easier to do . 
+_t4 		p+j Funny Bunny (.) and Honey Bunny Funny Bunny . 
+_t4 		p+j Funny Bunny loved Honey Bunny Funny Bunny very much . 
+_t4 		but he liked to tease her . 
+_t4 		uh+oh ! 
+_t4 		no covers . 
+_t4 		sometimes he poured orange juice on her +... 
+_t4 		corn+flakes . 
+_t4 		he liked to tie knots in the sleeves of her pretty dresses . 
+_t4 		he bored poured blue paint in her yellow paint jar and yellow paint in her (.) blue paint jar . 
+_t4 		do you know what those colors make together , if you mix yellow and blue together ? 
+_t4 		what color does it make ? 
+_t4 		that's right , very good .
+_t4 
+_t4 		he even switched the heads on her dolls . 
+_t4 		what's that ? 
+_t4 		allibunny ! 
+_t4 		what's that ?
+_t4 
+_t4 		that's what we call that one . 
+_t4 		duck+dog !
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		and what one's that ? 
+_t4 		it's a bear and a hen together , what would you call that ? 
+_t4 		a bear+hen ? 
+_t4 		that's a hard one , I don't know . 
+_t4 		but every night at the dinner table p+j smashed mashed carrots on poor Honey Bunny's head . 
+_t4 		look at Honey Bunny +//.
+_t4 
+_t4 		after that he put her favorite fuzzy bunny blanket in the freezer +//.
+_t4 
+_t4 		what happens when you put something in the freezer ? 
+_t4 		yeah it gets cold and hard too . 
+_t4 		at bedtime he hid under her bed and yelled +... 
+_t4 		boo ! 
+_t4 		at least p+j can't bother me while I'm sleeping , said Honey Bunny Funny Bunny . 
+_t4 		the:n o:ne night +... 
+_t4 		when Honey Bunny was fast aslee:p (.) p+j painted her face bright green . 
+_t4 		Mom , cried Honey Bunny in the morning , look what p+j did . 
+_t4 		Mr Funny Bunny was very angry . 
+_t4 		he sent p+j to his room . 
+_t4 		you were a very bad bunny , Mrs Funny Bunny said . 
+_t4 		after that things were very different at the Funny Bunny house . 
+_t4 		Honey Bunny had her corn+flakes with +... 
+_t4 		what ? 
+_t4 		yeah , milk . 
+_t4 		her pretty dresses stayed nice and pretty . 
+_t4 		with her blue and yellow paint she painted big yellow suns in blue skies . 
+_t4 		Honey Bunny's dolls kept their own heads . 
+_t4 		they're not switched anymore are they ? 
+_t4 		bear bunny duck alligator and hen . 
+_t4 		p+j Funny Bunny had stopped teasing Honey Bunny Funny Bunny . 
+_t4 		who's that ? 
+_t4 		yeah , Grandpa Funny Bunny . 
+_t4 		at first Honey Bunny was very happy . 
+_t4 		but after a while she began to feel something was missing . 
+_t4 		where's p+j , she asked her mother one day . 
+_t4 		he's gone out to play with his friends , said Mrs Funny Bunny . 
+_t4 		Honey Bunny sat down by the window . 
+_t4 		she did not want to paint . 
+_t4 		she did not want to play dolls . 
+_t4 		she did not even want to play with her friends . 
+_t4 		she sat and sat and waited for p+j to come home . 
+_t4 		finally p+j came up the walk . 
+_t4 		hi p+j , said Honey Bunny . 
+_t4 		but p+j went right past Honey Bunny . 
+_t4 		what's on the wall ? 
+_t4 		hmmm ? 
+_t4 		a carrot , yeah a picture of a carrot . 
+_t4 		yep [: yes] they live in their house just like you live in your house . 
+_t4 		they do live in a house that's made out of a tree yeah . 
+_t4 		that's right ,  exactly . 
+_t4 		xxx . 
+_t4 		let's leave it on okay ? 
+_t4 		that night at dinner p+j sat and ate his mashed carrots . 
+_t4 		Honey Bunny just stared at hers . 
+_t4 		when it was time for bed Honey Bunny's fuzzy bunny blanket was soft and warm . 
+_t4 		but Honey Bunny did not care . 
+_t4 		yeah her ears are big too . 
+_t4 		well they're bunnies , bunnies have big ears . 
+_t4 		Honey Bunny looked under her bed . 
+_t4 		no p+j . 
+_t4 		no boo . 
+_t4 		the next morning p+j did not pull the covers off Honey Bunny's bed . 
+_t4 		Honey Bunny was as sa:d as sa:d can be . 
+_t4 		I don't know , he's hiding . 
+_t4 		Mo:m , she cried , p+j doesn't love me anymo:re . 
+_t4 		Mrs Funny Bunny looked at Honey Bunny then she smiled +//.
+_t4 
+_t4 		what should she say ? 
+_t4 		oh yes he does , she said . 
+_t4 		come with me . 
+_t4 		Mrs Funny Bunny took Honey Bunny to the bathroom . 
+_t4 		she lifted her up in front of the mirror . 
+_t4 		Honey Bunny could not believe her eyes ! 
+_t4 		her face was painted blue with +... 
+_t4 		yellow polka+dots . 
+_t4 		p+j loves me , she cried . 
+_t4 		Honey Bunny Funny Bunny was very happy . 
+_t4 		p+j Funny Bunny you are the best brother a bunny could ever have , said Honey Bunny Funny Bunny . 
+_t4 		and she gave him a great big fuzzy bunny hug . 
+_t4 		what's that what ? 
+_t4 		what room is it ? 
+_t4 		hmmm . 
+_t4 		I think she went into p+j's room . 
+_t4 		that's p+j's bedroom . 
+_t4 		and she's giving him a hug . 
+_t4 		and p+j's ears are sticking up in the air . 
+_t4 		xxx . 
+_t4 		
+_t4 		xxx .
+_t4 
+_t4 		yeah the sun came back , it was raining +//.
+_t4 
+_t4 		yeah , remember when we were outside before it was raining and now it's sunny . 
+_t4 		I turned the air+conditioner on . 
+_t4 		it's hot , yeah . 
+_t4 		
+_t4 		are you a sleepy guy ? 
+_t4 		sweetie ? 
+_t4 		you wanna make the sky dark ? 
+_t4 		you want 
+_t4 		xxx pull down the shades ? 
+_t4 		in your bedroom +//?
+_t4 
+_t4 		that's the only way we can make the sky dark . 
+_t4 		sorry .
+_t4 
+_t4 		xxx the moon will come out , the moon will come out tonight . 
+_t4 		that's how +//.
+_t4 
+_t4 		that's when the sky will get dark . 
+_t4 		at night . 
+_t4 		leave it [x 
+_t4 		xxx .
+_t4 
+_t4 		I have one already . 
+_t4 		see ? 
+_t4 		it does snap , yep [: yes] . 
+_t4 		but it's supposed to stay .
+_t4 
+_t4 		microphone stay ! 
+_t4 		stay microphone . 
+_t4 		xxx . 
+_t4 		you pulled it o:ff . 
+_t4 		mmmm+hmmm . 
+_t4 		you tugged it off , yeah . 
+_t4 		now I don't have a microphone anymore +//.
+_t4 
+_t4 		what am I gonna do ?
+_t4 
+_t4 		you wanna  snap it in for me ? 
+_t4 		the propeller in ? 
+_t4 		mmmm+hmmm . 
+_t4 		the alligator+clip . 
+_t4 		here you go +//.
+_t4 
+_t4 		now can you snap the ball into the clip ? 
+_t4 		that's what it's called . 
+_t4 		xxx .
+_t4 
+_t4 		mmmm you clip the ball right here . 
+_t4 		want me to show you ?
+_t4 
+_t4 		mmmm+hmmm . 
+_t4 		xxx it's hungry , it's eating the ball . 
+_t4 		hmmm . 
+_t4 		mmmm+hmmm . 
+_t4 		xxx it's hungry , it's gonna eat up the ball .
+_t4 
+_t4 		mmmm it's thirsty ? 
+_t4 		mmmm what is it going to drink ? 
+_t4 		milk ,  . 
+_t4 		alligators drink milk huh ? 
+_t4 		thirsty alligators drink milk . 
+_t4 		mmmm+hmmm . 
+_t4 		balls do bounce , yeah . 
+_t4 		yep [: yes] . 
+_t4 		that ball is supposed to clip to there . 
+_t4 		xxx . 
+_t4 		mmmm+hmmm . 
+_t4 		that's right . 
+_t4 		want me to (.) open the mouth ?
+_t4 
+_t4 		xxx   ,  .
+_t4 
+_t4 		xxx   .
+_t4 
+_t4 		xxx  , it's sharp in there , that's why it's called an alligator+clip . 
+_t4 		xxx . 
+_t4 		it's hard to do . 
+_t4 		mmmm +...
+_t4 
+_t4 		you have_to squeeze really hard +...
+_t4 
+_t4 		between your two fingers +... 
+_t4 		hmmm . 
+_t4 		let's see how you could do it +//.
+_t4 
+_t4 		how I could help you .
+_t4 
+_t4 		xxx see , put one finger here and one finger here and +... 
+_t4 		squee:ze ,  . 
+_t4 		I don't know if your little fingers can do it pumpkin . 
+_t4 		I'm not sure your little fingers can . 
+_t4 		squeeze . 
+_t4 		ooh careful ,  , did it pinch you ? 
+_t4 		xxx ,  . 
+_t4 		xxx ,  . 
+_t4 		delicious finger . 
+_t4 		xxx . 
+_t4 		ouch +//.
+_t4 
+_t4 		xxx . 
+_t4 		mmmm  , and a few nibbles too . 
+_t4 		mmmm  . 
+_t4 		better ? 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		don't do i:t ! 
+_t4 		nibble nibble ni(bble) +//.
+_t4 
+_t4 		oops . 
+_t4 		nibble nibble nibble . 
+_t4 		one more time . 
+_t4 		xxx       ,  . 
+_t4 		xxx . 
+_t4 		do you need a kiss +//?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		now you're all tangled up . 
+_t4 		xxx can't tell whose is whose is whose is whose . 
+_t4 		Sue sues , Sue sews whose shoes ? 
+_t4 		xxx . 
+_t4 		I don't like that book . 
+_t4 		xxx . 
+_t4 		who sews Sue's shoes ? 
+_t4 		Sue sews shoe sues . 
+_t4 		who shows , Sue shows who sues you show shoe show shoe sues . 
+_t4 		I can't say it ! 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		my tongue is not made of rubber ,  . 
+_t4 		it can't go  , who sews shoe shows shoes so  ,  . 
+_t4 		my tongue isn't rubber , it's only a tongue . 
+_t4 		but it can twist around . 
+_t4 		and yours can too but Daddy cannot . 
+_t4 		Daddy ? 
+_t4 		doot   ,     ,          .
+_t4 
+_t4 		doot   .
+_t4 
+_t4 		doot   .
+_t4 
+_t4 		da  ? 
+_t4 		da  ? 
+_t4 		xxx ,   ? 
+_t4 		can you see yourself ? 
+_t4 		in the camera all the way from over there +//?
+_t4 
+_t4 		you look little . 
+_t4 		xxx . 
+_t4 		you look bi:g .
+_t4 
+_t4 		yeah you look small . 
+_t4 		that's all . 
+_t4 		xxx ,  .
+_t4 
+_t4 		you really are pushing me hard too , oh: . 
+_t4 		Sue sews who sues .
+_t4 
+_t4 		who sews Sue sues , Sue sews Sue's shoes . 
+_t4 		who slows +//?
+_t4 
+_t4 		who sews Slow Joe Crow's shoes ? 
+_t4 		so Joe , Slow Joe Crow sews Sue's shoes , that's who . 
+_t4 		some(th)ing like that . 
+_t4 		xxx . 
+_t4 		do you remember what the name of that book is ? 
+_t4 		Slow Joe Crow . 
+_t4 		what's the name of the book ? 
+_t4 		fox +... 
+_t4 		in socks ! 
+_t4 		xxx .
+_t4 
+_t4 		that's right . 
+_t4 		Knox . 
+_t4 		Knox in socks ! 
+_t4 		Knox in box ! 
+_t4 		fox in socks on Knox in box ! 
+_t4 		it is really hard to say . 
+_t4 		it's a tongue+twister . 
+_t4 		xxx .
+_t4 
+_t4 		Pe:ter Piper picked a pecka [: peck of] pickled peppers . 
+_t4 		if Peter Piper picked a pecka [: peck of] pickled peppers , how many pickled peppers did Peter Piper pick ? 
+_t4 		go ahead , you try . 
+_t4 		xxx .
+_t4 
+_t4 		xxx ,  .
+_t4 
+_t4 		Peter Piper picked a pecka [: peck of] picked peppers . 
+_t4 		if Peter  pi(cked) +//.
+_t4 
+_t4 		xxx . 
+_t4 		if Peter Piper picked a pecka [: peck of] pickled peppers , how many pick pickled peppers did Peter Piper pick ? 
+_t4 		mmmm .
+_t4 
+_t4 		Honey Bunny Funny Bunny Honey Bunny Funny Bunny (.) tried fried +//.
+_t4 
+_t4 		rice ! 
+_t4 		xxx .
+_t4 
+_t4 		do you want some fried rice +//?
+_t4 
+_t4 		we do have some fried rice if you would really really really +/.
+_t4 
+_t4 		really (.) really really really really +/.
+_t4 
+_t4 		really re(ally) +//.
+_t4 
+_t4 		hey .
+_t4 
+_t4 		you broke it . 
+_t4 		xxx ,  ! 
+_t4 		okay .
+_t4 
+_t4 		xxx , Slow Joe Crow . 
+_t4 		peppers . 
+_t4 		pickled peppers . 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		pickled peppers ! 
+_t4 		pickled peppers ! 
+_t4 		pickled peppers ! 
+_t4 		pickled peppers , pickled  ! 
+_t4 		you want some peppers or do you want some fried rice ? 
+_t4 		oh we're falling apart here Eth(an) huh ?
+_t4 

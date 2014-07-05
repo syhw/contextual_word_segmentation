@@ -1,0 +1,565 @@
+_d1 		where do you want me to go ? 
+_d1 		anywhere you'll feel comfortable  (.) anywhere .
+_d1 
+_d1 		please don't do that . 
+_d1 		this is +//. 
+_d1 		go into the kitchen and check in about +//.
+_d1 
+_d1 		okay that's fine .
+_d1 
+_d1 		um (.) Alex how do you do this so so fast ? 
+_d1 		oh does he take it +//? 
+_d1 		yeah he takes it (.) he takes it apart .
+_d1 
+_d1 		there you go .
+_d1 
+_d1 		did you say hi +//? 
+_d1 		hello .
+_d1 
+_d1 		can you say hi ?
+_d1 
+_d1 		say I'm usually a little bit +... 
+_d1 		nicer but I'm a bit fresh today . 
+_d1 		where'd [: where did] I put your bubbles ? 
+_d1 		oh . 
+_d1 		no we'll watch television later . 
+_d1 		look (.) look . 
+_d1 		one (.) two (.) Alex look . 
+_d1 		now I'm not beginning to even suggest +//. 
+_d1 		saying +...
+_d1 
+_d1 		g'head [: go ahead] . 
+_d1 		one two three . 
+_d1 		push . 
+_d1 		push . 
+_d2 		need a little help ? 
+_d2 		xxx . 
+_d2 		y'all [: you all] done ? 
+_d2 		xxx . 
+_d2 		c'mon [: come on] . 
+_d2 		oh boy . 
+_d2 		oh don't eat that (.) that's not good . 
+_d2 		that's not very tasty . 
+_d2 		dip dip . 
+_d2 		dip . 
+_d2 		one two (.) three . 
+_d2 		I think you're out . 
+_d2 		any left ? 
+_d2 		who's that ? 
+_d2 		ernie .
+_d2 
+_d2 		who's that ?
+_d2 
+_d2 		grover .
+_d2 
+_d3 		prairie dawn . 
+_d3 		who's that ? 
+_d3 		big bird . 
+_d3 		hat . 
+_d3 		yeah .
+_d3 
+_d3 		tea +//. 
+_d3 		where is it ? 
+_d3 		it's cold outside . 
+_d3 		it's cold outside . 
+_d3 		button up it's cold outside . 
+_d3 		who's that ? 
+_d3 		button up it's cold outside . 
+_d3 		froggy . 
+_d3 		&aw you gave him a kiss . 
+_d3 		that was so sweet . 
+_d3 		are you tired ? 
+_d3 		huh ? 
+_d3 		wanna read it ? 
+_d3 		ernie follows his nose .
+_d3 
+_d4 		smell the bread while it bakes and the blueberry pie (.) smell the freshly washed clothes as they're hung out to dry . 
+_d4 		smell the earth and the trees after warm summer showers (.) breath in the sweet smell from a field full of flowers . 
+_d4 		oh a tweedle bug . 
+_d4 		hold your nose as you pass oscar's pile of junk . 
+_d4 		what's that ? 
+_d4 		tweedle bug +//. 
+_d4 		ernie .
+_d4 
+_d4 		where's the other book ? 
+_d4 		wanna do this one ? 
+_d4 		everyone loves something (.) babies love noise (.) birds love singing +... 
+_d4 		kids loves toys (.) burt loves pigeons and pigeons love to coo can you guess who Elmo loves ? 
+_d4 		Elmo loves you . 
+_d4 		penguins love the snow . 
+_d4 		farmers love to wake up early roosters love to crow . 
+_d4 		grover loves it too . 
+_d4 		Elmo whispers quietly Elmo loves you . 
+_d4 		the count loves counting things ernie loves to drum . 
+_d4 		monsters love to exercise +... 
+_d4 		kids love bubble gum . 
+_d4 		pop pop pop pop . 
+_d4 		Natasha and her daddy love playing peek+a+boo . 
+_d4 		monkeys love bananas kids love school . 
+_d4 		everyone loves something Elmo told you this was true (.) and now you know who Elmo loves (.) Elmo loves you . 
+_d4 		tweedle+bug tweedle+bug . 
+_d4 		you're drooling today . 
+_d4 		what's this ? 
+_d4 		Telly . 
+_d4 		apple . 
+_d4 		Elmo . 
+_d4 		Grover . 
+_d4 		grapes . 
+_d4 		Prairie Dawn . 
+_d4 		Prairie Dawn . 
+_d4 		Elmo . 
+_d4 		Bert . 
+_d4 		banana . 
+_d4 		carrots . 
+_d4 		h .
+_d4 
+_d4 		g . 
+_d4 		h . 
+_d4 		b . 
+_d4 		c . 
+_d4 		b . 
+_d4 		c . 
+_d4 		b . 
+_d4 		banana . 
+_d4 		b (.) banana . 
+_d4 		c (.) carrots . 
+_d4 		Al I think we need to clean out your toys . 
+_d4 		and get rid of some of these toys I know you don't play with . 
+_d4 		tip it up . 
+_d4 		that needs batteries . 
+_d4 		t .
+_d4 
+_d4 		t .
+_d4 
+_d4 		it's t .
+_d4 
+_d4 		xxx . 
+_d4 		yee  . 
+_d4 		on the road again (.)  (.) Elmo can't wait to be on the road again . 
+_d4 		Elmo loves singing songs to the music +//. 
+_d4 		with his friends .
+_d4 
+_d4 		yes Elmo can't wait to be on the road again . 
+_d4 		on the road again . 
+_d4 		woo (.) Elmo can't wait to be on the road again . 
+_d4 		Elmo loves singing songs to the music with his friends . 
+_d4 		yeah Elmo can't wait to be on the road again . 
+_d4 		d'you [: do you] wanna read this one ? 
+_d4 		what's in little Elmo's toy+box ? 
+_d4 		here's a train to toot (.) here's a duck to squeak . 
+_d4 		here's a drum to  here's a phone to ring . 
+_d4 		here's a jack+in+the+box to pop here are blocks to crash . 
+_d4 		here's a car to honk (.) here's a teddy monster to wish good night . 
+_d4 		night night . 
+_d4 		night night . 
+_d4 		need a haircut . 
+_d4 		wanna read it again ? 
+_d4 		you read it to Mommy (.) you read it . 
+_d5 		Elmo . 
+_d5 		do night night . 
+_d5 		one . 
+_d5 		three . 
+_d5 		t .
+_d5 
+_d5 		xxx . 
+_d5 		but rubber duckies absolutely never +//.
+_d5 
+_d6 		&aw: . 
+_d6 		thank you . 
+_d6 		say quack . 
+_d6 		they say squeak . 
+_d6 		billy . 
+_d6 		spot .
+_d6 
+_d6 		what's that ? 
+_d6 		toothbrush . 
+_d6 		for brushing your teeth . 
+_d6 		cow . 
+_d6 		kitty . 
+_d6 		pillow . 
+_d6 		this one ? 
+_d6 		this one ? 
+_d6 		this one ? 
+_d6 		your neighborhood ? 
+_d6 		red light . 
+_d6 		green light . 
+_d6 		a (.) b (.) c (.) one . 
+_d6 		two (.) three . 
+_d6 		up the ladder . 
+_d6 		down the ladder +//.
+_d6 
+_d6 		cat . 
+_d6 		bee . 
+_d6 		ooh the mail . 
+_d6 		oh we love mail . 
+_d6 		mail the letter . 
+_d6 		the letter ! 
+_d6 		mail the letter . 
+_d6 		ooh check under the hood . 
+_d6 		rocky feels better when he visits the vet +//. 
+_d6 		engine . 
+_d6 		tea .
+_d6 
+_d7 		I'm going to school today . 
+_d7 		eddy brushes his teeth . 
+_d7 		brush+a brush+a brush+a brush+a brushing my teeth . 
+_d7 		it's sneaker time . 
+_d7 		one (.) two . 
+_d7 		now let's have a snack . 
+_d7 		orange juice .
+_d7 
+_d7 		jam . 
+_d7 		fruit . 
+_d7 		mustard . 
+_d7 		eggs . 
+_d7 		here's a snack . 
+_d7 		apple . 
+_d7 		sandwich . 
+_d7 		juice . 
+_d7 		fold it up . 
+_d7 		real small . 
+_d7 		small small small . 
+_d7 		tuck it in . 
+_d7 		there . 
+_d7 		you can have it . 
+_d7 		you want it ? 
+_d7 		what's that ? 
+_d7 		tuck it in . 
+_d7 		that's a tight slot . 
+_d7 		want Mommy help you ? 
+_d7 		oh button up it's cold outside .
+_d7 
+_d7 		where's the froggy ? 
+_d7 		where is it ? 
+_d7 		there it is .
+_d7 
+_d7 		&aw: are you giving the froggy a kiss ?
+_d7 
+_d7 		oh look at this I know you like this one . 
+_d7 		I think I can . 
+_d7 		the little blue engine is on her way (.) all aboard . 
+_d7 		she's carrying toys and good things to eat . 
+_d7 		for all the boys and girls on the other side of the mountain . 
+_d7 		hooray ! 
+_d7 		I think I can I think I can I think I can I think I can I think I can I think I can . 
+_d7 		I think I can I think I can I think I can I think I can . 
+_d7 		you read the book to Mommy you read it . 
+_d7 		what does it say ? 
+_d7 		tell Mommy what it says . 
+_d7 		I think I can I think I can I think I can I think I can . 
+_d7 		all aboard . 
+_d8 		big truck . 
+_d8 		for the big +//. 
+_d8 		wee .
+_d8 
+_d8 		oh here's your colors . 
+_d8 		oh let Mommy fix that for you . 
+_d8 		yeah put it on like this . 
+_d8 		lemme [: let me] show you . 
+_d8 		c'mere [: come here] you can't break it . 
+_d8 		there . 
+_d8 		here's your Easter egg book (.) you remember this one ? 
+_d8 		this one I don't think you (.) you don't like this one too much . 
+_d8 		blue . 
+_d8 		yellow .
+_d8 
+_d8 		no no no just leave it . 
+_d8 		hi there .
+_d8 
+_d8 		what what ? 
+_d8 		what's the matter ? 
+_d8 		look it . 
+_d8 		pink yellow blue . 
+_d8 		who loves to color Easter eggs ? 
+_d8 		bunnies do . 
+_d8 		you can't eat that honey (.) you cannot eat that . 
+_d8 		okay ? 
+_d8 		what ? 
+_d8 		no you can't eat mine either . 
+_d8 		thank thank you . 
+_d8 		thank you . 
+_d8 		okay this this and this . 
+_d8 		go in here . 
+_d8 		here's your two . 
+_d8 		two .
+_d8 
+_d8 		Alex look here (.) Joey . 
+_d8 		and your division . 
+_d8 		here's your rocket+ship . 
+_d8 		xxx . 
+_d8 		here's rosita . 
+_d8 		xxx . 
+_d8 		tickle  Elmo  tickle Elmo's nose . 
+_d8 		da      . 
+_d8 		da    .
+_d8 
+_d8 		da    . 
+_d8 		da    .
+_d8 
+_d8 		xxx Elmo  . 
+_d8 		xxx Elmo . 
+_d8 		your other box must be upstairs (.) Alex . 
+_d8 		tickle Elmo again . 
+_d8 		okay . 
+_d8 		xxx tickle Elmo later . 
+_d8 		xxx . 
+_d8 		there goes . 
+_d8 		who's that ? 
+_d8 		rosita . 
+_d8 		c'mere [: come here] want me to read you want Mommy to read it for you ? 
+_d8 		sour face . 
+_d8 		grumpy face . 
+_d8 		silly face . 
+_d8 		happy . 
+_d8 		xxx . 
+_d8 		thank you . 
+_d8 		monster faces . 
+_d8 		who's that ? 
+_d8 		who's that ? 
+_d8 		Zoey . 
+_d8 		Telly . 
+_d8 		grover . 
+_d8 		cookie monster . 
+_d8 		look at cookie monster . 
+_d8 		he's hungry . 
+_d8 		please don't do that . 
+_d8 		where's rosita ? 
+_d8 		who's that ? 
+_d8 		thank you . 
+_d8 		wee: . 
+_d8 		big bird walks . 
+_d8 		big bird takes a walk . 
+_d8 		he walks (.) on the sidewalk . 
+_d8 		under (.) the trees . 
+_d8 		who is that ? 
+_d8 		over the bridge . 
+_d8 		up the hill . 
+_d8 		through the gate . 
+_d8 		and around the corner to meet some friends . 
+_d8 		Alex who's this ? 
+_d8 		there's rosita there's rosita . 
+_d8 		look at Joey . 
+_d8 		hi Joey . 
+_d8 		hi there . 
+_d8 		oh here's the other book . 
+_d9 		whoa: . 
+_d9 		whoa: . 
+_d9 		one +... 
+_d9 		Elmo says let's go for a ride . 
+_d9 		Alex look . 
+_d9 		what's that ? 
+_d9 		wee: . 
+_d9 		ready to roll . 
+_d9 		whoa: . 
+_d9 		let's go +//. 
+_d9 		shake shake shake shake shake shake . 
+_d9 		Alex can you build a +//?
+_d9 
+_d9 		can you build a +//?
+_d9 
+_d9 		build +//.
+_d9 
+_d9 		build the blocks . 
+_d9 		build the blocks . 
+_d9 		show Mommy look one (.) two +... 
+_d9 		one (.) two +... 
+_d9 		you can do more than two . 
+_d9 		that's not enough you have_to make a tower and then knock it down (.) one (.) two +... 
+_d9 		and the red one +... 
+_d9 		ready to roll . 
+_d9 		let's go for a ride . 
+_d9 		Alex where's Joey ? 
+_d9 		where's Joey ? 
+_d9 		where's Joey ? 
+_d9 		what is it ? 
+_d9 		what is it ? 
+_d9 		don't break it . 
+_d9 		what is it ? 
+_d9 		it's a microphone . 
+_d9 		don't break it . 
+_d9 		here's Joey . 
+_d9 		my name is Joey Joey Joe Joe Joe Joe Joey . 
+_d9 		Elmo . 
+_d9 		cookie monster and ernie . 
+_d9 		here are your flash+cards . 
+_d9 		wanna put your blocks away ? 
+_d9 		one +... 
+_d9 		two +... 
+_d10 		like this . 
+_d10 		put them on +... 
+_d10 		there . 
+_d10 		boop  boo .
+_d10 
+_d10 		how 'bout [: about] this one ? 
+_d10 		yellow blue +... 
+_d10 		who's that ? 
+_d10 		who's that ? 
+_d10 		thank you .
+_d10 
+_d10 		green . 
+_d10 		and orange . 
+_d10 		ready ? 
+_d10 		like this look . 
+_d10 		look . 
+_d10 		Alex look . 
+_d10 		oop ! 
+_d10 		here hold it up . 
+_d11 		division . 
+_d11 		oh here's Elmo jumps . 
+_d11 		c'mere [: come here] sit with me . 
+_d11 		c'mere [: come here]  in my lap . 
+_d11 		Elmo jumps . 
+_d11 		Elmo jumps up . 
+_d11 		Elmo jumps down . 
+_d11 		Elmo jumps on his trampoline . 
+_d11 		he bounces . 
+_d11 		Elmo jumps in a puddle splash ! 
+_d11 		he gets wet . 
+_d11 		he lands in the sand . 
+_d11 		Elmo jumps over Zoey . 
+_d11 		Elmo likes to jump . 
+_d11 		the end . 
+_d11 		Elmo's animal adventures . 
+_d11 		monkey . 
+_d11 		Elmo loves animals sometimes he dreams he's an animal . 
+_d11 		wee . 
+_d11 		if Elmo were a dolphin he could swim in the sea . 
+_d11 		if Elmo were a lion he could roar loud enough for everyone to hear . 
+_d11 		if Elmo were an elephant he could give himself a shower . 
+_d11 		Elmo ? 
+_d11 		Zoey . 
+_d11 		Bert . 
+_d11 		ernie . 
+_d11 		look at all these books . 
+_d11 		books books . 
+_d11 		what's that ? 
+_d11 		oop . 
+_d11 		you're tired huh ? 
+_d11 		look Alex look look . 
+_d11 		what ? 
+_d11 		red block . 
+_d11 		one . 
+_d11 		two . 
+_d11 		where's (.) where's two ? 
+_d11 		where's two ? 
+_d11 		two . 
+_d11 		two you found it .
+_d11 
+_d11 		two . 
+_d11 		here it is . 
+_d11 		da   . 
+_d11 		are we done with (.) are you done with your blocks ? 
+_d11 		would you like to put them away ? 
+_d11 		help me . 
+_d11 		watch your face . 
+_d11 		whoa: . 
+_d11 		who gave you this auntie louise gave you this . 
+_d11 		where's rosita ? 
+_d11 		thank you . 
+_d11 		would you like to read +//.
+_d11 
+_d11 		oh thank you are you giving me the block ? 
+_d11 		thank you . 
+_d11 		put it right here . 
+_d11 		blue . 
+_d11 		green . 
+_d11 		yellow . 
+_d11 		red (.) blue . 
+_d11 		green . 
+_d11 		yellow . 
+_d11 		red . 
+_d11 		very good . 
+_d11 		you smash everything . 
+_d11 		ready to roll let's go for a ride . 
+_d11 		here's your farm book . 
+_d11 		where's the rooster ? 
+_d11 		pony . 
+_d12 		here lemme [: let me] fix it . 
+_d12 		there okay now try it . 
+_d12 		go ahead +...
+_d12 
+_d12 		where's the sheep ? 
+_d12 		where's the sheep ? 
+_d12 		piggies . 
+_d12 		sheep . 
+_d12 		there they are . 
+_d12 		ready to roll let's go for a ride . 
+_d12 		here comes cookie monster . 
+_d12 		here's the book that Mommy likes the lion book . 
+_d12 		ready to roll . 
+_d12 		see . 
+_d12 		there . 
+_d12 		can I brush your hair ? 
+_d12 		your turn . 
+_d12 		Alex's turn . 
+_d12 		woop ! 
+_d12 		poor lion . 
+_d12 		poor lion . 
+_d12 		xxx . 
+_d12 		here's your music . 
+_d12 		so nice . 
+_d12 		listen ready . 
+_d12 		red (.) yellow (.) green (.) blue . 
+_d12 		blue (.) green (.) yellow (.) red . 
+_d12 		thank you . 
+_d12 		thank you . 
+_d12 		is that for Mommy ? 
+_d12 		well thank you . 
+_d12 		whoa: . 
+_d13 		can you sing ? 
+_d13 		sing one two three . 
+_d13 		sing .
+_d13 
+_d13 		one two three . 
+_d13 		ba:h .
+_d13 
+_d13 		bee . 
+_d13 		thank you . 
+_d13 		put it on there . 
+_d13 		like this . 
+_d13 		you did it . 
+_d13 		here . 
+_d13 		xxx you kiss me good bye . 
+_d13 		who's this ? 
+_d13 		Texas Tigger . 
+_d13 		look how cute he is . 
+_d13 		look how cute he is . 
+_d13 		would you like me to tie your sneaker ? 
+_d13 		it's still raining . 
+_d13 		Alex . 
+_d13 		put your blocks in the truck look . 
+_d13 		look . 
+_d13 		fill it up . 
+_d13 		fill it up . 
+_d13 		oh don't throw it . 
+_d13 		there you go . 
+_d13 		good job . 
+_d13 		whoa: . 
+_d13 		would you like me to help you with your sneakers ? 
+_d13 		c'mere [: come here] I'll fix em [: them] . 
+_d13 		c'mere [: come here] . 
+_d13 		I'll help you . 
+_d13 		c'mere [: come here] . 
+_d13 		I'll help you you have a knot . 
+_d13 		want me to take em [: them] off ? 
+_d13 		one . 
+_d13 		here Alex . 
+_d13 		thank you . 
+_d13 		oh no that's not a ball . 
+_d13 		that's your blocks . 
+_d13 		can you say hi ? 
+_d13 		what is it ? 
+_d13 		Joey . 
+_d13 		thank you . 
+_d13 		can you give Joey a kiss ? 
+_d13 		can Mommy give Joey a kiss ? 
+_d13 		microphone . 
+_d13 		don't play with it . 
+_d13 		there's Joey . 
+_d13 		Joey Joey Joey Joey . 
+_d13 		god bless you . 
+_d13 		god bless you . 
+_d13 		thank you . 
+_d13 		thank you . 
+_d13 		Alex where's your big truck ? 
+_d13 		where's your big truck with all the blocks in it ? 

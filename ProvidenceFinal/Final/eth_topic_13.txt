@@ -1,0 +1,2080 @@
+_t4 		there's a newspaper , whatever , tea .
+_t4 		tea: .
+_t4 		tea: .
+_t4 		whoa , you almost fell on your backpack .
+_t4 		backpack .
+_t4 		it's on your back .
+_t4 		dyou [: do you] wanna take it off ?
+_t4 		here , here's your star .
+_t4 		yeah , your backpack is on your back .
+_t4 		mmmm+hmmm , back .
+_t4 		should we put some money in your piggy+bank ?
+_t4 		I got some money upstairs , I think .
+_t4 		two pennies .
+_t4 		that's all .
+_t4 		should we get your piggy+bank ?
+_t4 		up , I'll get your piggy+bank .
+_t4 		that's right , it's over here .
+_t4 		okay .
+_t4 		bye bye .
+_t4 		bye bye penny .
+_t4 		there's another one .
+_t4 		I don't have any more money .
+_t4 		just those two pennies .
+_t4 		whoa ,  ,  !
+_t4 		very good .
+_t4 		yay: !
+_t4 		I don't have any more , I'm sorry .
+_t4 		it's downstairs .
+_t4 		the money's downstairs .
+_t4 		no more money .
+_t4 		we'll do it later , okay ?
+_t4 		I don't have any more money right now .
+_t4 		no more .
+_t4 		yeah , no more .
+_t4 		that's right , no more .
+_t4 		no more money .
+_t4 		d'you [: do you] want your shoes off ?
+_t4 		yeah , you have a backpack on .
+_t4 		and mommy has a pack .
+_t4 		see ?
+_t4 		see , yeah , mommy has a pack too .
+_t4 		you wanna +//.
+_t4 
+_t4 		whoa !
+_t4 
+_t4 		you wanna touch it ?
+_t4 		y'can [: you can] touch it .
+_t4 		mmmm+hmmm , pack .
+_t4 		this is a backpack .
+_t4 		Ethan has a backpack .
+_t4 		mmmm+hmmm , it stays on .
+_t4 		it's for the camera .
+_t4 		where's the camera ?
+_t4 		yeah , there's the camera .
+_t4 		there's the camera .
+_t4 		uh ?
+_t4 		yeah , you like your backpack .
+_t4 
+_t4 		should we play a game ?
+_t4 		wanna play with your star ?
+_t4 		wanna put your piggy+bank back up ?
+_t4 		na [: wanna] put your piggy+bank back up , okay ?
+_t4 		up .
+_t4 		up up up .
+_t4 		yeah , up .
+_t4 		wanna play with  blocks ?
+_t4 		blocks .
+_t4 		blocks , that's right .
+_t4 		lots_of blocks .
+_t4 		what's that ?
+_t4 		it's a car: .
+_t4 		that's right , you wanna put some blocks on the car ?
+_t4 		one .
+_t4 		na [: wanna] make a very tall car ?
+_t4 		car ?
+_t4 		oops , that's not a block .
+_t4 		yeah , you put them together .
+_t4 		d'you [: do you] need help ?
+_t4 
+_t4 		watch , push .
+_t4 		there you go .
+_t4 		try one more .
+_t4 		oh , you got it apart .
+_t4 
+_t4 		push .
+_t4 		push .
+_t4 		yeah .
+_t4 		at's [: that's] a man .
+_t4 		put the man in the car , that's right .
+_t4 		oops .
+_t4 		he fell off .
+_t4 		he fell off .
+_t4 		mmmm+hmmm .
+_t4 		mmmm+hmmm .
+_t4 		ta+dah !
+_t4 
+_t4 		that's a man .
+_t4 		it's a man +//.
+_t4 
+_t4 		a boy , this is a boy .
+_t4 		boy .
+_t4 		Ethan's [: Ethan is] a boy .
+_t4 		that's right .
+_t4 		you put the boy in the car .
+_t4 		mmmm+hmmm , boy .
+_t4 		car .
+_t4 		boy in the car .
+_t4 
+_t4 		should we put the boy +//.
+_t4 
+_t4 		look , watch .
+_t4 		okay Ethan .
+_t4 		whooee !
+_t4 		whooee !
+_t4 
+_t4 		ka+boom .
+_t4 		want to put them on top ?
+_t4 		xxx , they go up up up up up up up .
+_t4 		up .
+_t4 		up .
+_t4 		up .
+_t4 		up .
+_t4 		see how tall it is ?
+_t4 		can you take it apart ?
+_t4 		there you go .
+_t4 		yay .
+_t4 		yay .
+_t4 		yay , you did it .
+_t4 		there's the boy .
+_t4 		there's the car .
+_t4 		didoo    .
+_t4 		doo   di  .
+_t4 		what'ya [: what are you] lookin' for ?
+_t4 		more blocks ?
+_t4 		more blocks ?
+_t4 
+_t4 		can you take them +//?
+_t4 
+_t4 		oop , pull .
+_t4 		ah !
+_t4 		ah !
+_t4 		that's right .
+_t4 		the boy in the car .
+_t4 		that's right .
+_t4 
+_t4 		eh , block , that's right , block .
+_t4 		should we build with the blocks ?
+_t4 		should we make something (.) with the blocks ?
+_t4 
+_t4 		huh ?
+_t4 		that +...
+_t4 		that +...
+_t4 		we could make a house .
+_t4 		should we make a house (.) with the blocks ?
+_t4 		hmmm ?
+_t4 		yay .
+_t4 		you're taking it all apart .
+_t4 		pull .
+_t4 		pull .
+_t4 		uhh .
+_t4 		there you go , you got it .
+_t4 		off .
+_t4 		off .
+_t4 		off .
+_t4 		bang   ,    ,      .
+_t4 		bang   ,       .
+_t4 		bang    .
+_t4 		bang the blocks .
+_t4 		boom boom boom .
+_t4 		bang the blocks .
+_t4 		boom boom boom .
+_t4 		block .
+_t4 		mmmm+hmmm .
+_t4 		block !
+_t4 		bang the block .
+_t4 		Look , mommy's building something very tall .
+_t4 		And then we just take it apart .
+_t4 		block !
+_t4 		block !
+_t4 		block !
+_t4 		that's a block , that's right .
+_t4 		yeah .
+_t4 		are you taking the poo+poo ?
+_t4 		a poo+poo ?
+_t4 		d'you [: do you] wanna get your ball ?
+_t4 		there's another car , that's right .
+_t4 		and I have this car .
+_t4 		what're you finding in there Ethan ?
+_t4 		you want the blocks ?
+_t4 		something stuck ?
+_t4 		let's see .
+_t4 
+_t4 		what is it ?
+_t4 
+_t4 		you want your toy ?
+_t4 		uh !
+_t4 		a , apple , that's right .
+_t4 		that's an apple .
+_t4 		a , apple .
+_t4 		a , apple .
+_t4 		that's right , apple .
+_t4 		can you make it go like this ?
+_t4 		c , cat .
+_t4 		cat .
+_t4 		you wanna read the book ?
+_t4 		what happens there ?
+_t4 
+_t4 		up and down .
+_t4 
+_t4 		the windows on the bus go up and down .
+_t4 
+_t4 		up and down .
+_t4 		and the man .
+_t4 
+_t4 		the man says , move on back !
+_t4 		move on back !
+_t4 		wanna make him go ?
+_t4 
+_t4 		move on back !
+_t4 		move on back !
+_t4 		move on back !
+_t4 		yep , back .
+_t4 		move on back .
+_t4 		and there's the people on the bus step in and out .
+_t4 		in and out .
+_t4 		do you see the banana ?
+_t4 		that lady has bananas .
+_t4 		she has some bananas .
+_t4 		that's right , in and out .
+_t4 		gentle please .
+_t4 		and what about this one Ethan ?
+_t4 		the doors on the bus go +...
+_t4 
+_t4 		oh , those are the wheels .
+_t4 		what do the wheels do ?
+_t4 
+_t4 		they go round and round and round .
+_t4 		spin spin spin spin .
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		that's a wheel .
+_t4 		gentle okay ?
+_t4 
+_t4 		it stays in the book .
+_t4 		keep it in the book .
+_t4 		that's a book , that's right .
+_t4 		what happens here ?
+_t4 		the doors go open and shut .
+_t4 		open and shut .
+_t4 		that's a wheel .
+_t4 		xxx .
+_t4 		gentle , they stay in the book okay ?
+_t4 		round and round .
+_t4 
+_t4 		spin spin spin spin spin spin spin spin spin spin .
+_t4 		spin spin spin .
+_t4 		spin .
+_t4 		oh sweetie you'll break it .
+_t4 		you wanna look at another page ?
+_t4 		whoa !
+_t4 		you're sitting on the book .
+_t4 		uh !
+_t4 
+_t4 		you were sitting on the book .
+_t4 		no , don't take it off .
+_t4 
+_t4 		leave it in the book .
+_t4 		what about this ?
+_t4 		that's right ,  .
+_t4 		sh ,   ,    ,    .
+_t4 
+_t4 		the mommies on the bus go    .
+_t4 		all over town .
+_t4 		that's a cat , yeah .
+_t4 
+_t4 		there's a cat and a +...
+_t4 
+_t4 		who's that ?
+_t4 		waah !
+_t4 		a baby .
+_t4 		is that a baby ?
+_t4 
+_t4 		and a baby .
+_t4 
+_t4 		and a baby .
+_t4 
+_t4 		and a baby .
+_t4 		baby .
+_t4 		baby .
+_t4 		what did the baby say ?
+_t4 
+_t4 		waah !
+_t4 		waah !
+_t4 		waah !
+_t4 		waah !
+_t4 		there's your car .
+_t4 
+_t4 		d'you [: do you] want your car ?
+_t4 		sh   ,    .
+_t4 		oh there's the cat .
+_t4 
+_t4 		a little cat and another cat .
+_t4 		see ?
+_t4 		two cats .
+_t4 		what's the cat doing on the bus ?
+_t4 		who knows ?
+_t4 		oh Ethan , you broke it .
+_t4 		gentle .
+_t4 		you have_to be gentle with this book .
+_t4 		bumpity bump bump .
+_t4 		bumpity bump .
+_t4 		bumpity bump .
+_t4 		it's broken .
+_t4 
+_t4 		the book is broken .
+_t4 		I found another block .
+_t4 		oops .
+_t4 
+_t4 		what do the wipers do ?
+_t4 
+_t4 		swish swish swish .
+_t4 		gentle , you'll break it .
+_t4 		swish swish swish .
+_t4 		swish swish swish .
+_t4 		what do you see on that page ?
+_t4 		oops .
+_t4 		gentle Ethan .
+_t4 		up and down .
+_t4 		the people on the bus go up and down .
+_t4 		the end .
+_t4 		the end .
+_t4 		that's a guitar .
+_t4 		strum strum strum strum strum strum strum .
+_t4 		what are you doing Ethan ?
+_t4 		what're [: what are] you doing ?
+_t4 		mmmm+hmmm , that's Eeyore .
+_t4 		hi Eeyore .
+_t4 		how are you Eeyore ?
+_t4 		hi .
+_t4 		that's Eeyore .
+_t4 		Eeyore has a tail .
+_t4 		Eeyore has a tail and a button .
+_t4 		see the button ?
+_t4 		see the button ?
+_t4 		that's funny .
+_t4 		his tail is on with a button .
+_t4 		mmmm .
+_t4 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		you wanna give him a hug ?
+_t4 		give Eeyore a hug .
+_t4 		you want mommy to give Eeyore a hug ?
+_t4 		huggy .
+_t4 		hi .
+_t4 
+_t4 		kisses .
+_t4 
+_t4 		nice Eeyore .
+_t4 		d'you [: do you] want Eeyore to go take a nap ?
+_t4 		or you want to give Eeyore some food ?
+_t4 		give Eeyore a raisin ?
+_t4 		that was for Eeyore .
+_t4 		thank you .
+_t4 
+_t4 		you can eat it .
+_t4 
+_t4 		it's a raisin .
+_t4 		mmmm , thank you .
+_t4 
+_t4 		mmmm+hmmm , you can finish it .
+_t4 		keep it in your mouth .
+_t4 		you gonna give it to Eeyore after you chewed on it ?
+_t4 
+_t4 		lovely .
+_t4 		mmmm , thank you .
+_t4 		uh  .
+_t4 		stuck to your fingers .
+_t4 		mmmm+hmmm , it's a raisin .
+_t4 		you have something in your mouth .
+_t4 
+_t4 		there you go .
+_t4 		you want something to give Eeyore ?
+_t4 		d'you [: do you] want some pretzels to give Eeyore ?
+_t4 		or cheerios ?
+_t4 		okay , you wanna give him a cheerio ?
+_t4 		or a pretzel ?
+_t4 		cheerio .
+_t4 		thank you .
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		cheerio .
+_t4 		mmmm .
+_t4 
+_t4 		it's a balloon , but it doesn't go up anymore .
+_t4 		it stays down .
+_t4 		what's that Ethan ?
+_t4 
+_t4 		it's a bear .
+_t4 		mmmm+hmmm , the balloon is broken .
+_t4 		bonk .
+_t4 		it falls down .
+_t4 		keeps falling down .
+_t4 		up up up up up up up up .
+_t4 		down: .
+_t4 		up up up up up up up up up up up up up up up up .
+_t4 
+_t4 		down: .
+_t4 		cheerio .
+_t4 		mmmm+hmmm .
+_t4 		mmmm+hmmm , Eeyore .
+_t4 		wanna give Eeyore a cheerio ?
+_t4 		here .
+_t4 		that's for Eeyore .
+_t4 		mmmm , yummy .
+_t4 		yummy yummy yummy .
+_t4 		tick+tock , it's a clock .
+_t4 		clock .
+_t4 		clock .
+_t4 		yeah , your backpack .
+_t4 		you have a backpack on .
+_t4 		backpack .
+_t4 		want some more cheerios ?
+_t4 		cheerio .
+_t4 		backpack .
+_t4 		it's on your back .
+_t4 		what're you doing to your backpack ?
+_t4 		what're you doing to your backpack ?
+_t4 		a backpack pack .
+_t4 		back pack .
+_t4 		back pack .
+_t4 		back pack !
+_t4 		you're silly .
+_t4 		d'you [: do you] wanna look at that big book ?
+_t4 		okay .
+_t4 
+_t4 		it's a raisin stuck to the book .
+_t4 
+_t4 		that's yucky .
+_t4 		that's yucky Ethan .
+_t4 		yuck , yucky .
+_t4 		no , don't eat that .
+_t4 
+_t4 		you can have a cheerio instead .
+_t4 		ta+dah !
+_t4 		pretzel , that's right .
+_t4 		pretzel and cheerio .
+_t4 		what d'you [: did you] find ?
+_t4 		I hear a dog .
+_t4 		I hear a dog .
+_t4 		ruf ruf ruf ruf .
+_t4 		where's that  ?
+_t4 
+_t4 		xxx , duper !
+_t4 		that's a book .
+_t4 		let's get off this book .
+_t4 		what's that ?
+_t4 
+_t4 		let's open .
+_t4 
+_t4 		let's see .
+_t4 		pickup truck .
+_t4 		it's a truck .
+_t4 		and , here's another one .
+_t4 
+_t4 		up .
+_t4 		down .
+_t4 		up .
+_t4 		down .
+_t4 		that's a truck too .
+_t4 		truck .
+_t4 		mmmm , look at this ,  !
+_t4 		lots_of trucks .
+_t4 
+_t4 		can we open this one ?
+_t4 		oh , that's a cement mixer .
+_t4 		and a cherry picker .
+_t4 		and a (.) pickup truck .
+_t4 
+_t4 		and a (.) bulldozer .
+_t4 		truck .
+_t4 		you wanna look at a different page ?
+_t4 		oranges .
+_t4 		broccoli .
+_t4 		what's that , Ethan ?
+_t4 		that's an apple .
+_t4 		that's a (.) banana .
+_t4 		cake .
+_t4 		cake , cake , juice !
+_t4 		juice .
+_t4 		here's some juice .
+_t4 		yeah , apple .
+_t4 		there's an apple .
+_t4 		there's a carrot .
+_t4 		bananas !
+_t4 		I think I know where the apples are .
+_t4 		uh , apples !
+_t4 		apple .
+_t4 		there's a hole .
+_t4 		du     .
+_t4 		what's that , Ethan ?
+_t4 		car .
+_t4 		and a bird  .
+_t4 		more apples .
+_t4 		can you pull that one down ?
+_t4 
+_t4 		yay !
+_t4 		he has a dog .
+_t4 		that's a dog .
+_t4 		that's a barber .
+_t4 
+_t4 		you went to a barber to get your hair cut .
+_t4 		that's where the barber cut your hair .
+_t4 		where's your hair , Ethan ?
+_t4 		that's (.) right up here .
+_t4 		hair .
+_t4 		this is your hair .
+_t4 		hair .
+_t4 		mommy's hair .
+_t4 		hair ?
+_t4 		hair .
+_t4 
+_t4 		whoops .
+_t4 		hair .
+_t4 		oops , be careful .
+_t4 
+_t4 		did you hurt yourself on the book ?
+_t4 		book .
+_t4 		peek+a+boo .
+_t4 
+_t4 		there's the dog .
+_t4 		peek+a+boo , this way .
+_t4 		boo .
+_t4 		boo .
+_t4 
+_t4 		boo .
+_t4 
+_t4 		boo .
+_t4 
+_t4 		not on your ears , on your eyes .
+_t4 		put your hands on your eyes .
+_t4 		boo .
+_t4 
+_t4 		that's your ear , that's right .
+_t4 
+_t4 		he has glasses .
+_t4 		glasses .
+_t4 
+_t4 		glasses on the eyes , like this .
+_t4 
+_t4 		mommy has glasses .
+_t4 
+_t4 		du        . 
+_t4 		glasses .
+_t4 
+_t4 		see , the glasses .
+_t4 		I don't understand .
+_t4 
+_t4 		those are your ears .
+_t4 		because the glasses go on the ears , is that why you're touching your ears ?
+_t4 		mmmm+hmmm , glasses .
+_t4 		hi .
+_t4 
+_t4 		hi .
+_t4 
+_t4 		peek+a+boo .
+_t4 		glasses .
+_t4 		hair .
+_t4 		that's your hair .
+_t4 
+_t4 		I don't know what you're trying to say .
+_t4 		there's a hole .
+_t4 		I see some feet .
+_t4 		I see some toes .
+_t4 		ready ?
+_t4 
+_t4 		where are the other ones ?
+_t4 		here's one .
+_t4 		do we have more ?
+_t4 		oh goody goody goody !
+_t4 		who's that Ethan ?
+_t4 		Pooh: !
+_t4 		pooh+bear .
+_t4 		here's some more .
+_t4 		an orange one and a red one .
+_t4 		and a yellow one .
+_t4 		I think that's all .
+_t4 		I found some glasses .
+_t4 		meow .
+_t4 
+_t4 		ta+dah .
+_t4 		ta+dah .
+_t4 		you want the glasses ?
+_t4 		oops .
+_t4 
+_t4 		Ethan's [: Ethan has] got glasses .
+_t4 		oop , be careful of your eyes .
+_t4 		you want me to put them on you again ?
+_t4 		there we go !
+_t4 		Ethan has glasses .
+_t4 		glasses , that's right .
+_t4 		be careful .
+_t4 		you're gonna hurt your nose .
+_t4 		d'you [: do you] wanna put them on mommy ?
+_t4 		okay , here .
+_t4 		ta+dah !
+_t4 		glasses .
+_t4 		I see you .
+_t4 		you wanna put the glasses on Pooh ?
+_t4 		that's right , Pooh needs some glasses .
+_t4 		tee   .
+_t4 		Pooh has glasses .
+_t4 		mommy has glasses .
+_t4 		that's Pooh .
+_t4 		you want Pooh to make music ?
+_t4 		pull .
+_t4 		pull .
+_t4 		do do do do do do do do .
+_t4 
+_t4 		you want the glasses on ?
+_t4 		let's put the glasses on Ethan .
+_t4 		d'you [: do you] wanna see yourself in the mirror ?
+_t4 		d'you [: do you] wanna look at yourself in the mirror with the glasses on ?
+_t4 		where's the mirror ?
+_t4 		d'you [: do you] know where the mirror is ?
+_t4 		here .
+_t4 		go see Ethan ?
+_t4 
+_t4 		here .
+_t4 		oops , here .
+_t4 		glasses .
+_t4 		look at Ethan with the glasses .
+_t4 		glasses .
+_t4 		glasses .
+_t4 		oops , the bear fell down .
+_t4 		glasses .
+_t4 		want mommy to put them on ?
+_t4 		you want them on ?
+_t4 		tee     .
+_t4 		Ah !
+_t4 		ready ?
+_t4 		ready ?
+_t4 		ready ?
+_t4 		glasses .
+_t4 		you want them on ?
+_t4 
+_t4 		okay .
+_t4 		that's right .
+_t4 		whad'you [: what do you] see ?
+_t4 		does Ethan want them on ?
+_t4 		d'you [: do you] want them on Ethan ?
+_t4 		is it yummy ?
+_t4 
+_t4 		be careful .
+_t4 		dangerous .
+_t4 		are you getting sleepy ?
+_t4 		take a nap soon ?
+_t4 		thank you .
+_t4 		what're you drinking ?
+_t4 		you want the block ?
+_t4 		push +//.
+_t4 
+_t4 		pull pull pull .
+_t4 		pull the block .
+_t4 		yay , you did it .
+_t4 		you did it .
+_t4 		yay , very good Ethan .
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		oops .
+_t4 		fell down .
+_t4 		yay !
+_t4 		good job .
+_t4 		want some more blocks ?
+_t4 		oops .
+_t4 		you almost got it .
+_t4 		yeah .
+_t4 		that's right .
+_t4 		that's right .
+_t4 		put it in the hole .
+_t4 		hole .
+_t4 		there's a hole , see ?
+_t4 		I see Ethan: .
+_t4 		up , it's on your finger .
+_t4 		it's on your finger .
+_t4 		hole hole hole .
+_t4 		should we put them together ?
+_t4 		that's right .
+_t4 		you got it !
+_t4 		it's difficult .
+_t4 		it's for big kids .
+_t4 		there you go .
+_t4 		you did it .
+_t4 		you did it .
+_t4 		here .
+_t4 
+_t4 		want me to show you .
+_t4 		now you turn it around and around .
+_t4 		oops .
+_t4 		it's difficult .
+_t4 
+_t4 		it's hard .
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		oops .
+_t4 		around and around and around and around and around and around and around and around .
+_t4 		and you got it .
+_t4 		you have_to go like this .
+_t4 		what's that Ethan ?
+_t4 
+_t4 		I think it's a circle .
+_t4 		is it a circle .
+_t4 		mmmm+hmmm .
+_t4 		you want the star ?
+_t4 		mmmm+hmmm .
+_t4 		I think you need something to chew on .
+_t4 		does your mouth hurt ?
+_t4 		I feel some teeth .
+_t4 		yucky .
+_t4 		teeth .
+_t4 		the star goes over here .
+_t4 
+_t4 		see the star ?
+_t4 		see the star ?
+_t4 		boop !
+_t4 		boop .
+_t4 		what's that ?
+_t4 		what're [: what are] you looking for , sweetie ?
+_t4 		more blocks .
+_t4 		mmmm+hmmm .
+_t4 		like this .
+_t4 		I hear the fish .
+_t4 		is that on your thumb ?
+_t4 		is it on your thumb ?
+_t4 		there's a hole , right .
+_t4 		a hole .
+_t4 		I feel your thumb .
+_t4 
+_t4 		I feel your thumb .
+_t4 		oops .
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		tee      .
+_t4 		balloon .
+_t4 		want balloon to go up ?
+_t4 		up up up up up up up .
+_t4 		down: .
+_t4 		up up up up up up up up up  .
+_t4 		down: .
+_t4 		down .
+_t4 
+_t4 		up down .
+_t4 		up .
+_t4 		down .
+_t4 
+_t4 		boomp . 
+_t4 		it's almost broken .
+_t4 		we have_to throw it away , huh ?
+_t4 		careful sweetie .
+_t4 		up down .
+_t4 		choo .
+_t4 		pull .
+_t4 		open and shut .
+_t4 		open .
+_t4 
+_t4 		shut .
+_t4 		open shut .
+_t4 		up .
+_t4 
+_t4 		down .
+_t4 
+_t4 		up down .
+_t4 
+_t4 		those go swish swish swish swish .
+_t4 		swish .
+_t4 		gentle , you'll break it .
+_t4 		the mommies on the bus go +...
+_t4 
+_t4 		sh: , that's right .
+_t4 		sh: .
+_t4 		sh: .
+_t4 		bus .
+_t4 		it's a bus .
+_t4 		the wheels on the bus .
+_t4 		up down .
+_t4 		up down , that's right .
+_t4 		bumpity bump .
+_t4 		bumpity bump .
+_t4 
+_t4 		move on back .
+_t4 		right , move on back .
+_t4 
+_t4 		that's exactly right .
+_t4 
+_t4 		that's what he does .
+_t4 
+_t4 		he says , move on back .
+_t4 		move on back .
+_t4 		up down .
+_t4 
+_t4 		that one's up down , that's right .
+_t4 		bumpity+bump .
+_t4 
+_t4 		that's a block .
+_t4 		oh , can I give you a hug ?
+_t4 		can I give you a hug ?
+_t4 
+_t4 		you want the car ?
+_t4 		yup .
+_t4 
+_t4 		that's a picture of a car .
+_t4 
+_t4 		that's right .
+_t4 		that's a picture of a car .
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		yeah .
+_t4 		car ?
+_t4 		or daddy ?
+_t4 
+_t4 		what're [: what are] you saying ?
+_t4 		daddy's outside , yeah .
+_t4 		daddy went in the car .
+_t4 		daddy went outside in the car .
+_t4 		yeah , daddy went outside in the car .
+_t4 		yeah , mommy .
+_t4 
+_t4 		that's right , sweetie .
+_t4 		yeah , that's right , sweetie .
+_t4 		that's a block , mmmm+hmmm .
+_t4 		you have lots_of blocks .
+_t4 		this is a balloon .
+_t4 		a balloon .
+_t4 		it's a camera .
+_t4 		camera .
+_t4 		light , right .
+_t4 		light .
+_t4 		block .
+_t4 		block .
+_t4 		star: .
+_t4 
+_t4 		that's right , that's a star .
+_t4 
+_t4 		and what's that ?
+_t4 		star !
+_t4 		star .
+_t4 		and this is a +...
+_t4 		ball: !
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		if you open that , the air will go bye+bye .
+_t4 		and the ball will be flat .
+_t4 		ball: .
+_t4 		up .
+_t4 
+_t4 		down .
+_t4 
+_t4 		up . 
+_t4 		down .
+_t4 
+_t4 		mmmm ?
+_t4 
+_t4 		balloon ?
+_t4 
+_t4 		ball . 
+_t4 		ball: !
+_t4 		uh+huh , that's the ball .
+_t4 		you wanna throw mommy the ball ?
+_t4 		ready ?
+_t4 
+_t4 		yes , I'm mommy .
+_t4 
+_t4 		that's right , sweetie .
+_t4 
+_t4 		you ready for the ball ?
+_t4 		bump .
+_t4 		ball: !
+_t4 		that's a big (.) ball: !
+_t4 		baby .
+_t4 		where's the baby ?
+_t4 		are you a baby ?
+_t4 		is Ethan a baby ?
+_t4 		huh ?
+_t4 		block .
+_t4 		block !
+_t4 		star .
+_t4 
+_t4 		star .
+_t4 		twinkle twinkle little star .
+_t4 		how I wonder what you are .
+_t4 		up (.) above the world so high .
+_t4 		like a diamond in the sky .
+_t4 		twinkle twinkle little star .
+_t4 
+_t4 		whad'you [: what do you] want ?
+_t4 
+_t4 		your balloon ?
+_t4 		that's a ball , that's right .
+_t4 
+_t4 		and here's a +...
+_t4 		bear: .
+_t4 
+_t4 		bear goes around: .
+_t4 
+_t4 		wee !
+_t4 
+_t4 		ready ?
+_t4 		ooh wee .
+_t4 		wee .
+_t4 		wee .
+_t4 
+_t4 		car: , rum rum rum rum rum rum rum .
+_t4 		up down .
+_t4 		up down .
+_t4 		is the car going up down ?
+_t4 		up down . 
+_t4 		up down .
+_t4 		up down .
+_t4 		down: .
+_t4 
+_t4 		boo     boo: .
+_t4 		car .
+_t4 
+_t4 		oops , you took off your shoe .
+_t4 
+_t4 		there your shoe .
+_t4 
+_t4 		it's a shoe !
+_t4 		it's off !
+_t4 		what're [: what are] we gonna do ?
+_t4 		that's your shoe .
+_t4 		that's your sock .
+_t4 		don't take off your sock .
+_t4 		oh: , you took off your sock .
+_t4 		here we see some toes: .
+_t4 
+_t4 		we see some toes: .
+_t4 
+_t4 		here's a car: .
+_t4 		vroom .
+_t4 		that's a block .
+_t4 		ball: .
+_t4 
+_t4 		ready ?
+_t4 		bump !
+_t4 		ready: ?
+_t4 
+_t4 		bump .
+_t4 		ball .
+_t4 
+_t4 		bump !
+_t4 		sorry .
+_t4 		bump .
+_t4 
+_t4 		sorry .
+_t4 		bump .
+_t4 		bump .
+_t4 		backpack .
+_t4 		that's your backpack .
+_t4 		you want it off ?
+_t4 
+_t4 		no .
+_t4 
+_t4 		you can take your shoe off .
+_t4 		wanna take your other shoe off ?
+_t4 		take your (.) shoe , yeah .
+_t4 
+_t4 		take it off .
+_t4 		pull .
+_t4 		there you go .
+_t4 		yay .
+_t4 
+_t4 		that's your shoe .
+_t4 		shoe is off .
+_t4 		p u .
+_t4 		p u .
+_t4 		p u .
+_t4 
+_t4 		ooh , p u .
+_t4 		p u .
+_t4 		shoe , you want your shoe ?
+_t4 		you want your shoe on ?
+_t4 
+_t4 		shoe , that's right .
+_t4 		one , two , buckle my shoe .
+_t4 		three , four , shut the door .
+_t4 		shoe .
+_t4 		you putting your shoe on , Ethan ?
+_t4 		toes .
+_t4 
+_t4 		toes .
+_t4 		you want your shoe on ?
+_t4 		you just took it off .
+_t4 		this one goes on this foot .
+_t4 
+_t4 		ready: ?
+_t4 		you have_to do the zipper .
+_t4 		okay , shoe is (.) on .
+_t4 		and then we go zip .
+_t4 		it's stuck .
+_t4 		you want your shoe off ?
+_t4 
+_t4 		okay .
+_t4 		oop .
+_t4 		shoe's off .
+_t4 		now we have some toes .
+_t4 		toes toes toes toes toes toes toes toes .
+_t4 		it's a balloon , yeah .
+_t4 		d'you [: do you] wanna turn that on ? 
+_t4 		that's right , push .
+_t4 		that's right , on .
+_t4 
+_t4 		press the number ten .
+_t4 		yeah , your backpack .
+_t4 		now you can take your backpack off .
+_t4 		let's go over there and play with your toys . 
+_t4 		that's right . 
+_t4 		the backpack is following you . 
+_t4 		there's a ball . 
+_t4 		you want some apple ? 
+_t4 		more apple ?
+_t4 		bubbles . 
+_t4 		ok . 
+_t4 		let's go over here Ethan . 
+_t4 		want bubbles ?
+_t4 		come here . 
+_t4 		come to mommy . 
+_t4 		come to mommy . 
+_t4 		we got some bubbles . 
+_t4 		come over here . 
+_t4 		stuck . 
+_t4 		xxx . 
+_t4 		ok ready ?
+_t4 		that's right bubbles .
+_t4 
+_t4 		more bubbles ? 
+_t4 		let's get your apples out of the way . 
+_t4 		ready ? 
+_t4 		catch the bubbles . 
+_t4 		pop . 
+_t4 		uh , ready ?
+_t4 
+_t4 		Ethan .
+_t4 
+_t4 		Ethan . 
+_t4 		hey you have a backpack . 
+_t4 		xxx . 
+_t4 		Ethan has a backpack . 
+_t4 		Ethan has a backpack . 
+_t4 		yep [: yes] that's a bubble . 
+_t4 		ready want some more ? 
+_t4 		pop , pop , pop . 
+_t4 		bubbles , bubbles . 
+_t4 		bubbles , bubbles .
+_t4 
+_t4 		pop ,  . 
+_t4 		oh , Ethan . 
+_t4 		soap . 
+_t4 		that's soapy .
+_t4 
+_t4 		pop , pop . 
+_t4 		pop . 
+_t4 		pop , pop , pop . 
+_t4 		popping , popping , popping . 
+_t4 		popping , popping , popping . 
+_t4 		now we stop . 
+_t4 		now we stop . 
+_t4 		bubbles . 
+_t4 		bubbles . 
+_t4 		bubbles . 
+_t4 		bubbles . 
+_t4 		pop . 
+_t4 		pop . 
+_t4 		pop . 
+_t4 		pop . 
+_t4 		pop , pop . 
+_t4 		that's right . 
+_t4 		popping , popping , popping . 
+_t4 		popping , popping , popping . 
+_t4 		backpack . 
+_t4 		you have a backpack . 
+_t4 		you have a backpack . 
+_t4 		that's a special backpack Ethan . 
+_t4 		let's see if we could fix it . 
+_t4 		is it bothering you ? 
+_t4 		I think it's too +... 
+_t4 		it's too big . 
+_t4 		it's too big for Ethan . 
+_t4 		whoops . 
+_t4 		now it's too big . 
+_t4 		we're gonna make it smaller . 
+_t4 		there we go . 
+_t4 		ok . 
+_t4 		there we go let's make it a little smaller . 
+_t4 		there you go . 
+_t4 		ok . 
+_t4 		you say bye bye to Manuela , yeah . 
+_t4 		bye+bye . 
+_t4 		she went downstairs . 
+_t4 		that's a microphone . 
+_t4 		and that's my pack . 
+_t4 		that's my pack . 
+_t4 		and my microphone . 
+_t4 		gentle Ethan . 
+_t4 		gentle , would you like some apple ? 
+_t4 		mmmm+hmmm . 
+_t4 		that's like a ball yeah . 
+_t4 		that's kinda [: kind of] like a ball . 
+_t4 		hmmm . 
+_t4 		hi . 
+_t4 		can you say , hi . 
+_t4 		that's right , hi . 
+_t4 		hi . 
+_t4 		hi . 
+_t4 		hi . 
+_t4 		say hi . 
+_t4 		that's right sweetie . 
+_t4 		it's a ball . 
+_t4 		hi . 
+_t4 		want some apple ? 
+_t4 		you want to give me the apple ? 
+_t4 		oops . 
+_t4 		oh sweetie . 
+_t4 		where's the apple going ?
+_t4 
+_t4 		backpack . 
+_t4 		your backpack goes with you . 
+_t4 		mmmm+hmmm . 
+_t4 		no you keep your backpack on . 
+_t4 		is it bothering you ? 
+_t4 		there you go . 
+_t4 		is it uncomfortable ? 
+_t4 		toys . 
+_t4 		toys . 
+_t4 		what did you find ? 
+_t4 		you found your microphone . 
+_t4 		do you know how to play it ? 
+_t4 		you press . 
+_t4 		the yellow button . 
+_t4 		ok , ready ? 
+_t4 		hmmm+mmmm . 
+_t4 		oh there's music . 
+_t4 		you put the tape out .
+_t4 
+_t4 		and now . 
+_t4 		you want the sound ? 
+_t4 		here . 
+_t4 		mmmm ! 
+_t4 		hmmm ! 
+_t4 		quiet . 
+_t4 		loud !
+_t4 
+_t4 		that's a ball . 
+_t4 		it stays on mommy . 
+_t4 		okay ? 
+_t4 		yeah it's a ball . 
+_t4 		hi . 
+_t4 		just like this microphone . 
+_t4 		ball . 
+_t4 		that's a microphone too . 
+_t4 		sounds like the wind . 
+_t4 		that's a camera . 
+_t4 		that's a different kind of camera . 
+_t4 		you want some music ? 
+_t4 		do you want some music ? 
+_t4 		you wanna put the tape in ? 
+_t4 		tape . 
+_t4 		that's a hole right ? 
+_t4 		hmmm , it's a book . 
+_t4 		baby . 
+_t4 		is there a baby on there ? 
+_t4 		it's a little boy . 
+_t4 		and a little girl . 
+_t4 		and a little girl . 
+_t4 		mmmm+hmmm . 
+_t4 		baby . 
+_t4 		baby , baby , baby . 
+_t4 		you wanna read about barney ? 
+_t4 		tick+tock , tick+tock , tick+tock .
+_t4 
+_t4 		what's that ?
+_t4 
+_t4 		that's a drum . 
+_t4 		xxx . 
+_t4 		xxx , that's right . 
+_t4 		what's that ? 
+_t4 		tick+tock , that's a clock . 
+_t4 		that's right . 
+_t4 		wanna open the book ? 
+_t4 		that's Barney . 
+_t4 		Barney . 
+_t4 		ah ! 
+_t4 		no . 
+_t4 		you wanna hear the story about barney ? 
+_t4 		let's see while we pick a different one . 
+_t4 		there's the dog . 
+_t4 		taking a bath . 
+_t4 		Scooter the puppy . 
+_t4 		rough , rough , rough . 
+_t4 		doggie is a muddy mess . 
+_t4 		his favorite ball . 
+_t4 		bounced into the puddle . 
+_t4 		there's the ball . 
+_t4 		xxx . 
+_t4 		and Scooter bounced in too . 
+_t4 		xxx . 
+_t4 		boing ! 
+_t4 		that's a ball . 
+_t4 		oh no ! 
+_t4 		says b+j . 
+_t4 		check it out ! 
+_t4 		Scooter needs a +... 
+_t4 		bath . 
+_t4 		he's taking a bath . 
+_t4 		right ? 
+_t4 		the doggie's [: doggie is] taking a bath . 
+_t4 		Barney . 
+_t4 		good idea . 
+_t4 		fills the tub with water . 
+_t4 		but Scooter +... 
+_t4 		the doggie +... 
+_t4 		won't get into the tub . 
+_t4 		rough , rough , rough , rough . 
+_t4 		rough , rough , rough , rough , rough . 
+_t4 		Baby Bop pushes . 
+_t4 		and b+j +... 
+_t4 		ay ,   . 
+_t4 		pulls ! 
+_t4 		that's a ball . 
+_t4 		but muddy Scooter +... 
+_t4 		rough , rough , rough , rough . 
+_t4 		just won't move . 
+_t4 		let's use some imagination ! 
+_t4 		xxx . 
+_t4 		says Barney . 
+_t4 		he whispers an idea to b+j . 
+_t4 		check it out . 
+_t4 		ball ! 
+_t4 		what do you want ? 
+_t4 		you want that toy ? 
+_t4 		spin , spin +... 
+_t4 		spin .
+_t4 
+_t4 		spin . 
+_t4 		who are you say(ing) hi to ? 
+_t4 		is somebody out the door ? 
+_t4 		is somebody here ? 
+_t4 		you want +//.
+_t4 
+_t4 		what do you want . 
+_t4 		barney , that's right . 
+_t4 		what do you want . 
+_t4 		you can go get it . 
+_t4 		you wantcher [: want your] car ? 
+_t4 		yes sweetie ? 
+_t4 		are you confused ? 
+_t4 		there's a lot of stuff goin(g) on today . 
+_t4 		camera +... 
+_t4 		and zoo +... 
+_t4 		and Manuela +... 
+_t4 		a lot of stuff goin(g) on today . 
+_t4 		huh ? 
+_t4 		you wanna walk ? 
+_t4 		let's see you walk . 
+_t4 		should we pull it out ? 
+_t4 		let's pull it out , out , out , out , out . 
+_t4 		m'kay [: okay] . 
+_t4 		you wanna walk ? 
+_t4 		wanna walk ? 
+_t4 		xxx go away . 
+_t4 		come to mommy . 
+_t4 		yay ! 
+_t4 		yay ! 
+_t4 		you're gonna go into your bottle . 
+_t4 		very good , sweetie ! 
+_t4 		boom , bonk ! 
+_t4 		can you turn it around ? 
+_t4 		fought , bought . 
+_t4 		walk , walk , walk , walk . 
+_t4 		you are walking . 
+_t4 		ready . 
+_t4 		whoops . 
+_t4 		turn it around . 
+_t4 		where you gonna go ? 
+_t4 		you're falling down . 
+_t4 		should we take another walk ? 
+_t4 		you wanna walk over there ? 
+_t4 		wanna walk back ? 
+_t4 		you have_to turn it around . 
+_t4 		ok .
+_t4 
+_t4 		yeah .
+_t4 		I'll help you . 
+_t4 		up . 
+_t4 		here ya [: you] go . 
+_t4 		let's put this down . 
+_t4 		and you . 
+_t4 		stand up . 
+_t4 		there you go . 
+_t4 		whoa ! 
+_t4 		slow down . 
+_t4 		up . 
+_t4 		and . 
+_t4 		go . 
+_t4 		one . 
+_t4 		two . 
+_t4 		three . 
+_t4 		walk ! 
+_t4 		walk . 
+_t4 		yay !
+_t4 
+_t4 		you want up ? 
+_t4 		where ? 
+_t4 		you're up ! 
+_t4 		you want mommy up ? 
+_t4 		so you go together ? 
+_t4 		ready ? 
+_t4 		walk . 
+_t4 		walk . 
+_t4 		walk . 
+_t4 		walk . 
+_t4 		walk . 
+_t4 		walk . 
+_t4 		okay . 
+_t4 		suit yourself .
+_t4 
+_t4 		Ethan is walking .
+_t4 
+_t4 		Ethan's [: Ethan is] walking . 
+_t4 		yay ! 
+_t4 		yay , bonk . 
+_t4 		there's your cat . 
+_t4 		do you want the cat ? 
+_t4 		out ? 
+_t4 		here's your cat . 
+_t4 		what else do you want ? 
+_t4 		you want the bear ? 
+_t4 		this bear ? 
+_t4 		okay .
+_t4 
+_t4 		what else do you want ? 
+_t4 		sheep ? 
+_t4 		you want it out ? 
+_t4 		bonk , bonk , bonk , bonk , bonk . 
+_t4 		baa . 
+_t4 		baa . 
+_t4 		down ? 
+_t4 		there they are . 
+_t4 		now what do you want ? 
+_t4 		up . 
+_t4 		you want up ? 
+_t4 		you wanna go into the crib ? 
+_t4 		up , up , up , up , up , up , up , up . 
+_t4 		down . 
+_t4 		whoa ! 
+_t4 		you want up ? 
+_t4 		up . 
+_t4 		up . 
+_t4 		up . 
+_t4 		peek+a+boo . 
+_t4 		peek+a+boo . 
+_t4 		should we take this down ? 
+_t4 		you wanna see ? 
+_t4 		peek+a+boo . 
+_t4 		what do you want ? 
+_t4 		what do you want ? 
+_t4 		what do you want ? 
+_t4 		that's my pack . 
+_t4 		you want up ? 
+_t4 		up up up . 
+_t4 		down . 
+_t4 		up up .
+_t4 
+_t4 		you want up ?
+_t4 
+_t4 		you doing it yourself . 
+_t4 		cmon [: come on] . 
+_t4 		mommy will help you . 
+_t4 		you want up ? 
+_t4 		up ! 
+_t4 		up . 
+_t4 		you're flying . 
+_t4 		and here are all your animals . 
+_t4 		you wanted the animals . 
+_t4 		you want a book ?
+_t4 
+_t4 		what book do you want Ethan ? 
+_t4 		that one's stuck . 
+_t4 		howbout [: how about] this book . 
+_t4 		you wanna look at this book ? 
+_t4 		Maisy .
+_t4 
+_t4 		collects the eggs . 
+_t4 		what are those Ethan ?
+_t4 
+_t4 		chickens . 
+_t4 		one egg ! 
+_t4 		two eggs . 
+_t4 		three eggs . 
+_t4 		up , a little baby chicken . 
+_t4 		chicken . 
+_t4 		hmmm  . 
+_t4 		down . 
+_t4 		should we turn the page ? 
+_t4 		ready ? 
+_t4 		Maisy rides the horse . 
+_t4 		duty  did did  ,     . 
+_t4 		giddy+up , giddy+up , giddy+up , yup , up , papa . 
+_t4 		pull . 
+_t4 		that's right . 
+_t4 		and the horse goes . 
+_t4 		giddy+up . 
+_t4 		what's behind the gate Ethan ? 
+_t4 		can you open the door ? 
+_t4 		here . 
+_t4 		open . 
+_t4 		xxx ! 
+_t4 		shut . 
+_t4 		open . 
+_t4 		shut .
+_t4 
+_t4 		this one's broken . 
+_t4 		horse . 
+_t4 		that's a horse . 
+_t4 		horse . 
+_t4 		horse . 
+_t4 		doodle oodle oodle oodle loo , round , and around , and around , and around , and around and around , and around , round , round rand do . 
+_t4 		you wanna go to the next page ? 
+_t4 		Maisy feeds the baby sheep . 
+_t4 		what's that Ethan ? 
+_t4 		yeah , the sheep has a bottle . 
+_t4 		the sheep drinks all the milk . 
+_t4 		did you see that ? 
+_t4 		and what's that ? 
+_t4 		what's that ? 
+_t4 		what's this ? 
+_t4 		doggie . 
+_t4 		and the tail goes . 
+_t4 		ee: . 
+_t4 		can you pull it ? 
+_t4 		that's right . 
+_t4 		and the bottle goes . 
+_t4 		next page . 
+_t4 		what's that ? 
+_t4 		Maisy drives the tractor . 
+_t4 		that's a hard one . 
+_t4 		mommy can do that one , right ? 
+_t4 		wee ! 
+_t4 		wee !
+_t4 
+_t4 		tractor . 
+_t4 		ready ? 
+_t4 		wee ! 
+_t4 		that's like a car . 
+_t4 		it has wheels . 
+_t4 		xxx . 
+_t4 		and what's behind here . 
+_t4 		do you remember ?
+_t4 
+_t4 		here's a +... 
+_t4 		bird . 
+_t4 		a bird . 
+_t4 		right that's a car . 
+_t4 		that's a car . 
+_t4 		ready . 
+_t4 		and we want mommy to make it move . 
+_t4 		dyomp . 
+_t4 		dyomp . 
+_t4 		and the bird says . 
+_t4 		woo ! 
+_t4 		woo ! 
+_t4 		you wanna make it go ? 
+_t4 		tractor . 
+_t4 		up , down . 
+_t4 		can you say up , down ? 
+_t4 		up down . 
+_t4 		up down . 
+_t4 		up down . 
+_t4 		up down . 
+_t4 		should we turn the page ?
+_t4 
+_t4 		yeah , it's a car . 
+_t4 		with a flower on it . 
+_t4 		huh ! 
+_t4 		Maisy gives the geese a drink . 
+_t4 		huh ! 
+_t4 		look +...
+_t4 
+_t4 		it's water that's right . 
+_t4 		and these are the wings . 
+_t4 		flap , flap , flap , flap , flap , flap , flap . 
+_t4 		flap , flap , flap , flap . 
+_t4 		water . 
+_t4 		that's right it's water . 
+_t4 		drip , drip , drip , drip , drip , drip , drip , drip , drip , drip , drip , drip ! 
+_t4 		drip , drip , drip , drip , drip , drip , drip , drip , drip , drip ! 
+_t4 		tractor . 
+_t4 		gentle please . 
+_t4 		it's a car . 
+_t4 		yeah . 
+_t4 		and it's a flower . 
+_t4 		that's right . 
+_t4 		tractor . 
+_t4 		car . 
+_t4 		hmmm . 
+_t4 		that's a wheel . 
+_t4 		I know you want it to go around and around . 
+_t4 		but it doesn't . 
+_t4 		not in this book . 
+_t4 		it doesn't . 
+_t4 		what's that one ? 
+_t4 		up ! 
+_t4 		that's the tail . 
+_t4 		gentle , sweetie . 
+_t4 		he drinks the bottle . 
+_t4 		the little sheep . 
+_t4 		drinks the bottle . 
+_t4 		you're gonna break it . 
+_t4 		what happens next ? 
+_t4 		huh ! 
+_t4 		what does Maisy do ? 
+_t4 		up the tree , down . 
+_t4 		up . 
+_t4 		down . 
+_t4 		up . 
+_t4 		down . 
+_t4 		Maisy's [: Maisy is] picking apples . 
+_t4 		see the apples ? 
+_t4 		yeah , apple . 
+_t4 		huh ! 
+_t4 		peek+a+boo . 
+_t4 		it's a bird ! 
+_t4 		it's a bird . 
+_t4 		and Maisy's [: Maisy is] going . 
+_t4 		up . 
+_t4 		down . 
+_t4 		up . 
+_t4 		down . 
+_t4 		up . 
+_t4 		down . 
+_t4 		up . 
+_t4 		down , up . 
+_t4 		down , up . 
+_t4 		down , up . 
+_t4 		wanna turn the page ? 
+_t4 		okay .
+_t4 
+_t4 		Maisy cleans out the pig+sty . 
+_t4 		say bye+bye . 
+_t4 		xxx got a book ? 
+_t4 		that's not daddy ! 
+_t4 		that's not daddy ! 
+_t4 		that's Manuela . 
+_t4 		Manuela . 
+_t4 		Manuela ! 
+_t4 		it's not daddy . 
+_t4 		daddy's at work . 
+_t4 		he's shoveling . 
+_t4 		see ? 
+_t4 		it moves . 
+_t4 		you know what that is , Ethan ? 
+_t4 		pig . 
+_t4 		you like the tractor . 
+_t4 		uh , gentle . 
+_t4 		it's a tractor that's right . 
+_t4 		tractor . 
+_t4 		it's a car too . 
+_t4 		that's right . 
+_t4 		that's right sweetie . 
+_t4 		it's a car . 
+_t4 		tractor , yay ! 
+_t4 		yeah , that's my backpack . 
+_t4 		tractor . 
+_t4 		backpack . 
+_t4 		yay ! 
+_t4 		car , right sweetie , yay ! 
+_t4 		camera . 
+_t4 		where's the camera ? 
+_t4 		hmmm .
+_t4 
+_t4 		yay ! 
+_t4 		yeah , bubbles . 
+_t4 		you want some more bubbles ? 
+_t4 		ready , one , two , three +... 
+_t4 		bubble ! 
+_t4 		pop . 
+_t4 		oh , catch it , catch it . 
+_t4 		catch it , catch it , catch it , catch it , catch it , catch it .
+_t4 
+_t4 		pop . 
+_t4 		goes right on the tractor . 
+_t4 		xxx . 
+_t4 		backpack . 
+_t4 		xxx . 
+_t4 		yeah , you have a backpack on . 
+_t4 		xxx . 
+_t4 		backpack . 
+_t4 		that's right sweetie .
+_t4 
+_t4 		does it bother you ? 
+_t4 		does it bother you ? 
+_t4 		let's play with something . 
+_t4 		you want your car ? 
+_t4 		that's a man . 
+_t4 		that's right . 
+_t4 		the man is driving a car ! 
+_t4 		rum ! 
+_t4 		the man goes didi , didi , didi , didi , didi didi , didi ,  . 
+_t4 		you want him to go back and forth ? 
+_t4 		watch . 
+_t4 		he doesn't come out . 
+_t4 		woo . 
+_t4 		woo . 
+_t4 		woo . 
+_t4 		woo . 
+_t4 		would you like some apple ? 
+_t4 		would you like some more apple ? 
+_t4 		the apple's over there . 
+_t4 		you want some apple ? 
+_t4 		apple . 
+_t4 		tractor . 
+_t4 		gentle . 
+_t4 		what's behind here ? 
+_t4 		you have_to pull that . 
+_t4 		there's a bird behind there that's right . 
+_t4 		can you pull it ? 
+_t4 		pull . 
+_t4 		pull . 
+_t4 		tweet . 
+_t4 		tweet . 
+_t4 		and you have_to push it . 
+_t4 		it goes bye bye . 
+_t4 		that was a bird . 
+_t4 		bird .
+_t4 
+_t4 		you wanna see what's there ? 
+_t4 		what's there ? 
+_t4 		what are you pulling ? 
+_t4 		uh ! 
+_t4 		you're pulling a shovel . 
+_t4 		that's a shovel . 
+_t4 		I'm gonna sneeze . 
+_t4 		I'm gonna sneeze . 
+_t4 		horse . 
+_t4 		Maisy's [: Maisy is] on a horse .
+_t4 
+_t4 		it's a horse sweetie . 
+_t4 		gentle with that too . 
+_t4 		it's gonna fall off , it's breaking already . 
+_t4 		it's gonna fall of . 
+_t4 		almost broken . 
+_t4 		you wanna look at the last page ? 
+_t4 		what's on the last page ? 
+_t4 		lots_of doors . 
+_t4 		geese . 
+_t4 		geese . 
+_t4 		that's a hard one , what's here ? 
+_t4 		horses . 
+_t4 		geese . 
+_t4 		what's under that one ? 
+_t4 		what's that Ethan . 
+_t4 		chickens . 
+_t4 		bok bok , bok bok , bok bok , bok bok . 
+_t4 		what's there ? 
+_t4 		ha  , what's that Ethan ? 
+_t4 		you saw that today . 
+_t4 		pig . 
+_t4 		dog . 
+_t4 		here's the dog's house . 
+_t4 		xxx . 
+_t4 		backpack that's right . 
+_t4 		Ethan has a backpack . 
+_t4 		Ethan has a backpack . 
+_t4 		oh  .
+_t4 
+_t4 		I hear the telephone . 
+_t4 		ring ? 
+_t4 		you want the bubbles ? 
+_t4 		or your bottle ? 
+_t4 		bubble . 
+_t4 		you want your bottle . 
+_t4 		it's right here . 
+_t4 		you're untying your shoe , sweetie . 
+_t4 		chickens , that's right . 
+_t4 		apple . 
+_t4 		car , man . 
+_t4 		chickens . 
+_t4 		bok bok , bok bok , bok bok , bok bok . 
+_t4 		what's that ? 
+_t4 		here's the dog . 
+_t4 		peek boo . 
+_t4 		peek+a+boo . 
+_t4 		chicken . 
+_t4 		bok bok , bok bok , bok bok , bok bok , quack quack . 
+_t4 		dog . 
+_t4 		ruf , ruf , ruf , ruf , ruf , ruf . 
+_t4 		bottle , that's right . 
+_t4 		xxx . 
+_t4 		can you take the top off . 
+_t4 		thank you . 
+_t4 		you want some more ? 
+_t4 		more ? 
+_t4 		pop . 
+_t4 		xxx . 
+_t4 		top on . 
+_t4 		more ? 
+_t4 		you just had some . 
+_t4 		pop . 
+_t4 		you just like me to pop the top . 
+_t4 		xxx . 
+_t4 		bye+bye . 
+_t4 		bye+bye . 
+_t4 		huh ? 
+_t4 		bye to ? 
+_t4 		who you saying bye to ? 
+_t4 		Manuela ? 
+_t4 		mommy ? 
+_t4 		money ?
+_t4 
+_t4 		money ? 
+_t4 		xxx . 
+_t4 		daddy ? 
+_t4 		bye+bye . 
+_t4 		bye+bye . 
+_t4 		more bottle ? 
+_t4 		you're thirsty today . 
+_t4 		bye+bye baby . 
+_t4 		xxx . 
+_t4 		more ? 
+_t4 		really ? 
+_t4 		you just want me to work . 
+_t4 		dontchou [: don't you] . 
+_t4 		can you take the top off ? 
+_t4 		pull . 
+_t4 		pull . 
+_t4 		push , push . 
+_t4 		ahh !
+_t4 
+_t4 		up !
+_t4 
+_t4 		good job . 
+_t4 		you gotta put the top on . 
+_t4 		push . 
+_t4 		xxx . 
+_t4 		there we go . 
+_t4 		now you want it off ? 
+_t4 		ok .
+_t4 
+_t4 		pull .
+_t4 
+_t4 		you have_to help . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		ready . 
+_t4 		on . 
+_t4 		push .
+_t4 
+_t4 		push . 
+_t4 		push . 
+_t4 		push .
+_t4 
+_t4 		there we go . 
+_t4 		you want it off ? 
+_t4 		pull .
+_t4 
+_t4 		pull , pull . 
+_t4 		pull .
+_t4 
+_t4 		xxx . 
+_t4 		ah ! 
+_t4 		ah ! 
+_t4 		ah ! 
+_t4 		now it's on . 
+_t4 		you want more ? 
+_t4 		ok . 
+_t4 		xxx . 
+_t4 		pop . 
+_t4 		xxx . 
+_t4 		I see you . 
+_t4 		I see you . 
+_t4 		I see you . 
+_t4 		do , do+do .
+_t4 
+_t4 		I haven't put it on yet right . 
+_t4 		ready . 
+_t4 		ah . 
+_t4 		you did it .
+_t4 
+_t4 		ah ! 
+_t4 		ahh ! 
+_t4 		xxx . 
+_t4 		that's the top . 
+_t4 		xxx . 
+_t4 		want some more apple ? 
+_t4 		whoop+see . 
+_t4 		it's going around . 
+_t4 		uh+oh . 
+_t4 		want some apple ? 
+_t4 		it's your bottle top . 
+_t4 		would you like some apple ? 
+_t4 		hmmm ? 
+_t4 		it's right here . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		where you goin(g) ? 
+_t4 		on the bed ? 
+_t4 		hmmm , are you sleepy Ethan ? 
+_t4 		are you sleepy ? 
+_t4 		you have a backpack that's right . 
+_t4 		backpack . 
+_t4 		it's on your back . 
+_t4 		yeah , that's a ball . 
+_t4 		leave the ball there . 
+_t4 		you can't take it off . 
+_t4 		see mommy's ball ? 
+_t4 		come here . 
+_t4 		no , you have_to leave the ball on . 
+_t4 		okay . 
+_t4 		let's leave it on . 
+_t4 		whoop ! 
+_t4 		I put the top on the apples . 
+_t4 		whoops ! 
+_t4 		hmmm ? 
+_t4 		the top's [: top is] on the apples . 
+_t4 		whoops . 
+_t4 		don't spill those apples , sweetie . 
+_t4 		is it stuck ? 
+_t4 		you got it . 
+_t4 		yay . 
+_t4 		you got it . 
+_t4 		is it stuck ? 
+_t4 		xxx . 
+_t4 		whoa ! 
+_t4 		all the apples fell down . 
+_t4 		you wanna put the apples back in the cup ? 
+_t4 		apple , right .
+_t4 
+_t4 		is that good ? 
+_t4 		can mommy have an apple ? 
+_t4 		hmmm ? 
+_t4 		yep [: yes] apple . 
+_t4 		shake , shake , shake , shake , shake , shake . 
+_t4 		shake , shake , shake , shake , shake , shake , shake , shake . 
+_t4 		it fell off . 
+_t4 		uh+huh ? 
+_t4 		whoops . 
+_t4 		xxx . 
+_t4 		that's your bottle . 
+_t4 		you want some more ? 
+_t4 		do you want it ? 
+_t4 		kisses . 
+_t4 		kisses . 
+_t4 		xxx . 
+_t4 		you're a sweetie pie . 
+_t4 		yes , make a sound ? 
+_t4 		xxx . 
+_t4 		xxx , you put the top on ? 
+_t4 		uh+huh . 
+_t4 		you want the top off ? 
+_t4 		uh ! 
+_t4 		xxx .
+_t4 
+_t4 		boo . 
+_t4 		boop . 
+_t4 		camera . 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		are you laughing ? 
+_t4 		laughing . 
+_t4 		ha      . 
+_t4 		top on . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		you got it . 
+_t4 		whatcha [: what are you] doin(g) ? 
+_t4 		what are you doing ? 
+_t4 		that's the way .
+_t4 
+_t4 		yup . 
+_t4 		it's your bottle . 
+_t4 		yep [: yes] , bottle . 
+_t4 		more ? 
+_t4 		more ?
+_t4 
+_t4 		sunny , huh ? 
+_t4 		too sunny . 
+_t4 		too sunny . 
+_t4 		too sunny silly . 
+_t4 		there you go .
+_t4 
+_t4 		more ? 
+_t4 		whadyou [: what are you] doing to your shoe ? 
+_t4 		whadyou [: what are you] doing to your shoe ? 
+_t4 		you ate all the apple . 
+_t4 		it's all gone . 
+_t4 		bonk . 
+_t4 		bonk . 
+_t4 		xxx . 
+_t4 		roll , ready ? 
+_t4 		ready ? 
+_t4 		Ethan ? 
+_t4 		whoops .
+_t4 
+_t4 		ready ? 
+_t4 		going around and around . 
+_t4 		there it goes to Ethan . 
+_t4 		did you throw it ? 
+_t4 		nah [: no] . 
+_t4 		we can roll it . 
+_t4 		oops . 
+_t4 		and roll it . 
+_t4 		xxx . 
+_t4 		keep your bottle up . 
+_t4 		xxx . 
+_t4 		yay ! 
+_t4 		up ! 
+_t4 		what are you doing ? 
+_t4 		who is this on the floor ? 
+_t4 		huh ? 
+_t4 		no sweetie .
+_t4 
+_t4 		that's +...
+_t4 
+_t4 		whoops . 
+_t4 		whoops . 
+_t4 		you wanna make it jump ? 
+_t4 		where's the ball ? 
+_t4 		it's coming to you . 
+_t4 		you have the hiccups . 
+_t4 		you have the hiccups . 
+_t4 		xxx . 
+_t4 		is that fun ? 
+_t4 		you got it ! 
+_t4 		xxx . 
+_t4 		fell down . 
+_t4 		what's that ? 
+_t4 		camera . 
+_t4 		bye+bye . 
+_t4 		bye+bye . 
+_t4 		bye+bye . 
+_t4 		no don't go outside . 
+_t4 		stay inside . 
+_t4 		stay in the room , sweetie . 
+_t4 		you gonna put on the +//.
+_t4 
+_t4 		up ! 
+_t4 		open . 
+_t4 		open . 
+_t4 		shut . 
+_t4 		open . 
+_t4 		open . 
+_t4 		shut . 
+_t4 		oh be careful of your fingers . 
+_t4 		that's not a toy . 
+_t4 		it's not a toy . 
+_t4 		no , it's not a toy . 
+_t4 		that's outside right ? 
+_t4 		toy . 
+_t4 		it's not a toy . 
+_t4 		that's so mommy can hear you when she's downstairs .
+_t4 
+_t4 		xxx . 
+_t4 		let's stay in the room , Ethan . 
+_t4 		come up . 
+_t4 		come on . 
+_t4 		you gonna stay in the room . 
+_t4 		kay [: okay] ? 
+_t4 		new [: no] , no no no no . 
+_t4 		xxx . 
+_t4 		xxx ! 
+_t4 		whoa ,  ! 
+_t4 		are you okay there ? 
+_t4 		mmmm , you got excited . 
+_t4 		xxx . 
+_t4 		blocks . 
+_t4 		you want the blocks ? 
+_t4 		you want me to take the box of blocks ? 
+_t4 		whoa !
+_t4 
+_t4 		boom . 
+_t4 		boom . 
+_t4 		can you build a tower ? 
+_t4 		one . 
+_t4 		two . 
+_t4 		three . 
+_t4 		no ! 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		what's this Ethan ? 
+_t4 		A . 
+_t4 		A . 
+_t4 		apple . 
+_t4 		xxx boom . 
+_t4 		why you gonna make it go boom ?
+_t4 
+_t4 		boom . 
+_t4 		all the blocks went boom . 
+_t4 		boom . 
+_t4 		up . 
+_t4 		up . 
+_t4 		up . 
+_t4 		up .
+_t4 
+_t4 		up , up , up , up up+up . 
+_t4 		xxx . 
+_t4 		kaboom ! 
+_t4 		kaboom . 
+_t4 		all the way down . 
+_t4 		all the way down . 
+_t4 		what's that ? 
+_t4 		what's your problem ?
+_t4 
+_t4 		xxx . 
+_t4 		more ? 
+_t4 		hi . 
+_t4 		bottle . 
+_t4 		xxx . 
+_t4 		hmmm ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx . 
+_t4 		blocks .
+_t4 
+_t4 		block .
+_t4 
+_t4 		you want this story ? 
+_t4 		where the wild things are .
+_t4 
+_t4 		xxx . 
+_t4 		ah ! 
+_t4 		the night . 
+_t4 		max .
+_t4 
+_t4 		wore his wolf suit .
+_t4 
+_t4 		and made mischief of one kind .
+_t4 
+_t4 		bang     !
+_t4 
+_t4 		and another ,   !
+_t4 
+_t4 		the dog , that's right . 
+_t4 		his mother called him wild thing , and Max said , I'll eat you up ! 
+_t4 		so he was sent to bed without eating anything . 
+_t4 		that very night , in Max's room , a forest grew . 
+_t4 		xxx .
+_t4 
+_t4 		and grew +... 
+_t4 		xxx , and he says ,  . 
+_t4 		and grew +... 
+_t4 		until his ceiling hung with vines , and the walls became the world all around . 
+_t4 		and the ocean tumbled by with a private boat for Max . 
+_t4 		and he sailed off through night and day , and in and out of days and weeks , and almost over a year , to where the wild things are . 
+_t4 		xxx . 
+_t4 		and when he came to the place where the wild things are , they roared their terrible roars . 
+_t4 		roar !
+_t4 
+_t4 		and they gnashed their terrible teeth .
+_t4 
+_t4 		that's kind of a bear . 
+_t4 		xxx . 
+_t4 		and they rolled their terrible eyes .
+_t4 
+_t4 		hello !
+_t4 
+_t4 		hi ! 
+_t4 		is that Manuela ? 
+_t4 		hmmm ? 
+_t4 		that's a tough one .
+_t4 
+_t4 		not daddy , Manuela . 

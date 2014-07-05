@@ -1,0 +1,807 @@
+_d6056 		hi Violet . 
+_d6056 		hi . 
+_d6056 		you wanna do a book . 
+_d6056 		your turn . 
+_d6056 		(o)kay . 
+_d6056 		xxx go get some breakfast with daddy . 
+_d6056 		get outta [: out of] here . 
+_d6056 		okay . 
+_d6056 		wanna do this book ? 
+_d6056 		yeah mommy gotta wear that . 
+_d6056 		(e)xcuse you . 
+_d6056 		mom , mom . 
+_d6056 		talk into the microphone . 
+_d6056 		when you wear it . 
+_d6056 		yeah well , even if I just lay it here they'll be able to hear it . 
+_d6056 		you wanna do this book . 
+_d6056 		xxx . 
+_d6056 		wrapping paper rap . 
+_d6056 		babies got a present a present in a box . 
+_d6056 		it's time to do the wrapping paper wrapping paper rap where you goin(g) you wanna different page ? 
+_d6056 		lift the lid up off the pot no I , which page you goin(g) to ? 
+_d6056 		the one with the bears I bet . 
+_d6056 		wait this one ? 
+_d6056 		apple pie .
+_d6056 
+_d6056 		what's that ? 
+_d6056 		what's beneath the tissue paper what does baby see ?
+_d6056 
+_d6056 		a family of teddy+bears .
+_d6056 
+_d6056 		one . 
+_d6056 		two . 
+_d6056 		three . 
+_d6056 		you like teddy+bears ? 
+_d6056 		you like teddy bears ? 
+_d6056 		oh you like the teddy bears . 
+_d6056 		let's see what the baby does ? 
+_d6056 		fling the teddies on the floor , has baby found ?
+_d6056 
+_d6056 		another piece of tissue paper wave it all around . 
+_d6056 		look at all the paper look who's in the box who's in the box ? 
+_d6056 		who's that ? 
+_d6056 		who's in th box ? 
+_d6056 		kitty cat . 
+_d6056 		kitty cat . 
+_d6056 		want this one . 
+_d6056 		yellow hat red hat . 
+_d6056 		Odenowich . 
+_d6056 		no: , yellow hat is too (.) big . 
+_d6056 		too big . 
+_d6056 		too big . 
+_d6056 		no: . 
+_d6056 		the blue hat is too what ?
+_d6056 
+_d6056 		too small . 
+_d6056 		see look . 
+_d6056 		too small . 
+_d6056 		no: . 
+_d6056 		the red hat is what ? 
+_d6056 		too special . 
+_d6056 		xxx do we gotta get the one where he gets his hat . 
+_d6056 		there's the grandma . 
+_d6056 		no: the green hat is too (.) old look at the spider where's the spider ? 
+_d6056 		see . 
+_d6056 		spider . 
+_d6056 		all finished . 
+_d6056 		wanna do this one again ? 
+_d6056 		no . 
+_d6056 		how about you go get another book then ? 
+_d6056 		you go get another book and mommy wait . 
+_d6056 		go get a book . 
+_d6056 		go get a book . 
+_d6056 		you got a good one ?
+_d6056 
+_d6057 		you got a good one ? 
+_d6057 		uh ,  get nervous ? 
+_d6057 		oh it's oka:y , what happened ? 
+_d6057 		silly . 
+_d6057 		who lives in the jungle ? 
+_d6057 		you got a good one huh ? 
+_d6057 		good job . 
+_d6057 		who's this ? 
+_d6057 		what happened ? 
+_d6057 		nothing . 
+_d6057 		xxx mama .
+_d6057 
+_d6057 		is daddy reading you a book ? 
+_d6057 		mom I'm gettin(g) hungry . 
+_d6057 		go tell dad you want some breakfast . 
+_d6057 		hey  .
+_d6057 
+_d6057 		dad . 
+_d6057 		what you don't want the book ?
+_d6057 
+_d6057 		you gonna get a different one ?
+_d6057 
+_d6057 		you got one , you got two ? 
+_d6057 		huh you can do it . 
+_d6057 		your almost there . 
+_d6057 		good girl . 
+_d6057 		you got two . 
+_d6057 		(o)kay .
+_d6057 
+_d6057 		you wanna read them ? 
+_d6057 		ooh a flashlight . 
+_d6057 		what are ya [: you] havin(g) for breakfast ?
+_d6057 		xxx . 
+_d6057 		what's the matter Violet ? 
+_d6057 		xxx when it's my turn right ? 
+_d6057 		I'll tell you when it's your turn .
+_d6057 
+_d6057 		you got a good one ?
+_d6057 
+_d6057 		what's that one about ?
+_d6057 
+_d6058 		can I see ? 
+_d6058 		okay ,   it's just your brother silly . 
+_d6058 		Clifford's bedtime . 
+_d6058 		it's Clifford's bedtime , his mother helped him into bed . 
+_d6058 		see how she carries him . 
+_d6058 		but Clifford isn't ready he needs his bear . 
+_d6058 		hmmm see his bear . 
+_d6058 		he needs his do:ll . 
+_d6058 		where's the dolly ? 
+_d6058 		where's the dolly ? 
+_d6058 		there's the doggy where's the doll ? 
+_d6058 		that's the doggy , where's the baby doll ? 
+_d6058 		ri:ght right right . 
+_d6058 		he needs his blanket . 
+_d6058 		now clifford needs a drink of water . 
+_d6058 		see his water in there . 
+_d6058 		but Clifford isn't sleepy yet , what does Clifford need now ? 
+_d6058 		what does he need now ?
+_d6058 
+_d6058 		the dolly . 
+_d6058 		the bear . 
+_d6058 		doggy . 
+_d6058 		Clifford needs his good night kiss . 
+_d6058 		ah , you gonna give him a kiss ? 
+_d6058 		nice girl . 
+_d6058 		night night Clifford . 
+_d6058 		sweet dreams Clifford . 
+_d6058 		shh Clifford go ni+night time . 
+_d6058 		how (a)bout this one ? 
+_d6058 		wow look at all the things . 
+_d6058 		what's this ? 
+_d6058 		ball . 
+_d6058 		ball .
+_d6058 
+_d6058 		yeah .
+_d6058 
+_d6058 		ice cream . 
+_d6058 		chair . 
+_d6058 		let's find one where they have other stuff . 
+_d6058 		at school ,  here's all the food . 
+_d6058 		what's that ? 
+_d6058 		peaches ? 
+_d6058 		do you see a banana ? 
+_d6058 		where's the banana ? 
+_d6058 		what page is ? 
+_d6058 		xxx mom , I can I can do this . 
+_d6058 		what does it say  ? 
+_d6058 		hey  . 
+_d6058 		what ? 
+_d6058 		oh , butterfly . 
+_d6058 		the end ,  the end .
+_d6058 
+_d6058 		I don't know if you'll like this one but we'll try it . 
+_d6058 		didn't even open it , how about this one again , no .
+_d6058 
+_d6058 		how about this one ? 
+_d6058 		yeah .
+_d6058 
+_d6058 		see the monkey ? 
+_d6058 		now let's see who's gonna do this . 
+_d6058 		sticks his tongue out . 
+_d6058 		you do it , whats the birdie say ? 
+_d6058 		that's the way . 
+_d6058 		what does the birdie say ?
+_d6058 
+_d6058 		that's the birdie beak . 
+_d6058 		look mom . 
+_d6058 		wow .
+_d6058 
+_d6058 		here's the butterfly: . 
+_d6058 		here's the +//.
+_d6058 
+_d6058 		what is it ? 
+_d6058 		leopard or the cheetah . 
+_d6058 		cheetah maybe . 
+_d6058 		hmmm , no that one doesn't have anything . 
+_d6058 		mom  . 
+_d6058 		yup . 
+_d6058 		where you goin(g) ? 
+_d6058 		hey little lady . 
+_d6058 		ho are you doing this morning ? 
+_d6058 		could you give her a cracker or something to bring in here maybe ? 
+_d6058 		would you like a graham cracker peanut ? 
+_d6058 		my turn yet ? 
+_d6058 		almost .
+_d6058 
+_d6058 		here Violet I'll give you a graham cracker . 
+_d6058 		after you eat your breakfast . 
+_d6058 		that doesn't go up there , Violet . 
+_d6058 		come in here miss Violet . 
+_d6058 		whoa watch your head . 
+_d6058 		you can take (th)em on the go , take (th)em on the go little lady . 
+_d6058 		hey  . 
+_d6058 		your not gonna get your turn unless you sit in their and eat your breakfast .
+_d6058 
+_d6058 		whaddya [: what do you] got ? 
+_d6058 		whaddya [: what do you] got ? 
+_d6058 		peek+a+boo . 
+_d6058 		watch your head . 
+_d6058 		clean up clean up , everybody everywhere . 
+_d6058 		that goes to your baby I think . 
+_d6058 		clean up clean up , everybody do your share . 
+_d6058 		where all these things go Violet ? 
+_d6058 		yes please . 
+_d6058 		yes please .
+_d6058 
+_d6058 		alrighty then . 
+_d6058 		hello Violet . 
+_d6058 		dad can you . 
+_d6058 		wonder if I put this right here , if it will be easy ? 
+_d6058 		huh ? 
+_d6058 		you able to do that ? 
+_d6058 		good girl: . 
+_d6058 		good girl . 
+_d6058 		dad you tied it up too high . 
+_d6058 		I wonder if I put this on here ? 
+_d6058 		you wanna wear it ? 
+_d6058 		you can wear it but I don't know how comfortable it will be while your sitting down . 
+_d6058 		there we go . 
+_d6058 		there . 
+_d6058 		eat up . 
+_d6058 		can't be too comfortable when you're sittin(g) down like that . 
+_d6058 		do you want this pie or what should I do with it ? 
+_d6058 		I'll have a piece . 
+_d6058 		kay .
+_d6058 
+_d6058 		c'mon [: come on]  let's go get dressed . 
+_d6058 		what should we , what should we do with that ? 
+_d6058 		bring it upstairs  . 
+_d6058 		watermelon . 
+_d6058 		its not really the right season for watermelon , is it Violet ? 
+_d6059 		what's the matter ? 
+_d6059 		what ? 
+_d6059 		what's the matter ? 
+_d6059 		you all finished ? 
+_d6059 		are you all finished ? 
+_d6059 		wanna get down ? 
+_d6059 		okay . 
+_d6059 		want another sip of this ? 
+_d6059 		I gotta wipe you off a little bit . 
+_d6059 		dirty dirty . 
+_d6059 		oopsie . 
+_d6059 		just a quick little wipe . 
+_d6059 		can you clean it ? 
+_d6059 		clean clean , Violet do . 
+_d6059 		clean clean . 
+_d6059 		clean clean . 
+_d6059 		good girl . 
+_d6059 		clean clean . 
+_d6059 		xxx clean ya [: you] don't . 
+_d6059 		look clean ya [: you] don't . 
+_d6059 		(o)kay is that all the garbage we have let's see . 
+_d6059 		don't eat that , don't eat that . 
+_d6059 		yuck . 
+_d6059 		don't eat it , use it to clean clean like this . 
+_d6059 		yeah .
+_d6059 
+_d6059 		whoa   . 
+_d6059 		you wanna get down now ? 
+_d6059 		you get down ? 
+_d6059 		hmmm . 
+_d6059 		Violet you wanna get down ? 
+_d6059 		are ya [: you] all finished ? 
+_d6059 		want the little birdie ?
+_d6059 
+_d6059 		okay . 
+_d6059 		uh+oh . 
+_d6059 		uh+oh . 
+_d6059 		uh+oh Violet . 
+_d6059 		her we go .
+_d6059 
+_d6059 		uh+oh .
+_d6059 
+_d6060 		uh+oh miss Violet . 
+_d6060 		uh+oh miss Violet . 
+_d6060 		uh+oh . 
+_d6060 		uh+oh . 
+_d6060 		what's that ? 
+_d6060 		balloon . 
+_d6060 		oops . 
+_d6060 		xxx , everybody . 
+_d6060 		here go put this little egg in the house , (o)kay . 
+_d6060 		put it where it goes , in the house is in there . 
+_d6060 		put it in his little house . 
+_d6060 		tryin(g) to find me . 
+_d6060 		who let ya [: you] love me ?
+_d6060 
+_d6060 		balloon , balloon Violet .
+_d6060 
+_d6060 		balloon .
+_d6060 
+_d6061 		stupid thing , can't get it shut . 
+_d6061 		balloon .
+_d6061 
+_d6061 		xxx . 
+_d6061 		here's a pillow for the baby .
+_d6061 
+_d6061 		here's a pillow for the baby's bed . 
+_d6061 		baby .
+_d6061 
+_d6062 		here's for your tea set . 
+_d6062 		here's the look , here's the baby's bed . 
+_d6062 		you wanna use this . 
+_d6062 		oh , there's a baby . 
+_d6062 		baby . 
+_d6062 		ba:by: . 
+_d6062 		what is on the floor huh ? 
+_d6062 		what's that ?
+_d6062 
+_d6062 		I know the baby's head came off huh ?
+_d6062 
+_d6062 		kinda [: kind of] weird . 
+_d6062 		we gotta sweep now .
+_d6062 
+_d6062 		baby .
+_d6062 
+_d6062 		baby .
+_d6062 
+_d6062 		baby .
+_d6062 
+_d6063 		uh+oh . 
+_d6063 		xxx found the man . 
+_d6063 		here's the man . 
+_d6063 		pirate . 
+_d6063 		pirate . 
+_d6063 		you got the birdie ? 
+_d6063 		uh+oh don't step in the pile . 
+_d6063 		uh , no no miss Violet . 
+_d6063 		yuck ,  . 
+_d6063 		ah . 
+_d6063 		okay . 
+_d6063 		oh , ya [: you] know what +... 
+_d6063 		I gotta sweep up one more little spot . 
+_d6063 		(o)kay right in here . 
+_d6063 		we'll be all finished .
+_d6063 
+_d6063 		okay . 
+_d6063 		grandmas gonna come up and see you today . 
+_d6063 		you wanna visit with grandma today ?
+_d6063 		grandma is gonna come see you . 
+_d6063 		lucky girl . 
+_d6063 		okay . 
+_d6063 		xxx I don't think I can handle doin(g) the dishes right now . 
+_d6063 		ya [: you] know . 
+_d6063 		tele . 
+_d6063 		hello . 
+_d6063 		hi , good how are you ? 
+_d6063 		yup I did and I'm done . 
+_d6063 		okay so I'll see you in a little while . 
+_d6063 		okay miss Violet . 
+_d6063 		what dad ? 
+_d6063 		okay . 
+_d6063 		should we shut these off ? 
+_d6063 		yup , you say bye bye to the camera . 
+_d6063 		ready ? 
+_d6063 		say , can you say bye bye ? 
+_d6063 		can you wave ? 
+_d6063 		can you wave ? 
+_d6063 		can you wave ? 
+_d6063 		say bye bye . 
+_d6063 		come on . 
+_d6063 		say bye bye . 
+_d6063 		say bye bye . 
+_d6063 		bye bye .
+_d6063 
+_d6064 		oh Honey are you alright ?
+_d6064 
+_d6064 		what's the matter ?
+_d6064 
+_d6064 		do you wanna look at this book with the piggy in it ? 
+_d6064 		do you like this one with the piggy ? 
+_d6064 		come over here and sit  [: to] mommy . 
+_d6064 		you like this one with the piggy ? 
+_d6064 		cmon [: come on] . 
+_d6064 		cmon [: come on] I'll show it  [: to] you . 
+_d6064 		cmon [: come on] . 
+_d6064 		cmon [: come on] baby . 
+_d6064 		you want to see the pictures of the piggy ? 
+_d6064 		mommy show you . 
+_d6064 		Charlotte's web . 
+_d6064 		are you okay ? 
+_d6064 		tired ? 
+_d6064 		let's see , there's a spider . 
+_d6064 		okay now ? 
+_d6064 		uh+oh . 
+_d6064 		Fran says don't do it daddy . 
+_d6064 		and there's Avery with the gun . 
+_d6064 		and there's little Wilber: . 
+_d6064 		baby . 
+_d6064 		you wanna see more pictures ? 
+_d6064 		let's see . 
+_d6064 		the nice little piggy goes in his house . 
+_d6064 		huh and she put the piggy in the stroller . 
+_d6064 		huh . 
+_d6064 		and she put the baby . 
+_d6064 		see the piggy eatin(g) his lunch ? 
+_d6064 		here's a goose . 
+_d6064 		uh+oh . 
+_d6064 		watch ou:t the piggy tryin(g)  [: to] get &aw:ay . 
+_d6064 		well see , there's the sheep or the lamb , what does the lamb say ? 
+_d6064 		oh there's a sad Wilbur he's lonely , he's sad . 
+_d6064 		let's see ,  , now's he's happy because he has charlotte . 
+_d6064 		huh . 
+_d6064 		there's a spider . 
+_d6064 		there's a spider . 
+_d6064 		hmmm , wanna see what else there is ? 
+_d6064 		the rat Templeton and the goose and the other goose and there's Fern . 
+_d6064 		there's a sad Wilbur again . 
+_d6064 		huh ,  , he's gonna make , he's gonna pretend he's a spider . 
+_d6064 		well , whose that ? 
+_d6064 		is that Templeton ? 
+_d6064 		what ya [: you] looking for ? 
+_d6064 		spider . 
+_d6064 		wee: , the kids swingin(g) from the rope . 
+_d6064 		uh+oh . 
+_d6064 		and let's see the really  ,  and there's where she makes a pretty spider web . 
+_d6064 		let's see where the one you like . 
+_d6064 		let's see the one you like . 
+_d6064 		ready , terrific ! 
+_d6064 		that's not your favorite one . 
+_d6064 		this is your favorite one yippee: ! 
+_d6064 		huh . 
+_d6064 		he can do tricks huh ? 
+_d6064 		tired goose ? 
+_d6064 		let's see look at the big fat pig .
+_d6064 		bi:g fat pig . 
+_d6064 		now they're gonna wash him . 
+_d6064 		washy washy Wilbur , he's all dirty . 
+_d6064 		wash wash . 
+_d6064 		they have_to washy wash , splashy splash . 
+_d6064 		there's a fair . 
+_d6064 		where's a balloon ? 
+_d6064 		you see a balloon ? 
+_d6064 		ri:ght . 
+_d6064 		clever girl . 
+_d6064 		there's a big fat pig huh ?
+_d6064 		there's Templeton . 
+_d6064 		there's Charlotte makin(g) her egg sack . 
+_d6064 		there's Templeton after he ate everything at the fair . 
+_d6064 		uh look it .
+_d6064 
+_d6064 		yippee: ! 
+_d6064 		first prize for Wilbur . 
+_d6064 		first prize for Wilbu:r . 
+_d6064 		oh the babies are flyin(g) away , all the spiders are flyin(g) away . 
+_d6064 		but some of them will stay with Wilbur . 
+_d6064 		yippee: ! 
+_d6064 		ya [: you] like that story ? 
+_d6064 		huh we gotta fix our microphones don't we ? 
+_d6064 		ya [: you] want another piece of bread love ? 
+_d6064 		hmmm want another piece of bread ? 
+_d6064 		no ? 
+_d6064 		you don't have_to be so sad . 
+_d6064 		I'm be so sad . 
+_d6064 		uh should we get you another piece of bread ? 
+_d6064 		or dya [: do you] wanna [: want a] drink ? 
+_d6064 		ya [: you] done ? 
+_d6064 		dya [: do you] want a drink ? 
+_d6064 		ya [: you] wanna read the book again ? 
+_d6064 		is that whacha [: what you] wanna do , ya [: you] wanna [: want to] look at the book again ? 
+_d6064 		who's that ? 
+_d6064 		Wilbur . 
+_d6064 		there's Fern , there's a spider , and there's a sheep and there's the goose . 
+_d6064 		it's called Charlotte's web . 
+_d6064 		where's a spider . 
+_d6064 		ri:ght . 
+_d6064 		ya [: you] wanna see where she's , let's see the picture where she's (.) feedin(g) him his baba . 
+_d6064 		she given him his milk ? 
+_d6064 		hmmm , the little baby pig . 
+_d6064 		and there's the little baby pigs house . 
+_d6064 		and she put him in the stro:ller and she take him for a ride with the do:lly: . 
+_d6064 		and that's where he eats his dinner . 
+_d6064 		and everybody will watch him . 
+_d6064 		look out ! 
+_d6064 		hehe , he's trying to escape . 
+_d6064 		squeak squea:l squea:l . 
+_d6064 		where's the doggy ? 
+_d6064 		see a doggy ? 
+_d6064 		the doggy ? 
+_d6064 		doggy . 
+_d6064 		hmmm pig . 
+_d6064 		we need to get a tissue in a second .
+_d6064 
+_d6064 		baba: . 
+_d6064 		oh  [: the] sad sad Wilbur . 
+_d6064 		he's cryin(g) he's so sad . 
+_d6064 		uh but now he's gonna meet his friends . 
+_d6064 		Charlotte , there's Charlotte the spider . 
+_d6065 		here he is cryin(g) again , wee: look at the kids swingin(g) . 
+_d6065 		uh  wait wait wait you missed your favorite picture . 
+_d6065 		see . 
+_d6065 		he:y .
+_d6065 		look look . 
+_d6065 		xxx , some pig . 
+_d6065 		you wanna look at this book now ? 
+_d6065 		I turn my tractor wheel around , I scoop some dirt up from the ground , I gotta shut my phone off . 
+_d6065 		I run across the flower bed , what's inside , I scratch my hea:d . 
+_d6065 		I pick the strawberry off it's stem , I lift these up to carry the:m . 
+_d6065 		I eat my watermelon on the chair , don't eat the mushroom please bewa:re . 
+_d6065 		I spray the water all over the place , I reach for the flower in front of my face . 
+_d6065 		the water runs cold between my toes , apples fall off when the wind blows . 
+_d6065 		caterpillar crawls along my hand , this butterfly flutters down to land . 
+_d6065 		the garden I planted is growing behind me ,  some flowers that's where you'll find me . 
+_d6065 		(o)kay mommy's gotta get a tissue . 
+_d6065 		let me get up and get a tissue (o)kay ? 
+_d6065 		you wanna you wanna get  another piece of bread ? 
+_d6065 		I gotta get a tissue . 
+_d6065 		tissue tissue . 
+_d6065 		would you like some more bread ? 
+_d6065 		no (o)kay . 
+_d6065 		what would you like then ? 
+_d6065 		you think it's nappy time ? 
+_d6065 		hey where you goin(g) ? 
+_d6065 		you think it's nappy time ? 
+_d6065 		hmmm , what's the matter ? 
+_d6065 		you show me , you show me where . 
+_d6065 		what daya [: do you] wanna do ? 
+_d6065 		what ya [: you] wanna play trains , how about we play tea set ? 
+_d6065 		you [: you] always like dat [: that] . 
+_d6065 		let's play tea set . 
+_d6065 		hmmm , let's have a tea party . 
+_d6065 		cmon [: come on] you come in here and we'll have a tea party . 
+_d6065 		we have a tea party: , let's film our tea party , huh . 
+_d6065 		hehe , right here look , look look look . 
+_d6065 		shall we have our tea ? 
+_d6065 		ooh there's all mudd all over the floor . 
+_d6065 		okay: . 
+_d6065 		who's gonna have a tea party ? 
+_d6065 		let's see: . 
+_d6065 		we'll set everything up , okay ? 
+_d6065 		wanna sit down ? 
+_d6065 		wanna sit down and have some tea ? 
+_d6065 		wanna sit with mommy , your a good girl . 
+_d6065 		we don't know where that one is but we'll just , put that one like tha:t . 
+_d6065 		and thi:s like thi:s and then some spoons . 
+_d6065 		now , why don't you pour the tea ? 
+_d6065 		would you like to have this cup ? 
+_d6065 		okay let me give you some tea , ya [: you] ready ? 
+_d6065 		oka:y , do you like sugar in your tea ? 
+_d6065 		okay . 
+_d6065 		now I'm gonna have some tea . 
+_d6065 		I'll have a little bit of milk in mine . 
+_d6065 		now we have some tea . 
+_d6065 		hehe , cheers . 
+_d6065 		drink your tea . 
+_d6065 		drink your tea Violet . 
+_d6065 		is yours all finished , do you need some more ? 
+_d6065 		give yourself some more tea . 
+_d6065 		you want some more tea , would you like some more ? 
+_d6065 		hmmm I'll put some in the pink one . 
+_d6065 		some in mine . 
+_d6065 		la la la la la . 
+_d6065 		la la la la la , you wanna mix your own ? 
+_d6065 		who's this one for ? 
+_d6065 		who can have this tea ? 
+_d6065 		huh who can have this tea , anybody ? 
+_d6065 		thank you . 
+_d6065 		ah  . 
+_d6065 		wanna hear the song , you press the button and hear the song . 
+_d6065 		hehe you like that song ? 
+_d6066 		ya [: you] gonna put it away ? 
+_d6066 		ya [: you] gonna put everything in there now ? 
+_d6066 		clean up clean up . 
+_d6066 		everybody everywhere , clean up clean up , everybody do your share . 
+_d6066 		what's that ? 
+_d6066 		yuck ,  . 
+_d6066 		what is it string ? 
+_d6066 		string . 
+_d6066 		oh it's here ,  . 
+_d6066 		hehe . 
+_d6066 		string . 
+_d6066 		want it ? 
+_d6066 		want the string ? 
+_d6066 		woo . 
+_d6066 		ya [: you] like that you wanna see again ?
+_d6066 
+_d6066 		uh+oh . 
+_d6066 		I gotta shut my phone off . 
+_d6066 		let me shut my phone off . 
+_d6066 		I don't know what's on the floor over here , do you ? 
+_d6066 		is it wax ? 
+_d6066 		here it is .
+_d6066 
+_d6066 		what's the matter ? 
+_d6066 		huh , ya [: you] fussy today . 
+_d6066 		what do ya [: you] wanna do ? 
+_d6066 		wanna read another book ?
+_d6066 
+_d6066 		you gonna get another book ? 
+_d6066 		what's that ? 
+_d6066 		go get the bear . 
+_d6066 		let's see the bear . 
+_d6067 		what's he wearin(g) ? 
+_d6067 		what's he wearin(g) , is it Max's shirt ? 
+_d6067 		silly bear . 
+_d6067 		silly bear , what's he wearing ? 
+_d6067 		there there  . 
+_d6067 		we gotta clean the house today Violet . 
+_d6067 		what honey ?
+_d6067 
+_d6067 		what are ya [: you] looking for , ya [: you] looking for the monkey ? 
+_d6067 		what are ya [: you] lookin(g) for ? 
+_d6067 		the monkey ? 
+_d6067 		what ? 
+_d6067 		you wanna find the monkey ? 
+_d6067 		that you and grandma were playing with ? 
+_d6067 		let's see if you want this guy ? 
+_d6067 		want this guy ? 
+_d6067 		see this guy , funny guy .
+_d6067 		you wanna hold that guy ? 
+_d6067 		whoa . 
+_d6067 		I'll hold the bear . 
+_d6067 		or you want both ? 
+_d6067 		there . 
+_d6067 		where you goin(g) with him ? 
+_d6067 		should we put some clothes on him ? 
+_d6067 		should we put some clothes on him ? 
+_d6067 		wanna put this shirt on the monkey would that be funny ? 
+_d6067 		ya [: you] like that ? 
+_d6067 		monkey . 
+_d6067 		monkey .
+_d6067 
+_d6067 		does the monkey want some tea ? 
+_d6067 		monkey and the bear want some tea ? 
+_d6067 		can you get some tea for the monkey and the bear ? 
+_d6067 		uh thank you says the monkey . 
+_d6067 		need a cup though , he needs a cup . 
+_d6067 		he needs a tea cup . 
+_d6067 		there he is . 
+_d6067 		oh . 
+_d6067 		okay can you get some tea for him now ? 
+_d6067 		what daya [: do you] got tea in there ? 
+_d6067 		oh . 
+_d6067 		two cups . 
+_d6067 		one for the bear . 
+_d6067 		can you get the tea pot ? 
+_d6067 		get the tea pot . 
+_d6067 		yeah . 
+_d6067 		now can you put some tea in here please . 
+_d6067 		thank you and some for the monkey . 
+_d6067 		ya [: you] pour it in here ? 
+_d6067 		thank you , oka:y . 
+_d6067 		everybody's got there tea now ? 
+_d6067 		oh , ya [: you] need a little more for the monkey . 
+_d6067 		thank you . 
+_d6067 		did ya [: you] spill a little on me ? 
+_d6067 		hehe , oka:y ready monkey . 
+_d6067 		some for the bear . 
+_d6067 		look at the bear , look what he did . 
+_d6067 		bea:r . 
+_d6067 		look what he did . 
+_d6067 		cup stuck on his nose . 
+_d6067 		oh you gonna give that one to the monkey . 
+_d6067 		thank you . 
+_d6067 		we gotta change your diaper . 
+_d6067 		thank you . 
+_d6067 		is that a cookie ? 
+_d6067 		that a cookie ? 
+_d6067 		thank you . 
+_d6067 		what's that , the baba ? 
+_d6067 		what dyou [: do you] see ? 
+_d6067 		what are ya [: you] looking for ? 
+_d6067 		wanna get the baba ? 
+_d6067 		maybe the monkey wants the baba . 
+_d6067 		no your looking for something else .
+_d6067 
+_d6067 		who's that for ?
+_d6067 
+_d6067 		who's this for ? 
+_d6067 		who's gonna wear this Pooh shirt ? 
+_d6067 		who's gonna wear it ? 
+_d6067 		the monkey wanna wear it ? 
+_d6067 		wanna put it on the monkey ? 
+_d6067 		(o)kay . 
+_d6067 		put the tea party down let's see , you put it on the monkey ? 
+_d6067 		uh , he's losing his shirts . 
+_d6067 		two shirts he has on now huh ? 
+_d6067 		two shirts . 
+_d6067 		there he is . 
+_d6067 		thank you for the cookie: . 
+_d6067 		who's that ? 
+_d6067 		Winnie the Pooh . 
+_d6067 		hi monkey . 
+_d6067 		hi monkey . 
+_d6067 		it's your monkey . 
+_d6067 		that's your nice monkey . 
+_d6067 		hi monke:y . 
+_d6067 		I think his clothes are too big . 
+_d6067 		what dyou [: do you] think should we go upstairs and have a nappy ? 
+_d6067 		oh you're gonna give your baba to the monkey ? 
+_d6067 		should we go up for a nappy ? 
+_d6067 		no . 
+_d6067 		daddy's gonna get it . 
+_d6067 		do you want this ?
+_d6067 
+_d6067 		wanna bite ? 
+_d6067 		what ? 
+_d6067 		what's the matter honey ? 
+_d6067 		what's the matter ya [: you] want more toast ? 
+_d6067 		ya [: you] wanna see this ? 
+_d6067 		there's nothing in here now . 
+_d6067 		just dirt . 
+_d6067 		it's suppose to be growin(g) but I don't know if it's growin(g) , I don't see it . 
+_d6067 		maybe we'll have_to give it some more water , huh ? 
+_d6067 		should we give it some more water ? 
+_d6067 		give it some more water , don't touch that radiator because it's hot . 
+_d6067 		I'll give it some more water . 
+_d6067 		water . 
+_d6067 		there . 
+_d6067 		(o)kay move away from the radiator . 
+_d6067 		hot see . 
+_d6067 		good girl . 
+_d6067 		you want some more bread ? 
+_d6067 		what's the monkey go ? 
+_d6067 		huh , where'd [: where did] the monkey go ? 
+_d6068 		what's the matter , where's the monkey ? 
+_d6068 		you need help finding the monkey ? 
+_d6068 		where is he ? 
+_d6068 		huh , there he is . 
+_d6068 		he's right here . 
+_d6068 		monkey . 
+_d6068 		silly old monkey . 
+_d6068 		you want him back . 
+_d6068 		he's havin(g) his baba . 
+_d6068 		should we put him in your high+chair , look . 
+_d6068 		do you wanna sit in the chair ? 
+_d6068 		I can move the seat down I think . 
+_d6068 		let's see how do you +..? 
+_d6068 		oh , I think it's down as far as it goes Violet . 
+_d6068 		no , it should go down farther than that . 
+_d6068 		oh well . 
+_d6068 		oh I see I got it now . 
+_d6068 		look . 
+_d6068 		there's the monkey , there he is . 
+_d6068 		that's a good spot for the monkey huh ? 
+_d6068 		this is the way we sweep the floor sweep the floor , this is the way we sweep the floor . 
+_d6068 		this is the way we sweep the floor . 
+_d6068 		so early in the morning . 
+_d6068 		hmmm . 
+_d6069 		toast . 
+_d6069 		who made a big messy under their chair ? 
+_d6069 		was it you mister monkey ? 
+_d6069 		look what the monkey did he made a big mess , he threw down all this food . 
+_d6069 		naughty naughty monkey . 
+_d6069 		uh  , miss violet . 
+_d6069 		leave that there please . 
+_d6069 		uh  ooh ,   ooh . 
+_d6069 		think your the one who made the mess huh ? 
+_d6069 		didn't you ? 
+_d6069 		you're the messy monkey . 
+_d6070 		oh your gonna give some to the monkey ? 
+_d6070 		a nice girl . 
+_d6070 		ya [: you] gettin(g) tired yet ? 
+_d6070 		let me dump this out , then mommy pick you up . 
+_d6070 		there . 
+_d6070 		need me to pick ya [: you] up ? 
+_d6070 		you good girl . 
+_d6070 		oh boy you got carrots in your ear . 
+_d6070 		you got carrots in your ear . 
+_d6070 		huh . 
+_d6070 		carrots . 
+_d6070 		hehe carrots , carrots . 
+_d6070 		and squash . 
+_d6070 		and pumpkins . 
+_d6070 		what's that . 
+_d6070 		see the cup . 
+_d6070 		I think it's empty but I can fill it up if you want . 
+_d6070 		you need some more juicy . 
+_d6070 		let's see . 
+_d6070 		mommy give you some more juicy okay . 
+_d6070 		this one's [: one is] empty . 
+_d6070 		I know I'll give you the kind that Max had that he didn't finish . 
+_d6070 		plea:se mama ,  I'll have_to throw it in the garbage if you don't want it . 
+_d6070 		throw it in the garbage . 
+_d6070 		thank you . 
+_d6070 		thank you . 
+_d6070 		here ya [: you] go . 
+_d6070 		good girl , good girl . 
+_d6070 		good girl . 
+_d6070 		now you can have your juice . 
+_d6070 		there . 
+_d6070 		I wanna hold you . 
+_d6070 		that's in the garbage .
+_d6070 
+_d6070 		you don't want to go in there now . 
+_d6070 		dirty , here's the monkey . 
+_d6070 		hehe , silly monkey . 
+_d6070 		monkey . 
+_d6070 		alright , we gotta go upstairs so mommy can take a shower . 
+_d6070 		(o)kay . 
+_d6070 		should we take off your back pack . 
+_d6070 		let's take this off . 

@@ -1,0 +1,807 @@
+_t4 		hi Violet . 
+_t4 		hi . 
+_t4 		you wanna do a book . 
+_t4 		your turn . 
+_t4 		(o)kay . 
+_t4 		xxx go get some breakfast with daddy . 
+_t4 		get outta [: out of] here . 
+_t4 		okay . 
+_t4 		wanna do this book ? 
+_t4 		yeah mommy gotta wear that . 
+_t4 		(e)xcuse you . 
+_t4 		mom , mom . 
+_t4 		talk into the microphone . 
+_t4 		when you wear it . 
+_t4 		yeah well , even if I just lay it here they'll be able to hear it . 
+_t4 		you wanna do this book . 
+_t4 		xxx . 
+_t4 		wrapping paper rap . 
+_t4 		babies got a present a present in a box . 
+_t4 		it's time to do the wrapping paper wrapping paper rap where you goin(g) you wanna different page ? 
+_t4 		lift the lid up off the pot no I , which page you goin(g) to ? 
+_t4 		the one with the bears I bet . 
+_t4 		wait this one ? 
+_t4 		apple pie .
+_t4 
+_t4 		what's that ? 
+_t4 		what's beneath the tissue paper what does baby see ?
+_t4 
+_t4 		a family of teddy+bears .
+_t4 
+_t4 		one . 
+_t4 		two . 
+_t4 		three . 
+_t4 		you like teddy+bears ? 
+_t4 		you like teddy bears ? 
+_t4 		oh you like the teddy bears . 
+_t4 		let's see what the baby does ? 
+_t4 		fling the teddies on the floor , has baby found ?
+_t4 
+_t4 		another piece of tissue paper wave it all around . 
+_t4 		look at all the paper look who's in the box who's in the box ? 
+_t4 		who's that ? 
+_t4 		who's in th box ? 
+_t4 		kitty cat . 
+_t4 		kitty cat . 
+_t4 		want this one . 
+_t4 		yellow hat red hat . 
+_t4 		Odenowich . 
+_t4 		no: , yellow hat is too (.) big . 
+_t4 		too big . 
+_t4 		too big . 
+_t4 		no: . 
+_t4 		the blue hat is too what ?
+_t4 
+_t4 		too small . 
+_t4 		see look . 
+_t4 		too small . 
+_t4 		no: . 
+_t4 		the red hat is what ? 
+_t4 		too special . 
+_t4 		xxx do we gotta get the one where he gets his hat . 
+_t4 		there's the grandma . 
+_t4 		no: the green hat is too (.) old look at the spider where's the spider ? 
+_t4 		see . 
+_t4 		spider . 
+_t4 		all finished . 
+_t4 		wanna do this one again ? 
+_t4 		no . 
+_t4 		how about you go get another book then ? 
+_t4 		you go get another book and mommy wait . 
+_t4 		go get a book . 
+_t4 		go get a book . 
+_t4 		you got a good one ?
+_t4 
+_t4 		you got a good one ? 
+_t4 		uh ,  get nervous ? 
+_t4 		oh it's oka:y , what happened ? 
+_t4 		silly . 
+_t4 		who lives in the jungle ? 
+_t4 		you got a good one huh ? 
+_t4 		good job . 
+_t4 		who's this ? 
+_t4 		what happened ? 
+_t4 		nothing . 
+_t4 		xxx mama .
+_t4 
+_t4 		is daddy reading you a book ? 
+_t4 		mom I'm gettin(g) hungry . 
+_t4 		go tell dad you want some breakfast . 
+_t4 		hey  .
+_t4 
+_t4 		dad . 
+_t4 		what you don't want the book ?
+_t4 
+_t4 		you gonna get a different one ?
+_t4 
+_t4 		you got one , you got two ? 
+_t4 		huh you can do it . 
+_t4 		your almost there . 
+_t4 		good girl . 
+_t4 		you got two . 
+_t4 		(o)kay .
+_t4 
+_t4 		you wanna read them ? 
+_t4 		ooh a flashlight . 
+_t4 		what are ya [: you] havin(g) for breakfast ?
+_t4 		xxx . 
+_t4 		what's the matter Violet ? 
+_t4 		xxx when it's my turn right ? 
+_t4 		I'll tell you when it's your turn .
+_t4 
+_t4 		you got a good one ?
+_t4 
+_t4 		what's that one about ?
+_t4 
+_t4 		can I see ? 
+_t4 		okay ,   it's just your brother silly . 
+_t4 		Clifford's bedtime . 
+_t4 		it's Clifford's bedtime , his mother helped him into bed . 
+_t4 		see how she carries him . 
+_t4 		but Clifford isn't ready he needs his bear . 
+_t4 		hmmm see his bear . 
+_t4 		he needs his do:ll . 
+_t4 		where's the dolly ? 
+_t4 		where's the dolly ? 
+_t4 		there's the doggy where's the doll ? 
+_t4 		that's the doggy , where's the baby doll ? 
+_t4 		ri:ght right right . 
+_t4 		he needs his blanket . 
+_t4 		now clifford needs a drink of water . 
+_t4 		see his water in there . 
+_t4 		but Clifford isn't sleepy yet , what does Clifford need now ? 
+_t4 		what does he need now ?
+_t4 
+_t4 		the dolly . 
+_t4 		the bear . 
+_t4 		doggy . 
+_t4 		Clifford needs his good night kiss . 
+_t4 		ah , you gonna give him a kiss ? 
+_t4 		nice girl . 
+_t4 		night night Clifford . 
+_t4 		sweet dreams Clifford . 
+_t4 		shh Clifford go ni+night time . 
+_t4 		how (a)bout this one ? 
+_t4 		wow look at all the things . 
+_t4 		what's this ? 
+_t4 		ball . 
+_t4 		ball .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		ice cream . 
+_t4 		chair . 
+_t4 		let's find one where they have other stuff . 
+_t4 		at school ,  here's all the food . 
+_t4 		what's that ? 
+_t4 		peaches ? 
+_t4 		do you see a banana ? 
+_t4 		where's the banana ? 
+_t4 		what page is ? 
+_t4 		xxx mom , I can I can do this . 
+_t4 		what does it say  ? 
+_t4 		hey  . 
+_t4 		what ? 
+_t4 		oh , butterfly . 
+_t4 		the end ,  the end .
+_t4 
+_t4 		I don't know if you'll like this one but we'll try it . 
+_t4 		didn't even open it , how about this one again , no .
+_t4 
+_t4 		how about this one ? 
+_t4 		yeah .
+_t4 
+_t4 		see the monkey ? 
+_t4 		now let's see who's gonna do this . 
+_t4 		sticks his tongue out . 
+_t4 		you do it , whats the birdie say ? 
+_t4 		that's the way . 
+_t4 		what does the birdie say ?
+_t4 
+_t4 		that's the birdie beak . 
+_t4 		look mom . 
+_t4 		wow .
+_t4 
+_t4 		here's the butterfly: . 
+_t4 		here's the +//.
+_t4 
+_t4 		what is it ? 
+_t4 		leopard or the cheetah . 
+_t4 		cheetah maybe . 
+_t4 		hmmm , no that one doesn't have anything . 
+_t4 		mom  . 
+_t4 		yup . 
+_t4 		where you goin(g) ? 
+_t4 		hey little lady . 
+_t4 		ho are you doing this morning ? 
+_t4 		could you give her a cracker or something to bring in here maybe ? 
+_t4 		would you like a graham cracker peanut ? 
+_t4 		my turn yet ? 
+_t4 		almost .
+_t4 
+_t4 		here Violet I'll give you a graham cracker . 
+_t4 		after you eat your breakfast . 
+_t4 		that doesn't go up there , Violet . 
+_t4 		come in here miss Violet . 
+_t4 		whoa watch your head . 
+_t4 		you can take (th)em on the go , take (th)em on the go little lady . 
+_t4 		hey  . 
+_t4 		your not gonna get your turn unless you sit in their and eat your breakfast .
+_t4 
+_t4 		whaddya [: what do you] got ? 
+_t4 		whaddya [: what do you] got ? 
+_t4 		peek+a+boo . 
+_t4 		watch your head . 
+_t4 		clean up clean up , everybody everywhere . 
+_t4 		that goes to your baby I think . 
+_t4 		clean up clean up , everybody do your share . 
+_t4 		where all these things go Violet ? 
+_t4 		yes please . 
+_t4 		yes please .
+_t4 
+_t4 		alrighty then . 
+_t4 		hello Violet . 
+_t4 		dad can you . 
+_t4 		wonder if I put this right here , if it will be easy ? 
+_t4 		huh ? 
+_t4 		you able to do that ? 
+_t4 		good girl: . 
+_t4 		good girl . 
+_t4 		dad you tied it up too high . 
+_t4 		I wonder if I put this on here ? 
+_t4 		you wanna wear it ? 
+_t4 		you can wear it but I don't know how comfortable it will be while your sitting down . 
+_t4 		there we go . 
+_t4 		there . 
+_t4 		eat up . 
+_t4 		can't be too comfortable when you're sittin(g) down like that . 
+_t4 		do you want this pie or what should I do with it ? 
+_t4 		I'll have a piece . 
+_t4 		kay .
+_t4 
+_t4 		c'mon [: come on]  let's go get dressed . 
+_t4 		what should we , what should we do with that ? 
+_t4 		bring it upstairs  . 
+_t4 		watermelon . 
+_t4 		its not really the right season for watermelon , is it Violet ? 
+_t4 		what's the matter ? 
+_t4 		what ? 
+_t4 		what's the matter ? 
+_t4 		you all finished ? 
+_t4 		are you all finished ? 
+_t4 		wanna get down ? 
+_t4 		okay . 
+_t4 		want another sip of this ? 
+_t4 		I gotta wipe you off a little bit . 
+_t4 		dirty dirty . 
+_t4 		oopsie . 
+_t4 		just a quick little wipe . 
+_t4 		can you clean it ? 
+_t4 		clean clean , Violet do . 
+_t4 		clean clean . 
+_t4 		clean clean . 
+_t4 		good girl . 
+_t4 		clean clean . 
+_t4 		xxx clean ya [: you] don't . 
+_t4 		look clean ya [: you] don't . 
+_t4 		(o)kay is that all the garbage we have let's see . 
+_t4 		don't eat that , don't eat that . 
+_t4 		yuck . 
+_t4 		don't eat it , use it to clean clean like this . 
+_t4 		yeah .
+_t4 
+_t4 		whoa   . 
+_t4 		you wanna get down now ? 
+_t4 		you get down ? 
+_t4 		hmmm . 
+_t4 		Violet you wanna get down ? 
+_t4 		are ya [: you] all finished ? 
+_t4 		want the little birdie ?
+_t4 
+_t4 		okay . 
+_t4 		uh+oh . 
+_t4 		uh+oh . 
+_t4 		uh+oh Violet . 
+_t4 		her we go .
+_t4 
+_t4 		uh+oh .
+_t4 
+_t4 		uh+oh miss Violet . 
+_t4 		uh+oh miss Violet . 
+_t4 		uh+oh . 
+_t4 		uh+oh . 
+_t4 		what's that ? 
+_t4 		balloon . 
+_t4 		oops . 
+_t4 		xxx , everybody . 
+_t4 		here go put this little egg in the house , (o)kay . 
+_t4 		put it where it goes , in the house is in there . 
+_t4 		put it in his little house . 
+_t4 		tryin(g) to find me . 
+_t4 		who let ya [: you] love me ?
+_t4 
+_t4 		balloon , balloon Violet .
+_t4 
+_t4 		balloon .
+_t4 
+_t4 		stupid thing , can't get it shut . 
+_t4 		balloon .
+_t4 
+_t4 		xxx . 
+_t4 		here's a pillow for the baby .
+_t4 
+_t4 		here's a pillow for the baby's bed . 
+_t4 		baby .
+_t4 
+_t4 		here's for your tea set . 
+_t4 		here's the look , here's the baby's bed . 
+_t4 		you wanna use this . 
+_t4 		oh , there's a baby . 
+_t4 		baby . 
+_t4 		ba:by: . 
+_t4 		what is on the floor huh ? 
+_t4 		what's that ?
+_t4 
+_t4 		I know the baby's head came off huh ?
+_t4 
+_t4 		kinda [: kind of] weird . 
+_t4 		we gotta sweep now .
+_t4 
+_t4 		baby .
+_t4 
+_t4 		baby .
+_t4 
+_t4 		baby .
+_t4 
+_t4 		uh+oh . 
+_t4 		xxx found the man . 
+_t4 		here's the man . 
+_t4 		pirate . 
+_t4 		pirate . 
+_t4 		you got the birdie ? 
+_t4 		uh+oh don't step in the pile . 
+_t4 		uh , no no miss Violet . 
+_t4 		yuck ,  . 
+_t4 		ah . 
+_t4 		okay . 
+_t4 		oh , ya [: you] know what +... 
+_t4 		I gotta sweep up one more little spot . 
+_t4 		(o)kay right in here . 
+_t4 		we'll be all finished .
+_t4 
+_t4 		okay . 
+_t4 		grandmas gonna come up and see you today . 
+_t4 		you wanna visit with grandma today ?
+_t4 		grandma is gonna come see you . 
+_t4 		lucky girl . 
+_t4 		okay . 
+_t4 		xxx I don't think I can handle doin(g) the dishes right now . 
+_t4 		ya [: you] know . 
+_t4 		tele . 
+_t4 		hello . 
+_t4 		hi , good how are you ? 
+_t4 		yup I did and I'm done . 
+_t4 		okay so I'll see you in a little while . 
+_t4 		okay miss Violet . 
+_t4 		what dad ? 
+_t4 		okay . 
+_t4 		should we shut these off ? 
+_t4 		yup , you say bye bye to the camera . 
+_t4 		ready ? 
+_t4 		say , can you say bye bye ? 
+_t4 		can you wave ? 
+_t4 		can you wave ? 
+_t4 		can you wave ? 
+_t4 		say bye bye . 
+_t4 		come on . 
+_t4 		say bye bye . 
+_t4 		say bye bye . 
+_t4 		bye bye .
+_t4 
+_t4 		oh Honey are you alright ?
+_t4 
+_t4 		what's the matter ?
+_t4 
+_t4 		do you wanna look at this book with the piggy in it ? 
+_t4 		do you like this one with the piggy ? 
+_t4 		come over here and sit  [: to] mommy . 
+_t4 		you like this one with the piggy ? 
+_t4 		cmon [: come on] . 
+_t4 		cmon [: come on] I'll show it  [: to] you . 
+_t4 		cmon [: come on] . 
+_t4 		cmon [: come on] baby . 
+_t4 		you want to see the pictures of the piggy ? 
+_t4 		mommy show you . 
+_t4 		Charlotte's web . 
+_t4 		are you okay ? 
+_t4 		tired ? 
+_t4 		let's see , there's a spider . 
+_t4 		okay now ? 
+_t4 		uh+oh . 
+_t4 		Fran says don't do it daddy . 
+_t4 		and there's Avery with the gun . 
+_t4 		and there's little Wilber: . 
+_t4 		baby . 
+_t4 		you wanna see more pictures ? 
+_t4 		let's see . 
+_t4 		the nice little piggy goes in his house . 
+_t4 		huh and she put the piggy in the stroller . 
+_t4 		huh . 
+_t4 		and she put the baby . 
+_t4 		see the piggy eatin(g) his lunch ? 
+_t4 		here's a goose . 
+_t4 		uh+oh . 
+_t4 		watch ou:t the piggy tryin(g)  [: to] get &aw:ay . 
+_t4 		well see , there's the sheep or the lamb , what does the lamb say ? 
+_t4 		oh there's a sad Wilbur he's lonely , he's sad . 
+_t4 		let's see ,  , now's he's happy because he has charlotte . 
+_t4 		huh . 
+_t4 		there's a spider . 
+_t4 		there's a spider . 
+_t4 		hmmm , wanna see what else there is ? 
+_t4 		the rat Templeton and the goose and the other goose and there's Fern . 
+_t4 		there's a sad Wilbur again . 
+_t4 		huh ,  , he's gonna make , he's gonna pretend he's a spider . 
+_t4 		well , whose that ? 
+_t4 		is that Templeton ? 
+_t4 		what ya [: you] looking for ? 
+_t4 		spider . 
+_t4 		wee: , the kids swingin(g) from the rope . 
+_t4 		uh+oh . 
+_t4 		and let's see the really  ,  and there's where she makes a pretty spider web . 
+_t4 		let's see where the one you like . 
+_t4 		let's see the one you like . 
+_t4 		ready , terrific ! 
+_t4 		that's not your favorite one . 
+_t4 		this is your favorite one yippee: ! 
+_t4 		huh . 
+_t4 		he can do tricks huh ? 
+_t4 		tired goose ? 
+_t4 		let's see look at the big fat pig .
+_t4 		bi:g fat pig . 
+_t4 		now they're gonna wash him . 
+_t4 		washy washy Wilbur , he's all dirty . 
+_t4 		wash wash . 
+_t4 		they have_to washy wash , splashy splash . 
+_t4 		there's a fair . 
+_t4 		where's a balloon ? 
+_t4 		you see a balloon ? 
+_t4 		ri:ght . 
+_t4 		clever girl . 
+_t4 		there's a big fat pig huh ?
+_t4 		there's Templeton . 
+_t4 		there's Charlotte makin(g) her egg sack . 
+_t4 		there's Templeton after he ate everything at the fair . 
+_t4 		uh look it .
+_t4 
+_t4 		yippee: ! 
+_t4 		first prize for Wilbur . 
+_t4 		first prize for Wilbu:r . 
+_t4 		oh the babies are flyin(g) away , all the spiders are flyin(g) away . 
+_t4 		but some of them will stay with Wilbur . 
+_t4 		yippee: ! 
+_t4 		ya [: you] like that story ? 
+_t4 		huh we gotta fix our microphones don't we ? 
+_t4 		ya [: you] want another piece of bread love ? 
+_t4 		hmmm want another piece of bread ? 
+_t4 		no ? 
+_t4 		you don't have_to be so sad . 
+_t4 		I'm be so sad . 
+_t4 		uh should we get you another piece of bread ? 
+_t4 		or dya [: do you] wanna [: want a] drink ? 
+_t4 		ya [: you] done ? 
+_t4 		dya [: do you] want a drink ? 
+_t4 		ya [: you] wanna read the book again ? 
+_t4 		is that whacha [: what you] wanna do , ya [: you] wanna [: want to] look at the book again ? 
+_t4 		who's that ? 
+_t4 		Wilbur . 
+_t4 		there's Fern , there's a spider , and there's a sheep and there's the goose . 
+_t4 		it's called Charlotte's web . 
+_t4 		where's a spider . 
+_t4 		ri:ght . 
+_t4 		ya [: you] wanna see where she's , let's see the picture where she's (.) feedin(g) him his baba . 
+_t4 		she given him his milk ? 
+_t4 		hmmm , the little baby pig . 
+_t4 		and there's the little baby pigs house . 
+_t4 		and she put him in the stro:ller and she take him for a ride with the do:lly: . 
+_t4 		and that's where he eats his dinner . 
+_t4 		and everybody will watch him . 
+_t4 		look out ! 
+_t4 		hehe , he's trying to escape . 
+_t4 		squeak squea:l squea:l . 
+_t4 		where's the doggy ? 
+_t4 		see a doggy ? 
+_t4 		the doggy ? 
+_t4 		doggy . 
+_t4 		hmmm pig . 
+_t4 		we need to get a tissue in a second .
+_t4 
+_t4 		baba: . 
+_t4 		oh  [: the] sad sad Wilbur . 
+_t4 		he's cryin(g) he's so sad . 
+_t4 		uh but now he's gonna meet his friends . 
+_t4 		Charlotte , there's Charlotte the spider . 
+_t4 		here he is cryin(g) again , wee: look at the kids swingin(g) . 
+_t4 		uh  wait wait wait you missed your favorite picture . 
+_t4 		see . 
+_t4 		he:y .
+_t4 		look look . 
+_t4 		xxx , some pig . 
+_t4 		you wanna look at this book now ? 
+_t4 		I turn my tractor wheel around , I scoop some dirt up from the ground , I gotta shut my phone off . 
+_t4 		I run across the flower bed , what's inside , I scratch my hea:d . 
+_t4 		I pick the strawberry off it's stem , I lift these up to carry the:m . 
+_t4 		I eat my watermelon on the chair , don't eat the mushroom please bewa:re . 
+_t4 		I spray the water all over the place , I reach for the flower in front of my face . 
+_t4 		the water runs cold between my toes , apples fall off when the wind blows . 
+_t4 		caterpillar crawls along my hand , this butterfly flutters down to land . 
+_t4 		the garden I planted is growing behind me ,  some flowers that's where you'll find me . 
+_t4 		(o)kay mommy's gotta get a tissue . 
+_t4 		let me get up and get a tissue (o)kay ? 
+_t4 		you wanna you wanna get  another piece of bread ? 
+_t4 		I gotta get a tissue . 
+_t4 		tissue tissue . 
+_t4 		would you like some more bread ? 
+_t4 		no (o)kay . 
+_t4 		what would you like then ? 
+_t4 		you think it's nappy time ? 
+_t4 		hey where you goin(g) ? 
+_t4 		you think it's nappy time ? 
+_t4 		hmmm , what's the matter ? 
+_t4 		you show me , you show me where . 
+_t4 		what daya [: do you] wanna do ? 
+_t4 		what ya [: you] wanna play trains , how about we play tea set ? 
+_t4 		you [: you] always like dat [: that] . 
+_t4 		let's play tea set . 
+_t4 		hmmm , let's have a tea party . 
+_t4 		cmon [: come on] you come in here and we'll have a tea party . 
+_t4 		we have a tea party: , let's film our tea party , huh . 
+_t4 		hehe , right here look , look look look . 
+_t4 		shall we have our tea ? 
+_t4 		ooh there's all mudd all over the floor . 
+_t4 		okay: . 
+_t4 		who's gonna have a tea party ? 
+_t4 		let's see: . 
+_t4 		we'll set everything up , okay ? 
+_t4 		wanna sit down ? 
+_t4 		wanna sit down and have some tea ? 
+_t4 		wanna sit with mommy , your a good girl . 
+_t4 		we don't know where that one is but we'll just , put that one like tha:t . 
+_t4 		and thi:s like thi:s and then some spoons . 
+_t4 		now , why don't you pour the tea ? 
+_t4 		would you like to have this cup ? 
+_t4 		okay let me give you some tea , ya [: you] ready ? 
+_t4 		oka:y , do you like sugar in your tea ? 
+_t4 		okay . 
+_t4 		now I'm gonna have some tea . 
+_t4 		I'll have a little bit of milk in mine . 
+_t4 		now we have some tea . 
+_t4 		hehe , cheers . 
+_t4 		drink your tea . 
+_t4 		drink your tea Violet . 
+_t4 		is yours all finished , do you need some more ? 
+_t4 		give yourself some more tea . 
+_t4 		you want some more tea , would you like some more ? 
+_t4 		hmmm I'll put some in the pink one . 
+_t4 		some in mine . 
+_t4 		la la la la la . 
+_t4 		la la la la la , you wanna mix your own ? 
+_t4 		who's this one for ? 
+_t4 		who can have this tea ? 
+_t4 		huh who can have this tea , anybody ? 
+_t4 		thank you . 
+_t4 		ah  . 
+_t4 		wanna hear the song , you press the button and hear the song . 
+_t4 		hehe you like that song ? 
+_t4 		ya [: you] gonna put it away ? 
+_t4 		ya [: you] gonna put everything in there now ? 
+_t4 		clean up clean up . 
+_t4 		everybody everywhere , clean up clean up , everybody do your share . 
+_t4 		what's that ? 
+_t4 		yuck ,  . 
+_t4 		what is it string ? 
+_t4 		string . 
+_t4 		oh it's here ,  . 
+_t4 		hehe . 
+_t4 		string . 
+_t4 		want it ? 
+_t4 		want the string ? 
+_t4 		woo . 
+_t4 		ya [: you] like that you wanna see again ?
+_t4 
+_t4 		uh+oh . 
+_t4 		I gotta shut my phone off . 
+_t4 		let me shut my phone off . 
+_t4 		I don't know what's on the floor over here , do you ? 
+_t4 		is it wax ? 
+_t4 		here it is .
+_t4 
+_t4 		what's the matter ? 
+_t4 		huh , ya [: you] fussy today . 
+_t4 		what do ya [: you] wanna do ? 
+_t4 		wanna read another book ?
+_t4 
+_t4 		you gonna get another book ? 
+_t4 		what's that ? 
+_t4 		go get the bear . 
+_t4 		let's see the bear . 
+_t4 		what's he wearin(g) ? 
+_t4 		what's he wearin(g) , is it Max's shirt ? 
+_t4 		silly bear . 
+_t4 		silly bear , what's he wearing ? 
+_t4 		there there  . 
+_t4 		we gotta clean the house today Violet . 
+_t4 		what honey ?
+_t4 
+_t4 		what are ya [: you] looking for , ya [: you] looking for the monkey ? 
+_t4 		what are ya [: you] lookin(g) for ? 
+_t4 		the monkey ? 
+_t4 		what ? 
+_t4 		you wanna find the monkey ? 
+_t4 		that you and grandma were playing with ? 
+_t4 		let's see if you want this guy ? 
+_t4 		want this guy ? 
+_t4 		see this guy , funny guy .
+_t4 		you wanna hold that guy ? 
+_t4 		whoa . 
+_t4 		I'll hold the bear . 
+_t4 		or you want both ? 
+_t4 		there . 
+_t4 		where you goin(g) with him ? 
+_t4 		should we put some clothes on him ? 
+_t4 		should we put some clothes on him ? 
+_t4 		wanna put this shirt on the monkey would that be funny ? 
+_t4 		ya [: you] like that ? 
+_t4 		monkey . 
+_t4 		monkey .
+_t4 
+_t4 		does the monkey want some tea ? 
+_t4 		monkey and the bear want some tea ? 
+_t4 		can you get some tea for the monkey and the bear ? 
+_t4 		uh thank you says the monkey . 
+_t4 		need a cup though , he needs a cup . 
+_t4 		he needs a tea cup . 
+_t4 		there he is . 
+_t4 		oh . 
+_t4 		okay can you get some tea for him now ? 
+_t4 		what daya [: do you] got tea in there ? 
+_t4 		oh . 
+_t4 		two cups . 
+_t4 		one for the bear . 
+_t4 		can you get the tea pot ? 
+_t4 		get the tea pot . 
+_t4 		yeah . 
+_t4 		now can you put some tea in here please . 
+_t4 		thank you and some for the monkey . 
+_t4 		ya [: you] pour it in here ? 
+_t4 		thank you , oka:y . 
+_t4 		everybody's got there tea now ? 
+_t4 		oh , ya [: you] need a little more for the monkey . 
+_t4 		thank you . 
+_t4 		did ya [: you] spill a little on me ? 
+_t4 		hehe , oka:y ready monkey . 
+_t4 		some for the bear . 
+_t4 		look at the bear , look what he did . 
+_t4 		bea:r . 
+_t4 		look what he did . 
+_t4 		cup stuck on his nose . 
+_t4 		oh you gonna give that one to the monkey . 
+_t4 		thank you . 
+_t4 		we gotta change your diaper . 
+_t4 		thank you . 
+_t4 		is that a cookie ? 
+_t4 		that a cookie ? 
+_t4 		thank you . 
+_t4 		what's that , the baba ? 
+_t4 		what dyou [: do you] see ? 
+_t4 		what are ya [: you] looking for ? 
+_t4 		wanna get the baba ? 
+_t4 		maybe the monkey wants the baba . 
+_t4 		no your looking for something else .
+_t4 
+_t4 		who's that for ?
+_t4 
+_t4 		who's this for ? 
+_t4 		who's gonna wear this Pooh shirt ? 
+_t4 		who's gonna wear it ? 
+_t4 		the monkey wanna wear it ? 
+_t4 		wanna put it on the monkey ? 
+_t4 		(o)kay . 
+_t4 		put the tea party down let's see , you put it on the monkey ? 
+_t4 		uh , he's losing his shirts . 
+_t4 		two shirts he has on now huh ? 
+_t4 		two shirts . 
+_t4 		there he is . 
+_t4 		thank you for the cookie: . 
+_t4 		who's that ? 
+_t4 		Winnie the Pooh . 
+_t4 		hi monkey . 
+_t4 		hi monkey . 
+_t4 		it's your monkey . 
+_t4 		that's your nice monkey . 
+_t4 		hi monke:y . 
+_t4 		I think his clothes are too big . 
+_t4 		what dyou [: do you] think should we go upstairs and have a nappy ? 
+_t4 		oh you're gonna give your baba to the monkey ? 
+_t4 		should we go up for a nappy ? 
+_t4 		no . 
+_t4 		daddy's gonna get it . 
+_t4 		do you want this ?
+_t4 
+_t4 		wanna bite ? 
+_t4 		what ? 
+_t4 		what's the matter honey ? 
+_t4 		what's the matter ya [: you] want more toast ? 
+_t4 		ya [: you] wanna see this ? 
+_t4 		there's nothing in here now . 
+_t4 		just dirt . 
+_t4 		it's suppose to be growin(g) but I don't know if it's growin(g) , I don't see it . 
+_t4 		maybe we'll have_to give it some more water , huh ? 
+_t4 		should we give it some more water ? 
+_t4 		give it some more water , don't touch that radiator because it's hot . 
+_t4 		I'll give it some more water . 
+_t4 		water . 
+_t4 		there . 
+_t4 		(o)kay move away from the radiator . 
+_t4 		hot see . 
+_t4 		good girl . 
+_t4 		you want some more bread ? 
+_t4 		what's the monkey go ? 
+_t4 		huh , where'd [: where did] the monkey go ? 
+_t4 		what's the matter , where's the monkey ? 
+_t4 		you need help finding the monkey ? 
+_t4 		where is he ? 
+_t4 		huh , there he is . 
+_t4 		he's right here . 
+_t4 		monkey . 
+_t4 		silly old monkey . 
+_t4 		you want him back . 
+_t4 		he's havin(g) his baba . 
+_t4 		should we put him in your high+chair , look . 
+_t4 		do you wanna sit in the chair ? 
+_t4 		I can move the seat down I think . 
+_t4 		let's see how do you +..? 
+_t4 		oh , I think it's down as far as it goes Violet . 
+_t4 		no , it should go down farther than that . 
+_t4 		oh well . 
+_t4 		oh I see I got it now . 
+_t4 		look . 
+_t4 		there's the monkey , there he is . 
+_t4 		that's a good spot for the monkey huh ? 
+_t4 		this is the way we sweep the floor sweep the floor , this is the way we sweep the floor . 
+_t4 		this is the way we sweep the floor . 
+_t4 		so early in the morning . 
+_t4 		hmmm . 
+_t4 		toast . 
+_t4 		who made a big messy under their chair ? 
+_t4 		was it you mister monkey ? 
+_t4 		look what the monkey did he made a big mess , he threw down all this food . 
+_t4 		naughty naughty monkey . 
+_t4 		uh  , miss violet . 
+_t4 		leave that there please . 
+_t4 		uh  ooh ,   ooh . 
+_t4 		think your the one who made the mess huh ? 
+_t4 		didn't you ? 
+_t4 		you're the messy monkey . 
+_t4 		oh your gonna give some to the monkey ? 
+_t4 		a nice girl . 
+_t4 		ya [: you] gettin(g) tired yet ? 
+_t4 		let me dump this out , then mommy pick you up . 
+_t4 		there . 
+_t4 		need me to pick ya [: you] up ? 
+_t4 		you good girl . 
+_t4 		oh boy you got carrots in your ear . 
+_t4 		you got carrots in your ear . 
+_t4 		huh . 
+_t4 		carrots . 
+_t4 		hehe carrots , carrots . 
+_t4 		and squash . 
+_t4 		and pumpkins . 
+_t4 		what's that . 
+_t4 		see the cup . 
+_t4 		I think it's empty but I can fill it up if you want . 
+_t4 		you need some more juicy . 
+_t4 		let's see . 
+_t4 		mommy give you some more juicy okay . 
+_t4 		this one's [: one is] empty . 
+_t4 		I know I'll give you the kind that Max had that he didn't finish . 
+_t4 		plea:se mama ,  I'll have_to throw it in the garbage if you don't want it . 
+_t4 		throw it in the garbage . 
+_t4 		thank you . 
+_t4 		thank you . 
+_t4 		here ya [: you] go . 
+_t4 		good girl , good girl . 
+_t4 		good girl . 
+_t4 		now you can have your juice . 
+_t4 		there . 
+_t4 		I wanna hold you . 
+_t4 		that's in the garbage .
+_t4 
+_t4 		you don't want to go in there now . 
+_t4 		dirty , here's the monkey . 
+_t4 		hehe , silly monkey . 
+_t4 		monkey . 
+_t4 		alright , we gotta go upstairs so mommy can take a shower . 
+_t4 		(o)kay . 
+_t4 		should we take off your back pack . 
+_t4 		let's take this off . 

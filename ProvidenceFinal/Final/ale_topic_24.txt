@@ -1,0 +1,2174 @@
+_t4 		there . 
+_t4 		all+right , let's wash up . 
+_t4 		you want some cereal ? 
+_t4 		to play with ? 
+_t4 		would you like some cereal to play with ? 
+_t4 		a what ?
+_t4 
+_t4 		your cookie ? 
+_t4 		xxx . 
+_t4 		there's too many crumbs +//. 
+_t4 		you know what ?
+_t4 
+_t4 		Alex , I'm just gonna open a new box . 
+_t4 		because that one's got too much crumbs at the end +//.
+_t4 
+_t4 		all+right wait a minute , I have_to get the stepstool . 
+_t4 		let me get a new box of cereal . 
+_t4 		there . 
+_t4 		okay ? 
+_t4 		whoops ! 
+_t4 		here ya [: you] go . 
+_t4 		mmmm+mmmm ! 
+_t4 		there ! 
+_t4 		s'that [: is that] better ? 
+_t4 		okay ? 
+_t4 		then maybe you'll take a nap , and then we'll go play in the snow later , okay ? 
+_t4 		what's in here Alex , look at this , what's this ? 
+_t4 		Alex , what's this ? 
+_t4 		what's that ? 
+_t4 		a what ? 
+_t4 		the star ? 
+_t4 		Christmas tree ? 
+_t4 		bear ? 
+_t4 		see the back ? 
+_t4 		you wanna open this ? 
+_t4 		wow !
+_t4 
+_t4 		mmmm+mmmm ! 
+_t4 		look at this !
+_t4 
+_t4 		wow !
+_t4 
+_t4 		wow ! 
+_t4 		you want +//. 
+_t4 		would you like to open it ?
+_t4 
+_t4 		what d'ya [: do you] say ?
+_t4 
+_t4 		all+right what can we give you ? 
+_t4 		let's see . 
+_t4 		what will you know ? 
+_t4 		here take out the ginger+bread man , we have_to use him .
+_t4 
+_t4 		uh+oh ! 
+_t4 		this +//.
+_t4 
+_t4 		where'd [: where did] the snow+man go ? 
+_t4 		let's try it by color . 
+_t4 		here's a snow+man . 
+_t4 		snow+man's green . 
+_t4 		that's red . 
+_t4 		you want a purple ? 
+_t4 		here's a purple .
+_t4 
+_t4 		I gave you a red . 
+_t4 		here's a reindeer . 
+_t4 		that one will work . 
+_t4 		all+right  . 
+_t4 		where'd [: where did] the tree go ?
+_t4 
+_t4 		the dinosaur +... 
+_t4 		there's a tree . 
+_t4 		you can do a tree +... 
+_t4 		oh wait a minute . 
+_t4 		the star ? 
+_t4 		xxx get out a star ? 
+_t4 		a purple star ? 
+_t4 		let's see +... 
+_t4 		that's a [= an] Easter egg . 
+_t4 		where is it ? 
+_t4 		hmmm +... 
+_t4 		did I take it out ?
+_t4 
+_t4 		no I didn't .
+_t4 
+_t4 		well I can't find that one . 
+_t4 		oh here it is , here it is . 
+_t4 		purple . 
+_t4 		I think +//.
+_t4 
+_t4 		all+right let's see , what else ? 
+_t4 		um ,  there's a santa ! 
+_t4 		all+right there's a red santa , let's see if we can find him . 
+_t4 		yeah , I'm looking . 
+_t4 		a red santa ?
+_t4 
+_t4 		you want another red ? 
+_t4 		you want a +//.
+_t4 
+_t4 		wouldja [: would you] like another red ? 
+_t4 		would you like the +... 
+_t4 		a bear , where's the bear ?
+_t4 
+_t4 		there it is . 
+_t4 		the red bear . 
+_t4 		another red , what d'ya [: do you] say ? 
+_t4 		please_a ? 
+_t4 		good boy !
+_t4 
+_t4 		and would you like a heart ? 
+_t4 		the heart ? 
+_t4 		okay ?
+_t4 
+_t4 		that's good for now , let's put these away . 
+_t4 		and let's pick up your cereal . 
+_t4 		yeah we have_to figure out where we're gonna store these .
+_t4 
+_t4 		we have_to figure out +/.
+_t4 
+_t4 		a system .
+_t4 
+_t4 		okay +//. 
+_t4 		oh your microphone fell off Alex ,  no !
+_t4 
+_t4 		I hope +... 
+_t4 		that they heard you . 
+_t4 		okay +... 
+_t4 		all+right . 
+_t4 		let's get down to business . 
+_t4 		wash my hands +... 
+_t4 		that's green . 
+_t4 		that's green . 
+_t4 		put 'em [: them] over here ! 
+_t4 		oh look at +//.
+_t4 
+_t4 		I can't believe it ! 
+_t4 		you had a ginger+bread man and I didn't even know it ! 
+_t4 		Mommy went all the way out to the store and bought these (.) because she couldn't find her ginger+bread man . 
+_t4 		well , well that's good , we have two . 
+_t4 		what honey ? 
+_t4 		two , three , four , five , six , seven , eight +... 
+_t4 		nine , ten , eleven , twelve +... 
+_t4 		one two three four . 
+_t4 		one , two , three , four , five , six (.) seven , eight , nine , ten , eleven , twelve .
+_t4 
+_t4 		what ? 
+_t4 		really ? 
+_t4 		show me , lemme [: let me] see . 
+_t4 		purple star ! 
+_t4 		red bear ! 
+_t4 		what else ? 
+_t4 		what else do you have over there ? 
+_t4 		that's green . 
+_t4 		I know , everything's red or purple . 
+_t4 		we have_to say your other colors , too . 
+_t4 		that's green . 
+_t4 		and you know it , it's green , say gree:n !
+_t4 
+_t4 		yay , gree:n !
+_t4 
+_t4 		what happened ? 
+_t4 		what's uh+oh ? 
+_t4 		what's uh+oh ? 
+_t4 		huh ? 
+_t4 		where's the snow+man ? 
+_t4 		o:h ! 
+_t4 		how cute +//.
+_t4 
+_t4 		oh look at ! 
+_t4 		stand him up . 
+_t4 		whoop ! 
+_t4 		whoop ! 
+_t4 		whoop ! 
+_t4 		careful .
+_t4 
+_t4 		don't lose your cereal . 
+_t4 		the reindeer . 
+_t4 		no ? 
+_t4 		no ? 
+_t4 		no ? 
+_t4 		no no ! 
+_t4 		you wanna dump this ? 
+_t4 		Alex . 
+_t4 		xxx put it in the bowl ? 
+_t4 		can ya [: you] help Mommy ? 
+_t4 		wanna put it in the bowl ? 
+_t4 		look . 
+_t4 		d'ya [: do you] wanna put it in here ? 
+_t4 		no , why not ? 
+_t4 		you like to dump things in the bowl . 
+_t4 		you're busy ? 
+_t4 		you're too busy ? 
+_t4 		white ! 
+_t4 		white . 
+_t4 		all+right ! 
+_t4 		hey ! 
+_t4 		A:lex . 
+_t4 		what honey ?
+_t4 
+_t4 		red santa claus . 
+_t4 		red . 
+_t4 		where's purple ? 
+_t4 		where's purple ? 
+_t4 		gree:n . 
+_t4 		which one red heart ? 
+_t4 		purple +... 
+_t4 		red bear . 
+_t4 		green . 
+_t4 		tree .
+_t4 
+_t4 		ginger+bread ma:n ! 
+_t4 		purple !
+_t4 
+_t4 		star ! 
+_t4 		what a good boy ! 
+_t4 		that's a star ! 
+_t4 		very good ! 
+_t4 		a red +//.
+_t4 
+_t4 		lemme [: let me] see ? 
+_t4 		that's a , a ,  purple star !
+_t4 
+_t4 		I'll get it . 
+_t4 		here you are . 
+_t4 		okay , you ready ? 
+_t4 		ready to put the mixer in ? 
+_t4 		ready ? 
+_t4 		what's that ? 
+_t4 		what's that ? 
+_t4 		you see ? 
+_t4 		look . 
+_t4 		what's that ? 
+_t4 		there ! 
+_t4 		I'm doin [: doing] this over here but you're not interested today , usually you are . 
+_t4 		you want me to go over here ? 
+_t4 		xxx   .
+_t4 
+_t4 		xxx  , wanna [: want a] bite ? 
+_t4 		wow .
+_t4 
+_t4 		Alex can I get in this drawer for a minute , please ? 
+_t4 		though you're having a   ? 
+_t4 		I +//.
+_t4 
+_t4 		look I'm not gonna move ya [: you] , I just +//.
+_t4 
+_t4 		open , all+right , open this for me , open this drawer .
+_t4 
+_t4 		please . 
+_t4 		open it . 
+_t4 		let's get the spoons . 
+_t4 		c'mon [: come on] , you statue . 
+_t4 		open the drawer , right here . 
+_t4 		I'm not  +//.
+_t4 
+_t4 		you can stay there , I just have_to go in it for one second . 
+_t4 		all+right ?
+_t4 
+_t4 		why , please ? 
+_t4 		all+right , ready , we'll do it real quick one (.) two , three . 
+_t4 		okay , see , look all done .
+_t4 
+_t4 		you can go right back to what you were doing . 
+_t4 		see ? 
+_t4 		just have a little patience . 
+_t4 		what honey ?
+_t4 
+_t4 		red . 
+_t4 		gree:n . 
+_t4 		re:d . 
+_t4 		gree:n .
+_t4 
+_t4 		purple . 
+_t4 		sta:r . 
+_t4 		red . 
+_t4 		gree:n . 
+_t4 		lemme [: let me] see .
+_t4 
+_t4 		red , that's right .
+_t4 
+_t4 		see  , you have_to say green Alex , how come you don't wanna [: want to] say green today ? 
+_t4 		xxx  .
+_t4 
+_t4 		why is this over here ? 
+_t4 		what's uh+oh ? 
+_t4 		xxx  .
+_t4 
+_t4 		green . 
+_t4 		tree , it's a green tree . 
+_t4 		yes ? 
+_t4 		what honey ? 
+_t4 		'kay [: okay] , now , put in the flour +... 
+_t4 		xxx job hat i don't like +... 
+_t4 		the flour job . 
+_t4 		it's too messy . 
+_t4 		Alex , don't  ! 
+_t4 		look at +... 
+_t4 		see this , this is not for banging . 
+_t4 		you put your one hand here +... 
+_t4 		put one hand here +... 
+_t4 		and you ro:ll +/.
+_t4 
+_t4 		now , I'll give you some dough if you stop banging . 
+_t4 		Alex , where is everybody ? 
+_t4 		where's Gigi ? 
+_t4 		hmmm ? 
+_t4 		Alex , where's Gigi ? 
+_t4 		where's Daddy ? 
+_t4 		they went to go run an errand  . 
+_t4 		I think they went to go buy you a train table ! 
+_t4 		that's what I hope .
+_t4 
+_t4 		two +...
+_t4 
+_t4 		three +...
+_t4 
+_t4 		yes ? 
+_t4 		what is it , honey ? 
+_t4 		what honey ? 
+_t4 		you're gonna help Mommy cut these up , I hope .
+_t4 
+_t4 		'kay [: okay] , you gonna help me ? 
+_t4 		mmmm+mmmm ! 
+_t4 		what honey ? 
+_t4 		oooh boy , look at you !
+_t4 
+_t4 		don't put those on the floor Alex . 
+_t4 		you deserted me ! 
+_t4 		over there ?
+_t4 
+_t4 		no , come over here !
+_t4 
+_t4 		no no no ?
+_t4 
+_t4 		come over here Alex , look , would you like some dough ?
+_t4 
+_t4 		it's ready .
+_t4 
+_t4 		xxx cookies . 
+_t4 		look Alex , look . 
+_t4 		look at , come here , look ! 
+_t4 		xxx making cookies ? 
+_t4 		it's ready .
+_t4 
+_t4 		the dough , come and get the dough , look . 
+_t4 		come on , where's your rolling pin . 
+_t4 		it's like play+dough , look .
+_t4 
+_t4 		see ? 
+_t4 		let's get you some flour . 
+_t4 		Mommy's gonna show you what to do . 
+_t4 		put your flour +... 
+_t4 		put it all over here . 
+_t4 		okay ? 
+_t4 		and put your dough here . 
+_t4 		now you have_to roll it . 
+_t4 		what ?
+_t4 
+_t4 		see , and then you make it +/.
+_t4 
+_t4 		it's like play+dough .
+_t4 
+_t4 		put 
+_t4 		see ? 
+_t4 		you ro:ll it . 
+_t4 		see ?
+_t4 
+_t4 		okay , you  , would you like  , you have_to roll it this way . 
+_t4 		I'm trying to show you , but you don't like when Mommy shows you things , you get aggravated .
+_t4 
+_t4 		then where's your cookie cutter ? 
+_t4 		pick a cookie cutter .
+_t4 
+_t4 		you want this one ?
+_t4 
+_t4 		look . 
+_t4 		see ? 
+_t4 		look what you made . 
+_t4 		xxx , wo:w . 
+_t4 		this will just be for play . 
+_t4 		cuz [: because] we didn't wash +/.
+_t4 
+_t4 		these cookie cutters yet , we have_to wash +/.
+_t4 
+_t4 		look ! 
+_t4 		look at the little man , look ! 
+_t4 		see ? 
+_t4 		the snowman ? 
+_t4 		I don't think I gave you enough dough . 
+_t4 		to make +//. 
+_t4 		make it flat .
+_t4 
+_t4 		see ? 
+_t4 		kay [: okay] ? 
+_t4 		you do it .
+_t4 
+_t4 		see , you roll it +... 
+_t4 		a star , would you like  to make a star , a star ? 
+_t4 		that should fit . 
+_t4 		okay you do it .
+_t4 
+_t4 		you do it . 
+_t4 		I have_to get the , put the dough in the (re)frigerator . 
+_t4 		the real dough . 
+_t4 		did you +/.
+_t4 
+_t4 		did you make your star ?
+_t4 
+_t4 		go ahead , put your star on there , I'll show you . 
+_t4 		put your star on there . 
+_t4 		okay now press it , press .
+_t4 
+_t4 		see ? 
+_t4 		now ready one , two , three , pick it up .
+_t4 
+_t4 		one two three . 
+_t4 		xxx , you did it .
+_t4 
+_t4 		it's a star , see I told you .
+_t4 
+_t4 		very nice .
+_t4 
+_t4 		I'm very proud of you Alex .
+_t4 
+_t4 		you did a +//.
+_t4 
+_t4 		pull , pull , that's right , you have_to pull .
+_t4 
+_t4 		you have_to squish it , and then you have_to pull .
+_t4 
+_t4 		okay ? 
+_t4 		lemme [: let me] see . 
+_t4 		a tree , it's a tree , it's a Christmas tree one . 
+_t4 		then pick up the dough . 
+_t4 		right ? 
+_t4 		you squish it again .
+_t4 
+_t4 		make like a little flat disk . 
+_t4 		all+right ? 
+_t4 		then you take your rolling pin . 
+_t4 		you have_to ro:ll it out flat . 
+_t4 		roll it this way too , make it good and flat . 
+_t4 		make it a good size , like an eighth of an inch . 
+_t4 		okay ? 
+_t4 		xxx do you wanna do  the bear ?
+_t4 
+_t4 		or the star .
+_t4 
+_t4 		the bear ? 
+_t4 		now  +//. 
+_t4 		okay now what do you do ?
+_t4 
+_t4 		press it . 
+_t4 		press , press ,  okay now one two three pull . 
+_t4 		xxx it's a bear . 
+_t4 		you can do it , go ahead , do the tree . 
+_t4 		press , press , and pull . 
+_t4 		okay , that's good pressing , now pull . 
+_t4 		one two three ,  a tree . 
+_t4 		you're such +//.
+_t4 
+_t4 		you're so good at this Alex .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		pull pull .
+_t4 
+_t4 		yes honey .
+_t4 
+_t4 		oh , lemme [: let me] see , lemme [: let me] see , show me , lemme [: let me] see .
+_t4 
+_t4 		you did the  +//. 
+_t4 		xxx , wo:w , how bout [: about] Santa ?
+_t4 
+_t4 		xxx , it's getting a little messy , huh .
+_t4 
+_t4 		you did the star ? 
+_t4 		the star . 
+_t4 		pull . 
+_t4 		you can do it honey .
+_t4 
+_t4 		wait til [: until] tomorrow when we +/.
+_t4 
+_t4 		we do a whole bunch of these .
+_t4 
+_t4 		what honey ?
+_t4 
+_t4 		we'll bring some to everybody . 
+_t4 		you do the star . 
+_t4 		what honey ? 
+_t4 		did you make one ? 
+_t4 		here , I'll give you some more dough . 
+_t4 		wait a minute , lemme [: let me] just +... 
+_t4 		clean the bowl . 
+_t4 		I'll give you some more . 
+_t4 		do you need more ? 
+_t4 		you need more ? 
+_t4 		need more dough ? 
+_t4 		you need more flour , wait a minute . 
+_t4 		lemme [: let me] get you a little more flour . 
+_t4 		there , now you have a lot . 
+_t4 		Mommy gave you just a little before . 
+_t4 		you okay ? 
+_t4 		you still tired ?
+_t4 
+_t4 		kay [: okay] ro:ll it . 
+_t4 		ro:ll . 
+_t4 		that's a big dough , see ? 
+_t4 		now you have more room . 
+_t4 		wait a minute .
+_t4 
+_t4 		okay . 
+_t4 		you can do it , you know how , you showed me already all by yourself . 
+_t4 		nope [: no] , turn it the other way , the other way . 
+_t4 		this way . 
+_t4 		oh  you didn't press it , you have_to press it , remember press and pull . 
+_t4 		pre:ss , press it . 
+_t4 		xxx , wow .
+_t4 
+_t4 		you made a star . 
+_t4 		what a big boy .
+_t4 
+_t4 		yes , that's a very nice star . 
+_t4 		I love it .
+_t4 
+_t4 		that was a +//. 
+_t4 		you have_to  make something else .
+_t4 
+_t4 		make a tree .
+_t4 
+_t4 		you can make a tree . 
+_t4 		oh boy . 
+_t4 		this is a pain in the neck . 
+_t4 		xxx . 
+_t4 		what honey ? 
+_t4 		you made a bear ? 
+_t4 		lemme [: let me] see , where ? 
+_t4 		oh that's a  +//.
+_t4 
+_t4 		that's a Santa Claus  , you do it .
+_t4 
+_t4 		go ahead , put it on there .
+_t4 
+_t4 		put , no , lay it flat . 
+_t4 		now press . 
+_t4 		press . 
+_t4 		and pull . 
+_t4 		xxx , wo:w .
+_t4 
+_t4 		you made a star again ? 
+_t4 		go ahead , show me . 
+_t4 		what honey ?
+_t4 
+_t4 		you made another star ? 
+_t4 		you want me +//. 
+_t4 		Mommy to make a star ?
+_t4 
+_t4 		wait a minute , we hafta +... 
+_t4 		there . 
+_t4 		okay .
+_t4 
+_t4 		wait a minute . 
+_t4 		no , don't eat it , it has egg in it . 
+_t4 		eat the cereal . 
+_t4 		go ahead . 
+_t4 		press , pull . 
+_t4 		okay , one two three . 
+_t4 		press . 
+_t4 		pull . 
+_t4 		hoora:y .
+_t4 
+_t4 		do another one ? 
+_t4 		press and pull .
+_t4 
+_t4 		wo:w .
+_t4 
+_t4 		yeah you did a good job . 
+_t4 		look , you can do this , too .
+_t4 
+_t4 		pick up your dough +... 
+_t4 		see ? 
+_t4 		you pick up your dough . 
+_t4 		go'head [: go ahead] . 
+_t4 		don't +//. 
+_t4 		Alex you can't eat this honey because you could get very sick .
+_t4 
+_t4 		bleck . 
+_t4 		don't eat the dough . 
+_t4 		kay [: okay] ? 
+_t4 		
+_t4 		you can't eat eggs . 
+_t4 		see ? 
+_t4 		remember what happened when (.) Mommy let you lick the spoon for the brownies ?
+_t4 
+_t4 		big mistake , she forgot about the egg ? 
+_t4 		yeah . 
+_t4 		look at this Alex , look at this dough . 
+_t4 		ah . 
+_t4 		okay , no more dough privileges . 
+_t4 		
+_t4 		okay ? 
+_t4 		you want your play+dough ? 
+_t4 		xxx no , stand up , I'll get your play+dough , okay ? 
+_t4 		lemme [: let me] get play+dough for you to play with . 
+_t4 		all+right ? 
+_t4 		let's see . 
+_t4 		if I was [= were] play+dough where would I be ? 
+_t4 		in the vase maybe ?
+_t4 
+_t4 		maybe in the vase . 
+_t4 		oh your train set's [: set is] in here , that's nice . 
+_t4 		yep [: yes] , Mommy's pretty smart , I know where everything is .
+_t4 
+_t4 		what honey ? 
+_t4 		look , blue play+dough . 
+_t4 		okay ?
+_t4 
+_t4 		blue play+dough ?
+_t4 
+_t4 		kay [: okay] ? 
+_t4 		but please , do not eat the play+dough .
+_t4 
+_t4 		kay [: okay] ?
+_t4 
+_t4 		you can make cookies out of play+dough .
+_t4 
+_t4 		it's even better . 
+_t4 		it rolls much nicer . 
+_t4 		
+_t4 		what ? 
+_t4 		there . 
+_t4 		lookit [: look at] , look how big the play+dough's [: play+dough is] getting ,  so big .
+_t4 
+_t4 		wo:w .
+_t4 
+_t4 		look at that play+dough , its great .
+_t4 
+_t4 		look at that .
+_t4 
+_t4 		that +//. 
+_t4 		oh+oh , that's not good .
+_t4 
+_t4 		okay ? 
+_t4 		how's that ?
+_t4 
+_t4 		is that +//.
+_t4 
+_t4 		here .
+_t4 
+_t4 		more ? 
+_t4 		blue . 
+_t4 		what honey ?
+_t4 
+_t4 		still  , here . 
+_t4 		lemme [: let me] fix it . 
+_t4 		there you go . 
+_t4 		okay ? 
+_t4 		xxx play+dough , and you can make your cookies out of that .
+_t4 
+_t4 		here's your star . 
+_t4 		there . 
+_t4 		how's that ? 
+_t4 		is that better ? 
+_t4 		what honey ?
+_t4 
+_t4 		all+right wait a minute , I have_to ,  , put this in the refrigerator . 
+_t4 		they're getting too warm , I don't want it to sit out . 
+_t4 		okay . 
+_t4 		there . 
+_t4 		isn't this nice ? 
+_t4 		xxx . 
+_t4 		wo:w .
+_t4 
+_t4 		how's that working out for you ? 
+_t4 		huh ? 
+_t4 		look at this . 
+_t4 		wow . 
+_t4 		look at this dough .
+_t4 
+_t4 		isn't that nice ? 
+_t4 		for tomorrow ? 
+_t4 		I hope you're eating cereal . 
+_t4 		xxx . 
+_t4 		there , very nice dough . 
+_t4 		we'll do that tomorrow . 
+_t4 		how 
+_t4 		you okay ?
+_t4 
+_t4 		what do you want me to do with this ? 
+_t4 		did you make some cutouts , look . 
+_t4 		press , see ? 
+_t4 		pull .
+_t4 
+_t4 		star . 
+_t4 		no , this is the bear . 
+_t4 		would you like to make a bear ?
+_t4 
+_t4 		press . 
+_t4 		pre(ss) +//. 
+_t4 		oh , you didn't press it though , try again .
+_t4 
+_t4 		remember press and pull . 
+_t4 		xxx , wo:w .
+_t4 
+_t4 		Santa ? 
+_t4 		can you say Santa ?
+_t4 
+_t4 		where's your heart ? 
+_t4 		that's a heart . 
+_t4 		a red heart . 
+_t4 		wo:w , that is so great .
+_t4 
+_t4 		okay , so that's all done for tomorrow . 
+_t4 		what sweet pea ? 
+_t4 		all+right would you , do you want to make the gingerbread dough ?
+_t4 
+_t4 		we have time to do that .
+_t4 
+_t4 		that way it will be ready for tomorrow too ? 
+_t4 		will you last ? 
+_t4 		wait .
+_t4 
+_t4 		press and pull . 
+_t4 		wo:w . 
+_t4 		that's a heart .
+_t4 
+_t4 		what did Mommy do with the (.)  . 
+_t4 		xxx . 
+_t4 		oh  , I can't find it . 
+_t4 		uh+oh . 
+_t4 		wo:w , I love it .
+_t4 
+_t4 		what honey ?
+_t4 
+_t4 		you can do the purple star . 
+_t4 		show me . 
+_t4 		you know how to do it I only  +/.
+_t4 
+_t4 		o:h , I love it .
+_t4 
+_t4 		wow , ginger+bread man .
+_t4 
+_t4 		how bout [: about] +... 
+_t4 		you , would you like to clean your dough a little ?
+_t4 
+_t4 		so you have better dough ? 
+_t4 		you have +... 
+_t4 		so you can see the pictures . 
+_t4 		what honey ?
+_t4 
+_t4 		push over a little . 
+_t4 		on your stool , push  , there . 
+_t4 		oh you have_to turn it the other way . 
+_t4 		the other way , turn it upside down . 
+_t4 		right side up . 
+_t4 		press . 
+_t4 		no you need to press , remember you're forgetting to press , press and pull . 
+_t4 		wo:w , I love it .
+_t4 
+_t4 		baking soda .
+_t4 
+_t4 		salt .
+_t4 
+_t4 		cloves , cinnamon , ginger , baking soda .
+_t4 
+_t4 		cinnamon . 
+_t4 		baking soda . 
+_t4 		Mommy can't see (.) what I'm doing . 
+_t4 		how you doing Alex ? 
+_t4 		okay ?
+_t4 
+_t4 		sage . 
+_t4 		I have_to pull this out .
+_t4 
+_t4 		what are you doing , silly ? 
+_t4 		xxx . 
+_t4 		no , don't do that . 
+_t4 		it's closed . 
+_t4 		uh+oh . 
+_t4 		would you like me to help you with that Alex ? 
+_t4 		here . 
+_t4 		all+right , get out of the way please .
+_t4 
+_t4 		you want this pack ? 
+_t4 		and this one ? 
+_t4 		see ? 
+_t4 		you do it . 
+_t4 		it's fun . 
+_t4 		mmmm+mmmm , is that good ? 
+_t4 		I hear you crunching . 
+_t4 		I hear you crunching . 
+_t4 		what sweetie ?
+_t4 
+_t4 		which one ?
+_t4 
+_t4 		what ? 
+_t4 		over where ? 
+_t4 		outside ?
+_t4 		you have_to wait for Daddy to come home . 
+_t4 		when Daddy comes home (.) he said that he would take you outside in the snow . 
+_t4 		okay ? 
+_t4 		where 
+_t4 		Alex . 
+_t4 		Alex where's your play+dough ? 
+_t4 		hey  .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		Alex .
+_t4 
+_t4 		that's for  , right ?
+_t4 
+_t4 		what is it ?
+_t4 
+_t4 		that's a bag , right . 
+_t4 		thank you .
+_t4 
+_t4 		Alex .
+_t4 
+_t4 		oh , you want me to go ?
+_t4 
+_t4 		I think he's trying to , to go , he wants to go outside so badly .
+_t4 
+_t4 		in my scarf ?
+_t4 
+_t4 		Alex what's this ? 
+_t4 		no it's a candy+cane .
+_t4 
+_t4 		can you say candy+cane ?
+_t4 
+_t4 		say it , you can say it . 
+_t4 		over here , come over here .
+_t4 
+_t4 		let's open it over here , come on . 
+_t4 		over here , this way . 
+_t4 		candy+cane , candy+cane .
+_t4 
+_t4 		candy+cane , candy+cane , candy+cane .
+_t4 
+_t4 		would you like me to help you ? 
+_t4 		oh it broke , you need a new one ? 
+_t4 		here's a new one . 
+_t4 		here . 
+_t4 		this one's not broken . 
+_t4 		gimme [: give me] that one .
+_t4 
+_t4 		gimme [: give me] the broken one . 
+_t4 		okay ? 
+_t4 		come on . 
+_t4 		come up here . 
+_t4 		you broke that one too ? 
+_t4 		you can't break 'em [: them] . 
+_t4 		you wanna play with that up here ? 
+_t4 		you wanna play with it over there ? 
+_t4 		okay . 
+_t4 		on the  , you can play on the floor if you'd like . 
+_t4 		gu'bless [: God bless] you .
+_t4 
+_t4 		would you like your blanket ? 
+_t4 		do you wanna sit there and play with the cookie cutters ?
+_t4 
+_t4 		here , here's your mat . 
+_t4 		here sit on the mat . 
+_t4 		go'head [: go ahead] , sit down . 
+_t4 		ready ?
+_t4 
+_t4 		one (.) two (.) three: . 
+_t4 		how's that ? 
+_t4 		is that good ? 
+_t4 		you like those ? 
+_t4 		did I hear the door ? 
+_t4 		hello ? 
+_t4 		yeah it's me . 
+_t4 		oh , okay .
+_t4 
+_t4 		oh+my+goodness . 
+_t4 		what ? 
+_t4 		holy moly . 
+_t4 		did you look out and see the greens  ?
+_t4 
+_t4 		what ? 
+_t4 		did you look out and see the greens ? 
+_t4 		I just looked out the window , I didn't see anything . 
+_t4 		oh .
+_t4 
+_t4 		I looked out the window be +//.
+_t4 
+_t4 		well take a peek out the window .
+_t4 
+_t4 		lemme [: let me] see .
+_t4 
+_t4 		you can't see it . 
+_t4 		oh , I looked cuz [: because] I thought I heard the door .
+_t4 
+_t4 		oh , I can just see the tops of them .
+_t4 
+_t4 		on the , on the table .
+_t4 
+_t4 		did you see it ?
+_t4 
+_t4 		you can't see it from this window .
+_t4 
+_t4 		no .
+_t4 
+_t4 		oh .
+_t4 
+_t4 		just barely , I can see the tops of it .
+_t4 
+_t4 		oh what's that ?
+_t4 
+_t4 		come over here Alex , so we can see you .
+_t4 
+_t4 		a cookie cutter , come on .
+_t4 
+_t4 		can you say cookie ? 
+_t4 		can you say cookie cutter ? 
+_t4 		what's Mommy making ? 
+_t4 		what are these ? 
+_t4 		here hon , lookit [: look] . 
+_t4 		what ? 
+_t4 		stand right there . 
+_t4 		you can peek right in front of the house . 
+_t4 		what +... 
+_t4 		xxx . 
+_t4 		what's that sled ? 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		I love it , I love it , where did you get it ?
+_t4 
+_t4 		Wayland toy . 
+_t4 		oh , it's beautiful .
+_t4 
+_t4 		should I have  bring it up ?
+_t4 
+_t4 		yeah bring it up , because it's gonna get wet .
+_t4 
+_t4 		well it wasn't , we thought , we were gonna wait until Christmas , but then +... 
+_t4 		xxx said she will probably say well how come you didn't give this to me so I can have the baby's picture .
+_t4 
+_t4 		I will have the , yeah I love it .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		I thought you went to buy a train table .
+_t4 
+_t4 		no .
+_t4 
+_t4 		I said , I said Alex i don't know where Gigi and Daddy are I said , but I hope they're buying you a train table for Christmas .
+_t4 
+_t4 		thank you very much . 
+_t4 		Alex wait til [: until] you see what Gigi got you .
+_t4 
+_t4 		nine . 
+_t4 		no it's a +//.
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		ten .
+_t4 
+_t4 		oh brown sugar .
+_t4 
+_t4 		one two buckle my shoe: shoe shoe shoe shoe: . 
+_t4 		what sweet pea ?
+_t4 
+_t4 		show me honey .
+_t4 
+_t4 		that's a duck . 
+_t4 		xxx .
+_t4 
+_t4 		what does the duck say ?
+_t4 
+_t4 		what's a duck say ?
+_t4 
+_t4 		luckily they had it  .
+_t4 
+_t4 		quack quack quack .
+_t4 
+_t4 		Alex wait til [: until] you see +...
+_t4 
+_t4 		lemme [: let me] see .
+_t4 
+_t4 		show , show me .
+_t4 
+_t4 		I can't see .
+_t4 
+_t4 		xxx , wo:w , what's that ?
+_t4 
+_t4 		he puts his feet in here .
+_t4 
+_t4 		is he gonna +//. 
+_t4 		oh , underneath ?
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		you gotta be kidding me .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		bring it over here  , so we can put it on the film .
+_t4 
+_t4 		it's gonna be a little wet .
+_t4 
+_t4 		that's okay .
+_t4 
+_t4 		it's , it's the floor .
+_t4 
+_t4 		oh , it's just the floor , it's not carpet .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		wo:w , you've got a new +/.
+_t4 
+_t4 		who:a , go over there , Daddy's gonna bring it over here .
+_t4 
+_t4 		you've got an early Christmas present .
+_t4 
+_t4 		I hope he fits .
+_t4 
+_t4 		me too . 
+_t4 		he'll fit .
+_t4 
+_t4 		we're gonna hafta cram you in there Alex , like a sausage . 
+_t4 		oh boy . 
+_t4 		would you like to sit in it ?
+_t4 
+_t4 		yeah , I guess he would . 
+_t4 		wo:w , I love it .
+_t4 
+_t4 		torpedo , that's how Daddy takes you around the yard , like a torpedo . 
+_t4 		like a madman .
+_t4 
+_t4 		well at least (.) you can (.) take that (.) off .
+_t4 
+_t4 		that seat thing .
+_t4 
+_t4 		he's not even all the way back . 
+_t4 		xxx .
+_t4 
+_t4 		here , sit all the way back Alex . 
+_t4 		I don't know if he will +...
+_t4 
+_t4 		see , he has , he , he'll be able to use that next year .
+_t4 
+_t4 		yeah okay , good .
+_t4 
+_t4 		well I'm not gonna do this . 
+_t4 		I'm trying to make dough . 
+_t4 		no .
+_t4 
+_t4 		do you have +..?
+_t4 
+_t4 		I don't know if he +...
+_t4 
+_t4 		what ?
+_t4 
+_t4 		went to the bathroom if he has gas .
+_t4 
+_t4 		he had gas earlier .
+_t4 
+_t4 		do you like that ? 
+_t4 		is that your new sled ? 
+_t4 		say yes .
+_t4 
+_t4 		cuz [: because] his feet were hanging off the other one  +...
+_t4 
+_t4 		oh , forget it .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		he was draggin [: dragging] 'em [: them] like out , hanging out , they , he's so big for it now it's ama(zing) +//.
+_t4 
+_t4 		I thought for sure he would (.) be able to use it for the rest of this year .
+_t4 
+_t4 		say oh+my+goodness gracious me .
+_t4 
+_t4 		so you went , you went to Wayland toy ?
+_t4 
+_t4 		yes . 
+_t4 		Sig's didn't have the , the , a sled . 
+_t4 		&aw .
+_t4 
+_t4 		um . 
+_t4 		what else did they have anything over there , anything ? 
+_t4 		oh they have this beautiful bulldozer that I would have loved to +/.
+_t4 
+_t4 		oh , from the ceiling , the one hanging from the ceiling ?
+_t4 
+_t4 		no , it's on the ground .
+_t4 
+_t4 		no they have another one even bigger than that .
+_t4 
+_t4 		no: .
+_t4 
+_t4 		it's nice , yeah .
+_t4 
+_t4 		yeah  was trying to work it , and  , he couldn't even work it .
+_t4 
+_t4 		thanks for trying  .
+_t4 
+_t4 		he's gotta [: needs to] be a little bit bigger for that .
+_t4 
+_t4 		yeah he has to be at least five or six .
+_t4 
+_t4 		there's no way +... 
+_t4 		well he could , he still has the Jeep . 
+_t4 		he won't even be able to reach the pedals .
+_t4 
+_t4 		we +/. 
+_t4 		but he'd get , look at how he drives the Jeep , he drives it and crashes it , I mean he doesn't wanna +/.
+_t4 
+_t4 		yeah but that's because all he has to do is push down .
+_t4 
+_t4 		he has to get the coordination of this . 
+_t4 		of pedaling with his feet and steering .
+_t4 
+_t4 		and steering .
+_t4 
+_t4 		oh , this is pedal ?
+_t4 
+_t4 		yeah . 
+_t4 		yeah .
+_t4 
+_t4 		a pedal bulldozer ?
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		cuz [: beacuse] I went to get him a bike with a dump in the back . 
+_t4 		but , she +... 
+_t4 		lady  talked me out of it , she said +...
+_t4 
+_t4 		I think he's still too little , Ma .
+_t4 
+_t4 		xxx that's what she said .
+_t4 
+_t4 		yeah next year he should be fine with that . 
+_t4 		or even this summer . 
+_t4 		I mean he's just turning two .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		I love this , I love it .
+_t4 
+_t4 		I absolutely love it . 
+_t4 		it was  +/.
+_t4 
+_t4 		I'd rather have this than the bike or the bulldozer .
+_t4 
+_t4 		I , yeah , it's more , yeah .
+_t4 
+_t4 		I really really would .
+_t4 
+_t4 		oh Alex , this is just fabulous , I'm so excited . 
+_t4 		Alex , do you like your sled ? 
+_t4 		do they have any train tables ? 
+_t4 		no . 
+_t4 		they did not . 
+_t4 		yeah .
+_t4 
+_t4 		oh wait a minute yes they did . 
+_t4 		they had a ta(ble) +//. 
+_t4 		what ?
+_t4 
+_t4 		did they have a table with a train on it ?
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		yes , they did , but I  .
+_t4 
+_t4 		oh , set up in the store ?
+_t4 
+_t4 		was it new ? 
+_t4 		yes .
+_t4 
+_t4 		that must be new because  +...
+_t4 
+_t4 		they haven't had , didn't have that before . 
+_t4 		xxx .
+_t4 
+_t4 		I don't know . 
+_t4 		what are you doing Alex ?
+_t4 
+_t4 		o:ne , uh+oh , go pick that up please .
+_t4 
+_t4 		two: . 
+_t4 		where's the phone ? 
+_t4 		three: .
+_t4 
+_t4 		an Elmo book ? 
+_t4 		careful . 
+_t4 		what ya [: you] doin [: doing] there monkey ? 
+_t4 		oh no no ? 
+_t4 		would you like some help ? 
+_t4 		pull , pull .
+_t4 
+_t4 		all+right go ahead , put your feet on the peddles . 
+_t4 		all+right now , push . 
+_t4 		push , push on the peddles . 
+_t4 		put your feet on . 
+_t4 		put your foot on there . 
+_t4 		all+right now , peddle , peddle . 
+_t4 		wow , straighten out . 
+_t4 		straighten , peddle ! 
+_t4 		peddle , steer , push . 
+_t4 		push . 
+_t4 		I'm not doing it , gohead [: go ahead] .
+_t4 
+_t4 		watch ya [: your] head .
+_t4 
+_t4 		yeah but you have_to put your feet on the peddles .
+_t4 
+_t4 		xxx all+right I won't help you .
+_t4 
+_t4 		see but you push it  that's +...
+_t4 		you havta peddle . 
+_t4 		c'mon [: come on] . 
+_t4 		come out here . 
+_t4 		I'm watching you . 
+_t4 		Al:ex . 
+_t4 		are you gonna eat your lunch now ? 
+_t4 		are you hungry ? 
+_t4 		are you hungry ? 
+_t4 		who's that ? 
+_t4 		who is it ? 
+_t4 		Alex come and have some lunch . 
+_t4 		wow ! 
+_t4 		where , where's your bench ? 
+_t4 		here's your stepstool . 
+_t4 		you can help me . 
+_t4 		okay . 
+_t4 		yup [: yes] , we're gonna make a grilled cheese . 
+_t4 		and peaches . 
+_t4 		yup [: yes] , and some milk . 
+_t4 		yup [: yes] . 
+_t4 		yeah , you can have a little . 
+_t4 		those are peaches . 
+_t4 		yeah , or you can have a banana . 
+_t4 		or , or , whatever fruit you'd like . 
+_t4 		you can choose . 
+_t4 		havta lower the heat a little . 
+_t4 		yes , this is for you .
+_t4 
+_t4 		that is a (.) fork . 
+_t4 		you want another piece of cheese , sure . 
+_t4 		here you are . 
+_t4 		there . 
+_t4 		how's that ? 
+_t4 		okay . 
+_t4 		and you don't have_to eat the whole thing if you can't . 
+_t4 		is that your water ? 
+_t4 		now we're just gonna to put a little teeny , teeny bit because this isn't too good for you . 
+_t4 		just to make it , just , just +...
+_t4 
+_t4 		just dust it a little bit . 
+_t4 		just make it just a little +//.
+_t4 
+_t4 		careful this is very hot . 
+_t4 		memba [: remember] how we talked about hot . 
+_t4 		and there's no touching on the hot . 
+_t4 		yup [: yes] we have_to cook it . 
+_t4 		okay ? 
+_t4 		and I'll put this away after cause [: because] I don't want you to get hurt . 
+_t4 		all+right you have_to get a spoon , would you like to get a spoon for Mommy , get a spoon out of the drawer . 
+_t4 		where , where are your spoons ? 
+_t4 		g'head [: go ahead] go get one . 
+_t4 		you know where we keep'm [: keep them] +//.
+_t4 
+_t4 		watch , watch your , be careful . 
+_t4 		all+right , get a +...
+_t4 
+_t4 		you have_to get a spoon , were you going to get a spoon out of the drawer ?
+_t4 
+_t4 		over here ? 
+_t4 		look at the snow Alex ,  boy . 
+_t4 		give you a little juice . 
+_t4 		where's your spoon ? 
+_t4 		Alex ? 
+_t4 		are you making your lunch , Mom's calling you . 
+_t4 		Alex , come on . 
+_t4 		Alex ? 
+_t4 		c'mere [: come here] lookit [: look] . 
+_t4 		look . 
+_t4 		what's out here . 
+_t4 		what's that ?
+_t4 
+_t4 		what's fallin [: falling] from the sky ?
+_t4 
+_t4 		what is it ? 
+_t4 		yeah , that's the snowing . 
+_t4 		there's the mail carrier . 
+_t4 		he's in the snow , delivering the mail .
+_t4 
+_t4 		you see the snow , falling from the sky ? 
+_t4 		what's that in your hair ,  ? 
+_t4 		where's , where's your truck ?
+_t4 
+_t4 		over here lookit [: look] .
+_t4 
+_t4 		get your top . 
+_t4 		one , two , three . 
+_t4 		spinning , spinning +... 
+_t4 		one , two +//.
+_t4 
+_t4 		lookit [: look] !
+_t4 
+_t4 		one , two , three . 
+_t4 		wow ! 
+_t4 		wow ! 
+_t4 		come over here , come on , lookit [: look] .
+_t4 
+_t4 		let's get in your chair . 
+_t4 		yeah .
+_t4 
+_t4 		you gonna get in your chair ? 
+_t4 		sure .
+_t4 
+_t4 		where are your peaches ? 
+_t4 		where's your spoon ? 
+_t4 		go put it on the table , would you like to go put it on the table for Mommy ? 
+_t4 		no that's cinnamon , you don't want that . 
+_t4 		uh ,  ! 
+_t4 		what did you do ? 
+_t4 		go put that on the table . 
+_t4 		gahead [: go ahead] . 
+_t4 		put it with your peaches . 
+_t4 		no ? 
+_t4 		why not ?
+_t4 
+_t4 		all+right Alex , come on , it's ready . 
+_t4 		get in your chair . 
+_t4 		thank you ! 
+_t4 		is that your helicopter ?
+_t4 
+_t4 		Alex !
+_t4 
+_t4 		Alex , come on .
+_t4 
+_t4 		comon [: come on] , you gotta get in your chair , comon [: come on] . 
+_t4 		all+right , wait just a minute and I'll help you .
+_t4 
+_t4 		what honey ? 
+_t4 		okay . 
+_t4 		uh ,  , what's going on with this table cloth . 
+_t4 		ready ? 
+_t4 		okay , get in your chair . 
+_t4 		hurry up ! 
+_t4 		yes , it's Alex's chair . 
+_t4 		sure . 
+_t4 		this one . 
+_t4 		sure . 
+_t4 		there . 
+_t4 		okay .
+_t4 
+_t4 		that's a helicopter , not a plane . 
+_t4 		there you go . 
+_t4 		the drink . 
+_t4 		some shakers . 
+_t4 		and a couple of books . 
+_t4 		just in case . 
+_t4 		no juice ? 
+_t4 		Santa . 
+_t4 		bear . 
+_t4 		we have_to let this cool off it's a little warm .
+_t4 
+_t4 		okay ? 
+_t4 		we'll cut it up . 
+_t4 		okay , we can open some of your fruit . 
+_t4 		peaches . 
+_t4 		yeah , it's a little hot though wait a minute . 
+_t4 		try it . 
+_t4 		is it okay ? 
+_t4 		howsat [: how is that] ? 
+_t4 		wait , wait minute . 
+_t4 		try it now . 
+_t4 		there . 
+_t4 		how is it ? 
+_t4 		what's that ? 
+_t4 		a train .
+_t4 
+_t4 		what's a train say ? 
+_t4 		whatsat [: what is that] ? 
+_t4 		plane . 
+_t4 		what's this ? 
+_t4 		ball . 
+_t4 		whatsat [: what is that] ? 
+_t4 		red ball . 
+_t4 		where's the plane . 
+_t4 		uh , see I can't find it , I can't find it , I can't find it , there it is !
+_t4 
+_t4 		these are all , yeah those are all cars all mixed up in the big truck . 
+_t4 		then you have_to say I spy , I spy a skate . 
+_t4 		a hammer and a clock . 
+_t4 		where's the skate ? 
+_t4 		there's the skate . 
+_t4 		where's the hammer ? 
+_t4 		there's the hammer . 
+_t4 		where's the clock ? 
+_t4 		there's the clock . 
+_t4 		I spy , two . 
+_t4 		little cars of green . 
+_t4 		where's green ?
+_t4 
+_t4 		green . 
+_t4 		green . 
+_t4 		turn the page . 
+_t4 		huh , I , a kitty cat face and a blue limousine . 
+_t4 		where's the kitty ? 
+_t4 		where's , huh , lookit [: look] there it is . 
+_t4 		and where's the blue limousine . 
+_t4 		there it is . 
+_t4 		is it good ? 
+_t4 		what honey ? 
+_t4 		let me see . 
+_t4 		that's a fishy . 
+_t4 		oh no , you're right , there's a duck . 
+_t4 		I see it . 
+_t4 		can you get me something cold to drink please ? 
+_t4 		just some water would be fine , I'm so thirsty . 
+_t4 		I spy a man , where's the man ? 
+_t4 		a little wooden train . 
+_t4 		there's the man . 
+_t4 		now where's the train ? 
+_t4 		uh , my finger , give me my finger ! 
+_t4 		where is it ? 
+_t4 		no , where's the kitty ? 
+_t4 		where's the kitty cat ? 
+_t4 		right there . 
+_t4 		there it is . 
+_t4 		see it ?
+_t4 
+_t4 		now he's calling you . 
+_t4 		yes . 
+_t4 		chew . 
+_t4 		chew , chew .
+_t4 
+_t4 		thank you so much .
+_t4 
+_t4 		hi . 
+_t4 		okay . 
+_t4 		oh , it is snow:ing . 
+_t4 		mmmm+hmmm . 
+_t4 		oh Alex ,  . 
+_t4 		what , what . 
+_t4 		he just so back+washed in my water , I can't even drink it . 
+_t4 		okay . 
+_t4 		it's real bad . 
+_t4 		Alex , that was gross . 
+_t4 		I'll get you new water . 
+_t4 		usually you don't gross me out , but that really did . 
+_t4 		there's a school bus . 
+_t4 		chew . 
+_t4 		don't even put it in the same glass . 
+_t4 		okay . 
+_t4 		I'm fine , how are you . 
+_t4 		where's the clock ? 
+_t4 		clock , what's that say ? 
+_t4 		hammer . 
+_t4 		what's this , what's this , what's that , right there ? 
+_t4 		what's that ? 
+_t4 		twelve . 
+_t4 		okay . 
+_t4 		what comes after +//. 
+_t4 		uh ,  , that's okay .
+_t4 
+_t4 		we'll get it after . 
+_t4 		what comes after seven . 
+_t4 		right . 
+_t4 		one .
+_t4 
+_t4 		ball . 
+_t4 		yup [: yes] .
+_t4 
+_t4 		two , two .
+_t4 
+_t4 		what's this ?
+_t4 
+_t4 		what's this ?
+_t4 
+_t4 		yup [: yes] .
+_t4 
+_t4 		right .
+_t4 
+_t4 		bat , very .
+_t4 
+_t4 		right .
+_t4 
+_t4 		three (.) gloves .
+_t4 
+_t4 		four . 
+_t4 		what ? 
+_t4 		what's that ? 
+_t4 		ten . 
+_t4 		what comes after ten . 
+_t4 		ten . 
+_t4 		hat , hat . 
+_t4 		Alex , what comes after ten ? 
+_t4 		three . 
+_t4 		Alex , what comes after ten ? 
+_t4 		eleven ? 
+_t4 		glove . 
+_t4 		glove .
+_t4 
+_t4 		glove . 
+_t4 		ball . 
+_t4 		bat .
+_t4 
+_t4 		right , ray ! 
+_t4 		woops , I'm sorry . 
+_t4 		where's five ? 
+_t4 		where'd the five go ? 
+_t4 		over here . 
+_t4 		it's stuck . 
+_t4 		there . 
+_t4 		five .
+_t4 
+_t4 		six .
+_t4 
+_t4 		seven .
+_t4 
+_t4 		eight .
+_t4 
+_t4 		ten . 
+_t4 		te:n ! 
+_t4 		what comes after ten ?
+_t4 
+_t4 		what comes after ten ? 
+_t4 		can you say eleven ?
+_t4 
+_t4 		Poe . 
+_t4 		Poe . 
+_t4 		Poe .
+_t4 
+_t4 		chew . 
+_t4 		xxx . 
+_t4 		where's Gigi , call Gigi . 
+_t4 		no you have_to stay here and eat your lunch . 
+_t4 		call her , she'll come over here . 
+_t4 		what ? 
+_t4 		say +...
+_t4 
+_t4 		yes . 
+_t4 		say +...
+_t4 
+_t4 		say water please .
+_t4 
+_t4 		okay . 
+_t4 		spin it .
+_t4 
+_t4 		look , spin wee !
+_t4 
+_t4 		no , no you have_to eat your lunch .
+_t4 
+_t4 		hey .
+_t4 
+_t4 		yes , you may . 
+_t4 		mmmm  . 
+_t4 		de:licious . 
+_t4 		mmmm  . 
+_t4 		would you like your crayons ? 
+_t4 		would you like your crayons ? 
+_t4 		what do you say ?
+_t4 
+_t4 		does Mommy get anything if I give you crayons ? 
+_t4 		what do I get ?
+_t4 
+_t4 		and I get a ki:ss !
+_t4 
+_t4 		I love getting kisses from you . 
+_t4 		they're wonderful . 
+_t4 		where's my masterpiece that we were making ? 
+_t4 		where's Mommy's masterpiece that she's working on ? 
+_t4 		oh , there's my masterpiece . 
+_t4 		oh no , don't ruin it . 
+_t4 		I have_to finish it , it's such a beautiful page I'm coloring . 
+_t4 		sure .
+_t4 
+_t4 		let's move ya [: your] , let's move your books . 
+_t4 		let's fix them all neatly . 
+_t4 		cause [: because] a +... 
+_t4 		it looks like a hurricane ran through here . 
+_t4 		okay , right here look , lift . 
+_t4 		see lift . 
+_t4 		okay ? 
+_t4 		may I color ? 
+_t4 		pink . 
+_t4 		see ? 
+_t4 		did you +...
+_t4 
+_t4 		a yellow .
+_t4 
+_t4 		blue . 
+_t4 		easy . 
+_t4 		just go gentle . 
+_t4 		call Gigi . 
+_t4 		xxx . 
+_t4 		oh (.) yeah isn't it ? 
+_t4 		we just put (th)em together yesterday I think . 
+_t4 		how many do you have ? 
+_t4 		okay you need water ? 
+_t4 		yeah , and you need to get rid of this gross water . 
+_t4 		okay . 
+_t4 		please . 
+_t4 		boy , it smells like there's apple pie baking in here . 
+_t4 		um , that looks like a: +... 
+_t4 		geez Alex , I'm not even really sure honey . 
+_t4 		maybe a rhinoceros .
+_t4 
+_t4 		I'm not +//. 
+_t4 		or maybe it's just something that they made up .
+_t4 
+_t4 		I can't even tell . 
+_t4 		that's a lion . 
+_t4 		let me see that one . 
+_t4 		this one . 
+_t4 		that looks like a monkey . 
+_t4 		hi Alex . 
+_t4 		monkey .
+_t4 
+_t4 		what are those ? 
+_t4 		what is that ? 
+_t4 		no ? 
+_t4 		is it a monkey ? 
+_t4 		my art work I've been working on . 
+_t4 		this one ? 
+_t4 		yeah .
+_t4 
+_t4 		thank you . 
+_t4 		yes . 
+_t4 		who is that . 
+_t4 		may I see his face ? 
+_t4 		not your face you silly  . 
+_t4 		you silly boy , you +... 
+_t4 		did you make a funny face ?
+_t4 
+_t4 		you made a funny face .
+_t4 
+_t4 		put them in line ,  what a nice line . 
+_t4 		okay , I'm going to go back downstairs . 
+_t4 		blue . 
+_t4 		red . 
+_t4 		yellow . 
+_t4 		pink . 
+_t4 		oh , very nice lining up . 
+_t4 		oh , is that for Mommy to use . 
+_t4 		oh thank you for sharing . 
+_t4 		let me get my page . 
+_t4 		okay .
+_t4 
+_t4 		what color is this ?
+_t4 
+_t4 		this is yellow+green . 
+_t4 		I don't know if I (.) need that just yet . 
+_t4 		let's see . 
+_t4 		how about +... 
+_t4 		how bout [: about] a black , we'll make a black on the molding . 
+_t4 		where's the black ? 
+_t4 		here it is . 
+_t4 		this one . 
+_t4 		black . 
+_t4 		we'll use black around on the molding . 
+_t4 		that is a , this is a mixed up color . 
+_t4 		it's called stars and stripes , it's red white and blue all in the same crayon . 
+_t4 		see . 
+_t4 		it's like a marble .
+_t4 
+_t4 		this is timber+wolf . 
+_t4 		find , find it .
+_t4 
+_t4 		okay let's use black . 
+_t4 		okay ? 
+_t4 		black , let's use the black , ready go . 
+_t4 		we'll do a little bit of black +... 
+_t4 		over here . 
+_t4 		near Elmo . 
+_t4 		little bit over here . 
+_t4 		near the flowers . 
+_t4 		a little over here . 
+_t4 		and a little spec right here . 
+_t4 		no that's blue . 
+_t4 		and a little bit over here . 
+_t4 		see .
+_t4 
+_t4 		that's a blue .
+_t4 
+_t4 		blue .
+_t4 
+_t4 		blue .
+_t4 
+_t4 		blue .
+_t4 
+_t4 		red , purple , red , purple .
+_t4 
+_t4 		no blue ! 
+_t4 		red , purple , red , purple , (.) blue ! 
+_t4 		gray . 
+_t4 		oh , no there's a broken one . 
+_t4 		what happened ? 
+_t4 		what happened to the broken one ? 
+_t4 		what honey ?
+_t4 
+_t4 		uh ,  what ? 
+_t4 		here's your peach .
+_t4 
+_t4 		xxx . 
+_t4 		I'm gonna go  will you tell me when that water's boiling . 
+_t4 		yup [: yes] the mail is on the table . 
+_t4 		yup [: yes] , I know . 
+_t4 		here I'll get it . 
+_t4 		here it is . 
+_t4 		put them on the table . 
+_t4 		there . 
+_t4 		no you can't get down with your crayons . 
+_t4 		you can get down but you can't bring your crayons , those are the rules . 
+_t4 		put your crayons up here . 
+_t4 		and then you can get . 
+_t4 		nope [: no] .
+_t4 
+_t4 		no I have_to stick to these rules Alex , because you'll +... 
+_t4 		color the house . 
+_t4 		all+right you have_to leave these here . 
+_t4 		well you can't get down until you leave those on the table . 
+_t4 		please . 
+_t4 		you put those on the table and Mommy will let you get down . 
+_t4 		you cannot get down with those in your hand . 
+_t4 		no , I don't care how cute you make your face I'm not fallin [: falling] for it . 
+_t4 		you havta have a little bit of structure and a little bit of rules . 
+_t4 		cause [: because] you have a  . 
+_t4 		cause [: because] I like to do  . 
+_t4 		see now you lost your crayons . 
+_t4 		you cannot hit . 
+_t4 		even when we're playing and goofing around . 
+_t4 		you just can't do it . 
+_t4 		would you like to get down . 
+_t4 		okay . 
+_t4 		would you like to get down .
+_t4 
+_t4 		all+right you have_to put this down . 
+_t4 		then you can't get down Alex . 
+_t4 		would you like some peaches . 
+_t4 		all+right you have_to put your crayons on the table then you can get down .
+_t4 
+_t4 		yes . 
+_t4 		you can't get down with that in your hand . 
+_t4 		no you can throw a fit it's okay we'll clean it up later . 
+_t4 		now , would you like to get down ?
+_t4 
+_t4 		no means yes .
+_t4 
+_t4 		no you have_to keep them here . 
+_t4 		you cannot get down with those . 
+_t4 		are you hitting me ? 
+_t4 		do you need time out ? 
+_t4 		stop licking me , you're so fresh +//. 
+_t4 		and don't you bite .
+_t4 
+_t4 		stop it . 
+_t4 		xxx         . 
+_t4 		sure you may have a juice . 
+_t4 		pink . 
+_t4 		put them on the table and you can get down .
+_t4 
+_t4 		would you like to go clean Dorothy's bowl ?
+_t4 
+_t4 		would you like to help me clean Dorothy ? 
+_t4 		we'll get your bench .
+_t4 
+_t4 		would you like to clean her all up ? 
+_t4 		would you like to help Mommy ? 
+_t4 		all+right you can get down but you have_to leave the crayons on the table . 
+_t4 		put'em [: put them] up here and you can get down . 
+_t4 		one .
+_t4 
+_t4 		all+right well then you're not getting down .
+_t4 
+_t4 		I'm not trying to give you a hard time Alex but you have_to have a little bit of something , a little rules . 
+_t4 		okay you have_to learn , to compromise . 
+_t4 		you can't , we play crayons at the table , that's where we play the crayons , we don't walk around the house with the crayons . 
+_t4 		okay ? 
+_t4 		you can get down , Mommy will let you down , but you have_to keep the crayons on the table . 
+_t4 		would you like me to help you ? 
+_t4 		there it is . 
+_t4 		put it on Mommy's fingers . 
+_t4 		put it on , put this one on .
+_t4 
+_t4 		okay . 
+_t4 		put the other one on , the red . 
+_t4 		and then put the blue . 
+_t4 		where's the blue ?
+_t4 
+_t4 		get the blue .
+_t4 
+_t4 		put it on this way . 
+_t4 		I think I want to give Alex a kiss , I'm getting closer to give him a kiss . 
+_t4 		I don't know when I'm going to kiss him , but I think I will right now . 
+_t4 		this one's falling off my pinky , it's too (.) too big . 
+_t4 		I think I want to give Alex a hug . 
+_t4 		a hug .
+_t4 
+_t4 		lookit [: look] , look what you can make , look . 
+_t4 		you keep them on your fingers , right .
+_t4 		and then you , oops , and then you do this . 
+_t4 		you can co:lor with all the crayons on your finger:s . 
+_t4 		see ? 
+_t4 		all at the same time . 
+_t4 		who do I think is so cute . 
+_t4 		who do I think is so: cu:te .
+_t4 
+_t4 		you're so cute . 
+_t4 		the blue ? 
+_t4 		what's that ?
+_t4 
+_t4 		muwah .
+_t4 
+_t4 		a pink . 
+_t4 		you can probably fit two finger in there , let's see . 
+_t4 		what happened ? 
+_t4 		no there was only four . 
+_t4 		no there's only , there was only four . 
+_t4 		can you take another bite ? 
+_t4 		don't do that . 
+_t4 		don't put them in your mouth Alex . 
+_t4 		don't put them in your mouth .
+_t4 
+_t4 		yuk ! 
+_t4 		don't you tease me . 
+_t4 		does Mommy have_to take these from you , you have a mouth full of teeth . 
+_t4 		look at all these teeth . 
+_t4 		I'll be sick . 
+_t4 		you'll make me sick . 
+_t4 		I mean it . 
+_t4 		okay here's your bite . 
+_t4 		oh (.) boy . 
+_t4 		oh boy . 
+_t4 		yes ?
+_t4 
+_t4 		what ? 
+_t4 		chew !
+_t4 
+_t4 		before you have an accident . 
+_t4 		yes ? 
+_t4 		you have a baby there ? 
+_t4 		where's the potty ? 
+_t4 		no .
+_t4 
+_t4 		where , he said , he's looking for Manuela . 
+_t4 		oh , he's looking for Manuela .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		where's the buddy ? 
+_t4 		where'd she go ? 
+_t4 		he's looking for Man +//. 
+_t4 		he says where's the buddy ?
+_t4 
+_t4 		where'd she go ? 
+_t4 		where did she go ? 
+_t4 		where did she go ?
+_t4 
+_t4 		is she in the other room ?
+_t4 
+_t4 		what ? 
+_t4 		who ?
+_t4 		where did she go , she's here .
+_t4 
+_t4 		who ?
+_t4 
+_t4 		who are we looking for ? 
+_t4 		there she is . 
+_t4 		I told you she was here .
+_t4 
+_t4 		what do you call that ? 
+_t4 		what's that ? 
+_t4 		put it on the other one . 
+_t4 		on your thumb . 
+_t4 		ready , I'll help you . 
+_t4 		put it on this finger . 
+_t4 		and get the , get the pink . 
+_t4 		all+right , and show Gigi look , Gigi look . 
+_t4 		are those finger puppets ? 
+_t4 		no they're crayons . 
+_t4 		oh that's , those are those crayons , that's right . 
+_t4 		ruh  . 
+_t4 		oh , welcome ,  , welcome , to our little play: . 
+_t4 		play: . 
+_t4 		what honey ? 
+_t4 		I'm looking for a pretty crayon . 
+_t4 		not that one . 
+_t4 		that one's all+right , that one will work . 
+_t4 		too light . 
+_t4 		I want like a pretty violet . 
+_t4 		that one will work . 
+_t4 		that will work . 
+_t4 		what does this one look like ? 
+_t4 		too light . 
+_t4 		how about this one ? 
+_t4 		magenta . 
+_t4 		too much pink . 
+_t4 		we need more blues . 
+_t4 		that one's kinda [: kind of] pretty . 
+_t4 		hum what else do you think we should use ? 
+_t4 		chew .
+_t4 
+_t4 		don't talk . 
+_t4 		while you're trying to chew . 
+_t4 		what's this one ? 
+_t4 		that's a little pretty too . 
+_t4 		I like it . 
+_t4 		chew honey . 
+_t4 		she's in the other room . 
+_t4 		no . 
+_t4 		where's the blue ?
+_t4 
+_t4 		say your water . 
+_t4 		tell her your water .
+_t4 
+_t4 		chew first . 
+_t4 		chew first .
+_t4 
+_t4 		Alex you have_to chew and then you can shout . 
+_t4 		call her , say the water's boiling . 
+_t4 		lookit [: look] see it ? 
+_t4 		see the steam ? 
+_t4 		steam . 
+_t4 		steam . 
+_t4 		steam . 
+_t4 		say steam . 
+_t4 		say Gigi steam . 
+_t4 		call her . 
+_t4 		gahead [: go ahead] call her . 
+_t4 		what honey ? 
+_t4 		say steam .
+_t4 
+_t4 		tell her , say steam . 
+_t4 		you are the silliest . 
+_t4 		here . 
+_t4 		xxx . 
+_t4 		Mom ! 
+_t4 		okay , it's boiling ? 
+_t4 		yeah .
+_t4 
+_t4 		Mom ! 
+_t4 		yes .
+_t4 
+_t4 		no I like the way he says it .
+_t4 
+_t4 		Mom .
+_t4 
+_t4 		Mom . 
+_t4 		Mom .
+_t4 
+_t4 		Mom . 
+_t4 		Alex . 
+_t4 		Mom . 
+_t4 		get it out of your mouth . 
+_t4 		do:n't . 
+_t4 		eat those (.) crayons . 
+_t4 		yes honey . 
+_t4 		oh ! 
+_t4 		it's a crayon . 
+_t4 		Gigi chirps too much , tell her to stop chirping . 
+_t4 		poor Manuela . 
+_t4 		she doesn't want to come over here and listen to Gigi chirp . 
+_t4 		she's  . 
+_t4 		one more bi:te . 
+_t4 		hooray , very good !
+_t4 		now what ? 
+_t4 		a pop ? 
+_t4 		you would like a pop ? 
+_t4 		would you like a pop for real or are you just sayin' [: saying] that ?
+_t4 
+_t4 		you want to drink this ? 
+_t4 		there . 
+_t4 		what is that face ? 
+_t4 		what is that face ? 
+_t4 		let me see . 
+_t4 		what are you making +//. 
+_t4 		all+right don't do that , don't do that .
+_t4 
+_t4 		you could hurt yourself . 
+_t4 		hey , hey ! 
+_t4 		stop it . 
+_t4 		okay now what would you like ? 
+_t4 		what color ? 
+_t4 		a red one ? 
+_t4 		which one ? 
+_t4 		do you really want a pop ? 
+_t4 		excuse me . 
+_t4 		hell:o . 
+_t4 		uh+oh . 
+_t4 		are you getting down +//? 
+_t4 		oh no your not getting down with those , we had this talk already .
+_t4 
+_t4 		put'em [: put them] on the table and then you can get down . 
+_t4 		up here please . 
+_t4 		rules (.) are (.) rules . 
+_t4 		no (.) no . 
+_t4 		you cannot walk around with these . 
+_t4 		you'll be okay .
+_t4 
+_t4 		you'll get over it . 
+_t4 		nope [: no] . 
+_t4 		let's find something else . 
+_t4 		comon [: come on] . 
+_t4 		you'll be fine . 
+_t4 		nope [: no] . 
+_t4 		where's the blue ? 
+_t4 		you can get some other people you don't have_to have those .
+_t4 
+_t4 		lookit [: look] .
+_t4 
+_t4 		get the people . 
+_t4 		where's your little people ? 
+_t4 		lookit [: look] there is one right there . 
+_t4 		no we're not watching Elmo right now .
+_t4 
+_t4 		no , we'll play with something else okay . 
+_t4 		would you like to play with blocks ?
+_t4 
+_t4 		all+right we'll play with your blocks , let's put your crayons away . 
+_t4 		okay . 
+_t4 		we can do blocks . 
+_t4 		let's put these away . 
+_t4 		we cannot walk around with crayons we have_to play crayons at the table . 
+_t4 		take your helicopter . 
+_t4 		take your nail . 
+_t4 		okay . 
+_t4 		what honey ? 
+_t4 		what honey ? 
+_t4 		you want the +//. 
+_t4 		who is that Teletubbies ?
+_t4 
+_t4 		be careful . 
+_t4 		Alex don't do that .
+_t4 
+_t4 		go around . 
+_t4 		he didn't go out today . 
+_t4 		oh he didn't that's right . 
+_t4 		no .
+_t4 
+_t4 		all+right I'm gonna go downstairs . 
+_t4 		Alex  . 
+_t4 		Alex sit on your mat honey . 
+_t4 		here , comon [: come on] . 
+_t4 		over here . 
+_t4 		sit over here . 
+_t4 		comon [: come on] . 
+_t4 		comon [: come on] over here . 
+_t4 		get all your tools . 
+_t4 		yeah those are your pliers .
+_t4 
+_t4 		over here Alex , lookit [: look] . 
+_t4 		where are your blocks . 
+_t4 		sit on the mat . 
+_t4 		get your tools . 
+_t4 		comon [: come on] . 
+_t4 		look at all these toys . 
+_t4 		looks like a toy factory exploded in here . 
+_t4 		huh ? 
+_t4 		what are we going to build ? 
+_t4 		there . 
+_t4 		where's all your little people . 
+_t4 		one . 
+_t4 		two . 
+_t4 		mega blocks . 
+_t4 		no it fits see ? 
+_t4 		it's okay watch . 
+_t4 		three .
+_t4 
+_t4 		put him in there . 
+_t4 		gahead [: go ahead] . 
+_t4 		mega blocks . 
+_t4 		okay .
+_t4 
+_t4 		what , what ? 
+_t4 		oh it's just a wrinkle . 
+_t4 		okay . 
+_t4 		where's all your blues . 
+_t4 		Gigi went downstairs . 
+_t4 		are you going to build a house ? 
+_t4 		see lookit [: look] . 
+_t4 		what honey ? 
+_t4 		you want to stay with me ?
+_t4 
+_t4 		are you gonna to give me some blocks ? 
+_t4 		we're not watching that right now .
+_t4 
+_t4 		we're not watching Teletubbies right now . 
+_t4 		that's for later . 
+_t4 		okay give me a red .
+_t4 
+_t4 		can you give Mommy a red block please ? 
+_t4 		can you give Mommy a red block ? 
+_t4 		we're not watching Teletubbies .
+_t4 
+_t4 		Al:ex . 
+_t4 		little baby . 
+_t4 		oh , can Ma [: Mom] have a red block ? 
+_t4 		give Mommy a red one . 
+_t4 		thank you for the kiss , I didn't even have_to ask , wow . 
+_t4 		lookit [: look] . 
+_t4 		let's get your blocks , lookit [: look] . 
+_t4 		blue . 
+_t4 		red purple , where's red ?
+_t4 
+_t4 		find some red . 
+_t4 		how bout [: about] a green ? 
+_t4 		wo:w ! 
+_t4 		lookit [: look] . 
+_t4 		here's another blue . 
+_t4 		right ? 
+_t4 		here's your green , now you can start doing your greens . 
+_t4 		we should just do different colors . 
+_t4 		Alex leave the tv alone please . 
+_t4 		sit over here ? 
+_t4 		lookit [: look] . 
+_t4 		sit here look Alex over here lookit [: look] , look at Mommy look , sit over here . 
+_t4 		and hand Mommy the blocks and I'll make , I'll build you a castle . 
+_t4 		what's in your pocket ?
+_t4 
+_t4 		huh , what's that ? 
+_t4 		what's in your pocket ? 
+_t4 		what's in this pocket ? 
+_t4 		who's that ? 
+_t4 		who is it ? 
+_t4 		huh , wow , you had that in your pocket . 
+_t4 		wow . 
+_t4 		you are so lucky to have all these toys . 
+_t4 		there , Mommy put a quick stop to that . 
+_t4 		you have_to unplug it . 
+_t4 		lookit [: look] , look at green and blue . 
+_t4 		now where's red , get the red . 
+_t4 		A:lex . 
+_t4 		where are the reds ? 
+_t4 		lookit [: look] . 
+_t4 		Alex look . 
+_t4 		it's broken ? 
+_t4 		uh+oh , who's coming ? 
+_t4 		nope [: no] . 
+_t4 		look at this . 
+_t4 		what's that ? 
+_t4 		do you want me to keep building ? 
+_t4 		let's see , let's put some more . 
+_t4 		sit over here . 
+_t4 		gahead [: go ahead] , sit down and I'll help you . 
+_t4 		put your yellows . 
+_t4 		do you want to put a green ?
+_t4 
+_t4 		Alex put your bum on the mat honey .
+_t4 
+_t4 		you're gonna have a cold bum on the floor .
+_t4 
+_t4 		there you go . 
+_t4 		are you going to put red next ?
+_t4 
+_t4 		red . 
+_t4 		just the reds . 
+_t4 		gahead [: go ahead] . 
+_t4 		push'em [: push them] . 
+_t4 		push'em [: push them] in . 
+_t4 		push . 
+_t4 		push . 
+_t4 		see ? 
+_t4 		do red . 
+_t4 		now which color ?
+_t4 
+_t4 		no we don't have purple we have yellow .
+_t4 
+_t4 		how about yellow , would you like to do yellow . 
+_t4 		hi . 
+_t4 		hi .
+_t4 
+_t4 		how are you ? 
+_t4 		good and you ? 
+_t4 		good thanks . 

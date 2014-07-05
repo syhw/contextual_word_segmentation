@@ -1,0 +1,1736 @@
+_t4 		xxx .
+_t4 
+_t4 		sure .
+_t4 
+_t4 		xxx thank you .
+_t4 
+_t4 		which cord did you use first ? 
+_t4 		which one ,  blue first ?
+_t4 
+_t4 		nice choice . 
+_t4 		I like blue . 
+_t4 		xxx . 
+_t4 		return the whale .
+_t4 
+_t4 		how you doing Alex ? 
+_t4 		you okay ? 
+_t4 		what a(re) you making ? 
+_t4 		oh I like that . 
+_t4 		that sounds like a great idea . 
+_t4 		okay .
+_t4 
+_t4 		you can make two if you want (be)cause I gave you an orange one . 
+_t4 		if you want to do small on one and the large ones on the other .
+_t4 
+_t4 		or you could mix (th)em up .
+_t4 
+_t4 		okay . 
+_t4 		sounds good to me . 
+_t4 		let's go patriots , here we go patriots here we go . 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		one cup of cheese . 
+_t4 		ooh that looks lovely . 
+_t4 		are you matching colors ? 
+_t4 		what a(re) you doing ? 
+_t4 		oh okay . 
+_t4 		green is next ?
+_t4 
+_t4 		yellow's [: yellow is] next ?
+_t4 
+_t4 		okay .
+_t4 
+_t4 		pink is next ? 
+_t4 		still yellow ? 
+_t4 		okay take your time .
+_t4 
+_t4 		who's [: who is] climbing the ladder ? 
+_t4 		oh a bead ladder ?
+_t4 
+_t4 		that's [: that is] a cute idea .
+_t4 
+_t4 		I didn'(t) , I don't know what happened ? 
+_t4 		it was what ? 
+_t4 		did you hear something ? 
+_t4 		a what ? 
+_t4 		you heard a zebra ? 
+_t4 		we have a zebra upstairs ? 
+_t4 		no . 
+_t4 		oranges next ?
+_t4 
+_t4 		that's okay , I will get it .
+_t4 
+_t4 		that's okay . 
+_t4 		here it is , it's [: it is] right there . 
+_t4 		oopsie .
+_t4 
+_t4 		this one stuck a little ? 
+_t4 		oh you know why I think that one's [: one is] broke . 
+_t4 		we'll have_to have someone fix that , doesn't have another . 
+_t4 		see , it's [: it is] closed . 
+_t4 		sometimes they get a little broke like that but that's okay we'll we'll fix it .
+_t4 
+_t4 		which one ? 
+_t4 		try that one . 
+_t4 		okay . 
+_t4 		(doe)s that work okay ? 
+_t4 		good . 
+_t4 		look at that . 
+_t4 		one piece o(f) cow . 
+_t4 		beep [x 
+_t4 		red is next ? 
+_t4 		(o)kay . 
+_t4 		another one ? 
+_t4 		that one's [: one is] broke [= broken] too ? 
+_t4 		all+right well lemme [: let me] look , wait one second .
+_t4 
+_t4 		I'll be right over . 
+_t4 		I'll be right there honey . 
+_t4 		I'll check it out . 
+_t4 		okay I'm coming .
+_t4 
+_t4 		bake . 
+_t4 		oops timer . 
+_t4 		be right there Alex . 
+_t4 		here I come .
+_t4 
+_t4 		lemme [: let me] see , show me show me . 
+_t4 		another one . 
+_t4 		Alex hand Mommy the orange cord please . 
+_t4 		lemme [: let me] try something . 
+_t4 		you can have it right back . 
+_t4 		nope [: no] , you're right . 
+_t4 		that one's [: one is] broke [= broken] too . 
+_t4 		we'll have_to drill .
+_t4 
+_t4 		would you like to put , why don't you put the reds and pinks on this one because you're running out of room . 
+_t4 		wha(t) there's no more room . 
+_t4 		(tha)t's why I gave you two cords . 
+_t4 		wha(t) ?
+_t4 
+_t4 		you don't want to do orange ? 
+_t4 		but you can't put these beads . 
+_t4 		you're running out of room , there's no more room , look . 
+_t4 		where you gonna put the beads ? 
+_t4 		I won't be able to tie a knot . 
+_t4 		right but you have_to leave some space at the end . 
+_t4 		there's red . 
+_t4 		red . 
+_t4 		red red . 
+_t4 		red . 
+_t4 		red . 
+_t4 		red . 
+_t4 		red . 
+_t4 		what happened to my reds ? 
+_t4 		you're mixing (th)em up with my pink . 
+_t4 		xxx .
+_t4 
+_t4 		all+right .
+_t4 
+_t4 		see ya . 
+_t4 		see ya later . 
+_t4 		but you have no room . 
+_t4 		push the orange down . 
+_t4 		there . 
+_t4 		lovely .
+_t4 
+_t4 		uh I'll try .
+_t4 
+_t4 		oh would you like to make two ? 
+_t4 		okay .
+_t4 
+_t4 		here's your orange .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		but I have_to take the red off . 
+_t4 		I have_to take the red ones off okay ? 
+_t4 		thank you .
+_t4 
+_t4 		(be)cause I need some room . 
+_t4 		oops , oops oops . 
+_t4 		well it's [: it is] not a necklace yet you have_to put beads on it . 
+_t4 		well where's your beads ? 
+_t4 		don't you want to decorate it with beads ? 
+_t4 		put the reds in the pinks ? 
+_t4 		would you like me to find more beads ? 
+_t4 		I think there are some in this bag but I don't know if they're too small or not . 
+_t4 		try not to drop (th)em . 
+_t4 		lemme [: let me] see . 
+_t4 		I know you know what  +/.
+_t4 
+_t4 		that's not a donut , that's a , don't you put that in your mouth . 
+_t4 		there will be big trouble .
+_t4 
+_t4 		no just plain old big trouble .
+_t4 
+_t4 		you're welcome .
+_t4 
+_t4 		xxx . 
+_t4 		I have_to keep you busy .
+_t4 
+_t4 		how's that ?
+_t4 
+_t4 		that's orange . 
+_t4 		what happened honey ? 
+_t4 		come in . 
+_t4 		morning .
+_t4 
+_t4 		xxx good morning John . 
+_t4 		good morning , how are you ?
+_t4 
+_t4 		good morning .
+_t4 
+_t4 		you're making beads ? 
+_t4 		xxx .
+_t4 
+_t4 		we have_to drill better holes for some of the beads .
+_t4 
+_t4 		oh no .
+_t4 
+_t4 		oh . 
+_t4 		see they go all the way through , yeah . 
+_t4 		oh that's no that bad .
+_t4 
+_t4 		I thought the world was gonna end . 
+_t4 		did you find another one that didn't work ? 
+_t4 		or are they okay ? 
+_t4 		good . 
+_t4 		I like all the different colors .
+_t4 
+_t4 		if you put a blue next then it will be a pattern . 
+_t4 		it will be yellow blue yellow blue .
+_t4 
+_t4 		yellow blue . 
+_t4 		right ?
+_t4 
+_t4 		will you +/? 
+_t4 		we can mix green and pink green and pink green and pink .
+_t4 
+_t4 		that's blue and yellow . 
+_t4 		oops .
+_t4 
+_t4 		catch it .
+_t4 
+_t4 		looks good to me . 
+_t4 		you like it ? 
+_t4 		me too . 
+_t4 		lovely . 
+_t4 		you show me +/. 
+_t4 		call me when you're , when +/. 
+_t4 		show me when you're all done . 
+_t4 		how's [: how does] it look ? 
+_t4 		mmmm+hmmm . 
+_t4 		show me .
+_t4 
+_t4 		lemme [: let me] see . 
+_t4 		yes that's making a pattern . 
+_t4 		blue and yellow blue and yellow blue and yellow , continue it .
+_t4 
+_t4 		you could do blue and orange sure . 
+_t4 		lemme [: let me] see . 
+_t4 		where where where ? 
+_t4 		lemme [: let me] see . 
+_t4 		o:h I have two yellows . 
+_t4 		two lightbulbs . 
+_t4 		lemme [: let me] see . 
+_t4 		okay now you have_to do another pink and another green , to make it work . 
+_t4 		do that honey . 
+_t4 		I'm changing the lightbulb so we can see .
+_t4 
+_t4 		can('t) see . 
+_t4 		hmmm ? 
+_t4 		like this .
+_t4 
+_t4 		so the light will work better . 
+_t4 		mmmm+hmmm it will be brighter . 
+_t4 		we have one . 
+_t4 		(di)d you catch it ? 
+_t4 		that's okay I'll get it for you . 
+_t4 		I'll get it . 
+_t4 		can't reach this one . 
+_t4 		(o)kay . 
+_t4 		let's see if that works better . 
+_t4 		ah . 
+_t4 		lovely . 
+_t4 		don't you think ?
+_t4 
+_t4 		and we still have , why is that one out ?
+_t4 
+_t4 		hmmm:    . 
+_t4 		why doesn't this work ? 
+_t4 		don't forget that other one . 
+_t4 		what about that one over there ? 
+_t4 		okay . 
+_t4 		that's okay come here I'll help you . 
+_t4 		lemme [: let me] tie a knot . 
+_t4 		there it goes . 
+_t4 		okay come here honey , I'll help you .
+_t4 
+_t4 		ooh , all+right bring it over here and I'll tie a knot . 
+_t4 		go around . 
+_t4 		all+right come here . 
+_t4 		careful of all your toys .
+_t4 
+_t4 		all+right come here , first let's fix your backpack . 
+_t4 		let's fix that , that's real important . 
+_t4 		okay let's see . 
+_t4 		okay . 
+_t4 		now lemme [: let me] tie a knot for you .
+_t4 
+_t4 		have a seat , I'll fix it . 
+_t4 		go ahead , go (a)head lift . 
+_t4 		(o)kay . 
+_t4 		ah boy , you've been such a busy worker . 
+_t4 		okay but you +/.
+_t4 
+_t4 		lemme [: let me] see . 
+_t4 		okay but come right back , okay ?
+_t4 
+_t4 		come right back . 
+_t4 		here's your two necklaces . 
+_t4 		oh boy you +... 
+_t4 		oh   wait wait come back come back . 
+_t4 		okay go (a)head try now . 
+_t4 		wow it's so beautiful .
+_t4 
+_t4 		oh it's beautiful .
+_t4 
+_t4 		she's sleeping , sh: . 
+_t4 		you'll wake her . 
+_t4 		all+right come back .
+_t4 
+_t4 		come on you said you'd come back , come on . 
+_t4 		it's beaut(iful) +//.
+_t4 
+_t4 		it's perfect . 
+_t4 		would you like to take them apart ? 
+_t4 		put (th)em back in your bowl , make another one ?
+_t4 
+_t4 		would you like a different color cord ? 
+_t4 		all+right hey hey hey . 
+_t4 		you can't swing (th)em . 
+_t4 		how do you like that little tree+dog here ?
+_t4 
+_t4 		oh no .
+_t4 
+_t4 		don't buy it ?
+_t4 
+_t4 		well +...
+_t4 
+_t4 		it it's pretty but +... 
+_t4 		after getting spoiled with those few nice days .
+_t4 
+_t4 		uh  what happened ?
+_t4 
+_t4 		it's right there . 
+_t4 		where's the other one ? 
+_t4 		oh you found it . 
+_t4 		you made two . 
+_t4 		you're gonna break (th)em . 
+_t4 		would you like a drink ? 
+_t4 		milk ? 
+_t4 		okay .
+_t4 
+_t4 		one cup of milk coming right up . 
+_t4 		it it has to be repaired .
+_t4 
+_t4 		we'll have_to fix it , just leave it for now . 
+_t4 		I'll look at it after . 
+_t4 		what ?
+_t4 
+_t4 		Alex leave it alone please I said . 
+_t4 		here's your milk . 
+_t4 		pick up your beads , they don't belong on the floor . 
+_t4 		good nice thank you . 
+_t4 		would you like to take (th)em apart now and put (th)em back in the bowl ? 
+_t4 		put (th)em in your  bead bags ?
+_t4 
+_t4 		well what are you going to do with (th)em ?
+_t4 
+_t4 		what do you mean you don't know nothing ?
+_t4 
+_t4 		I can't fix it right now I'll have_to work on it later . 
+_t4 		what honey ?
+_t4 
+_t4 		just hold it down .
+_t4 
+_t4 		well which one do you want to do , clean up or price check ? 
+_t4 		price check ? 
+_t4 		price check on register four please . 
+_t4 		price check on register four . 
+_t4 		ch(eese) ch(eese) cheese what ? 
+_t4 		you'd like to order some cheese ? 
+_t4 		could I have a half o(f) pound of Land Lakes please ?
+_t4 
+_t4 		that's for lunch . 
+_t4 		you don't order food at the  +... 
+_t4 		the market , you buy it . 
+_t4 		xxx .
+_t4 
+_t4 		clean up in aisle seven . 
+_t4 		clean up in aisle seven . 
+_t4 		oh clean up in aisle four that's a good one , I like that . 
+_t4 		yeah ? 
+_t4 		are you gonna like to play memory ?
+_t4 
+_t4 		are you gonna play memory or are you gonna [: going to] cheat and get frustrated ?
+_t4 
+_t4 		well finish you're snack and I'll come right back , I'm gonna [: going to] put these things away . 
+_t4 		yes yes , let me put this stuff away .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		Alex please you're going to spill the milk .
+_t4 
+_t4 		knock it off . 
+_t4 		one minute I'm walking through the obstacle course . 
+_t4 		here's your papers , would you like your pencils ?
+_t4 
+_t4 		no okay .
+_t4 
+_t4 		uh+oh . 
+_t4 		something fell on the floor .
+_t4 
+_t4 		ooh .
+_t4 
+_t4 		no that's okay . 
+_t4 		yes lovely .
+_t4 
+_t4 		they don't match . 
+_t4 		silly .
+_t4 
+_t4 		are you sure ?
+_t4 
+_t4 		(o)kay . 
+_t4 		what is it ? 
+_t4 		two watermelons ?
+_t4 
+_t4 		two lemons ? 
+_t4 		there's no lemons in that game .
+_t4 
+_t4 		lemme [: let me] see . 
+_t4 		watermelon . 
+_t4 		right .
+_t4 
+_t4 		(o)kay lemme [: let me] see . 
+_t4 		I don't know , are you sure ? 
+_t4 		okay .
+_t4 
+_t4 		I'll trust you . 
+_t4 		ooh [x 
+_t4 		ah what is it ? 
+_t4 		two flowers . 
+_t4 		two purple flowers ? 
+_t4 		yellow flowers ?
+_t4 
+_t4 		two red flowers they match .
+_t4 
+_t4 		two zebras . 
+_t4 		they match . 
+_t4 		what is it ?
+_t4 
+_t4 		two turtles .
+_t4 
+_t4 		uh+oh . 
+_t4 		xxx .
+_t4 
+_t4 		what honey+bun ?
+_t4 
+_t4 		are you finding any more matches ? 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		I can't see the other sides .
+_t4 		what is it ? 
+_t4 		apple and a ladybug , they don't match . 
+_t4 		I don't know , can't see . 
+_t4 		they look like they match ? 
+_t4 		then maybe they do . 
+_t4 		then they must . 
+_t4 		they must be the pair . 
+_t4 		a pair is two . 
+_t4 		it's all done Ale(x) . 
+_t4 		wow . 
+_t4 		what a(re) you making ? 
+_t4 		ooh . 
+_t4 		oh boy wha(t) happened ? 
+_t4 		what happened to your block tower ? 
+_t4 		crashed ?
+_t4 
+_t4 		I gave you blocks ? 
+_t4 		no nothing ? 
+_t4 		oh my .
+_t4 
+_t4 		what happened Alex .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		what ?
+_t4 
+_t4 		having fun ?
+_t4 
+_t4 		xxx two of  hallway lights  .
+_t4 
+_t4 		they're not gonna paint the trim again ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		oh lemme [: let me] help you honey .
+_t4 
+_t4 		oh no come over here lemme [: let me] fix it .
+_t4 
+_t4 		just for a little bit , come here . 
+_t4 		xxx come on I'll play Memory with you , come over here . 
+_t4 		Alex . 
+_t4 		come here please . 
+_t4 		Mommy  .
+_t4 
+_t4 		let's go . 
+_t4 		come on . 
+_t4 		hurry up , quickly . 
+_t4 		are you done with your memory game ? 
+_t4 		well then put it back please .
+_t4 
+_t4 		ugh can't stand this  .
+_t4 
+_t4 		I don't like that game though .
+_t4 
+_t4 		are you okay with your memory game ? 
+_t4 		you would like to play +/.
+_t4 
+_t4 		two ? 
+_t4 		a pair . 
+_t4 		yeah .
+_t4 
+_t4 		all+right turn the pi(c)tures over and I'll play a game with you .
+_t4 
+_t4 		go (a)head . 
+_t4 		set it up . 
+_t4 		get ready . 
+_t4 		all+right turn (th)em over and I'll be right over . 
+_t4 		tur(n) o(ver) u(p) ? 
+_t4 		turn over all the pi(c)tures . 
+_t4 		get the game ready . 
+_t4 		you nee(d) help ? 
+_t4 		all+right .
+_t4 
+_t4 		I'll help you honey . 
+_t4 		all+right I'll help . 
+_t4 		you still nee(d) my help ? 
+_t4 		wha(t) ? 
+_t4 		here I come . 
+_t4 		wha(t) honey ? 
+_t4 		why are you doing that ? 
+_t4 		why ? 
+_t4 		put it on the chair and I will fix it . 
+_t4 		jus(t) preten(d) +//. 
+_t4 		okay . 
+_t4 		okay .
+_t4 
+_t4 		just leave it alone please , don't worry about it . 
+_t4 		just ignore it .
+_t4 
+_t4 		turn (th)em over , play . 
+_t4 		like this . 
+_t4 		turn all the pi(c)tures so you can't see (th)em . 
+_t4 		comin(g) . 
+_t4 		okay here I come . 
+_t4 		wha(t) what what ?
+_t4 
+_t4 		yeah you did a good job , that's how you play the game . 
+_t4 		now we have_to make (th)em in nice rows . 
+_t4 		so we can keep track o(f) what we look at . 
+_t4 		set (th)em up nice so it's not a big +...
+_t4 
+_t4 		and no cheating (be)cause I know you like to cheat .
+_t4 
+_t4 		no cheating . 
+_t4 		yes (be)cause you like to cheat .
+_t4 
+_t4 		how (a)bout some on the bottom ? 
+_t4 		yes .
+_t4 
+_t4 		so we can reach . 
+_t4 		(o)kay . 
+_t4 		and then do a +//. 
+_t4 		some over here .
+_t4 
+_t4 		this way . 
+_t4 		this way . 
+_t4 		this way .
+_t4 
+_t4 		yep [: yes] . 
+_t4 		oh you wanna do another row at the bottom ?
+_t4 
+_t4 		okay who's going first , you ? 
+_t4 		your turn first ?
+_t4 
+_t4 		me ?
+_t4 
+_t4 		yes . 
+_t4 		frog . 
+_t4 		they don('t) match , okay my turn .
+_t4 
+_t4 		uh are we gonna play nice or we're gonna play naughty ? 
+_t4 		ladybug .
+_t4 
+_t4 		pumpkin . 
+_t4 		they don('t) match . 
+_t4 		no pick somethin(g) different now . 
+_t4 		pick somethin(g) differen(t) . 
+_t4 		why do you know where the other one is ? 
+_t4 		go ahead , turn that one over you already looked . 
+_t4 		tree . 
+_t4 		you already picked that one , pick another one . 
+_t4 		frog . 
+_t4 		they don('t) match . 
+_t4 		hmmm +...
+_t4 
+_t4 		frog .
+_t4 
+_t4 		frog . 
+_t4 		they match . 
+_t4 		a cow . 
+_t4 		and a duck . 
+_t4 		see the duck ? 
+_t4 		pay attention . 
+_t4 		they don('t) match . 
+_t4 		move the milk honey so it doesn('t) +//. 
+_t4 		spill .
+_t4 
+_t4 		what's tha(t) ? 
+_t4 		a watch .
+_t4 
+_t4 		how about +/.
+_t4 
+_t4 		a tiger . 
+_t4 		an umbrella . 
+_t4 		try again . 
+_t4 		no pick somethin(g) different honey , you know that's a rainbow . 
+_t4 		don't keep picking the same thing . 
+_t4 		a turtle .
+_t4 
+_t4 		and a butterfly . 
+_t4 		okay okay . 
+_t4 		no don't pick this one , you already know it's a rainbow .
+_t4 
+_t4 		pick something else . 
+_t4 		what's tha(t) ?
+_t4 
+_t4 		okay you can't keep picking .
+_t4 
+_t4 		pick one . 
+_t4 		put (th)em in your pile . 
+_t4 		excellent matching .
+_t4 
+_t4 		not it's your turn you go again .
+_t4 
+_t4 		turtle . 
+_t4 		a duck . 
+_t4 		a ladybug . 
+_t4 		and a butterfly . 
+_t4 		hmmm . 
+_t4 		no pick something different . 
+_t4 		go (a)head . 
+_t4 		an umbrella and a zebra .
+_t4 
+_t4 		a butterfly . 
+_t4 		hmmm where was that other butterfly ? 
+_t4 		and a rainbow . 
+_t4 		they don('t) match . 
+_t4 		ooh .
+_t4 
+_t4 		no it's Alex's turn again .
+_t4 
+_t4 		and a tiger . 
+_t4 		a butterfly .
+_t4 
+_t4 		and an apple  +... 
+_t4 		where was that other butterfly ? 
+_t4 		ooh you have a lot of matches . 
+_t4 		nope [: no] Alex's turn again . 
+_t4 		nope [: no] nope [: no] that doesn't go there . 
+_t4 		hey stop cheating . 
+_t4 		a ladybug . 
+_t4 		and a ladybug . 
+_t4 		a tree . 
+_t4 		an(d) a pumpkin . 
+_t4 		uh excuse me . 
+_t4 		you had your turn . 
+_t4 		you had your turn . 
+_t4 		(i)t's my turn . 
+_t4 		watermelon . 
+_t4 		and a panda+bear . 
+_t4 		panda+bear an(d) a pumpkin . 
+_t4 		alligator . 
+_t4 		and a cow . 
+_t4 		they don('t) match . 
+_t4 		an apple . 
+_t4 		an(d) a flower . 
+_t4 		wow  that was excellent .
+_t4 
+_t4 		that was a good memory . 
+_t4 		next . 
+_t4 		they don('t) match . 
+_t4 		umbrella . 
+_t4 		umbrella . 
+_t4 		umbrella . 
+_t4 		watermelon . 
+_t4 		watermelon . 
+_t4 		zebra . 
+_t4 		turtle . 
+_t4 		oops , here honey . 
+_t4 		I'll help you go (a)head it's okay . 
+_t4 		here .
+_t4 
+_t4 		o(o)p(s) . 
+_t4 		let's get ya +//. 
+_t4 		no excuse me this is not how you play . 
+_t4 		a flower and a flower . 
+_t4 		a cow and a pumpkin . 
+_t4 		go (a)head . 
+_t4 		an alligator . 
+_t4 		an(d) a tiger . 
+_t4 		an alligator . 
+_t4 		and a tree . 
+_t4 		the heck is that old alligator . 
+_t4 		what's tha(t) ? 
+_t4 		it's my turn , i(t's) my turn . 
+_t4 		oops . 
+_t4 		go ahead . 
+_t4 		turtle . 
+_t4 		turtle . 
+_t4 		an(d) a alligator . 
+_t4 		oo:h . 
+_t4 		nice work . 
+_t4 		ooh ooh which one was it , this one ? 
+_t4 		ah shoot . 
+_t4 		I don't know where the alligator is . 
+_t4 		woo+hoo . 
+_t4 		what's tha(t) ? 
+_t4 		no . 
+_t4 		all+right you know what , let's finish this up . 
+_t4 		okay go (a)head honey . 
+_t4 		who could that be ? 
+_t4 		no . 
+_t4 		don't mess . 
+_t4 		hey there's the du(ck) . 
+_t4 		I matched . 
+_t4 		no . 
+_t4 		that's my match . 
+_t4 		don('t) steal my matches . 
+_t4 		I'm winnin(g) . 
+_t4 		oh no don('t) do tha(t) . 
+_t4 		(be)cause then (i)f we lose the pieces we won('t) be able to play anymore . 
+_t4 		ugh  all+right don('t) don't Alex don't , please . 
+_t4 		please don't ruin this game . 
+_t4 		watch this . 
+_t4 		wai(t) a minu(te) . 
+_t4 		wait a minute wai(t) a minu(te) wai(t) a minu(te) go slow . 
+_t4 		wanna turn it a little . 
+_t4 		make some more . 
+_t4 		don('t) hit it . 
+_t4 		go (a)head keep goin(g) . 
+_t4 		I'll tell you when , keep goin(g) . 
+_t4 		more please . 
+_t4 		more . 
+_t4 		gently . 
+_t4 		wai(t) a minute .
+_t4 
+_t4 		all+right just a minute , wai(t) wai(t) wait . 
+_t4 		that's okay . 
+_t4 		please let's save a ones on the floor . 
+_t4 		all+right clean up this one firs(t) .
+_t4 
+_t4 		you hafta press down harder though , honey .
+_t4 
+_t4 		may I have a piece o(f) paper ?
+_t4 
+_t4 		this one's for me ? 
+_t4 		all+right may I have a (.) colored pencil ?
+_t4 
+_t4 		all+right you have_to press down like this , watch . 
+_t4 		to make the colors show . 
+_t4 		l . 
+_t4 		e .
+_t4 
+_t4 		x . 
+_t4 		spells ? 
+_t4 		it spells who ? 
+_t4 		yes .
+_t4 
+_t4 		which one ?
+_t4 
+_t4 		yes .
+_t4 
+_t4 		how about (.) this one ? 
+_t4 		I will write .
+_t4 
+_t4 		c .
+_t4 
+_t4 		very good . 
+_t4 		spells ? 
+_t4 		very good , how (a)bout +..? 
+_t4 		wha(t) does that spell ?
+_t4 
+_t4 		what (d)oes it spell ? 
+_t4 		what's i(t) spell ? 
+_t4 		m . 
+_t4 		y .
+_t4 
+_t4 		nope [: no] .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		bah .
+_t4 
+_t4 		you silly goose . 
+_t4 		oh I'm sorry yes of course .
+_t4 
+_t4 		how about +//?
+_t4 
+_t4 		d o g spells ?
+_t4 
+_t4 		dog . 
+_t4 		d o g spells dog .
+_t4 
+_t4 		what's this one ? 
+_t4 		bah .
+_t4 
+_t4 		you silly . 
+_t4 		new page .
+_t4 
+_t4 		that's a head . 
+_t4 		that's hair . 
+_t4 		that's a eye an(d) a eye . 
+_t4 		an(d) nose . 
+_t4 		an(d) a mouth . 
+_t4 		no  .
+_t4 
+_t4 		would you like some oatmeal ? 
+_t4 		why it's delicious i(t)'s so good for you . 
+_t4 		jus(t) try it . 
+_t4 		has little apples in it . 
+_t4 		mmmm+mmmm mmmm+mmmm mmmm+mmmm mmmm+mmmm . 
+_t4 		xxx .
+_t4 		may I borrow a pencil please ? 
+_t4 		I have_to write Auntie Marie a letter . 
+_t4 		Alex come on , no . 
+_t4 		I'm trying to write . 
+_t4 		a letter and you're messin(g) it up . 
+_t4 		no no no I can't send that . 
+_t4 		how can I see the words ? 
+_t4 		I can't see the words . 
+_t4 		here you have that . 
+_t4 		&aw that's so cute where's his ears ? 
+_t4 		and how about his eyebrows ?
+_t4 
+_t4 		oh cute . 
+_t4 		very cute , may I do eyebrows ? 
+_t4 		nice what's that freckles ? 
+_t4 		tears , what is it ? 
+_t4 		too many dots . 
+_t4 		&aw look at that .
+_t4 
+_t4 		there . 
+_t4 		how's that ? 
+_t4 		do you have_to sneeze ? 
+_t4 		what you have_to cover your mouth . 
+_t4 		there you go . 
+_t4 		Mommy . 
+_t4 		mmmm+hmmm . 
+_t4 		all+right well don('t) throw it . 
+_t4 		jus(t) put it over to the si(de) +//.
+_t4 
+_t4 		hey . 
+_t4 		yes . 
+_t4 		oh that's for me ? 
+_t4 		&aw I like when you share .
+_t4 
+_t4 		I don('t) know where maybe upstairs . 
+_t4 		okay .
+_t4 
+_t4 		you really can't because you need dark paper , see . 
+_t4 		you can't see the whi(te) crayon . 
+_t4 		yeah yes yes .
+_t4 
+_t4 		all+right what would you like me to draw ?
+_t4 
+_t4 		mmmm why you always pick hard things ? 
+_t4 		all righ(t) here's the head .
+_t4 
+_t4 		there's the neck .
+_t4 
+_t4 		xxx my pencil broke .
+_t4 
+_t4 		wai(t) a minute wai(t) a minute I'm not done .
+_t4 
+_t4 		well don('t) take it out of my hand +//.
+_t4 
+_t4 		that's his tail . 
+_t4 		okay now his body .
+_t4 
+_t4 		he's gonna have +...
+_t4 
+_t4 		big feet . 
+_t4 		big feet . 
+_t4 		how's tha(t) ?
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		eyes an(d) a mouth .
+_t4 
+_t4 		an(d) little spikes . 
+_t4 		oh I like what you did with his tail , that looks nice . 
+_t4 		oh here's here's your dark green .
+_t4 
+_t4 		I'll put i(t) right there ?
+_t4 
+_t4 		okay .
+_t4 
+_t4 		all+right .
+_t4 
+_t4 		wha(t) ?
+_t4 
+_t4 		which one ? 
+_t4 		we have_to mail this .
+_t4 
+_t4 		I can use this +/.
+_t4 
+_t4 		I can use this side look .
+_t4 
+_t4 		yeah won't you like me to use that clean side ? 
+_t4 		yes not yeah yes .
+_t4 
+_t4 		ugh Alex , Mommy can't draw an elephant how about fish ? 
+_t4 		can I trace this fish ?
+_t4 
+_t4 		I know but Daddy's the drawer not me .
+_t4 
+_t4 		how do you draw an elephan(t) , all+right here's his back . 
+_t4 		here's his little tail . 
+_t4 		here's hi(s) +//.
+_t4 
+_t4 		wai(t) a minute now don't take the pencil out of my han(d) if you want me to draw .
+_t4 
+_t4 		here's his feet .
+_t4 
+_t4 		now  a elephan(t) has a big head .
+_t4 
+_t4 		with a trunk .
+_t4 
+_t4 		and it has big ears .
+_t4 
+_t4 		an(d) tusks .
+_t4 
+_t4 		his like teeth . 
+_t4 		how's that ? 
+_t4 		is that okay ?
+_t4 
+_t4 		I don('t) think that's a very good drawing . 
+_t4 		I can't see the yellow . 
+_t4 		would you like to try a bite ? 
+_t4 		mhm .
+_t4 
+_t4 		all+right an(d) what would you like me to draw ?
+_t4 
+_t4 		something easy don('t) give me anything too hard . 
+_t4 		a monkey ? 
+_t4 		I can('t) draw a monkey , I don('t) know what a monkey looks like .
+_t4 
+_t4 		pick something else . 
+_t4 		flower ? 
+_t4 		a house ?
+_t4 
+_t4 		a boat ?
+_t4 		a fish ?
+_t4 
+_t4 		fruit ?
+_t4 
+_t4 		okay that I can maybe swing .
+_t4 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		are you draw little people in the boat ? 
+_t4 		wha(t) ? 
+_t4 		no tha(t)'s not broken honey it's okay . 
+_t4 		no we'll put the s s (.) Alex . 
+_t4 		an(d) we'll put (.) another person over here . 
+_t4 		wha(t) honey ? 
+_t4 		how's tha(t) ? 
+_t4 		oh let's get make some  do you have blue , le(t)'s make water .
+_t4 
+_t4 		le(t)'s make blue water . 
+_t4 		this one . 
+_t4 		good . 
+_t4 		here you are , one boat . 
+_t4 		I'll get it .
+_t4 
+_t4 		sure .
+_t4 
+_t4 		I know but I had to take off the elastic .
+_t4 
+_t4 		you can have them they're all for you . 
+_t4 		there you are .
+_t4 
+_t4 		yes Alex .
+_t4 
+_t4 		what would you like me to draw ? 
+_t4 		look at tha(t)'s cousin  when he was a baby . 
+_t4 		i(s)n't that cute ? 
+_t4 		look it .
+_t4 
+_t4 		who's tha(t) ? 
+_t4 		who's tha(t) ? 
+_t4 		who's tha(t) ? 
+_t4 		who's that over there can you see who that is ? 
+_t4 		tha(t)'s not Papa  .
+_t4 
+_t4 		xxx . 
+_t4 		who's tha(t) ? 
+_t4 		and who's that lady ? 
+_t4 		who's tha(t) ? 
+_t4 		no tha(t)'s Auntie .
+_t4 
+_t4 		that's Auntie . 
+_t4 		that's the bond she bought for you . 
+_t4 		who's tha(t) ? 
+_t4 		who's who's +//? 
+_t4 		oopsie . 
+_t4 		who is +..? 
+_t4 		who's tha(t) ? 
+_t4 		who's tha(t) ? 
+_t4 		with the crazy hair ? 
+_t4 		xxx tha(t)'s Mommy huh ?
+_t4 
+_t4 		who's tha(t) ? 
+_t4 		tha(t)'s not Alex that's cousin  when he was a little baby .
+_t4 
+_t4 		that's Mommy . 
+_t4 		that's his playpen with all the toys . 
+_t4 		when he was little . 
+_t4 		(be)cause Mommy used to play with him like she plays with you . 
+_t4 		sit on the chair honey so you don('t) fall , there you go . 
+_t4 		(o)kay I need a piece of paper . 
+_t4 		and I need  a pencil .
+_t4 
+_t4 		may I have a red pencil please ? 
+_t4 		no I don('t) wan(t) white , I would like red . 
+_t4 		thank you . 
+_t4 		I'll give it right back I'll give i(t) right back .
+_t4 
+_t4 		all righ(t) honey . 
+_t4 		hi  .
+_t4 
+_t4 		I thought you +...
+_t4 
+_t4 		and +... 
+_t4 		oh I like that Alex , that's very nice . 
+_t4 		no that's yellow+orange .
+_t4 
+_t4 		I think this one might be macaroni and cheese . 
+_t4 		that one's macaroni and cheese . 
+_t4 		mmmm+hmmm mmmm+hmmm .
+_t4 
+_t4 		this one's not macaroni and cheese that one's yellow+orange . 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		that one is +... 
+_t4 		apricot . 
+_t4 		salmon . 
+_t4 		I'll get it .
+_t4 
+_t4 		here draw cousin  a pi(c)ture right here .
+_t4 
+_t4 		and I'll send it to him .
+_t4 
+_t4 		why don('t) you draw him a face , draw a face . 
+_t4 		a nice one . 
+_t4 		here use this +//. 
+_t4 		use a dark color like this one . 
+_t4 		he likes red . 
+_t4 		here draw a face right here for cousin  go (a)head . 
+_t4 		draw a nice one now . 
+_t4 		no you're jus(t) scribblin(g) . 
+_t4 		let's pick a date on these .
+_t4 
+_t4 		this was Christmas .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		yeah . 
+_t4 		let's put +... 
+_t4 		two zero zero three . 
+_t4 		fiesta fiesta fiesta .
+_t4 
+_t4 		that's how you say it . 
+_t4 		(o)kay . 
+_t4 		that's taken care of . 
+_t4 		oopsie .
+_t4 
+_t4 		Alex you don't have_to scream .
+_t4 
+_t4 		siesta . 
+_t4 		would you like me to get that for you ? 
+_t4 		hmmm . 
+_t4 		why don't we straighten out some of these papers ? 
+_t4 		here straighten this out so you can see what you have over here . 
+_t4 		excuse me . 
+_t4 		thank you . 
+_t4 		I think I'll do this one .
+_t4 
+_t4 		all+right Alex .
+_t4 
+_t4 		enough . 
+_t4 		oh look at this .
+_t4 
+_t4 		well you have_to push these things out of the way so they'll go on the floor like the rest of them . 
+_t4 		well pick one and I will help you . 
+_t4 		what's that one ? 
+_t4 		a tambourine .
+_t4 
+_t4 		no it doesn('t) go there we have_to find the tambourine .
+_t4 
+_t4 		hmmm righ(t) there . 
+_t4 		excellen(t) .
+_t4 
+_t4 		up at the to(p) . 
+_t4 		lemme [: let me] help you a little . 
+_t4 		there you go .
+_t4 
+_t4 		excellen(t) honey . 
+_t4 		good smoothing . 
+_t4 		yes Murray's guitar . 
+_t4 		hmmm .
+_t4 
+_t4 		all+right .
+_t4 
+_t4 		mhm .
+_t4 
+_t4 		play a guitar with Murray . 
+_t4 		a rose . 
+_t4 		well do Murray's guitar first .
+_t4 
+_t4 		ooh it's there it is . 
+_t4 		no righ(t) here .
+_t4 
+_t4 		no this one . 
+_t4 		nice .
+_t4 
+_t4 		oops that's okay jus(t) smooth it out .
+_t4 
+_t4 		all+right well is there anything on this page ? 
+_t4 		maracas ? 
+_t4 		you did (th)em they're right here .
+_t4 
+_t4 		let's turn the page .
+_t4 
+_t4 		accordion .
+_t4 		okay this one is +//. 
+_t4 		ooh what's tha(t) ? 
+_t4 		all+right let's get see rabbit .
+_t4 
+_t4 		rabbit rabbit rabbit rabbit rabbit . 
+_t4 		where could it be rabbit ? 
+_t4 		oh .
+_t4 
+_t4 		nice . 
+_t4 		I'll help you start it and then you can +/. 
+_t4 		I don('t) know now .
+_t4 
+_t4 		Alex please +//.
+_t4 
+_t4 		don't do that . 
+_t4 		now I have_to go look for it . 
+_t4 		mmmm+hmmm smooth .
+_t4 
+_t4 		smooth it . 
+_t4 		an(d) what's tha(t) one ? 
+_t4 		wha(t) does Greg need ? 
+_t4 		a top hat . 
+_t4 		hmmm .
+_t4 
+_t4 		oh you're so fast . 
+_t4 		I like doing sticker book with you . 
+_t4 		okay ?
+_t4 
+_t4 		you can use two hands . 
+_t4 		good honey .
+_t4 
+_t4 		really good .
+_t4 
+_t4 		now let's make musi(c) . 
+_t4 		find the stickers . 
+_t4 		look at the objects . 
+_t4 		circle the ones you can make music with . 
+_t4 		okay . 
+_t4 		can you make music with a chair ? 
+_t4 		no . 
+_t4 		can you make music with a (.) piano ?
+_t4 
+_t4 		can you make music with a piano ? 
+_t4 		yes let's do a circle .
+_t4 
+_t4 		can you make music with a feather+sword ? 
+_t4 		no .
+_t4 
+_t4 		can you make music with a (.) rose ? 
+_t4 		no . 
+_t4 		can you make music with an umbrella ? 
+_t4 		no . 
+_t4 		can you make music with a guitar ? 
+_t4 		okay yeah .
+_t4 
+_t4 		an(d) how about +/.
+_t4 
+_t4 		the guitar . 
+_t4 		sounds good to me . 
+_t4 		I don('t) know what that other thing is supposed to be maybe it's +/. 
+_t4 		yes .
+_t4 
+_t4 		no they don't match .
+_t4 
+_t4 		no it's a piano . 
+_t4 		I don't know what this is I think it's a sign .
+_t4 
+_t4 		I'm not sure .
+_t4 
+_t4 		we'll get back to that one . 
+_t4 		ni(ce) +//. 
+_t4 		oops .
+_t4 
+_t4 		okay good .
+_t4 
+_t4 		okay let's turn the page .
+_t4 
+_t4 		Anthony and Murray love food . 
+_t4 		okay what could that one be ? 
+_t4 		excellen(t) .
+_t4 
+_t4 		there it is . 
+_t4 		you're very good at this .
+_t4 
+_t4 		hmmm . 
+_t4 		no .
+_t4 
+_t4 		well captain feather+sword could make music if he played an instrument . 
+_t4 		xxx that's watermelon .
+_t4 
+_t4 		tha(t)'s  . 
+_t4 		please . 
+_t4 		no . 
+_t4 		no . 
+_t4 		put on the pineapple the pineapple . 
+_t4 		oh no I'll do it you don('t) know how .
+_t4 
+_t4 		no . 
+_t4 		that's watermelon . 
+_t4 		I'll do it .
+_t4 
+_t4 		you don('t) know how .
+_t4 
+_t4 		me have a turn . 
+_t4 		I can't see Anthony , where's his head ?
+_t4 
+_t4 		all righ(t) put it here let's get a new sticker .
+_t4 
+_t4 		all righ(t) I'll help ya I'll help ya .
+_t4 
+_t4 		there ya go .
+_t4 
+_t4 		good job .
+_t4 
+_t4 		good . 
+_t4 		what ?
+_t4 
+_t4 		oop(s) there . 
+_t4 		okay next I think this one is a +... 
+_t4 		an a:pple .
+_t4 
+_t4 		no you can't eat him .
+_t4 
+_t4 		no: .
+_t4 
+_t4 		you can't eat a shoe .
+_t4 
+_t4 		a dog can eat the bone sure . 
+_t4 		if it's cooked .
+_t4 
+_t4 		no: .
+_t4 
+_t4 		no: . 
+_t4 		Dorothy likes to . 
+_t4 		she likes to eat roses .
+_t4 
+_t4 		you eat an apple ? 
+_t4 		that's money . 
+_t4 		that's coins .
+_t4 
+_t4 		here's your apple .
+_t4 
+_t4 		and then we'll look for the oranges .
+_t4 
+_t4 		no .
+_t4 
+_t4 		ah .
+_t4 
+_t4 		no: .
+_t4 
+_t4 		no: .
+_t4 
+_t4 		put on the apple .
+_t4 
+_t4 		then we'll do this page .
+_t4 
+_t4 		put the apple over there . 
+_t4 		yes . 
+_t4 		right good spelling .
+_t4 
+_t4 		okay this says find the sticker then look at the letters around  that represent musical notes .
+_t4 
+_t4 		say the letters out loud . 
+_t4 		okay . 
+_t4 		let's find +//.
+_t4 
+_t4 		I know but I +/.
+_t4 
+_t4 		okay let's fin(d) Jeff . 
+_t4 		where's Jeff where's his body ? 
+_t4 		hmmm: .
+_t4 
+_t4 		okay let's put Jeff and then we'll say the letters .
+_t4 
+_t4 		that will be fun . 
+_t4 		okay ready set +... 
+_t4 		go .
+_t4 
+_t4 		ya:y turn the page .
+_t4 
+_t4 		okay this one says the underwater big band . 
+_t4 		so that must be the fish right ? 
+_t4 		that's Henry the octopus . 
+_t4 		and then the his fish friend must go there right ?
+_t4 
+_t4 		yes . 
+_t4 		here you go .
+_t4 
+_t4 		and then we'll look for this one .
+_t4 
+_t4 		that's a sea+hor(se) +//. 
+_t4 		no . 
+_t4 		that's a sea+horse and a little +//. 
+_t4 		is that a crab or a lobster ? 
+_t4 		smells like a crab .
+_t4 
+_t4 		all+right put that one up there and then we'll get the sea+horse one . 
+_t4 		I can't see poor Henry  +... 
+_t4 		oh look it Henry needs a bow+tie . 
+_t4 		mmmm . 
+_t4 		we'll have_to look for that sticker . 
+_t4 		come on . 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		this goes on the sea+horse ?
+_t4 
+_t4 		mmmm+hmmm . 
+_t4 		mmmm+hmmm . 
+_t4 		well it does I'll show you .
+_t4 
+_t4 		you have_to match the shape . 
+_t4 		see ?
+_t4 
+_t4 		goes right there . 
+_t4 		can I do this one ? 
+_t4 		okay now how (a)bout Henry's bow+tie ?
+_t4 
+_t4 		oh you found that one right away you're quick .
+_t4 
+_t4 		can you get it ? 
+_t4 		there you go .
+_t4 
+_t4 		good job honey .
+_t4 
+_t4 		no he can't see . 
+_t4 		goes around his neck . 
+_t4 		poor Henry how's he gonna play his banjo . 
+_t4 		okay . 
+_t4 		no look at he needs a little cloth .
+_t4 
+_t4 		right there . 
+_t4 		get the cloth . 
+_t4 		can you get it ?
+_t4 
+_t4 		there you go .
+_t4 
+_t4 		well that one already is there .
+_t4 
+_t4 		okay let's turn the page . 
+_t4 		okay this says +... 
+_t4 		move your hands . 
+_t4 		captain feather+sword lost his feather+sword . 
+_t4 		oh no where's his hat his feather his feather for his hat . 
+_t4 		I don't see it anywhere .
+_t4 
+_t4 		I found it .
+_t4 
+_t4 		okay . 
+_t4 		don't rip the page honey .
+_t4 
+_t4 		go (a)head peel it right there right there right there .
+_t4 
+_t4 		no not that one this one .
+_t4 
+_t4 		okay put the feather in his hat . 
+_t4 		that is not captain feather+sword . 
+_t4 		no . 
+_t4 		I'll do it my turn . 
+_t4 		no me .
+_t4 
+_t4 		no me me .
+_t4 
+_t4 		all+right . 
+_t4 		no . 
+_t4 		mmmm . 
+_t4 		that looks just like the hat you have .
+_t4 
+_t4 		all righ(t) now the money goes over here the coins . 
+_t4 		yes can you find the coins ?
+_t4 
+_t4 		to match (th)em ? 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		that's a shoe . 
+_t4 		keep lookin(g) . 
+_t4 		keep lookin(g) .
+_t4 
+_t4 		no that's Dorothy's hat .
+_t4 
+_t4 		keep lookin(g) .
+_t4 
+_t4 		no it's a slipper . 
+_t4 		I think it is anyway . 
+_t4 		no .
+_t4 
+_t4 		no .
+_t4 
+_t4 		ya:y . 
+_t4 		okay then we'll turn the page .
+_t4 
+_t4 		turn it out the other way .
+_t4 
+_t4 		there you go smooth it out . 
+_t4 		all+right let's see what's next . 
+_t4 		okay . 
+_t4 		ooh a maze . 
+_t4 		help captain feather sword find +//. 
+_t4 		oh help cap(t)ain feather sword . 
+_t4 		find the sticker then help captain feather sword get to his lost feather sword . 
+_t4 		okay where's captain feather sword ? 
+_t4 		we're gonna help him through the maze .
+_t4 
+_t4 		tha(t)'s Greg .
+_t4 
+_t4 		where is he ? 
+_t4 		you see captain feather sword ?
+_t4 
+_t4 		are you fi(nd)ing him ? 
+_t4 		nope [: no] . 
+_t4 		up no up up +//. 
+_t4 		right near your hand .
+_t4 
+_t4 		what ? 
+_t4 		okay let's put captain up there and then we'll help him find his feather sword . 
+_t4 		let's get a pencil . 
+_t4 		smooth it out . 
+_t4 		yes of course you do the maze okay go (a)head .
+_t4 
+_t4 		xxx you did it you did your maze . 
+_t4 		I love when you do mazes all by yourself . 
+_t4 		very smart .
+_t4 
+_t4 		okay let's turn the page . 
+_t4 		what does Dorothy love ? 
+_t4 		well I know you weren't supposed to put that there but you mu(st) +//. 
+_t4 		I must've not been around . 
+_t4 		Dorothy the dinosaur loves roses . 
+_t4 		look at the scene .
+_t4 
+_t4 		find the stickers then circle five roses hidden in the pi(c)ture . 
+_t4 		okay let's go find a rose . 
+_t4 		and then we'll fin(d) we'll circle all the roses . 
+_t4 		right here .
+_t4 
+_t4 		that's a rose for you .
+_t4 
+_t4 		put i(t) right there . 
+_t4 		I think it goes right there .
+_t4 
+_t4 		okay now would you like to circle the roses ? 
+_t4 		go (a)head let's see if you can find (th)em . 
+_t4 		or you want Mommy to ?
+_t4 
+_t4 		okay ready ?
+_t4 
+_t4 		one . 
+_t4 		where's another rose ? 
+_t4 		two .
+_t4 
+_t4 		another one . 
+_t4 		where ? 
+_t4 		th:ree . 
+_t4 		hand me another one . 
+_t4 		no . 
+_t4 		four .
+_t4 
+_t4 		I need another one . 
+_t4 		five ya:y . 
+_t4 		dig up bones . 
+_t4 		let's see . 
+_t4 		we need a sign for the  . 
+_t4 		so let's see that would be +... 
+_t4 		this one .
+_t4 
+_t4 		wait a minute I think it's this one lemme [: let me] see . 
+_t4 		this one . 
+_t4 		the wiggle +... 
+_t4 		oh wags that says wags . 
+_t4 		no it's upside down turn it turn it it's upside down .
+_t4 
+_t4 		that's a good boy . 
+_t4 		no turn it . 
+_t4 		right here .
+_t4 
+_t4 		well put it there . 
+_t4 		and then we have_to find +//. 
+_t4 		the bone and a w .
+_t4 
+_t4 		okay . 
+_t4 		no that's a butterfly . 
+_t4 		what's tha(t) ?
+_t4 
+_t4 		okay .
+_t4 
+_t4 		here you are . 
+_t4 		ta  .
+_t4 
+_t4 		w . 
+_t4 		yay . 
+_t4 		he can't breathe .
+_t4 
+_t4 		he can't eat . 
+_t4 		yeah . 
+_t4 		go on let's get the bone . 
+_t4 		bone's [: bone is] next . 
+_t4 		do your w . 
+_t4 		how come you're all like drooling today ?
+_t4 
+_t4 		you're too big to do that . 
+_t4 		there it is .
+_t4 
+_t4 		ta  . 
+_t4 		that's for wags and Stella not you . 
+_t4 		okay come on . 
+_t4 		let's turn the page .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		guess who's sleeping . 
+_t4 		hmmm .
+_t4 
+_t4 		yes okay so let's get the bell for the alarm clock . 
+_t4 		put the bell on .
+_t4 
+_t4 		right there . 
+_t4 		ding a lin(g) a lin(g) a lin(g) a lin(g) . 
+_t4 		and now we need some z's . 
+_t4 		for snorin(g) . 
+_t4 		three z's . 
+_t4 		and then we need +... 
+_t4 		who's tha(t) ? 
+_t4 		Murray .
+_t4 
+_t4 		for his shirt . 
+_t4 		and now we go turn the page right here .
+_t4 
+_t4 		yeah cool . 
+_t4 		okay . 
+_t4 		this says something is missing . 
+_t4 		what happened to the sign outside Wags the dog's house ? 
+_t4 		find it on the sticker pages and add it on the scene . 
+_t4 		so we need the sign that says Wags . 
+_t4 		so +... 
+_t4 		there it is . 
+_t4 		Wags . 
+_t4 		right here . 
+_t4 		go ahead right there . 
+_t4 		no no it says it all ready . 
+_t4 		and now we need to find the little window for his door . 
+_t4 		which is this one .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		next . 
+_t4 		the Wiggles like to dance . 
+_t4 		find the stickers . 
+_t4 		which pair of shoes would be good for wiggling with the Wiggles . 
+_t4 		okay let's match (th)em up . 
+_t4 		we need to find some shoes . 
+_t4 		that's hi(s) sandal .
+_t4 
+_t4 		okay match it up .
+_t4 
+_t4 		yep [: yes] . 
+_t4 		no wai(t) this one .
+_t4 
+_t4 		next to it so you have two .
+_t4 
+_t4 		take your time . 
+_t4 		that's a good one okay next shoe .
+_t4 
+_t4 		is a boot .
+_t4 
+_t4 		a blue . 
+_t4 		boot .
+_t4 
+_t4 		where's the boots ?
+_t4 
+_t4 		oopsie that's okay .
+_t4 
+_t4 		no jus(t) stick it back on there we'll fix it .
+_t4 
+_t4 		here would you like me to help stick the big one on . 
+_t4 		like tha(t) and then get this little piece (.) and just match it up . 
+_t4 		there's the boot .
+_t4 
+_t4 		all better . 
+_t4 		yeah how (a)bout a sneaker or a slipper ?
+_t4 
+_t4 		yes .
+_t4 
+_t4 		one slipper . 
+_t4 		no that's a boot .
+_t4 
+_t4 		that's a good boy . 
+_t4 		nope [: no] put it on the other side . 
+_t4 		so you have two . 
+_t4 		see ? 
+_t4 		and how (a)bout this one ? 
+_t4 		and how (a)bout this one ? 
+_t4 		the shoe . 
+_t4 		okay .
+_t4 
+_t4 		they match .
+_t4 
+_t4 		okay good . 
+_t4 		be a Wiggles artist . 
+_t4 		do you like to draw ? 
+_t4 		find the stickers draw pi(c)tures of the things above in the space provided . 
+_t4 		how about Greg ? 
+_t4 		good that's a good that's right .
+_t4 
+_t4 		Greg .
+_t4 
+_t4 		Greg plays the maracas ? 
+_t4 		okay . 
+_t4 		next . 
+_t4 		we like you . 
+_t4 		a great time the Wiggles enjoy being with you . 
+_t4 		find the stickers read the message to you from the Wiggles . 
+_t4 		l . 
+_t4 		right here you are . 
+_t4 		okay so match those (.) letters with these letters .
+_t4 
+_t4 		now we nee(d) to find +/.
+_t4 
+_t4 		y o u . 
+_t4 		match (.) that . 
+_t4 		y o u . 
+_t4 		w e . 
+_t4 		oh no we have_to find Dorothy's hat , look at her head's cold .
+_t4 
+_t4 		here it is .
+_t4 
+_t4 		cute she's cute . 
+_t4 		okay how about +...
+_t4 
+_t4 		a butterfly ? 
+_t4 		okay that goes +...
+_t4 
+_t4 		over here with Dorothy . 
+_t4 		an(d) how about +//. 
+_t4 		oopsie . 
+_t4 		jus(t) wanna put it down just a little . 
+_t4 		how (a)bout right there . 
+_t4 		an(d) the drum where the heck did the drum go ? 
+_t4 		I know but let me take this paper out . 
+_t4 		I didn('t) I didn('t) see the drum let's see . 
+_t4 		no drum . 
+_t4 		no drum . 
+_t4 		no drum . 
+_t4 		nope [: no] . 
+_t4 		I don't see a drum here . 
+_t4 		or here . 
+_t4 		or there . 
+_t4 		or here . 
+_t4 		this is a drum .
+_t4 
+_t4 		or here .
+_t4 
+_t4 		or (.) here . 
+_t4 		well where the heck does this go ? 
+_t4 		let's try again . 
+_t4 		maracas guitar +... 
+_t4 		is this supposed to be a drum , no . 
+_t4 		oh right there right there look . 
+_t4 		oh boy . 
+_t4 		can you make music with a drum ?
+_t4 
+_t4 		yes okay put a circle . 
+_t4 		go (a)head press down . 
+_t4 		good now Mommy would like to (.) color this seashell . 
+_t4 		an(d) I'm gonna use . 
+_t4 		for my first color this one . 
+_t4 		now how about this one this one .
+_t4 
+_t4 		will you help me ? 
+_t4 		like this see ? 
+_t4 		let's make it pretty colors . 
+_t4 		oh yes . 
+_t4 		now we have_to color in the pages . 
+_t4 		I can('t) see . 
+_t4 		okay how (a)bout a new color . 
+_t4 		may I could you pick out another crayon for me please ?
+_t4 
+_t4 		lemme [: let me] see . 
+_t4 		sure I can thank you . 
+_t4 		here's your macaroni and cheese .
+_t4 
+_t4 		no this one in my hand is macaroni an(d) cheese . 
+_t4 		see look .
+_t4 
+_t4 		macaroni an(d) cheese .
+_t4 
+_t4 		may I have another crayon please ?
+_t4 
+_t4 		indigo . 
+_t4 		indigo . 
+_t4 		yellow orange .
+_t4 
+_t4 		okay how about ?
+_t4 
+_t4 		how about ?
+_t4 
+_t4 		this one pine green .
+_t4 
+_t4 		pine green pine green pine green .
+_t4 
+_t4 		how about +/.
+_t4 
+_t4 		no that is olive green . 
+_t4 		olive green . 

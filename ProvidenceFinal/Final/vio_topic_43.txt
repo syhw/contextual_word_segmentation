@@ -1,0 +1,778 @@
+_t1 		you wanna see me now ? 
+_t1 		(o)kay ready ? 
+_t1 		can see me ?
+_t1 
+_t1 		xxx . 
+_t1 		I can see you: you look pretty . 
+_t1 		well what we're gonna do is leave it down so it can film us . 
+_t1 		you wanna make cards with me ? 
+_t1 		okay .
+_t1 
+_t1 		ready ?
+_t1 
+_t1 		yep [: yes] you look through here . 
+_t1 		and see Tigery . 
+_t1 		see (h)im ?
+_t1 
+_t1 		hi Tigery !
+_t1 
+_t1 		okay let's put +...
+_t1 
+_t1 		Tigery over there . 
+_t1 		we're gonna get out the cards . 
+_t1 		we'll make Gracie a birthday card . 
+_t1 		and one for my friend Shannon . 
+_t1 		can you help me ? 
+_t1 		yeah ?
+_t1 
+_t1 		hello ? 
+_t1 		ooh you wanna do dino stamps on them ? 
+_t1 		oh: boy that sounds like a great idea . 
+_t1 		plastic rope ? 
+_t1 		(o)kay move your feet please so we can put it all here . 
+_t1 		I'm gonna move this thing and get some +... 
+_t1 		white paper +//.
+_t1 
+_t1 		do we have white paper for cards ? 
+_t1 		we have this paper . 
+_t1 		let's see . 
+_t1 		I have this paper here . 
+_t1 		this is good paper . 
+_t1 		al:right . 
+_t1 		I'm gonna move this down a little . 
+_t1 		cook a kid scissors ? 
+_t1 		to cook a cut . 
+_t1 		wonder where I should keep this ? 
+_t1 		to see you . 
+_t1 		maybe here's alright . 
+_t1 		alright . 
+_t1 		yeah . 
+_t1 		I'm worried about that battery on that one . 
+_t1 		okay . 
+_t1 		what are we trying to do , open the googly eye +/.
+_t1 
+_t1 		ah: .
+_t1 
+_t1 		wow . 
+_t1 		we need some glue . 
+_t1 		d(o) you have any glue ? 
+_t1 		no: ? 
+_t1 		we must have glue , we have stickers: .
+_t1 
+_t1 		we have all kinds of things +//.
+_t1 
+_t1 		ooh: ! 
+_t1 		look at these . 
+_t1 		look at these  . 
+_t1 		look at these cards . 
+_t1 		let's make a card for +... 
+_t1 		my friend Shannon first .
+_t1 
+_t1 		(o)kay what are we gonna stick on here , should we need +//.
+_t1 
+_t1 		get some glue ?
+_t1 
+_t1 		xxx we really need glue . 
+_t1 		xxx le(t) me see . 
+_t1 		I have a glue stick , is that good ? 
+_t1 		(o)kay .
+_t1 
+_t1 		no but we can share . 
+_t1 		(o)kay . 
+_t1 		you wanna make some eyes on this paper here . 
+_t1 		for my friend Shannon . 
+_t1 		yeah .
+_t1 
+_t1 		yep [: yes] make another one . 
+_t1 		our glue stick is: a little +... 
+_t1 		rubbery . 
+_t1 		here why don't I make the spots and you put the eyes on ? 
+_t1 		whoa: ! 
+_t1 		okay you put some eyes on there . 
+_t1 		how many eyes you gonna put ? 
+_t1 		xxx . 
+_t1 		okay . 
+_t1 		three+eyed ballerina , alright go ahead put (th)em on . 
+_t1 		where'd [: where did] you hear about a three+eyed ballerina ? 
+_t1 		who had a three+eyed ballerina ? 
+_t1 		oh she made it on the rocks ? 
+_t1 		with the rocks ? 
+_t1 		alright should we make some stamps ? 
+_t1 		ah: . 
+_t1 		and a pencil sharpener . 
+_t1 		that sort of doesn't work .
+_t1 
+_t1 		yeah why don't you make the rest of the three+eyed ballerina ? 
+_t1 		yeah on here for my friend Shannon and I'm gonna [: going to] mail it to her for her birthday . 
+_t1 		okay . 
+_t1 		alright .
+_t1 
+_t1 		is this gonna be her face ?
+_t1 
+_t1 		make a circle around that and that can be her face .
+_t1 
+_t1 		hey:  !
+_t1 
+_t1 		that's a good face , now where's her nose and mouth gonna [: going to] be ? 
+_t1 		you need a better marker than that one ? 
+_t1 		try this marker . 
+_t1 		that one looks a little dried out .
+_t1 
+_t1 		where's the mouth ?
+_t1 
+_t1 		ah , good okay . 
+_t1 		now you wanna make the arms and legs ? 
+_t1 		yep [: yes] . 
+_t1 		good .
+_t1 
+_t1 		okay , and then a leg and a leg . 
+_t1 		good .
+_t1 
+_t1 		good: !
+_t1 
+_t1 		good: ! 
+_t1 		that's a good one ! 
+_t1 		yeah .
+_t1 
+_t1 		some hair ? 
+_t1 		is that her hair ? 
+_t1 		pretty hair +/.
+_t1 
+_t1 		she has curly hair ? 
+_t1 		ooh I love it !
+_t1 
+_t1 		(o)kay , can I write happy birthday to Shannon on here ?
+_t1 
+_t1 		from the three+eyed ballerina ? 
+_t1 		happy +...
+_t1 
+_t8 		happy birthday +... 
+_t8 		Shannon . 
+_t8 		happy birthday Shannon . 
+_t8 		okay . 
+_t8 		and then put from the three+eyed ballerina ? 
+_t8 		alright , she's gonna love it .
+_t8 
+_t8 		yep [: yes] now let's make one for Gracie .
+_t8 
+_t8 		should we make a different one for her , with di(fferent) +//.
+_t8 
+_t8 		with different eyes ?
+_t8 
+_t1 		or same three+eyed ballerina again ? 
+_t1 		somebody else ? 
+_t1 		okay +//.
+_t1 
+_t1 		yeah , okay so you put the eyes on there . 
+_t1 		yeah stick it on +//.
+_t1 
+_t1 		oh you want me to stick (th)em on ? 
+_t1 		okay .
+_t1 
+_t1 		what kind of animal is this gonna be ?
+_t1 
+_t1 		okay .
+_t1 
+_t1 		a smaller head ?
+_t1 
+_t5 		(o)kay . 
+_t5 		right around the eyes ? 
+_t5 		xxx okay . 
+_t5 		now what's it gonna have ? 
+_t5 		some kind of horns or ears or something ? 
+_t5 		I don't know , what's it gonna have , you tell me . 
+_t5 		ah: .
+_t5 
+_t5 		ooh he looks cute ! 
+_t5 		okay . 
+_t5 		okay . 
+_t5 		three+eyed bird ? 
+_t5 		(o)kay . 
+_t5 		are those his wings ? 
+_t5 		he has little wings . 
+_t5 		xxx that's big wing . 
+_t5 		oh: . 
+_t5 		wow . 
+_t5 		yeah: [: yes] . 
+_t5 		ooh yeah , looks like a cape !
+_t5 
+_t5 		doesn't it ? 
+_t5 		alright . 
+_t5 		anything else for this guy ? 
+_t5 		xxx .
+_t5 
+_t1 		these ones . 
+_t1 		(o)kay ? 
+_t1 		I'm gonna send her a three+eyed ballerina in this . 
+_t1 		uh huh . 
+_t1 		ooh: . 
+_t1 		okay (.) is this done for Gracie ?
+_t1 
+_t1 		yeah , is this done for Gracie's birthday ? 
+_t1 		that's alright honey . 
+_t1 		what should I write on Gracie's birthday card ? 
+_t1 		we don't have_to if you don't wan(t) (t)o . 
+_t1 		I'll put happy: +... 
+_t1 		birthday . 
+_t1 		to +..? 
+_t1 		xxx . 
+_t1 		xxx . 
+_t1 		love +...
+_t1 
+_t1 		xxx . 
+_t1 		and +...
+_t1 
+_t1 		Violet . 
+_t1 		and who's this guy ? 
+_t1 		and +... 
+_t1 		the +... 
+_t1 		bird cape . 
+_t1 		fresh eyeballs ? 
+_t1 		how much are they ? 
+_t1 		free today ? 
+_t1 		just like the sack of potatoes I wanted ? 
+_t1 		okay , so this is for  . 
+_t1 		maybe we should make one of these guys and mail it to grandma and grandpa . 
+_t1 		a three+eyed guy . 
+_t1 		you think they would like that ? 
+_t1 		or maybe to: +... 
+_t1 		maybe your cousins ? 
+_t1 		should we make another three+eyed guy ? 
+_t1 		and mail it to somebody ? 
+_t1 		okay I'll put the glue .
+_t1 
+_t1 		and you stick the eyes . 
+_t1 		okay , four+eyed , okay .
+_t1 
+_t1 		one , two +/.
+_t1 
+_t1 		three .
+_t1 
+_t1 		okay . 
+_t1 		where's the four eyes ? 
+_t1 		here's one . 
+_t1 		here's two . 
+_t1 		then you're gonna draw the body and the face right ? 
+_t1 		here's three . 
+_t1 		ya [: you] have one ?
+_t1 
+_t1 		one more ? 
+_t1 		I just gotta get a tissue . 
+_t1 		okay . 
+_t1 		xxx . 
+_t1 		ugh . 
+_t1 		gross . 
+_t1 		xxx . 
+_t1 		xxx . 
+_t1 		xxx . 
+_t1 		sorry . 
+_t1 		xxx . 
+_t1 		I'm just getting my tea . 
+_t1 		are ya [: you] making a good man ? 
+_t1 		a four eye +//.
+_t1 
+_t1 		oh good you got the fourth eye on . 
+_t1 		good .
+_t1 
+_t1 		now ya [: you] gonna make a body on it ? 
+_t1 		sitting in the chair . 
+_t1 		xxx . 
+_t1 		huh ? 
+_t1 		what'd [: what did] you say ? 
+_t1 		oh: (.) okay well wait a minute , wait a minute , don't dump (th)em yet . 
+_t1 		let's put some glue down first +//.
+_t1 
+_t1 		ya [: you] gonna put (th)em on here ? 
+_t1 		okay . 
+_t1 		wha(t) (.) where you wanna put (th)em ? 
+_t1 		you need a lots_of glue for sparkles . 
+_t1 		okay . 
+_t1 		now we can do it together . 
+_t1 		oh: yeah . 
+_t1 		that's good , okay . 
+_t1 		where's the lid , okay . 
+_t1 		there you spread (th)em around and stick (th)em into the glue . 
+_t1 		put (th)em all like that +//.
+_t1 
+_t1 		yeah: [: yes] that's pretty . 
+_t1 		what's this guy gonna be ?
+_t1 
+_t1 		huh ? 
+_t1 		you need more glue ? 
+_t1 		or you're putting it away ? 
+_t1 		turn it the other way to get it out . 
+_t1 		I'm trying to get out my new tea thing +//.
+_t1 
+_t1 		I'm gonna use my new tea thing that Grandma got me , see ? 
+_t1 		it fits over the mug of tea . 
+_t1 		isn't it cool ? 
+_t1 		shiny . 
+_t1 		see ? 
+_t1 		this is it . 
+_t1 		ooh , what and they have this thing too ? 
+_t1 		xxx . 
+_t1 		isn't that nice ? 
+_t1 		wonder what that part's [: part is] for ? 
+_t1 		for the spoon ? 
+_t1 		or to set it down on I guess . 
+_t1 		ya [: you] making some more for sparkles ? 
+_t1 		you want me to put some on there for ya [: you] ? 
+_t1 		okay le(t) me +/.
+_t1 
+_t1 		okay . 
+_t1 		maybe we need to get out the other glue honey . 
+_t1 		this glue isn't so great . 
+_t1 		well this is good , look . 
+_t1 		I got all that , you like that ? 
+_t1 		what are ya [: you] gonna put on that ? 
+_t1 		more sparkles ? 
+_t1 		alright i'm gonna get my tea . 
+_t1 		xxx . 
+_t1 		xxx . 
+_t1 		xxx . 
+_t1 		we'll see if this tea works . 
+_t1 		yeah honey ? 
+_t1 		whatcha [: what are you] doing ? 
+_t1 		what d(o) ya [: you] need now ? 
+_t1 		oh it's so cool , what is it ? 
+_t1 		um (o)kay . 
+_t1 		you need the what ? 
+_t1 		there's kid scissors right here honey . 
+_t1 		you were sitting on (th)em . 
+_t1 		do you want more sparkles on it ? 
+_t1 		right there . 
+_t2 		there's a pad . 
+_t2 		what d(o) you mean ? 
+_t2 		ah: . 
+_t2 		wha [: what are] you looking for , a blank one ? 
+_t2 		you just went by a blank one right here . 
+_t2 		that's a blank one . 
+_t2 		what are you gonna do now ? 
+_t2 		cutting ? 
+_t2 		le(t) me get my tea , I think it should be done . 
+_t2 		whoa it's strong . 
+_t2 		and it has stuff in it . 
+_t2 		not the best combination . 
+_t2 		hello ? 
+_t2 		xxx .
+_t2 
+_t2 		hey . 
+_t2 		how are you doing ?
+_t2 
+_t2 		good how are you ? 
+_t2 		good ,  (.) I just wanted to know if you needed  . 
+_t2 		um I haven't but I'm waiting (.) for two people to call me back . 
+_t2 		okay .
+_t2 
+_t2 		so I'm hoping it's gonna pan out later on today . 
+_t2 		okay I mean it's not  I mean I'm not , you know , I mean +... 
+_t2 		i was thinking , I'm like , you're going (.) for marriage counseling and I'm going to dinner +/.
+_t2 
+_t2 		no I know , but I don't +//.
+_t2 
+_t2 		i know . 
+_t2 		no so , so just um: +... 
+_t2 		xxx .
+_t2 
+_t2 		oh thank you , I appreciate it , I will definitely you know +... 
+_t2 		use you as a last resource if I don't get these other two girls .
+_t2 
+_t2 		okay well just le(t) me know .
+_t2 
+_t2 		yeah .
+_t2 
+_t2 		if it's a matter of like paying someone over just bringing girls  +/.
+_t2 
+_t2 		no , yeah well the thing +//.
+_t2 
+_t2 		I asked two um: +... 
+_t2 		um: Gwen doesn't go into work until like eleven (.) so +... 
+_t2 		i left her a message to see if maybe she could do it . 
+_t2 		um: . 
+_t2 		xxx she could be playing with  .
+_t2 
+_t2 		um . 
+_t2 		do that  +/.
+_t2 
+_t2 		are you sure ? 
+_t2 		where's your counseling ? 
+_t2 		um it's right , it's: in  +//.
+_t2 
+_t2 		on the east side . 
+_t2 		xxx .
+_t2 
+_t2 		yeah . 
+_t2 		but you know , I mean . 
+_t2 		it's not that far to go +... 
+_t2 		out there +/.
+_t2 
+_t2 		okay , well that's just +//.
+_t2 
+_t2 		it's totally fine so: +... 
+_t2 		well why don't I just wait and see if she calls me back (be)cause I just don't +//.
+_t2 
+_t2 		I don't want you to have_to miss your +... 
+_t2 		I don't care .
+_t2 
+_t2 		you do +//.
+_t2 
+_t2 		you don't care at all ? 
+_t2 		I totally +//.
+_t2 
+_t2 		no I mean , no I totally don't care . 
+_t2 		alright , alright well then why don't I just have you do it then and I'll just  , then I can just come back and pick her up after and we can hang out for a little bit maybe . 
+_t2 		that sounds good .
+_t2 
+_t2 		alright . 
+_t2 		okay .
+_t2 
+_t2 		so then I'll probably bring her at like eight+thirty though because I just don't +//.
+_t2 
+_t2 		I don't know  (.) you know . 
+_t2 		so eight+thirty then ?
+_t2 
+_t2 		yeah .
+_t2 
+_t2 		I don't know how long it's gonna , you know I just don't wanna be late (.) it starts at nine .
+_t2 
+_t2 		xxx .
+_t2 
+_t2 		yeah . 
+_t2 		xxx .
+_t2 
+_t2 		yeah . 
+_t2 		xxx .
+_t2 
+_t2 		alright so we'll see you tomorrow morning then .
+_t2 
+_t2 		see ya [: you] at eight+thirty !
+_t2 
+_t2 		alright , thanks Chris . 
+_t2 		okay , alright , bye . 
+_t2 		wow is this for +//.
+_t2 
+_t2 		is this for her ? 
+_t2 		this one ? 
+_t2 		should we glue it on to the paper ? 
+_t2 		should you glue it on to that paper for Grace ?
+_t2 
+_t2 		I mean  who's this for anyway ? 
+_t2 		you gonna get all those eyes out ? 
+_t2 		mail this to her for her birthday . 
+_t2 		here it is ! 
+_t2 		ooh: ! 
+_t2 		okay . 
+_t2 		xxx  +... 
+_t2 		north: +... 
+_t2 		av:en [: avenue] +... 
+_t2 		whoa crazy girl ! 
+_t2 		whatcha [: what are you] doing to our poor panda ? 
+_t2 		huh ? 
+_t2 		we'll mail that today . 
+_t2 		yeah ? 
+_t2 		huh ? 
+_t2 		oh . 
+_t2 		okay . 
+_t2 		see who else I was gonna call +//.
+_t2 
+_t2 		I 
+_t1 		although I really don't wan(t) (t)o . 
+_t1 		so maybe I won't . 
+_t1 		you ever not wanna do something Violet ? 
+_t1 		into something else ? 
+_t1 		into another present for  ? 
+_t1 		what are we gonna buy for Grace ? 
+_t1 		do you think ? 
+_t1 		dino thing ? 
+_t1 		she does like dinos . 
+_t1 		let's see what I have on my list of things to do here . 
+_t1 		oh I have_to call Bernadette about Michela . 
+_t1 		that's what I'm gonna do right now . 
+_t1 		and I 
+_t1 		I did that . 
+_t1 		I did that . 
+_t1 		okay . 
+_t1 		ooh good .
+_t1 
+_t2 		now how can I sign up for that surfing class ? 
+_t2 		I need to find the +... 
+_t2 		paper for it . 
+_t2 		is it in here ? 
+_t2 		or is it on top of the fridge ? 
+_t2 		ooh: ! 
+_t2 		panda snowflake , just what I always wanted . 
+_t2 		who knows where my surfing class thing is ? 
+_t2 		what are we gonna do with that big mess now ? 
+_t2 		how ya [: you] gonna stick it on to there ? 
+_t2 		here's a stamp for my letter . 
+_t2 		yep [: yes] hold on . 
+_t2 		oh yeah . 
+_t2 		this isn't a stamp , I'll show +//.
+_t2 
+_t2 		I'll give you a stamp . 
+_t2 		here's some stamps . 
+_t2 		you can have those . 
+_t2 		xxx . 
+_t2 		yeah her letter's [: letter is] over there . 
+_t2 		next to my tea . 
+_t2 		just be careful you don't knock it over . 
+_t2 		maybe it's in the car , that surfing thing . 
+_t2 		I had it in my bag only I took it out for some reason . 
+_t2 		oops: . 
+_t2 		could it be in here . 
+_t2 		it could be: . 
+_t2 		but I don't know: . 
+_t5 		that's the camp stuff . 
+_t5 		here's some nice paper I just found . 
+_t5 		oh: thank you darling . 
+_t5 		thank you sweetheart . 
+_t5 		you're so nice to your mama .
+_t5 
+_t5 		ooh I'm gonna mail myself . 
+_t5 		now what else are we doing here , is this one finished ? 
+_t5 		and who is it for ? 
+_t5 		she got two ? 
+_t5 		oh (be)cause (re)member we already made her this one in here ? 
+_t5 		that's the bird one +//.
+_t5 
+_t5 		no , no that's the bi:rd one .
+_t5 
+_t5 		bird cape . 
+_t5 		no: we made +//.
+_t5 
+_t5 		we mailed her three+eyed ballerina , we made bird cape for Grace , but we can give Grace two things .
+_t5 
+_t5 		wanna give her this too ? 
+_t5 		okay . 
+_t5 		I'll fold it up and put it in this envelope how (a)bout that ? 
+_t5 		yeah ! 
+_t5 		we'll give it to Grace . 
+_t5 		but she can have two envelopes (be)cause I already sealed the other one see ? 
+_t5 		she can have two right ? 
+_t5 		see , the bird cape is for who ? 
+_t5 		who ? 
+_t5 		and we already wrote happy birthday to Grace on the bird cape . 
+_t5 		we'll give her two honey , it's alright . 
+_t5 		I don't know . 
+_t5 		I'm gonna call +... 
+_t5 		Michela . 
+_t5 		Michela  .
+_t5 
+_t5 		uh: this might not be the right one . 
+_t5 		is this the right one ? 
+_t5 		she's not in that one . 
+_t5 		is she ?
+_t5 
+_t5 		string . 
+_t5 		yeah let me see .
+_t5 
+_t3 		yeah let me see . 
+_t3 		I can do it . 
+_t3 		I can untie (th)em .
+_t3 
+_t3 		want me to untie (th)em ? 
+_t3 		let me try to untie it first .
+_t3 
+_t3 		let me see . 
+_t3 		well where'd [: where did] you put (th)em ?
+_t3 
+_t3 		I think you untied it did you ? 
+_t3 		oh can I untie it ? 
+_t3 		(o)kay . 
+_t3 		in a few minutes we're gonna have lunch before we go to the zoo ! 
+_t3 		here look .
+_t3 
+_t3 		ooh cool . 
+_t3 		see lookit [: look at] it's all undone now . 
+_t3 		(o)kay I'm calling Bernadette . 
+_t3 		to make plans for next week . 
+_t3 		you only need one ? 
+_t3 		hi  it's Kate . 
+_t3 		I'm okay how are you ? 
+_t3 		yeah ? 
+_t3 		sorry I took me so long to call you back . 
+_t3 		xxx I know I know . 
+_t3 		well we're selling our house we've been busy we've been busy  fixing it up . 
+_t3 		huh ? 
+_t3 		yeah why are you ? 
+_t3 		oh . 
+_t3 		oh she sold it ? 
+_t3 		yeah I haven't talked to her in a long time but yeah [: yes] we're  we're just mov(ing) we're not moving out of Providence we're just selling our house and moving over to the East Side so we can I can walk the kids to school . 
+_t3 		yeah . 
+_t3 		we're just moving into an apartment for now . 
+_t3 		well (un)til we figure out what we're gonna do we don't know Harry's [: Harry is] still looking for a job down here and we don't know if we're gonna move like maybe to like Bristol or somewhere like you know a little outside of Providence so we can put the kids in the public school . 
+_t3 		so we're just waiting to figure that out but right now we're gonna [: going to] sell our house so we can get over there so it's just easier . 
+_t3 		not yet but I'm I'm  I  well I looked at some so I know there's a lot out there right now there's tons of (th)em but I  I'm waiting (un)til we (un)til we  know when we're gonna sell our house because we just put it on the market like yesterday . 
+_t3 		xxx so I'm gonna wait and see what happens you know ? 
+_t3 		(be)cause I don't wanna rent an apartment and then lose money because I don't know when we're gonna close or anything you know ? 
+_t3 		so +... 
+_t3 		oh yeah yeah .
+_t3 
+_t3 		he does he's just +... 
+_t3 		well we want I wanna be closer to the kids' school (be)cause they'll both be in school at the same school next year . 
+_t3 		and  he he's thinking about maybe quitting his job and having a couple months to look for another job because he he can't find another job while he's working it's like impossible . 
+_t3 		you know and so if we sell the house we'll have some money and he won't have_to stress about it so +... 
+_t3 		we're not sure we're not sure what we're doing but we're selling the house we know that . 
+_t3 		so +... 
+_t3 		we'll figure it out from there how how's your health ? 
+_t3 		yeah . 
+_t3 		yeah . 
+_t3 		good . 
+_t3 		yeah .
+_t3 
+_t3 		uh huh .
+_t3 
+_t2 		oh okay . 
+_t2 		yep [: yes] . 
+_t2 		another fun thing to happen right ? 
+_t2 		yeah . 
+_t2 		yeah . 
+_t2 		yeah . 
+_t2 		yeah . 
+_t2 		yeah . 
+_t2 		uh huh . 
+_t2 		ooh cool . 
+_t2 		I know . 
+_t2 		you're good yeah it's good because you know it's it's a double edged sword because the medication isn't great for you either right ? 
+_t2 		yeah . 
+_t2 		xxx . 
+_t2 		you're good for being on top of everything though I mean you know reading about things and figuring it out on your own (be)cause the doctors don't do it for you you know ? 
+_t2 		you gotta +//. 
+_t2 		good . 
+_t2 		good . 
+_t2 		that's good . 
+_t2 		yeah . 
+_t2 		yep [: yes] . 
+_t2 		yep [: yes] well one thing at a time . 
+_t2 		xxx you know ? 
+_t2 		you can't do it all at once . 
+_t2 		oh yeah . 
+_t2 		uh huh . 
+_t2 		yeah . 
+_t2 		yep [: yes] . 
+_t2 		oh a lotta [: lot of] people have been sick all winter though we were lucky . 
+_t2 		I know every a lot of people had that though but we for some reason we didn't have we hardly had knock on wood +... 
+_t2 		and I work with those all those kids at the gym and you know they're always sick I'm surprised I didn't get anything but +... 
+_t2 		I was lucky . 
+_t2 		yeah . 
+_t2 		I know .
+_t2 
+_t2 		uh huh . 
+_t2 		oh god .
+_t2 
+_t2 		really ?
+_t2 
+_t2 		oh  .
+_t2 
+_t2 		yeah .
+_t2 
+_t2 		I know .
+_t2 
+_t8 		everybody's [: everybody is] falling apart I know well it's been scary with the news and everything you know ? 
+_t8 		you feel like something you know might be out there . 
+_t8 		no kidding it's like +... 
+_t8 		but listen I was calling to see if we could set up a time I was thinking +...
+_t8 
+_t8 		you know the kids were upset that they didn't get to go bowling and I was wondering if we could meet up and go bowling . 
+_t8 		yeah . 
+_t8 		but I wanna pay for it . 
+_t8 		is that alright with you ?
+_t8 
+_t8 		no but I want to .
+_t8 
+_t8 		I want to because I I feel bad you know I wanted to go to the party and then you know the kids really so we can just have a little pretend little extra party . 
+_t8 		for Michela and we'll bring her present and I thought we could go you know we could just go and it would be fun .
+_t8 
+_t8 		just us you know ?
+_t8 
+_t8 		let's see yeah that's good .
+_t8 
+_t8 		I could do that that's fine I wonder if the only thing I wonder if on if they have a league or something on that day I'll just have_to call .
+_t8 
+_t8 		you know (be)cause it's a Saturday .
+_t8 
+_t8 		I just don't know if they have a +...
+_t8 
+_t8 		yeah I like that place . 
+_t8 		xxx yeah .
+_t8 
+_t8 		I know it's great and they have  +...
+_t8 
+_t8 		do they have pizza and stuff (be)cause we can do it like around lunchtime or something maybe do that .
+_t8 
+_t8 		um I'm gonna call I'll just call them though and make sure that they don't have  that they you know that they don't have a league .
+_t8 
+_t8 		do you happen to have the phone number for that place ?
+_t8 
+_t3 		alright . 
+_t3 		yeah that's true we will yep [: yes] .
+_t3 
+_t3 		no kidding I know for some reason if you're like more than two minutes away it's like impossible to see anyone .
+_t3 
+_t3 		school is hard because you know they're you know after once once they get outta [: out of] school it's hard to get together . 
+_t3 		(be)cause I know by the time they get home and have dinner it's like forget it .
+_t3 
+_t3 		oh yeah .
+_t3 
+_t3 		yeah . 
+_t3 		oh . 
+_t3 		that's first grade I think (be)cause Max doesn't have it yet but I know next year he will .
+_t3 
+_t3 		yeah .
+_t3 
+_t3 		yep [: yes] . 
+_t3 		yep [: yes] .
+_t3 
+_t3 		alright so we'll just we'll plan on Saturday the fourth like around lunchtime and I'll just call and make sure and if I don't call you back then we'll just keep that plan .
+_t3 
+_t3 		yeah everybody's [: everybody it] doing good .
+_t3 
+_t3 		Max is out gets outta [: out of] school actually  next week . 
+_t3 		I know so  I'm needing to plan a lot of things for him . 
+_t3 		oh okay . 
+_t3 		yeah . 
+_t3 		yeah . 
+_t3 		yep [: yes] . 
+_t3 		yeah a lotta [: lot of] the schools are going later but his school for some reason they don't do they go they get out so early .
+_t3 
+_t3 		no they just have less days I guess I don't know how they do it I hafta ask them .
+_t3 
+_t3 		but yeah +...
+_t3 
+_t3 		and Violet today we're going to the zoo she has zoo zoo school today so +...
+_t3 
+_t3 		we're gearing up for that .
+_t3 
+_t3 		yeah she likes it it's really cute I mean they do a nice job over there .
+_t3 
+_t3 		so +...
+_t3 
+_t3 		yeah .
+_t3 
+_t3 		you know but we do the zoo so she likes it you can only do so many things you know and you get overwhelmed .
+_t3 
+_t3 		yeah .
+_t3 
+_t2 		yeah . 
+_t2 		yeah . 
+_t2 		when you weren't feeling good . 
+_t2 		yeah .
+_t2 
+_t2 		I know it .
+_t2 
+_t2 		yep [: yes] .
+_t2 
+_t2 		good .
+_t2 
+_t2 		good . 
+_t2 		good I'm glad that's I know it's hard .
+_t2 
+_t2 		it's an  it's a daily battle . 
+_t2 		xxx it is alright well I 
+_t2 		um alright I'll call you if there's a problem otherwise we'll just I'll call you you know a few days before so we can alright .
+_t2 
+_t2 		great alright take care alright bye bye .
+_t2 
+_t2 		okay Honey  we're gonna turn this off .
+_t2 
+_t3 		we're gonna have your lunch before we go to zoo school ! 

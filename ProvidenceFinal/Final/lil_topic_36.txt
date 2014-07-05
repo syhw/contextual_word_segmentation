@@ -1,0 +1,2303 @@
+_t4 		wouldjou [: would you] like some ham and cheese sandwich ?
+_t4 
+_t4 		alright .
+_t4 
+_t4 		okay . 
+_t4 		right . 
+_t4 		thanks . 
+_t4 		xxx . 
+_t4 		strawberry thanks . 
+_t4 		are those for me to eat ? 
+_t4 		what are you taking ? 
+_t4 		okay I'll take that .
+_t4 
+_t4 		thank you . 
+_t4 		ah a strawberry for Amanda  . 
+_t4 		mmmm . 
+_t4 		yummy . 
+_t4 		I already did put it together I had an extra piece of bread . 
+_t4 		xxx . 
+_t4 		oops . 
+_t4 		okay .
+_t4 
+_t4 		djou [: do you] wanna read your philharmonic book ? 
+_t4 		okay . 
+_t4 		I like that book . 
+_t4 		okay . 
+_t4 		here it is . 
+_t4 		huh . 
+_t4 		here's your soccer+ball . 
+_t4 		it says the philharmonic gets dressed . 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		there ? 
+_t4 		it says it is almost Friday night outside the dark is getting darker . 
+_t4 		and here and there around the city ninety+two men and thirteen women are getting dressed to go to work . 
+_t4 		first they bathe and put on their underwear then they don special black and white apparel . 
+_t4 		then when the one hundred and five people are completely ready each takes an instrument a musical instrument and travels to midtown . 
+_t4 		there at eight thirty tonight they will work together playing music . 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		here ?
+_t4 
+_t4 		it says dearest Lily happy third birthday all of our love forever grandma Barbara and grandpa Richard . 
+_t4 		of this ? 
+_t4 		it says other books by Carlo Kuskin any me I wanna be . 
+_t4 		the bear who saw the spring . 
+_t4 		mmmm the Dallas Titans aren't the Dallas Titans anymore . 
+_t4 		dogs and dragons trees and dreams . 
+_t4 		James and rain . 
+_t4 		near the window+tree . 
+_t4 		roar and more . 
+_t4 		the rose on my cake . 
+_t4 		do you think you're gonna have flowers on your cake for your birthday party tomorrow . 
+_t4 		sand and snow . 
+_t4 		a space story . 
+_t4 		what did you bring me and which horse is William . 
+_t4 		should we read the story now ? 
+_t4 		great . 
+_t4 		it is almost Friday night . 
+_t4 		outside the dark is getting darker and the cold is getting colder . 
+_t4 		inside lights are coming on in houses and apartment buildings . 
+_t4 		and here and there uptown and downtown and across the bridges of the city one hundred and five people are getting dressed to go to work . 
+_t4 		you know what city this is ? 
+_t4 		what city is this ? 
+_t4 		where do the grandma and grandpas live ? 
+_t4 		it's New York City . 
+_t4 		first they get washed there are ninety two men and thirteen women . 
+_t4 		many take showers and a few take baths . 
+_t4 		two men and three women run bubble+baths . 
+_t4 		and one man reads in the tub while a cat watches . 
+_t4 		one woman sits in the bubbles and sings . 
+_t4 		they're all getting clean right ? 
+_t4 		he's taking a shower . 
+_t4 		scrubbing his feet . 
+_t4 		she's taking a shower . 
+_t4 		he's washing his hair .
+_t4 
+_t4 		she's taking a bubble+bath and singing . 
+_t4 		she has pink fuzzy slippers huh ? 
+_t4 		yeah .
+_t4 
+_t4 		she likes to go to bed with her pink fuzzy slippers ?
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		what do you think he dropped on the floor ? 
+_t4 		the soap I think . 
+_t4 		right . 
+_t4 		when they have finished washing they dry . 
+_t4 		they use big towels and little towels and a lot of dusting powder . 
+_t4 		all the men shave except for three who have beards . 
+_t4 		two of them trim . 
+_t4 		then +/. 
+_t4 		then see what's he doing ? 
+_t4 		right .
+_t4 
+_t4 		huh . 
+_t4 		mmmm+hmmm . 
+_t4 		yeah .
+_t4 
+_t4 		right .
+_t4 
+_t4 		you're right .
+_t4 
+_t4 		and men wear under+shorts or briefs . 
+_t4 		yeah he does look like he needs a trim doesn't he ? 
+_t4 		they are giving them to themselves trims right ? 
+_t4 		yeah . 
+_t4 		he looks like he could use a little trim . 
+_t4 		but +/.
+_t4 
+_t4 		I guess he likes his hair long like that . 
+_t4 		yeah some of the men wear tee+shirt undershirts with sleeves and some with undershirts without sleeves . 
+_t4 		and a few of the ninety two do not wear undershirts at all . 
+_t4 		the night and the temperature are falling and one thin man buttons up a suit of long sleeve long legged underwear . 
+_t4 		xxx . 
+_t4 		all of the men put on black socks . 
+_t4 		there are short socks and long socks and fancy silk socks and that have decorations called clocks . 
+_t4 		I think that's what that is . 
+_t4 		hmmm . 
+_t4 		the man with the long beard has a whole in his sock I think . 
+_t4 		yeah . 
+_t4 		the thirteen women put on different kinds of complicated underwear . 
+_t4 		one woman who's feet always freeze puts on wool socks over her stockings . 
+_t4 		mmmm+hmmm ? 
+_t4 		she's wearing a slip which is kind of like a skirt but it goes under your skirt . 
+_t4 		yeah . 
+_t4 		and what's she putting on ? 
+_t4 		stockings ? 
+_t4 		what's she putting on ? 
+_t4 		a bra right .
+_t4 
+_t4 		she's putting on a bra too . 
+_t4 		ah I think she's pulling up her stockings . 
+_t4 		I think she's putting her bra on too . 
+_t4 		those are her underpants . 
+_t4 		I think she's putting a slip on . 
+_t4 		she's got she's pulling her stockings up . 
+_t4 		she's putting her underpants on . 
+_t4 		no . 
+_t4 		when all the men have their underwear on they get into long sleeved white shirts and button them up . 
+_t4 		forty five men stand up to get into their pants . 
+_t4 		forty seven sit down to put their pants on . 
+_t4 		each pair of pants has a shiny black stripe down the outside of each leg . 
+_t4 		the men zip zippers and button a button or two . 
+_t4 		one man has wavy black hair streaked with white like lightning . 
+_t4 		he puts on a very soft white shirt with ruffles down the front . 
+_t4 		it has special cuffs that fasten with cuff+links . 
+_t4 		this man hooks a wide black cloth belt around his waist . 
+_t4 		like a  . 
+_t4 		you know daddy wears a cummerbund when he wears his tuxedo which is his black suit and like when mommy and daddy have_to go when we have to go to a wedding . 
+_t4 		daddy wears it right ?
+_t4 
+_t4 		remember ? 
+_t4 		none of the other men wear belts with their pants they button suspenders onto the waist+lines of their pants and snap the suspenders over their shoulders . 
+_t4 		snap . 
+_t4 		snap . 
+_t4 		eight women dress in long black skirts . 
+_t4 		they wear black tops sweaters or blouses . 
+_t4 		four women put on a long four women put on long black dresses and one wears a black jumper over a black shirt . 
+_t4 		a few of the women put jewelry on a necklace earrings but no bracelets . 
+_t4 		bracelets would get in the way when they're working . 
+_t4 		hmmm . 
+_t4 		what is she playing ? 
+_t4 		yeah I think you're right . 
+_t4 		all the men put on black bow+ties some tie them on in front of mirrors and some stare into space and tie them . 
+_t4 		the thin man whistles a tune as he ties his tie . 
+_t4 		twenty seven men have clip+on ties that are already made into bows the man with the wavy black and white hair (.) the ruffly shirt and the cummerbund ties on a very big white bow+tie . 
+_t4 		it looks like a white bat . 
+_t4 		no one else has a tie like this he slips on a white vest and then a black jacket that is short in the front and long in the back where it divides in two like black beetle wings . 
+_t4 		right . 
+_t4 		the jacket and pants are called tails . 
+_t4 		really ? 
+_t4 		really ? 
+_t4 		oh my gosh that's a lot of beetles . 
+_t4 		huh where was the slug ? 
+_t4 		on the ground . 
+_t4 		ee at school or at home ? 
+_t4 		ooh .
+_t4 
+_t4 		you're right it was at your home !
+_t4 
+_t4 		and right and where did they go ? 
+_t4 		wow the slug especially I think is particularly yucky because he's kind of slimy . 
+_t4 		yeah . 
+_t4 		really ? 
+_t4 		wow  those are some slimy bugs huh ? 
+_t4 		yeah .
+_t4 
+_t4 		slimy slime . 
+_t4 		shall we keep reading ? 
+_t4 		the man slips on a white vest and then a black jacket that has a shortened front  yes that black beetle wings . 
+_t4 		the jacket and pants are called tails . 
+_t4 		tonight all the other ninety men put on tuxedo jackets . 
+_t4 		these are black too with shiny satin lapels . 
+_t4 		those are the lapels . 
+_t4 		but they do not have that beetle wing back . 
+_t4 		when all the men and women are completely dressed in black and white they get ready to go out . 
+_t4 		they put on overcoats jackets or caps boots or rubbers mitten or gloves . 
+_t4 		ah I guess he's not in this picture we'll have_to keep looking to see if we can find him again . 
+_t4 		you mean the long black hair ?
+_t4 
+_t4 		the one with the long black hair ? 
+_t4 		yeah .
+_t4 
+_t4 		we'll keep looking . 
+_t4 		almost everyone picks up +/. 
+_t4 		it could be could be . 
+_t4 		right .
+_t4 
+_t4 		almost everyone picks up a case the cases are different shapes and shades of black and brown . 
+_t4 		the man with the dark wavy hair with the white lightening in it the ruffly shirt the cummerbund and the bow+tie that looks like a white bat picks up a very thin briefcase . 
+_t4 		no one else has a case like this . 
+_t4 		whada [: what do] you think they have in all these big cases ? 
+_t4 		I think they have musical instruments . 
+_t4 		yeah .
+_t4 
+_t4 		yeah I think so like maybe a violin . 
+_t4 		and a flute . 
+_t4 		and a bass . 
+_t4 		and a french+horn . 
+_t4 		that's a good question maybe  trumpet . 
+_t4 		yeah maybe it is .
+_t4 
+_t4 		yeah . 
+_t4 		all the one hundred and five men and women say good+bye . 
+_t4 		good+bye to their mothers fathers husbands wives or friends children dogs birds a cat whoever is staying at home . 
+_t4 		the baby's staying at home look at that baby all tucked into his crib . 
+_t4 		yeah I need some stuffed animals in that crib . 
+_t4 		that's  . 
+_t4 		yeah . 
+_t4 		oh (be)cause you're +/. 
+_t4 		right .
+_t4 
+_t4 		gray's nice . 
+_t4 		and they walk out of one hundred and five doors into one hundred and five streets and there they take taxi+cabs cars subways or busses to the middle of the city . 
+_t4 		I still don't see her we'll have_to keep looking . 
+_t4 		the man with the black and white wavy hair wears a black coat with a velvet color and a white silk scarf . 
+_t4 		he steps into a very long car that is waiting for him outside his apartment building . 
+_t4 		while the driver drives the man opens his case and looks at some papers . 
+_t4 		he sings a little and he hums . 
+_t4 		can you hum ? 
+_t4 		xxx . 
+_t4 		yup .
+_t4 
+_t4 		yeah you know what I think I see that one with the black long hair right ? 
+_t4 		here's one with some brown long hair .
+_t4 
+_t4 		I don't know if there is anyone with long white hair . 
+_t4 		well here's some with blonde hair . 
+_t4 		mmmm+hmmm ? 
+_t4 		lon:g . 
+_t4 		what are you what the long the woman with the long white hair ? 
+_t4 		the one with the long white dress ? 
+_t4 		oh and what color is her hair ? 
+_t4 		is it blonde ?
+_t4 
+_t4 		oh blonde well this is sort of long isn't it ? 
+_t4 		that's not long ?
+_t4 
+_t4 		well this one here . 
+_t4 		no alright let's keep looking . 
+_t4 		at eight twenty five on friday night in the middle of the city one hundred and four people walk onto the big stage in philharmonic hall . 
+_t4 		they all +/. 
+_t4 		oh yes maybe I think you're right . 
+_t4 		could be . 
+_t4 		yeah .
+_t4 
+_t4 		maybe she's  maybe that's her long hair . 
+_t4 		right . 
+_t4 		I think you're right . 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		oop . 
+_t4 		maybe she did . 
+_t4 		maybe . 
+_t4 		they have left their overcoats jackets or capes boots or rubbers mittens or gloves some scarves many hats few earmuffs backstage in dark green metal lockers . 
+_t4 		they have left their cases in different shapes and shades of black and brown back there too . 
+_t4 		I think right here and here maybe two there are two basses . 
+_t4 		well I think the violins are here because they're much smaller see . 
+_t4 		and then this I guess would be the cello right here . 
+_t4 		and then these very super big ones are the basses . 
+_t4 		one hundred and one of the men are women are carrying the musical instruments that were in those cases . 
+_t4 		three people do not carry instruments . 
+_t4 		they are the harpist who plays the harp . 
+_t4 		where's the harpist ? 
+_t4 		here she is . 
+_t4 		these instruments +/. 
+_t4 		well these are all the percussion instruments these are the kettle+drums . 
+_t4 		and these are the smaller percussion instruments . 
+_t4 		there are cymbals there's a gong . 
+_t4 		and there's a tambourine . 
+_t4 		that's a that's a gong . 
+_t4 		a gong . 
+_t4 		it's you take this little mallet and you hit the gong and it goes gong: . 
+_t4 		it's true it's called a gong . 
+_t4 		these instruments are too heavy to carry around carry around so they are already on the stage . 
+_t4 		there are one hundred and two chairs on the stage and two stools . 
+_t4 		near each of these there is a music+stand with sheets of music on it . 
+_t4 		one hundred and four people take their seats the double bass players sit on stools see the big (.) double bass . 
+_t4 		which woman ? 
+_t4 		this one ?
+_t4 
+_t4 		oh well let's see I think I see some women I see one here here here here . 
+_t4 		there there there there there . 
+_t4 		I see lots_of women sitting . 
+_t4 		yes I think you're right she has long blonde hair . 
+_t4 		I think you're right . 
+_t4 		yeah .
+_t4 
+_t4 		everyone turns to the first page of music it is a white page covered with black lines and musical notes . 
+_t4 		the man with the black wavy hair (.) lit with white enters the room . 
+_t4 		he walks to the front of the stage and steps one step up onto a box called a +... 
+_t4 		podium . 
+_t4 		there he can be seen very clearly by the one hundred and four people on the stage and by the hundreds of people in the audience . 
+_t4 		the audience applauds . 
+_t4 		the man bows . 
+_t4 		he is the conductor the leader of the orchestra and he holds a stick in his hand . 
+_t4 		it's called a baton which is French for stick . 
+_t4 		who's from France ? 
+_t4 		do you know someone from France ? 
+_t4 		well I think she's at your school . 
+_t4 		oh yeah .
+_t4 
+_t4 		that's right   from France . 
+_t4 		yes she is .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		you're so silly . 
+_t4 		you did ? 
+_t4 		look the conductor raises the baton into the air and way up on the ceiling of philharmonic hall six chandeliers sparkle silently . 
+_t4 		there's a chandelier at the state+house ? 
+_t4 		yeah .
+_t4 
+_t4 		the conductor brings the baton down and the hall which is as wide and long as a red velvet football field +... 
+_t4 		fills with music . 
+_t4 		huh it's in New York . 
+_t4 		the music floats and rises it sings and dances from violas violins cellos double+basses . 
+_t4 		oh a piccolo . 
+_t4 		this is a piccolo it's like a small flute and there's the man with the  hair . 
+_t4 		playing the piccolo . 
+_t4 		french+horns . 
+_t4 		yeah she has she has long red hair . 
+_t4 		mmmm . 
+_t4 		french +/. 
+_t4 		yeah  this is a clarinet actually there's a clarinet . 
+_t4 		there's an oboe . 
+_t4 		french+horns . 
+_t4 		oh there's a french+horn actually . 
+_t4 		um that's the piccolo . 
+_t4 		the trombone . 
+_t4 		um that's an oboe . 
+_t4 		and there's the tuba . 
+_t4 		a harp . 
+_t4 		drums . 
+_t4 		cymbals chimes and one thin silver triangle . 
+_t4 		it is eight thirty on Friday night and the one hundred and five men and women dressed completely in black and white have gone to work turning the black notes on white pages into a symphony . 
+_t4 		how beautiful the music must sound . 
+_t4 		they are the members of the philharmonic orchestra and their work is to play music . 
+_t4 		beautifully . 
+_t4 		that's a musical note . 
+_t4 		isn't that a nice book . 
+_t4 		that's a little musical note I think that's a cleft . 
+_t4 		isn't that great ? 
+_t4 		what sweetie ? 
+_t4 		I don't think I wanna like that . 
+_t4 		I'll pretend to .
+_t4 
+_t4 		oh . 
+_t4 		you sure it's clean ? 
+_t4 		hmmm . 
+_t4 		woujou [: would you] like +/. 
+_t4 		mmmm .
+_t4 
+_t4 		okay . 
+_t4 		xxx woujou [: would you] like to draw a picture with your princess+markers ? 
+_t4 		okay should I get some paper out ? 
+_t4 		we could draw a picture together . 
+_t4 		oh boy maybe I will make one for you . 
+_t4 		you're so welcome .
+_t4 
+_t4 		great . 
+_t4 		okay . 
+_t4 		let's see . 
+_t4 		here's a page for me . 
+_t4 		shall I open that for you ? 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		you want a smaller colored piece or a smaller white piece ? 
+_t4 		alrighty . 
+_t4 		okay but I'm gonna use the white one . 
+_t4 		hello . 
+_t4 		hello Beth . 
+_t4 		I'm good how are you ? 
+_t4 		why ? 
+_t4 		is this your cell+phone ?
+_t4 
+_t4 		oh okay .
+_t4 
+_t4 		there's not a pink sleeping+beauty there's an orange sleeping+beauty . 
+_t4 		honey you have it's a pink snow+white . 
+_t4 		uh+huh . 
+_t4 		mmmm+hmmm . 
+_t4 		right . 
+_t4 		uh+huh . 
+_t4 		oh . 
+_t4 		uh+huh . 
+_t4 		right . 
+_t4 		right didjou [: did you] call them ? 
+_t4 		uh+oh . 
+_t4 		uh+oh uh+oh .
+_t4 
+_t4 		oh . 
+_t4 		uh and how much is the late charge ? 
+_t4 		right . 
+_t4 		right . 
+_t4 		right right . 
+_t4 		right . 
+_t4 		right . 
+_t4 		right . 
+_t4 		right . 
+_t4 		uh  my gosh . 
+_t4 		huh . 
+_t4 		right   . 
+_t4 		uh . 
+_t4 		huh . 
+_t4 		uh . 
+_t4 		oh . 
+_t4 		yuck . 
+_t4 		I know so Lily actually has her Brown thing now she does . 
+_t4 		um so I will have_to call you back . 
+_t4 		just becuase she you know we were in a lot yesterday and it's better for her to get out so . 
+_t4 		oh my . 
+_t4 		oh+my+goodness . 
+_t4 		right right . 
+_t4 		and I have_to bring  I guess I should get like juice+boxes or little water+bottles . 
+_t4 		okay . 
+_t4 		yeah . 
+_t4 		I havta go get those . 
+_t4 		yeah okay . 
+_t4 		alright uh+oh okay . 
+_t4 		I'll call you back . 
+_t4 		okay bye . 
+_t4 		okay sweets let's draw . 
+_t4 		what are you gonna draw a picture of ? 
+_t4 		yyy . 
+_t4 		you're not drawing ? 
+_t4 		what woudjou [: would you] like me to draw a picture of ? 
+_t4 		a flower ? 
+_t4 		a picture of a heart ? 
+_t4 		why ? 
+_t4 		picture of you ? 
+_t4 		a picture of you ? 
+_t4 		a picture of your hand can I trace your hand ? 
+_t4 		no . 
+_t4 		alright . 
+_t4 		alright .
+_t4 
+_t4 		put your hand down . 
+_t4 		let's spread your fingers out like that . 
+_t4 		great . 
+_t4 		tickle . 
+_t4 		there we go . 
+_t4 		huh Lily's hand . 
+_t4 		oh okay that's a good idea  we have_to trim that nail it is so long . 
+_t4 		xxx . 
+_t4 		huh two hands . 
+_t4 		Li:ly:'s . 
+_t4 		Lily that's my picture please don't ruin it . 
+_t4 		should we make them happy hands ? 
+_t4 		or sad hands ? 
+_t4 		Lily . 
+_t4 		do you wanna read another book ? 
+_t4 		I lost my cap I havta look for it . 
+_t4 		I lost it under the table . 
+_t4 		there it is . 
+_t4 		huh . 
+_t4 		alrighty . 
+_t4 		what are you gonna make ? 
+_t4 		orange paper ?
+_t4 
+_t4 		yes . 
+_t4 		can you say please ? 
+_t4 		and then wwhada [: what do] you say when you get it ? 
+_t4 		you're welcome . 
+_t4 		alright . 
+_t4 		sure right let me know if you need me to get the markers open sometimes they're hard . 
+_t4 		wow that is quite an orange circle . 
+_t4 		you want me to open the pink marker ? 
+_t4 		you're welcome . 
+_t4 		wow . 
+_t4 		thank you . 
+_t4 		yellow . 
+_t4 		I think other side sweets . 
+_t4 		yup [: yes] . 
+_t4 		whoops . 
+_t4 		there we go . 
+_t4 		honey you could try but I don't think that's gonna close honey . 
+_t4 		mmmm+hmmm . 
+_t4 		Lily . 
+_t4 		you what ? 
+_t4 		you pointed it ? 
+_t4 		Lily . 
+_t4 		do not grab like that it's not nice . 
+_t4 		what other color would look nice on your drawing ? 
+_t4 		brown . 
+_t4 		it's like the leaves when they change colors right ? 
+_t4 		brown and red and yellow and orange . 
+_t4 		right . 
+_t4 		wow that looks good . 
+_t4 		wee ! 
+_t4 		whoops . 
+_t4 		whoops . 
+_t4 		whoops . 
+_t4 		whoops . 
+_t4 		there we go . 
+_t4 		oh that's good . 
+_t4 		mmmm+hmmm . 
+_t4 		oh so do I . 
+_t4 		wow . 
+_t4 		xxx . 
+_t4 		yeah . 
+_t4 		huh . 
+_t4 		wow how beautiful . 
+_t4 		huh you gonna go show Amanda ? 
+_t4 		wow that's beautiful did you make this ? 
+_t4 		for me no way . 
+_t4 		huh thank you so much . 
+_t4 		can I  keep it ? 
+_t4 		really ? 
+_t4 		wow thank you so much . 
+_t4 		I'll put it on my refrigerator . 
+_t4 		huh . 
+_t4 		yeah: [: yes] . 
+_t4 		wow that's a good idea . 
+_t4 		well I don't know is her refridgerator white ? 
+_t4 		nope . 
+_t4 		is it black ? 
+_t4 		nope . 
+_t4 		is it cream colored ? 
+_t4 		nope . 
+_t4 		it's an old one . 
+_t4 		is it avocado+green ?
+_t4 
+_t4 		close . 
+_t4 		huh . 
+_t4 		it's a marigold color . 
+_t4 		xxx .
+_t4 
+_t4 		that's my birth decade we're back in the seventies . 
+_t4 		wow . 
+_t4 		a sea+urchin you want one of those ? 
+_t4 		a squishy sea+urchin . 
+_t4 		I'm trying to bribe her I'm like that'd [: that would] be a great toy to have if you sat on the potty . 
+_t4 		and she's like yeah that's great now are you gonna [: going to] it on the potty ? 
+_t4 		no . 
+_t4 		xxx . 
+_t4 		xxx .
+_t4 
+_t4 		of course .
+_t4 
+_t4 		I know do they make  diapers ?
+_t4 
+_t4 		well I'm sure you do but you've got_to sit on the potty in order to get them . 
+_t4 		yeah . 
+_t4 		that would be great . 
+_t4 		well lot's of presents for sitting on the potty . 
+_t4 		woujou [: would you] like to read another book ? 
+_t4 		whada [: what do] you think ? 
+_t4 		what's that ? 
+_t4 		can Lily write her name ? 
+_t4 		can you write your name Lily ?
+_t4 
+_t4 		no . 
+_t4 		the will's [: will is] not there . 
+_t4 		xxx . 
+_t4 		sweetie woujou [: would you] like to read your prehistoric animals book ? 
+_t4 		no ? 
+_t4 		you wanna pick out a different book ? 
+_t4 		yyy . 
+_t4 		whada [: what do] ya [: you] think ? 
+_t4 		prehistoric animals ? 
+_t4 		mmmm+hmmm . 
+_t4 		xxx great .
+_t4 
+_t4 		you want the purple ? 
+_t4 		you're right I don't think you did do the purple . 
+_t4 		yeah . 
+_t4 		artistic license she needs to add more to her work . 
+_t4 		looks great . 
+_t4 		you're gonna put some purple on for Amanda ? 
+_t4 		great . 
+_t4 		whoa . 
+_t4 		very nice . 
+_t4 		thank you . 
+_t4 		okay .
+_t4 
+_t4 		I'll put it back . 
+_t4 		xxx thank you . 
+_t4 		that's even better it's incredibly now great . 
+_t4 		xxx .
+_t4 
+_t4 		thank you . 
+_t4 		oh thank you . 
+_t4 		should we read +/? 
+_t4 		should we read your prehistoric animals ? 
+_t4 		alrighty . 
+_t4 		xxx . 
+_t4 		the prehistoric animals included in this book are just a few of the strange and interesting creatures that once roamed our planet .
+_t4 
+_t4 		huh what's that ? 
+_t4 		a wooly+mammoth . 
+_t4 		wow . 
+_t4 		sure . 
+_t4 		wooly+mammoths were a type of prehistoric elephant the wooly+mammoth which was distinguished by its long shaggy hair was almost thirteen feet tall . 
+_t4 		and appeared about two million years ago during the ice+age (.) of the pleistocene epoch . 
+_t4 		right ? 
+_t4 		looks similar . 
+_t4 		right . 
+_t4 		because it had a thick layer of fat under its skin as well as abundant hair the wooly+mammoth managed to keep warm in the year+round winter  . 
+_t4 		xxx . 
+_t4 		crash . 
+_t4 		yeah I think so . 
+_t4 		the mammoth lost relatively little body heat through it's ears +/. 
+_t4 		boom . 
+_t4 		it's ears were very small . 
+_t4 		it's long curved tusks enabled it to find food by clearing away snow and ice . 
+_t4 		wooly+mammoths have been found preserved in the frozen tundra of Siberia . 
+_t4 		prehistoric man who probably hunted them for food decorated caves with drawings of these magnificent animals . 
+_t4 		wow .
+_t4 
+_t4 		very long . 
+_t4 		huh who's this ? 
+_t4 		the saber+tooth tigers first appeared sometime between twenty six and thirty six million years ago . 
+_t4 		oh my gosh his tusks are going in his mouth . 
+_t4 		xxx . 
+_t4 		wow . 
+_t4 		there we go . 
+_t4 		does that sound better ? 
+_t4 		this group included many different kinds of cats all of which had long fangs in their upper jaws . 
+_t4 		these cats were carnivores or meat eaters and use their sharp  sharp teeth to pierce the thick skins of the plant eating animals . 
+_t4 		exact . 
+_t4 		yeah smiladon sounds like mastadon . 
+_t4 		they're both Latin names . 
+_t4 		hello smarty+pants . 
+_t4 		wow . 
+_t4 		machrauchenia means large throat . 
+_t4 		machrauchenia was a plant eater or an herbivore that  +/. 
+_t4 		what a long nose he has .
+_t4 
+_t4 		achoo . 
+_t4 		the machrauchenia was about eleven feet tall and was shaped like a camel but with no humps . 
+_t4 		fossils show that its nose openings were high up on the skull suggesting that it had some sort of trunk . 
+_t4 		it woulduv [: would have] used its trunk as an elephant does today to obtain food and water . 
+_t4 		since eac of its toes were hoofed machrauchenia would've [: would have] been able to run quickly to escape predators . 
+_t4 		huh what's this ? 
+_t4 		it looks more like what ?
+_t4 
+_t4 		what animal does the brontatherium look like ? 
+_t4 		kinduv [: kind of] like a hippo kinduv [: kind of] like a rhinoceros . 
+_t4 		yeah I think so . 
+_t4 		brontatherium was a plant eater that grew up to eight feet tall . 
+_t4 		although it looked like a modern day rhinocerous the two animals are only distantly related . 
+_t4 		yeah here's the y shaped one now up here see . 
+_t4 		that's his nose . 
+_t4 		his snout . 
+_t4 		yeah .
+_t4 
+_t4 		okay what comes next ? 
+_t4 		huh you remember ? 
+_t4 		xxx .
+_t4 
+_t4 		right .
+_t4 
+_t4 		yes ? 
+_t4 		xxx .
+_t4 
+_t4 		that one goes    . 
+_t4 		oh the wooly+mammoth ? 
+_t4 		he goes  . 
+_t4 		hello I'm a wooly+mammoth . 
+_t4 		xxx I'm a saber+tooth tiger . 
+_t4 		I'm a tiger . 
+_t4 		you're right . 
+_t4 		right I'm a machrauchenia . 
+_t4 		what's that ? 
+_t4 		that's the brontatherium . 
+_t4 		yes ?
+_t4 
+_t4 		hello .
+_t4 
+_t4 		I'm a brontatherium . 
+_t4 		huh .
+_t4 
+_t4 		hello I'm a thorahockis . 
+_t4 		right . 
+_t4 		hello I'm a bird . 
+_t4 		xxx . 
+_t4 		huh . 
+_t4 		hello I'm a giant sloth . 
+_t4 		wow that is one big sloth huh ? 
+_t4 		yeah let's see what it says about the sloth here . 
+_t4 		it says the giant sloth was tru:ly hu:ge about twenty feet long from nose to tail . 
+_t4 		I'm huge . 
+_t4 		let's see this one says we're strange creatures . 
+_t4 		the wooly+mammoth says I have long tusks and wooly hair . 
+_t4 		um this one says +/. 
+_t4 		that one says the wooly hair has the wooly+mammoth has long shaggy hair and is just thirteen feet tall . 
+_t4 		this one says the saber+tooth tiger has long pointy fangs . 
+_t4 		xxx . 
+_t4 		this one says the machrauchenia has a long trunk+like nose . 
+_t4 		xxx . 
+_t4 		the brontatherium says that the brontatherium ate leaves and fruit from the trees . 
+_t4 		the thorahockis says that the birds could not fly they ran on their feet . 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		the machrauchenia says I have a long nose . 
+_t4 		it says that the machrauchenia was eleven feet tall and looked like a camel with no humps . 
+_t4 		the brontatherium says that they had horns and they used to fight each other with their horns . 
+_t4 		this one says that there were lots_of unusual creatures (.) that roamed the earth many many years ago . 
+_t4 		it says the wolly+mammoth had pretty small ears . 
+_t4 		that says that the wooly+mammoth lived during the ice+age . 
+_t4 		it says that one of the saber+tooth tigers was called a smiladon . 
+_t4 		it had long knife like teeth which were over six inches long . 
+_t4 		the machrauchenia says that it ate plants . 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		and a long trunk lke nose . 
+_t4 		wow . 
+_t4 		achoo . 
+_t4 		achoo . 
+_t4 		the brontatherium says they had a y shaped forked horn on the top of their snout . 
+_t4 		the thorahockis says it was about five feet tall and had a long neck and small wings . 
+_t4 		because the wings were so small they could not use them to fly instead the wings may have helped the bird to maintain balance while it ran on its powerful legs . 
+_t4 		yummy . 
+_t4 		huh the giant sloth had long curved claws and fed by stripping leaves with its tongue . 
+_t4 		but when the giant sloth was on the ground its claws forced the animal to walk on the sides of its feet making movement difficult . 
+_t4 		yeah . 
+_t4 		although its slow progress made the giant sloth an easy target for meat eaters its claws served as effective weapons .
+_t4 
+_t4 		interesting . 
+_t4 		mmmm+hmmm . 
+_t4 		that is a neat book . 
+_t4 		yeah . 
+_t4 		well it says that lots_of interesting creatures roamed the earth millions of years ago . 
+_t4 		xxx . 
+_t4 		ah the giant sloth . 
+_t4 		he says I'm truly huge . 
+_t4 		yeah: [: yes] . 
+_t4 		xxx .
+_t4 
+_t4 		huh the wooly+mammoth .
+_t4 
+_t4 		saber+tooth tiger .
+_t4 
+_t4 		oh no she's not .
+_t4 
+_t4 		the machrauchenia . 
+_t4 		oh my gosh is that a rhinocerous ? 
+_t4 		the brontatherium . 
+_t4 		oh is that an ostrich ? 
+_t4 		that's a thorahockis you're right . 
+_t4 		oh my gosh that's truly huge what is it ? 
+_t4 		hmmm . 
+_t4 		don't think so what animal I think we missed a page . 
+_t4 		yeah yeah .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		the giant sloth .
+_t4 
+_t4 		xxx !
+_t4 
+_t4 		oh my gosh . 
+_t4 		oh my gosh . 
+_t4 		oh the giant sloth got you with his claws . 
+_t4 		huh hey honey your magic+wand is one the dining room chair . 
+_t4 		ooh don't squish the giant sloth . 
+_t4 		ah  your feet  my gosh how do you walk ?
+_t4 
+_t4 		he got you .
+_t4 
+_t4 		xxx Amanda your magic wand ? 
+_t4 		xxx .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		what's that ? 
+_t4 		wow . 
+_t4 		xxx too I'm snow+white . 
+_t4 		let's make a wish and  the wand . 
+_t4 		wow . 
+_t4 		let's use the magic+wand to make dinner for our seven little friends . 
+_t4 		doesn't snow+white always sound like she's sniffing helium . 
+_t4 		xxx . 
+_t4 		she does . 
+_t4 		that's great . 
+_t4 		oh they're missing huh ? 
+_t4 		xxx another one .
+_t4 
+_t4 		are you ready for some magic ? 
+_t4 		did you get that for your birthday Lily ? 
+_t4 		hello I'm Cinderella let's wave the magic+wand to make our dreams come true . 
+_t4 		I can't imagine why Disney's stock is going down when we you know . 
+_t4 		lets +/. 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		xxx mommy  . 
+_t4 		xxx . 
+_t4 		xxx . 
+_t4 		ah . 
+_t4 		hey sweetie you wanna look at my food book with me ? 
+_t4 		you wanna see it ? 
+_t4 		really well look it talks all about bread . 
+_t4 		look at this .
+_t4 
+_t4 		who loves bread ? 
+_t4 		what ? 
+_t4 		let's see what else it talks about .
+_t4 
+_t4 		xxx are you following Amanda ? 
+_t4 		what's that ? 
+_t4 		a beluga+whale ? 
+_t4 		at the museum you got  wow . 
+_t4 		you're so lucky . 
+_t4 		what are you eating ? 
+_t4 		a pop+tart . 
+_t4 		what kind ?
+_t4 
+_t4 		xxx . 
+_t4 		yes ?
+_t4 
+_t4 		that is a raspberry pop+tart . 
+_t4 		raspberry one  . 
+_t4 		Lily why don't you tell why don't you tell Amanda when (about) we went to Starbucks the other day . 
+_t4 		remember when we sat down oh+goodness your cards are all on the floor . 
+_t4 		we sat down on the big purple chairs . 
+_t4 		right we sat down on two of them what happened then ? 
+_t4 		djou [: do you] remember ? 
+_t4 		well this man came over and sat down like there are three chairs around the fireplace . 
+_t4 		and Lily and I were sitting at two of them and the whole place was empty no one was there . 
+_t4 		and this guy comes in (and) (says)  is anyone sitting here . 
+_t4 		he sits down on the third chair right ? 
+_t4 		talking and talking like +/. 
+_t4 		and then we went yeah . 
+_t4 		xxx .
+_t4 
+_t4 		we went again and he was sitting on the same chair and Lily was like  let's sit on the purple chairs so I'm like honey we're not gonna sit on the purple chairs and she's like why why ? 
+_t4 		honey that man was there yesterday and mommy doesn't want to talk to him . 
+_t4 		she goes which man you no wanna talk to ? 
+_t4 		where is the man you don't wanna talk to I'm like get out of the store . 
+_t4 		xxx .
+_t4 
+_t4 		great I didn't want to hear I didn't want him to hear that we didn't want to talk to him last time but he was a little bit intrusive last time . 
+_t4 		yeah . 
+_t4 		a lil [: little] bit . 
+_t4 		yeah . 
+_t4 		xxx . 
+_t4 		huh . 
+_t4 		hello blankie . 
+_t4 		xxx . 
+_t4 		is that piece of cake for Amanda ? 
+_t4 		thank you . 
+_t4 		wha(t) do I get to eat ? 
+_t4 		I get a pear delicious . 
+_t4 		xxx . 
+_t4 		how is that donut ? 
+_t4 		yummy what's on that donut ? 
+_t4 		mmmm .
+_t4 
+_t4 		cream and sprinkles wow . 
+_t4 		ooh it's a chocolate donut really it looks like a vanilla donut . 
+_t4 		you're right .
+_t4 
+_t4 		yummy . 
+_t4 		wow yummy . 
+_t4 		wow . 
+_t4 		djou [: do you] wanna do mommy's homework for her ? 
+_t4 		no . 
+_t4 		Mommy's [: Mommy is] having a bit of a hard time with it . 
+_t4 		Mommy's [: Mommy is] procrastinating . 
+_t4 		really ? 
+_t4 		oh did you tell Amanda what happened to mommy's head yesterday ? 
+_t4 		what happened when we were out by the car ? 
+_t4 		I  was trying to tell her not to eat the dirty snow and I opened the passenger side and whacked myself in the head with the I don't know if you can tell I have a big like lump on my head . 
+_t4 		oh .
+_t4 
+_t4 		right did mommy get a big lump on her head ? 
+_t4 		yeah .
+_t4 
+_t4 		Lily's response to me when I was like  she was like I have a boo+boo on my finger . 
+_t4 		my boo+boo is bigger . 
+_t4 		oh it's smaller now ? 
+_t4 		it's smaller than the lump on my head ? 
+_t4 		yeah . 
+_t4 		oh thanks . 
+_t4 		xxx . 
+_t4 		hey Lily what's your favorite what are your favorite foods ? 
+_t4 		if you had to sit on a desert island and you could only have your favorite foods what foods would you bring with you ? 
+_t4 		bread okay . 
+_t4 		do you like chicken ? 
+_t4 		oh thank you sweetie . 
+_t4 		what woujou [: would you] bring for you to eat ?
+_t4 
+_t4 		grapes . 
+_t4 		what else would you bring ? 
+_t4 		what else do you love to eat ? 
+_t4 		woujou [: would you] bring cheese ? 
+_t4 		what kind of cheese would you bring . 
+_t4 		goat+cheese you like goat+cheese . 
+_t4 		xxx the other day I put her in the car  . 
+_t4 		the sweet smell of snow . 
+_t4 		remember when I put you in the car and you said the sweet smell of snow ? 
+_t4 		that was so funny . 
+_t4 		xxx .
+_t4 
+_t4 		what else woujou [: would you] bring on your desert island honey ? 
+_t4 		apples you like apples . 
+_t4 		do which do you like better do you like apples or do you like berries ? 
+_t4 		berries you do like berries like strawberries and blueberries and raspberries woujou [: would you] bring them ? 
+_t4 		yeah . 
+_t4 		woujou [: would you] bring any other kind of cheese because I think you like some other cheese too . 
+_t4 		goat+cheese and what other cheese do you like ? 
+_t4 		do you like smoked cheese ? 
+_t4 		what kind of smoked cheese do you like ? 
+_t4 		you're gonna bring that with you  you know you love it . 
+_t4 		it's the weirdest foods .
+_t4 
+_t4 		right you like feta . 
+_t4 		woudjou [: would you] bring olives with you ? 
+_t4 		green olives and black olives . 
+_t4 		and (.) woujou [: would you] bring (.)  let's see what else do you like to eat ? 
+_t4 		woujou [: would you] bring cinnamon toast ? 
+_t4 		mmmm+hmmm . 
+_t4 		and pears . 
+_t4 		and some pie . 
+_t4 		I know +/.
+_t4 
+_t4 		oh yeah  . 
+_t4 		really I know what you might wanna bring to have for dinner . 
+_t4 		do you like beef stew ? 
+_t4 		yes whada [: what do] you like in your beef stew ? 
+_t4 		whoops . 
+_t4 		red wine . 
+_t4 		you do you like beef stew with red wine in it . 
+_t4 		like a diamond . 
+_t4 		in the sky . 
+_t4 		it looks like a big eight ? 
+_t4 		really ? 
+_t4 		wow . 
+_t4 		wow . 
+_t4 		whada [: what do] you like in your beef stew with red wine ? 
+_t4 		you do you like your meat in your beef stew . 
+_t4 		that's true .
+_t4 
+_t4 		xxx . 
+_t4 		hello there . 
+_t4 		how are you ? 
+_t4 		good Lily has her Brown study . 
+_t4 		xxx . 
+_t4 		can I call you back ? 
+_t4 		okay ? 
+_t4 		bye . 
+_t4 		my sister in law every time she just has a habit of like never knowing when Lily even though it's the same time every week yeah [: yes] . 
+_t4 		uh what else do you like in your beef stew ? 
+_t4 		you like meat . 
+_t4 		and carrots right . 
+_t4 		and mushrooms that's true . 
+_t4 		and what about tuna ? 
+_t4 		woujou [: would you] bring tuna with you to your desert island ? 
+_t4 		yeah you love tuna . 
+_t4 		yeah . 
+_t4 		and what about would you bring any treats with you to your desert island ? 
+_t4 		what kind of treats would you bring ? 
+_t4 		mmmm . 
+_t4 		I'm eating a little piece of your pop+tart that you told me to throw away . 
+_t4 		mmmm it's good . 
+_t4 		it kinduv [: kind of] tastes like a jelly donut . 
+_t4 		xxx . 
+_t4 		there's a filling in that . 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		what ? 
+_t4 		okay you can take it . 
+_t4 		it doesn't look like there's anything in it . 
+_t4 		bless you . 
+_t4 		sneezy are you one of the seven dwarfs ? 
+_t4 		you could be sneezy . 
+_t4 		no .
+_t4 
+_t4 		um +/. 
+_t4 		you're sneezy Lily . 
+_t4 		um what are you looking for Amanda an outlet ? 
+_t4 		yeah . 
+_t4 		there should try trace wherever that light that's plugged into (be)cause there's outlet I know it's plugged in so there's gotta be is it behind the couch ? 
+_t4 		I don't remember . 
+_t4 		feel free to move things around . 
+_t4 		oh my gosh it's so no problem . 
+_t4 		um which kind of treats would you go with you to the desert island honey ? 
+_t4 		what are your favorite treats ?
+_t4 
+_t4 		donuts . 
+_t4 		is that your favorite treat which do you like better donuts or chocolate chip cookies ? 
+_t4 		chocolate chip cookies who else likes chocolate chip cookies ? 
+_t4 		Alec likes chocolate chip cookies ? 
+_t4 		are we gonna go play with Alec later ? 
+_t4 		yup [: yes] we're gonna go over to Alec's house later okay ? 
+_t4 		it'll be fine . 
+_t4 		and  . 
+_t4 		whoa . 
+_t4 		and what other treats do you like ? 
+_t4 		if we go to +/. 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		oh .
+_t4 
+_t4 		when we go to the bookstore honey what's your favorite kind of treat to get ? 
+_t4 		mmmm+hmmm . 
+_t4 		that's true you do love chocolate do you think you'd bring chocolate to your desert island ? 
+_t4 		I think mommy would bring chocolate to her desert island too . 
+_t4 		xxx . 
+_t4 		we have a lot in common honey I would bring cheese too I think and bread too . 
+_t4 		this by the way is our favorite past+time . 
+_t4 		we call it ten foods on a desert island . 
+_t4 		xxx . 
+_t4 		you can tell a lot about a person's list . 
+_t4 		yeah ? 
+_t4 		you stood stegosaurus up ? 
+_t4 		yeah . 
+_t4 		and you will stand that up too . 
+_t4 		yes ? 
+_t4 		you're right . 
+_t4 		xxx . 
+_t4 		wow . 
+_t4 		off of the dinosaur ? 
+_t4 		yeah ? 
+_t4 		can you bring it over here let me look at it . 
+_t4 		I don't know if I can get if off honey we'll see . 
+_t4 		really let me see . 
+_t4 		oh yes I see . 
+_t4 		there we go . 
+_t4 		that's a lil [: little] bit better . 
+_t4 		yeah . 
+_t4 		there it is . 
+_t4 		okay great . 
+_t4 		oh+my+goodness . 
+_t4 		what's your dinosaur's name honey ? 
+_t4 		um . 
+_t4 		hmmm . 
+_t4 		yup [: yes] same thing . 
+_t4 		okay . 
+_t4 		you're right he is an apotasaurus or a brontosaurus . 
+_t4 		yeah . 
+_t4 		xxx . 
+_t4 		okay . 
+_t4 		alright . 
+_t4 		what's your favorite kind of dinosaur you think ? 
+_t4 		the t+rex is your favorite dinosaur ? 
+_t4 		what about the ones that Henry got you for your birthday ? 
+_t4 		yeah what kind are they ? 
+_t4 		and +/? 
+_t4 		stegosaurus . 
+_t4 		right . 
+_t4 		and what's the other one that Henry got you ? 
+_t4 		an ankylosaurus . 
+_t4 		this is more than I've know in the past thirty three years of my life . 
+_t4 		right I don't know maybe the store didn't have them . 
+_t4 		yeah . 
+_t4 		could be . 
+_t4 		hmmm . 
+_t4 		xxx .
+_t4 
+_t4 		woudjou [: would you] like to read a book sweetie ?
+_t4 
+_t4 		oh . 
+_t4 		xxx . 
+_t4 		okay . 
+_t4 		yes honey ? 
+_t4 		hmmm . 
+_t4 		ooh I think you got it . 
+_t4 		almost . 
+_t4 		almost . 
+_t4 		xxx . 
+_t4 		let's see . 
+_t4 		there we go how's that ? 
+_t4 		gr:eat . 
+_t4 		xxx .
+_t4 
+_t4 		great . 
+_t4 		ooh .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		yeah . 
+_t4 		mmmm . 
+_t4 		yes ? 
+_t4 		you want me to help you ? 
+_t4 		want me to help you ? 
+_t4 		no ? 
+_t4 		no ? 
+_t4 		yyy  . 
+_t4 		what are those dinosaurs doing ? 
+_t4 		mmmm . 
+_t4 		oh .
+_t4 
+_t4 		ooh . 
+_t4 		xxx .
+_t4 
+_t4 		yes ? 
+_t4 		oh you did ? 
+_t4 		oh well you know what I bet daddy'll [: daddy will] take you to the children's museum this weekend . 
+_t4 		xxx .
+_t4 
+_t4 		right . 
+_t4 		yeah . 
+_t4 		oh yes . 
+_t4 		well maybe I can but I might have_to work on my homework . 
+_t4 		oh great . 
+_t4 		okay . 
+_t4 		wow . 
+_t4 		huh great . 
+_t4 		oh . 
+_t4 		okay . 
+_t4 		mommy ? 
+_t4 		yeah ?
+_t4 
+_t4 		you don't wanna read a book okay . 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		um it's under the table . 
+_t4 		woudjou [: would you] like another piece of your pop+tart by the way ? 
+_t4 		no .
+_t4 
+_t4 		oh boy that  +/. 
+_t4 		mmmm . 
+_t4 		you're not sick anymore ? 
+_t4 		um that is from the swim club . 
+_t4 		it says we havta pay them . 
+_t4 		yeah . 
+_t4 		well we have_to pay so we can go to the swim club this summer . 
+_t4 		mmmm . 
+_t4 		yeah . 
+_t4 		um that's from the swim club too . 
+_t4 		it sure is .
+_t4 
+_t4 		it sure is that's the calendar . 
+_t4 		um . 
+_t4 		that is to send the money in . 
+_t4 		um that's a little letter saying that they're building a new pool at the swim club . 
+_t4 		a new big pool . 
+_t4 		yup [: yes] . 
+_t4 		yeah you can go in with me . 
+_t4 		that's right daddy can too . 
+_t4 		ah . 
+_t4 		ah . 
+_t4 		ah . 
+_t4 		that was quite a trick .
+_t4 
+_t4 		oh it sure was .
+_t4 
+_t4 		yes  ? 
+_t4 		ah that's part of the thing to send the money to the swim club . 
+_t4 		oh . 
+_t4 		xxx .
+_t4 
+_t4 		you're right . 
+_t4 		oh sweets . 
+_t4 		sweets . 
+_t4 		can you bring that over to me so it doesn't get all messed up ? 
+_t4 		hmmm . 
+_t4 		whoa .
+_t4 
+_t4 		whoa . 
+_t4 		whoa . 
+_t4 		whoa . 
+_t4 		ah . 
+_t4 		ah . 
+_t4 		you did ? 
+_t4 		oh .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		oh . 
+_t4 		yes . 
+_t4 		really ? 
+_t4 		ooh . 
+_t4 		yup [: yes] ?
+_t4 
+_t4 		huh I'm sitting on the couch . 
+_t4 		on the couch . 
+_t4 		in the living room . 
+_t4 		over here . 
+_t4 		I can't see you either where are you ? 
+_t4 		oh my gosh whada [: what do] your doing ? 
+_t4 		oh djou [: do you] need help ? 
+_t4 		yeah look at the princesses . 
+_t4 		wow . 
+_t4 		xxx yeah .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		alrighty . 
+_t4 		what book woudjou [: would you] like to read ? 
+_t4 		ooh dinosaurs wow . 
+_t4 		ten little dinosaurs . 
+_t4 		yeah . 
+_t4 		ten little dinosaurs . 
+_t4 		ten little dinosaurs bouncing on the bed . 
+_t4 		Mama called the doctor and the doctor said no more bone+heads bouncing on the bed . 
+_t4 		nine little dinosaurs riding on a bike . 
+_t4 		stegosaurus crashed and smashed his spike . 
+_t4 		tyrannosaurus chomped and broke his tooth . 
+_t4 		the dentist shouted from his booth no more sharp+tooths munching on a mooth . 
+_t4 		mmmm+hmmm ? 
+_t4 		hmmm .
+_t4 
+_t4 		seven little dinosaurs rafting down a river . 
+_t4 		you're right it is a spinosaurus . 
+_t4 		oh there's a scary spinosaurus there ? 
+_t4 		oh my gosh . 
+_t4 		six little dinosaurs jumping off a peak . 
+_t4 		one called the ranger and the ranger shrieked no more feather+heads jumping off a peak . 
+_t4 		five little dinosaurs playing in the street . 
+_t4 		ankylosaurus yelled a car to beat . 
+_t4 		four little dinosaurs acting sort of cool . 
+_t4 		the teacher sighed that's against the rules no more super+lizards acting sort of cool . 
+_t4 		he slid the tube then blasted out the spout no more thrill seekers on a camp+out .
+_t4 		yeah . 
+_t4 		two little dinosaurs watching baseball . 
+_t4 		the umpire didn't like that talk at all no more big mouths watching baseball . 
+_t4 		one little dinosaur walking all alone the sun burnt triceritops into dried up bones . 
+_t4 		look called the scientist at all those fossil stones . 
+_t4 		no more  walking all alone .
+_t4 
+_t4 		yeah I think you're right . 
+_t4 		yeah . 
+_t4 		I think so . 
+_t4 		yeah .
+_t4 
+_t4 		they all  . 
+_t4 		the doctor cried well this just stinks . 
+_t4 		I think that's a soda bottle . 
+_t4 		a coke bottle . 
+_t4 		that's a bone . 
+_t4 		right . 
+_t4 		dinosaurs . 
+_t4 		yeah . 
+_t4 		dinosaur time can I getchou [: get you] anything else to eat sweetie ?
+_t4 
+_t4 		no ? 
+_t4 		no . 
+_t4 		my gosh that's quite a song . 
+_t4 		hmmm . 
+_t4 		wow that's quite a song . 
+_t4 		xxx you . 
+_t4 		oh my gosh . 
+_t4 		yes you did . 
+_t4 		okay . 
+_t4 		mmmm you don't  different book ? 
+_t4 		mmmm alright . 
+_t4 		please ? 
+_t4 		mommy's read Hilda so often . 
+_t4 		let's see what else there is . 
+_t4 		there's  . 
+_t4 		we can play with your body parts book . 
+_t4 		we can read wake up big barn . 
+_t4 		we haven't read that in a long time . 
+_t4 		alrighty . 
+_t4 		wake up big barn . 
+_t4 		wake up big barn . 
+_t4 		huh wake up big barn . 
+_t4 		a mud bath . 
+_t4 		moo moo say the +... 
+_t4 		cows . 
+_t4 		wiggle wiggle weather+vane . 
+_t4 		windy day . 
+_t4 		show me your feathers peacock . 
+_t4 		may may the horses eat +... 
+_t4 		hip hop beebop farm frogs rock hop . 
+_t4 		corn time . 
+_t4 		snack time . 
+_t4 		pop pop pop pop . 
+_t4 		popcorn .
+_t4 
+_t4 		flap flap fly . 
+_t4 		cherries fall . 
+_t4 		xxx . 
+_t4 		let's eat pie . 
+_t4 		owl's [: owl is] on the night shift . 
+_t4 		it's an owl saying   . 
+_t4 		yes ? 
+_t4 		good night big barn . 
+_t4 		good night to you . 
+_t4 		good night to you are you going to sleep ? 
+_t4 		ooh at night . 
+_t4 		again ? 
+_t4 		wake up big barn . 
+_t4 		cock a doodle  . 
+_t4 		says the rooster . 
+_t4 		piggies love +... 
+_t4 		hee    say the +... 
+_t4 		moo moo say the +... 
+_t4 		wiggle wiggle weather+vane . 
+_t4 		show me your feathers peacock . 
+_t4 		how pretty you are peacock . 
+_t4 		oh my god yes . 
+_t4 		neigh neigh the horses eat +... 
+_t4 		xxx .
+_t4 
+_t4 		hip hop beebop . 
+_t4 		farm frogs . 
+_t4 		rock hop . 
+_t4 		rock hop . 
+_t4 		rock hop . 
+_t4 		xxx corn time . 
+_t4 		snack time . 
+_t4 		pop pop pop . 
+_t4 		popcorn . 
+_t4 		wheels stop . 
+_t4 		chuga ching . 
+_t4 		oh . 
+_t4 		excuse you . 
+_t4 		chuga ching . 
+_t4 		flap flap fly . 
+_t4 		cherries fall . 
+_t4 		ping ping . 
+_t4 		let's eat pie . 
+_t4 		owl's on the night shift . 
+_t4 		it says owl's on the night shift (be)cause the owl stays awake at night when everyone else is asleep . 
+_t4 		good night big barn .
+_t4 
+_t4 		good night to you . 
+_t4 		good night to you . 
+_t4 		sleep tight . 
+_t4 		sweet dreams . 
+_t4 		xxx . 
+_t4 		already ? 
+_t4 		that is a good idea . 
+_t4 		hmmm . 
+_t4 		wow . 
+_t4 		Olivia you're right we haven't read that in a while . 
+_t4 		mmmm . 
+_t4 		this is Olivia . 
+_t4 		she is good at lots_of things . 
+_t4 		she is very good at wearing people out . 
+_t4 		she even wears herself out . 
+_t4 		oh+my+goodness she's so tired . 
+_t4 		Olivia has a little brother named Ian . 
+_t4 		he's always copying . 
+_t4 		that's Ian her little brother . 
+_t4 		that's Olivia . 
+_t4 		sometimes Ian just won't leave her alone so Olivia has to be firm . 
+_t4 		she's dressed as a monster . 
+_t4 		right . 
+_t4 		with big sharp teeth . 
+_t4 		yes . 
+_t4 		claws too . 
+_t4 		Olivia lives with her mother her father her brother her dog Perry and Edwin the cat . 
+_t4 		in the morning after +... 
+_t4 		that's Ian . 
+_t4 		you're right .
+_t4 
+_t4 		we have a mommy and daddy ? 
+_t4 		really ? 
+_t4 		I do ? 
+_t4 		sometimes that true . 
+_t4 		daddy wears pants right . 
+_t4 		he wears pants to work yes he does . 
+_t4 		I I wear a dress and a skirt to dance in ? 
+_t4 		wow do I do a lot of dancing ? 
+_t4 		yeah ?
+_t4 
+_t4 		whada [: what do] I like to dance to ? 
+_t4 		oh wow Raffi that's great dancing music . 
+_t4 		yeah . 
+_t4 		where do I dance ? 
+_t4 		huh I dance at the palace wow . 
+_t4 		huh .
+_t4 
+_t4 		wow . 
+_t4 		wow . 
+_t4 		wow . 
+_t4 		and who do we dance with at the palace ? 
+_t4 		wow . 
+_t4 		that would be fun . 
+_t4 		I bet Cinderella's a good dancer . 
+_t4 		yeah . 
+_t4 		wow . 
+_t4 		oh sorry . 
+_t4 		in the morning after she gets up and moves the cat and brushes her teeth and combs her ears and moves the cat Olivia gets dressed . 
+_t4 		she has to try on everything . 
+_t4 		huh a dress . 
+_t4 		on sunny days Olivia likes to go to the beach . 
+_t4 		she feels it's important to come prepared . 
+_t4 		last summer when Olivia was little her mother showed her how to make sand castles . 
+_t4 		she got pretty good . 
+_t4 		sometimes Olivia likes to bask in the sun when her mother sees she's had enough they go home . 
+_t4 		everyday Olivia's [: Olivia is] supposed to take a nap . 
+_t4 		it's time for your you know what her mother says . 
+_t4 		of course Olivia's not at all sleepy . 
+_t4 		on rainy days Olivia likes to go to the museum . 
+_t4 		she heads straight for her favorite picture . 
+_t4 		oh it's a ballerina but we tore the page didn't we ? 
+_t4 		but there's one painting Olivia just doesn't get I could do that in about five minutes she says to her mother . 
+_t4 		that's called an abstract painting . 
+_t4 		well abstract painting means that not everyone agrees what it's a picture of . 
+_t4 		that's Ian . 
+_t4 		you can look at an abstract picture and +...
+_t4 
+_t4 		he's looking the other way . 
+_t4 		he's probably looking at another picture . 
+_t4 		woo . 
+_t4 		so you can look at an abstract painting honey and you can decide what you think it's a picture of what do you think that's a picture of ? 
+_t4 		a state ? 
+_t4 		wow which state do you think it's a picture of ? 
+_t4 		a big that's a picture of big Florida . 
+_t4 		pretty nice . 
+_t4 		whada [: what do] you think they're doing in Florida ? 
+_t4 		wow that's some state huh ? 
+_t4 		as soon as she gets home Olivia gives it a try . 
+_t4 		huh . 
+_t4 		oh no she's painting on the wall that is a very big no no . 
+_t4 		time out . 
+_t4 		after a nice bath and a nice dinner it's time for bed . 
+_t4 		but of course Olivia's not at all sleepy only five books tonight mommy she says . 
+_t4 		no Olivia just one . 
+_t4 		how about four . 
+_t4 		two . 
+_t4 		three . 
+_t4 		alright three but that's it . 
+_t4 		when they finished reading Olivia's mother gives her a kiss and says you know you really wear me out . 
+_t4 		but I love you anyway and Olivia gives her a kiss back and says I love you anyway too . 
+_t4 		right and she's singing I think . 
+_t4 		xxx .
+_t4 
+_t4 		wow in her big dress huh ? 
+_t4 		and she has like some jewelry and a crown on too I think .
+_t4 
+_t4 		yeah . 
+_t4 		ah I think she's getting undressed and she's dancing . 
+_t4 		what do you think ? 
+_t4 		yeah .
+_t4 
+_t4 		ah these pages kept getting ripped we had to keep taping them and taping them . 
+_t4 		right . 
+_t4 		it's true . 
+_t4 		huh . 
+_t4 		great . 
+_t4 		ahah . 
+_t4 		oh alright another book that we haven't read in a while . 
+_t4 		hmmm . 
+_t4 		you need help ? 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		let's see which one ? 
+_t4 		let me get it . 
+_t4 		hello Lulu . 
+_t4 		mmmm+hmmm . 
+_t4 		this is Lulu hello Lulu . 
+_t4 		this is Lulu's hello come in says Lulu . 
+_t4 		this is Lulu's mommy and this is Lulu's daddy . 
+_t4 		this is Lulu's baby brother he can say Lulu Lulu . 
+_t4 		this is Lulu's sister she goes to school . 
+_t4 		right .
+_t4 
+_t4 		Lulu kisses him to make it better . 
+_t4 		look at Lulu's new shoes . 
+_t4 		what do you think Lulu's favorite color is ? 
+_t4 		right . 
+_t4 		Lulu's family has three pets a puppy a bunny and a fish . 
+_t4 		snuffle snuffle . 
+_t4 		woof woof . 
+_t4 		werdj [: were did] your little microphone go sweets ? 
+_t4 		oh . 
+_t4 		xxx . 
+_t4 		oops . 
+_t4 		oh it's down here .
+_t4 
+_t4 		here we go . 
+_t4 		here we go . 
+_t4 		Lulu's doggy likes biscuits . 
+_t4 		this is Lulu's best friend they blow beautiful bubbles . 
+_t4 		this is Lulu's grandma Lulu likes snack time at grandma's . 
+_t4 		great . 
+_t4 		but best of all Lulu loves her family and they all love her . 
+_t4 		bye+bye Lulu . 
+_t4 		bye+bye Lulu . 
+_t4 		bye+bye Lulu . 
+_t4 		bye+bye Lulu . 
+_t4 		so sorry to see you go . 
+_t4 		mmmm+hmmm ? 
+_t4 		ah let me see . 
+_t4 		okay hang on . 
+_t4 		can you ask nicely ?
+_t4 
+_t4 		please . 
+_t4 		which one ? 
+_t4 		ah let's see . 
+_t4 		this one is that's what friends are for do you want that one ? 
+_t4 		that one is   ouch . 
+_t4 		there's so many books in there it's hard to get out . 
+_t4 		let me see . 
+_t4 		really ? 
+_t4 		you want the tooth+fairy book ? 
+_t4 		look what I found over here though . 
+_t4 		the tooth+fairy . 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		okay I can't you know what I can't get that one out because it's too far back . 
+_t4 		I think that's the everything book . 
+_t4 		okay well why don't we read the tooth+fairy first and then I'll have_to work on digging that other one out . 
+_t4 		yeah . 
+_t4 		right . 
+_t4 		you're right . 
+_t4 		thi is the tooth+fairy . 
+_t4 		she has lots_of teeth . 
+_t4 		she has lots_of dimes and quarters too . 
+_t4 		she needs them because when you are asleep she comes and takes away the tooth that you have put under your pillow . 
+_t4 		and she puts the money there instead . 
+_t4 		sometimes she forgets and then of course your tooth is still there in the morning instead of the money . 
+_t4 		that this is because she works so hard . 
+_t4 		the tooth+fairy has to work harder than the Easter bunny because the Easter bunny only works on Easter . 
+_t4 		the tooth+fairy works harder than Santa Claus because there's only one night when Santa goes down all those chimneys but the tooth+fairy is busy every night . 
+_t4 		that's Santa with a big sack of toys . 
+_t4 		if she forgets to take your tooth one night she usually remembers it the next . 
+_t4 		she will take your tooth home with her along with all the others she has collected that night . 
+_t4 		when she gets home the first thing she does with your teeth is to sort them . 
+_t4 		lower teeth extra teeth bottom teeth teeny teeth very clean teeth . 
+_t4 		girl's teeth boy's teeth shiny teeth first teeth small teeth . 
+_t4 		she puts some of the pretty ones in a glass jar on a high shelf in the kitchen she thinks they look nice there . 
+_t4 		they do look nice there don't they ? 
+_t4 		yeah . 
+_t4 		pretty . 
+_t4 		she puts some in the bottom of the fish+bowl her fish are crazy about teeth too . 
+_t4 		she makes some into necklaces and some into bracelets she has more necklaces and bracelets than anyone . 
+_t4 		she just loves jewelry . 
+_t4 		of course every other fairy knows what kind of birthday presents she will get from the tooth+fairy . 
+_t4 		the pathway to her house is paved with teeth . 
+_t4 		and there are always stars outside her window at night . 
+_t4 		at least it looks that way because she has hung clothes+lines full of teeth in the sky just in case the real stars don't come out . 
+_t4 		well it's a pretty decoration I think . 
+_t4 		oh really ? 
+_t4 		thank you . 
+_t4 		I do need a little trim . 
+_t4 		well we'll just pretend . 
+_t4 		snip snip snip . 
+_t4 		snip snip snip . 
+_t4 		snip snip snip . 
+_t4 		how does it look ? 
+_t4 		great . 
+_t4 		oh boy . 
+_t4 		wow . 
+_t4 		hmmm ?
+_t4 
+_t4 		oh my gosh that is so so (.) silly . 
+_t4 		so so silly . 
+_t4 		let me get that phone . 
+_t4 		you did ? 
+_t4 		yikes . 
+_t4 		hello there .
+_t4 
+_t4 		uhoh .
+_t4 
+_t4 		yeah that's the only ones we ever had (be)cause you know just the little ones we got from the hospital like that size . 
+_t4 		yeah . 
+_t4 		sorry about that . 
+_t4 		yeah I will look but I don't think so (be)cause we didn't really I mean we wrapped her up for the first couple of weeks but that was the only time . 
+_t4 		right .
+_t4 
+_t4 		yeah .
+_t4 
+_t4 		okay okay bye .
+_t4 
+_t4 		we didn't finish our tooth+fairy book yet . 
+_t4 		oh . 
+_t4 		xxx . 
+_t4 		sorry . 
+_t4 		xxx .
+_t4 
+_t4 		each year the tooth+fairy has a great big party and all the other fairies come to have refreshments and to play games . 
+_t4 		wow . 
+_t4 		they play hopscotch . 
+_t4 		um you know what I don't know if she's in this picture the tooth fairy . 
+_t4 		no (be)cause the tooth fairy has a big bow on her head . 
+_t4 		yeah .
+_t4 
+_t4 		they play hopscotch with teeth of course . 
+_t4 		mmmm+hmmm . 
+_t4 		and they throw bean+bags stuffed with  . 
+_t4 		yeah ? 
+_t4 		that's a different fairy . 
+_t4 		maybe .
+_t4 
+_t4 		no that's a different fairy (be)cause the tooth+fairy has a big bow on her head . 
+_t4 		see .
+_t4 
+_t4 		here's the tooth+fairy . 
+_t4 		alright . 
+_t4 		there's a jacks  . 
+_t4 		great . 
+_t4 		well actually . 
+_t4 		alright there she is . 
+_t4 		there's a jacks contest with teeth instead of jacks and a pin the tooth on the donkey game .
+_t4 
+_t4 		the winner gets a prize . 
+_t4 		it's all wrapped in a box and I think you know what it is . 
+_t4 		a tooth .
+_t4 
+_t4 		there she is . 
+_t4 		do you know why the tooth+fairy likes to eat so much ? 
+_t4 		she doesn't have any of her own . 
+_t4 		but she hopes to grow one some day . 
+_t4 		just like you . 
+_t4 		just like you . 
+_t4 		yes when your baby teeth broke break you can grow a new one . 
+_t4 		when your baby +... 
+_t4 		that's right . 
+_t4 		right it will fall out and you'll get a new one . 
+_t4 		but when you're a big girl like mommy and your tooth breaks wwhada [: what do] ou havta do ? 
+_t4 		havta go to the dentist . 
+_t4 		chips . 
+_t4 		yeah . 
+_t4 		yummy . 
+_t4 		okay . 
+_t4 		let's add our flour in . 
+_t4 		yeah you havta help me pour those so come over here . 
+_t4 		bring the chocolate chips . 
+_t4 		we put them up on the counter . 
+_t4 		okay . 
+_t4 		now . 
+_t4 		let's have you right up here . 
+_t4 		xxx . 
+_t4 		ah . 
+_t4 		okay . 
+_t4 		let's mix some of our flour in . 
+_t4 		make sure it doesn't spin around too much . 
+_t4 		stay in the bowl . 
+_t4 		stay in the bowl . 
+_t4 		mmmm+hmmm . 
+_t4 		okay let's open these up . 
+_t4 		xxx .
+_t4 
+_t4 		okay here's what you're gonna do . 
+_t4 		you're gonna pour those chips in . 
+_t4 		huh great . 
+_t4 		pour pour pour pour pour pour pour . 
+_t4 		okay let's see if that's enough or if we need more . 
+_t4 		you can have a couple . 
+_t4 		(be)cause he rest are gonna go in let's pour some more in . 
+_t4 		pour pour pour pour pour pour pour pour pour pour pour . 
+_t4 		uhuh ? 
+_t4 		xxx have a couple here you go . 
+_t4 		it's empty now yup [: yes] . 
+_t4 		okay . 
+_t4 		ooh . 
+_t4 		look at that . 
+_t4 		is that exciting ? 
+_t4 		are we gonna bake our cookies ? 
+_t4 		hmmm . 
+_t4 		our sheet pan is a little dirty . 
+_t4 		let's check our other sheet pan . 
+_t4 		I'll clean this one off . 
+_t4 		okay . 
+_t4 		put a little foil down whada [: what do] you think ? 
+_t4 		okay . 
+_t4 		wanna help me put the dough on the pan ? 
+_t4 		really well first we have_to put them in the pan right ? 
+_t4 		huh what ? 
+_t4 		if you don't help you can't eat the dough .
+_t4 
+_t4 		you can only eat a bite of dough if you help . 
+_t4 		that's the rule . 
+_t4 		come over here look . 
+_t4 		I'll put it down here . 
+_t4 		okay . 
+_t4 		alright . 
+_t4 		now you have_to squeeze this like this . 
+_t4 		squeeze . 
+_t4 		there we go . 
+_t4 		great . 
+_t4 		you wanna try a bite ?
+_t4 		okay little bite  that's too big . 
+_t4 		here . 
+_t4 		in a bone ? 
+_t4 		ooh my hand . 
+_t4 		whada [: what do] you think ? 
+_t4 		was it good ? 
+_t4 		okay hang on . 
+_t4 		did my microphone fall off ? 
+_t4 		let me put it back on . 
+_t4 		sweetie pie . 
+_t4 		let me give you a little bite okay ? 
+_t4 		I'll put a little bite in a bowl . 
+_t4 		mmmm okay . 
+_t4 		alright . 
+_t4 		maybe wanna well okay . 
+_t4 		come back here . 
+_t4 		okay you havta stay in the kitchen and help me for a minute . 
+_t4 		wee . 
+_t4 		mmmm . 
+_t4 		mmmm chocolate . 
+_t4 		who loves chocolate ? 
+_t4 		you ? 
+_t4 		really ? 
+_t4 		me ? 
+_t4 		that's true . 
+_t4 		I love chocolate . 
+_t4 		it's so true . 
+_t4 		who loves chocolate more mommy or Lily ? 
+_t4 		ah that's probably right . 
+_t4 		mommy loves chocolate . 
+_t4 		okay we're almost done with these . 
+_t4 		and then we'll put them in the oven . 
+_t4 		and let them bake . 
+_t4 		that would be tasty . 
+_t4 		oops . 
+_t4 		and then you can have one later for dessert after dinner . 
+_t4 		whada [: what do] you think ? 
+_t4 		good ? 
+_t4 		mmmm+hmmm . 
+_t4 		okay . 
+_t4 		hmmm +... 
+_t4 		okay . 
+_t4 		let's put the rest of the this in the fridge . 
+_t4 		let's see if we have room in the fridge . 
+_t4 		ooh . 
+_t4 		I havta shift things around a little bit . 
+_t4 		there we go . 
+_t4 		good . 
+_t4 		yeah . 
+_t4 		let's put +... 
+_t4 		these +... 
+_t4 		and this back in the fridge . 
+_t4 		garbage . 
+_t4 		garbage . 
+_t4 		maybe we'll leave our mixer out (be)cause we might make rolls later for dinner . 
+_t4 		what do you think ? 
+_t4 		oh my gosh . 
+_t4 		what is on your fingers ? 
+_t4 		really ? 
+_t4 		let me try . 
+_t4 		that's quite a bit of a mess . 
+_t4 		let's do these fingers first . 
+_t4 		and that dirty thumb  my gosh . 
+_t4 		that is a bunch of very  look at those nails they're so dirty I havta clean them ah: . 
+_t4 		xxx . 
+_t4 		yes . 
+_t4 		okay . 
+_t4 		oh my gosh we've got_to trim those nails . 
+_t4 		huh who's in the green room ? 
+_t4 		you  me . 
+_t4 		who are all these guys ? 
+_t4 		huh . 
+_t4 		xxx they sure are . 
+_t4 		wow . 
+_t4 		oh my gosh .
+_t4 
+_t4 		that's a raptor ? 
+_t4 		velociraptor and who's this guy ?
+_t4 
+_t4 		hmmm . 
+_t4 		iguanodon right . 
+_t4 		iguanodon ?
+_t4 
+_t4 		xxx . 
+_t4 		stegosaurus . 
+_t4 		wow .
+_t4 
+_t4 		just in case you needed a dinosaur lesson . 
+_t4 		I did . 
+_t4 		it's true you did do you remember the name of the store where we got the new ones ? 
+_t4 		it's going out of business . 
+_t4 		mmmm+hmmm ? 
+_t4 		I know they didn't have a t+rex there but the velocoraptor is close to a t+rex don't you think ? 
+_t4 		what are your pants and your shoes doing in here ? 
+_t4 		my gosh . 
+_t4 		did daddy leave those in there ?
+_t4 
+_t4 		well that's just silly . 
+_t4 		I'm back here I am . 
+_t4 		hi . 
+_t4 		did you tell Amanda where you're going this weekend djou [: do you] remember ? 
+_t4 		we're gonna go to New York . 
+_t4 		who are we gonna go see at New York who's gonna [: going to] babysit you ? 
+_t4 		grandma Rosie and papa Jay . 
+_t4 		right . 
+_t4 		your grandmas and grandpas all live in New York it's true . 
+_t4 		yup [: yes] yup [: yes] yup [: yes] . 
+_t4 		do you think grandma Rosie's gonna read books to you ? 
+_t4 		I bet she will . 
+_t4 		wow . 
+_t4 		you know what I think we're gonna drive in the car . 
+_t4 		right we're gonna drive in the car . 
+_t4 		mommy took the train but that's (be)cause she went by herself . 
+_t4 		and it was so lovely to be by myself on the train . 
+_t4 		three hours of golden silence . 
+_t4 		right daddy goes to work on the train that's true . 
+_t4 		mommy's go to work on the train sure . 
+_t4 		some mommies and some daddies . 
+_t4 		I work on the train ? 
+_t4 		I do whado [: what do] I do on the train ? 
+_t4 		I draw on the train okay . 
+_t4 		last time we took the train I did my homework on the train .
+_t4 
+_t4 		yeah . 
+_t4 		right I can read on the train and I can write on the train . 
+_t4 		yeah .
+_t4 
+_t4 		huh really ? 
+_t4 		wow . 
+_t4 		oh . 
+_t4 		what are you gonna see in the great valley ? 
+_t4 		wow . 
+_t4 		all going to the great valley . 
+_t4 		what are they gonna find in the great valley ? 
+_t4 		wow . 
+_t4 		green food ? 
+_t4 		grass . 
+_t4 		ooh . 
+_t4 		the glass sculpture . 
+_t4 		xxx you know what have you ever been in the risd museum when you first walk in and the what ? 
+_t4 		they have a glass sculpture which kind of looks like an hour+glass it's the only thing that you're allowed to touch in the museum . 
+_t4 		so Lily likes to stand there and hug it . 
+_t4 		it looks like daddy ? 
+_t4 		you think it's daddy the green glass sculpture is daddy ? 
+_t4 		yeah ?
+_t4 
+_t4 		oh it's daddy's body wow . 
+_t4 		and they you give him a hug ? 
+_t4 		yeah . 
+_t4 		it doesn't have any face you're right . 
+_t4 		no .
+_t4 
+_t4 		and is the buddah big or is the buddah little ? 
+_t4 		the buddah is really big djou [: do you] remember how tall the buddah is ? 
+_t4 		oh my gosh that's so big . 
+_t4 		oh is that your little baby ? 
+_t4 		you taking care of the little baby ? 
+_t4 		oh . 
+_t4 		what is the baby gonna be ? 
+_t4 		oh my gosh you have +/. 
+_t4 		a baby Boo wow look at that . 
+_t4 		oh and what do you do to take care of the baby ? 
+_t4 		oh . 
+_t4 		oh . 
+_t4 		are you gonna bring it in here ? 
+_t4 		okay . 
+_t4 		she this new thing too is like all her imaginary play sounds like a book like  . 
+_t4 		who don't we go here says so and so  yes says so and so . 
+_t4 		I think so too replies so and so . 
+_t4 		oh my gosh who's that ? 
+_t4 		I don't know ? 
+_t4 		let me see . 
+_t4 		hello ? 
+_t4 		xxx .
+_t4 
+_t4 		I'm good can I ask you a favor  can you give me a call back in about a half an hour Lily has her Brown thing which goes till [: until] ten . 
+_t4 		yeah . 
+_t4 		okay bye . 
+_t4 		yes . 
+_t4 		oh yeah it's in here somewhere let me see . 
+_t4 		let me see . 
+_t4 		oh my gosh . 
+_t4 		there is so much stuff in here I can not believe it . 
+_t4 		mmmm+hmmm ? 
+_t4 		um . 
+_t4 		there you go . 
+_t4 		well I'm not sure where the juice is we'll havta look . 
+_t4 		oh gosh . 
+_t4 		we havta take everything out of here ? 
+_t4 		alright go ahead . 
+_t4 		let me know if you find it okay ? 
+_t4 		okay . 
+_t4 		what color is the juice ? 
+_t4 		oh you found it yay .
+_t4 
+_t4 		hooray . 
+_t4 		great .
+_t4 
+_t4 		xxx .
+_t4 
+_t4 		oh no . 
+_t4 		whad [: what are] you doing ? 
+_t4 		oh hugging the baby . 
+_t4 		what are they can you tel me ? 
+_t4 		well +/. 
+_t4 		one's a ballerina . 
+_t4 		oh . 
+_t4 		wow . 
+_t4 		that's very neat . 
+_t4 		oh . 
+_t4 		oh course we can .
+_t4 
+_t4 		woudjou [: would you] like to pick one out ? 
+_t4 		sure . 
+_t4 		okay . 
+_t4 		Max cleans up . 
+_t4 		Max parked his popsicle where no one would find it . 
+_t4 		oh my gosh . 
+_t4 		then he pushed the up and over button on his brand new power city rocker crushed dump truck . 
+_t4 		Max said Max's sister Ruby it's time to clean up . 
+_t4 		oh my gosh his room is a +/. 
+_t4 		it is a mess look how messy it is . 
+_t4 		oh my gosh . 
+_t4 		your dump+truck goes back in the sand box . 
+_t4 		when Ruby wasn't looking Max emptied the dump+truck into his pocket . 
+_t4 		oh no . 
+_t4 		just then Ruby stepped on something sticky . 
+_t4 		what was it ? 
+_t4 		it's a tube of miracle bubbles . 
+_t4 		into the rubbish Max said Ruby . 
+_t4 		but Max squeezed the rest of the miracle bubbles into his pocket . 
+_t4 		your ant farm ants have escaped said Ruby . 
+_t4 		back home they go . 
+_t4 		but Max let the ants run into his pocket instead of into his ant farm . 
+_t4 		Max said Ruby something's in your underwear drawer that should not be there . 
+_t4 		what is that in his drawer ? 
+_t4 		a easter egg that's right this easter egg is from last year Max said Ruby into the trash bucket it goes . 
+_t4 		but Max stuffed the egg into his pocket . 
+_t4 		what is oozing out from your closet door Max asked Ruby . 
+_t4 		huh . 
+_t4 		Max knew Ruby would find a reason to throw out his popsicle she might even throw out his +/. 
+_t4 		his quack quack duck . 
+_t4 		they both just fit in his pocket . 
+_t4 		Max said Ruby your pillow is in your toy chest and your toys are in your bed . 
+_t4 		Max rescued his very favorite piece of gum on a string from the bottom of his bug box . 
+_t4 		spit it out Max said Ruby . 
+_t4 		Ruby put all the toys in the toy chest she lined up the santas and the dolls +/. 
+_t4 		and the robots . 
+_t4 		and the sneakers went into Max's closet and the wind+up bugs went into the bug box . 
+_t4 		Max saved the gum on his in his pocket . 
+_t4 		look Max said Ruby your room is completely organized there's a place for everything and everything's in its place . 
+_t4 		Max Ruby asked what is in your pocket ? 
+_t4 		everything said Max . 
+_t4 		oh no that is so messy . 
+_t4 		oh no .
+_t4 
+_t4 		xxx . 
+_t4 		oh you're so funny . 
+_t4 		should we do our we could do our dinosaur puzzle honey . 
+_t4 		oh great . 
+_t4 		first let's put can you help me put these back in the basket please ? 
+_t4 		honey ? 
+_t4 		help me clean up . 
+_t4 		clean up . 
+_t4 		clea:n up . 
+_t4 		this is the way we clean up our mess . 
+_t4 		are we let's take it out and we'll see . 
+_t4 		okay . 
+_t4 		xxx .
+_t4 
+_t4 		ohp . 
+_t4 		okay let's (.) put them all take them out and put them alright side up with the picture's up . 
+_t4 		okay well let's put it together to see what's missing . 
+_t4 		first we have_to find all the end pieces with the straight edges right . 
+_t4 		yeah . 
+_t4 		that's right . 
+_t4 		okay let's see . 
+_t4 		turn all the white pieces over . 
+_t4 		okay . 
+_t4 		should we start with should we start with the straight edges honey ? 
+_t4 		the straight edges with the pterodactyl . 
+_t4 		huh let's see if you can fit those together . 
+_t4 		let's put the straight edge against the straight edge . 
+_t4 		mmmm+hmmm . 
+_t4 		straight edge next to let's turn it over again . 
+_t4 		xxx like ths maybe . 
+_t4 		huh . 
+_t4 		perfect . 
+_t4 		that is great . 
+_t4 		okay . 
+_t4 		let's see . 
+_t4 		I think that could be the pterodactyl's beak . 
+_t4 		mmmm+hmmm . 
+_t4 		very good . 
+_t4 		perfect . 
+_t4 		yay . 
+_t4 		so we're looking for a straight edge piece with an apatosaurus . 
+_t4 		really maybe it is . 
+_t4 		huh . 
+_t4 		wow you did it . 
+_t4 		great . 
+_t4 		okay . 
+_t4 		you know what we should find some more light blue pieces like this . 
+_t4 		see if they fit with some straight edges like maybe this one . 
+_t4 		no do you think this one might fit ? 
+_t4 		well it has a straight edge on top . 
+_t4 		gotta line it up with the other straight edges . 
+_t4 		see if that fits there . 
+_t4 		oh very nice . 
+_t4 		can you see if there's some more striaght edges in the corner over there sweets . 
+_t4 		see I think they're white if you turn them over yeah let's see what that is . 
+_t4 		oh that's not . 
+_t4 		nope we're still looking for sky . 
+_t4 		oh that's sky . 
+_t4 		let's see if that you wwanna [: want to] see if it fits ? 
+_t4 		mmmm not quite . 
+_t4 		I think we're gonna have_to look for another piece . 
+_t4 		let's try what's that one that your hand is on . 
+_t4 		yeah . 
+_t4 		that one there what's that ? 
+_t4 		this one ? 
+_t4 		uh this one . 
+_t4 		maybe that djou [: do you] think that's the rest of the pterodactyl flying ? 
+_t4 		okay let's see if that fits with the rest of the pterodactyl . 
+_t4 		let's move that other piece out of the way . 
+_t4 		good job . 
+_t4 		oh very nice honey . 
+_t4 		you're absolutely right . 
+_t4 		you did it . 
+_t4 		great . 
+_t4 		oh yup [: yes] . 
+_t4 		good job sweets . 
+_t4 		you did it .
+_t4 
+_t4 		here let's try this one . 
+_t4 		yeah . 
+_t4 		yup [: yes] . 
+_t4 		good job . 
+_t4 		okay so let's see is there can you turn that white piece over over there .
+_t4 
+_t4 		see if that one is sky . 
+_t4 		yeah let's see if that one fits over here . 
+_t4 		it does ? 
+_t4 		great . 
+_t4 		and should we try this one ? 
+_t4 		for our last sky piece ? 
+_t4 		oh that's okay we'll just put it back . 
+_t4 		huh excellent . 
+_t4 		okay . 
+_t4 		let's find the long neck . 
+_t4 		nope .
+_t4 
+_t4 		oh my is that what you were looking for ? 
+_t4 		let's try that . 
+_t4 		okay .
+_t4 
+_t4 		okay .
+_t4 
+_t4 		oh . 
+_t4 		stegosaurus where are you ? 
+_t4 		ooh didjou [: did you] find it ? 
+_t4 		let's see if it fits . 
+_t4 		oh my gosh it sure does . 
+_t4 		good job . 
+_t4 		mmmm+hmmm . 
+_t4 		should we find the rest of these two apatosauruses ? 
+_t4 		you think ?
+_t4 
+_t4 		hmmm  no that's not the one ? 
+_t4 		okay .
+_t4 
+_t4 		now we havta find the face to the stegosaurus too . 
+_t4 		mmmm .
+_t4 
+_t4 		oh whose tail is that ? 
+_t4 		oh you're right . 
+_t4 		oh+my+goodness that is great . 
+_t4 		that's fantastic . 
+_t4 		okay we have_to find the stegosaurus' face don't we ? 
+_t4 		okay . 
+_t4 		while you look at that mommy's just gonna look at the cookies for a minute . 
+_t4 		didjou [: did you] find it sweets ? 
+_t4 		okay still looking ? 
+_t4 		let me see . 
+_t4 		let's see that maybe goes  wait let me turn the oven off . 
+_t4 		I don't think that's the one . 
+_t4 		let's see . 
+_t4 		let's see what we have here . 
+_t4 		hmmm . 
+_t4 		let's see .
+_t4 
+_t4 		hmmm . 
+_t4 		long neck where does that go ? 
+_t4 		no I don't think so let's look at the picture . 
+_t4 		oh maybe it goes here ?
+_t4 
+_t4 		(be)cause look that might be the top of his face . 
+_t4 		ahah . 
+_t4 		yeah . 
+_t4 		okay . 
+_t4 		we've gotta find his body . 
+_t4 		uhuh ? 
+_t4 		let's see . 
+_t4 		didjou [: did you] find it ? 
+_t4 		yeah . 
+_t4 		oh my gosh what a cough . 
+_t4 		uhuh ? 
+_t4 		sure . 
+_t4 		mmmm I don't think that goes there sweets . 
+_t4 		mmmm  . 
+_t4 		let's see . 
+_t4 		mmmm maybe these are his feet . 
+_t4 		whada [: what do] you think ?
+_t4 
+_t4 		uhuh . 
+_t4 		whada [: what do] you think ? 
+_t4 		maybe you could find this big tail . 
+_t4 		oh yeah  .
+_t4 
+_t4 		xxx just gotta push that away now you can look for the triceratops body . 
+_t4 		yeah . 
+_t4 		can you put it together mommy ? 
+_t4 		yeah let me just stick the rest of the cookies in the oven .
+_t4 
+_t4 		here they are . 
+_t4 		yeah you found them .
+_t4 
+_t4 		yeah . 
+_t4 		together ? 
+_t4 		yeah . 
+_t4 		mmmm . 
+_t4 		let's see . 
+_t4 		mmmm well can you put that in there sweetie ? 
+_t4 		just twist it around a little til [: until] it fits . 
+_t4 		where does that one go let's see . 
+_t4 		oh . 
+_t4 		right here . 
+_t4 		xxx shift that over . 
+_t4 		mmmm+hmmm . 
+_t4 		very good . 
+_t4 		um . 
+_t4 		let's see  you know what ? 
+_t4 		I see a little speck of red here . 
+_t4 		I bet +... 
+_t4 		xxx . 
+_t4 		mmmm+hmmm . 
+_t4 		let's try let's see if this one goes up the rest of his body . 
+_t4 		very good . 
+_t4 		maybe his face goes over here .
+_t4 
+_t4 		yeah . 
+_t4 		very good . 
+_t4 		is that the rest of the spinosaurus' body I think . 
+_t4 		move it over a little . 
+_t4 		yup [: yes] . 
+_t4 		nope . 
+_t4 		let's pick this part up . 
+_t4 		just a minute honey hang on . 
+_t4 		here we go . 
+_t4 		yup [: yes] . 
+_t4 		great . 
+_t4 		okay . 
+_t4 		oh that is a very funny one . 
+_t4 		I'm not sure what his name is . 
+_t4 		okay here look that might be the rest of his tail . 
+_t4 		mmmm+hmmm .
+_t4 
+_t4 		yup [: yes] . 
+_t4 		yeah .
+_t4 
+_t4 		there we go . 
+_t4 		good job . 
+_t4 		you wanna find the rest of the speckles see if we can find any more speckles to put there . 
+_t4 		look at those pieces on your other side . 
+_t4 		see if there's anything . 
+_t4 		the speckles . 
+_t4 		let's see . 
+_t4 		ooh some brown speckles let's see where could that go ? 
+_t4 		oh yeah maybe yup [: yes] . 
+_t4 		xxx . 
+_t4 		alright . 
+_t4 		ohp . 
+_t4 		how bout [: about] that ? 
+_t4 		okay . 
+_t4 		let's keep looking see if there's a dinosaur face anywhere over there and we'll see if it fits . 
+_t4 		oh: . 
+_t4 		should I put it here ? 
+_t4 		great . 
+_t4 		okay  . 
+_t4 		no . 
+_t4 		well let's see . 
+_t4 		where does that one go ? 
+_t4 		hmmm . 
+_t4 		let's see .
+_t4 
+_t4 		ohp where's that go ?
+_t4 
+_t4 		oh yes .
+_t4 
+_t4 		you're right . 
+_t4 		oh maybe . 
+_t4 		I think you're right . 
+_t4 		okay we havta find that green dinosaur . 
+_t4 		oh . 
+_t4 		let's see  this probably goes here so we need one more green piece in the middle . 
+_t4 		look behind you too . 
+_t4 		there's some pieces behind you . 
+_t4 		ah let's see . 
+_t4 		very good . 
+_t4 		yeah . 
+_t4 		let's see his face . 
+_t4 		aha you wanna put his face in ? 
+_t4 		excellent . 
+_t4 		aha let's try it out . 
+_t4 		ohp that's his body we need his face I think . 
+_t4 		although his body might go over here . 
+_t4 		ah is that his foot how about take the body one back let's see if we can fit the body over here . 
+_t4 		yup [: yes] . 
+_t4 		excellent . 
+_t4 		and his foot yup [: yes] . 
+_t4 		great . 
+_t4 		xxx .
+_t4 
+_t4 		well gotta keep looking there's pieces behind you . 
+_t4 		oh . 
+_t4 		claw . 
+_t4 		a claw . 
+_t4 		mmmm . 
+_t4 		let's see you know what let's get that end piece there with the sky .
+_t4 
+_t4 		(be)cause I think that's the stegosaurus' head . 
+_t4 		you could probably put that right up there . 
+_t4 		turn it around . 
+_t4 		yup [: yes] . 
+_t4 		yup [: yes] . 
+_t4 		nope . 
+_t4 		put the sky where that goes yup [: yes] just move it down . 
+_t4 		that direction but right in here . 
+_t4 		yup [: yes] . 
+_t4 		very good . 
+_t4 		here . 
+_t4 		look .
+_t4 
+_t4 		okay what's that piece ? 
+_t4 		honey what's that piece that's upside down next to you ? 
+_t4 		nope there's a piece that's white that's upside down right there . 
+_t4 		yup [: yes] . 
+_t4 		what's that one ?
+_t4 
+_t4 		aha there you go you wanna put that in ? 
+_t4 		wow . 
+_t4 		that is great . 
+_t4 		okay . 
+_t4 		mmmm+hmmm ?
+_t4 
+_t4 		let's see is this his tail ? 
+_t4 		there we go . 
+_t4 		oh yup [: yes]  you've got it . 
+_t4 		very good . 
+_t4 		okay . 
+_t4 		where's this go ? 
+_t4 		here maybe ?
+_t4 
+_t4 		okay . 
+_t4 		this goes there . 
+_t4 		dirty what's dirty ? 
+_t4 		huh  here ? 
+_t4 		okay . 
+_t4 		let's see . 
+_t4 		let's see where could this go ? 
+_t4 		maybe here ? 
+_t4 		yeah .
+_t4 
+_t4 		mmmm we are missing pieces where did our pieces go  there's couple more pieces over here . 
+_t4 		who's feet are those ? 
+_t4 		maybe they're his feet ? 
+_t4 		his feet .
+_t4 
+_t4 		I think you're right .
+_t4 
+_t4 		aha . 
+_t4 		yup [: yes] . 
+_t4 		in the corner I think . 
+_t4 		yup [: yes] . 
+_t4 		yup [: yes] . 
+_t4 		so we're still missing two pieces we are gonna havta look for those aren't we ? 
+_t4 		yeah . 
+_t4 		but it's a good puzzle isn't it ? 
+_t4 		wherever did they go ? 
+_t4 		you think ? 
+_t4 		maybe . 
+_t4 		alright . 
+_t4 		nope . 
+_t4 		ohp . 
+_t4 		honey I found one . 
+_t4 		yup [: yes] . 
+_t4 		great . 
+_t4 		I don't know where else to look . 
+_t4 		alright where else could it be ? 
+_t4 		mmmm . 
+_t4 		where  where could you have put that piece of puzzle ? 
+_t4 		mmmm . 
+_t4 		mmmm . 
+_t4 		it's a tough one . 
+_t4 		hmmm .
+_t4 
+_t4 		mmmm . 
+_t4 		our cookies . 
+_t4 		they are a little hot . 
+_t4 		don't eat them yet . 
+_t4 		they're still too hot . 
+_t4 		yeah . 
+_t4 		uhuh .
+_t4 
+_t4 		ooh . 
+_t4 		hot chocolate heart . 
+_t4 		maybe you could have one when you pee on the potty . 
+_t4 		mmmm+hmmm ? 

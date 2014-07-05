@@ -1,0 +1,4138 @@
+_d1601 		robot yeah . 
+_d1601 		you can sit outside if you want , or on the front porch since it's such a nice day .
+_d1601 
+_d1601 		let's look when it's done ok ?
+_d1601 
+_d1601 		see the toys , gentle you're gonna move the camera .
+_d1601 
+_d1601 		ready set . 
+_d1601 		what do you see ?
+_d1601 
+_d1601 		yeah your blocks . 
+_d1601 		and that's the camera . 
+_d1601 		and that's the bathroom . 
+_d1601 		yeah .
+_d1601 
+_d1601 		bathroom door that's right . 
+_d1601 		here let me stick this in your bag .
+_d1601 
+_d1601 		yeah , I'm just fixing your backpack . 
+_d1601 		there you go .
+_d1601 
+_d1601 		yeah , the batteries are in there , we'll just leave the batteries in there .
+_d1601 
+_d1601 		come here . 
+_d1601 		are you falling dow:n , bonk ? 
+_d1601 		falling dow:n .
+_d1601 
+_d1601 		yeah , the battery's [: battery is] in the back do you wanna [: want to] see the battery ? 
+_d1601 		battery .
+_d1601 
+_d1602 		what're [: what are] you doing to the battery ? 
+_d1602 		sticking it in your eye ? 
+_d1602 		ow . 
+_d1602 		why are you sticking the battery in your eye ? 
+_d1602 		no let's look at the toys later .
+_d1602 
+_d1602 		let's play with the toys now . 
+_d1602 		then you could look at it later ok ? 
+_d1602 		camera's taking pictures of the toys .
+_d1602 
+_d1602 		and Ethan . 
+_d1602 		the camera needs +//.
+_d1602 
+_d1602 		Ethan won't be in there if you're looking in the camera , we'll look at it later . 
+_d1602 		Ethan don't touch please . 
+_d1602 		don't touch please .
+_d1602 
+_d1602 		one more time . 
+_d1602 		you have_to be careful . 
+_d1602 		do you wanna put something in there so we can see it , how (a)bout the house , come ? 
+_d1602 		let's get the house . 
+_d1602 		put your house and barn in the middle . 
+_d1602 		put your house there . 
+_d1602 		and  the barn there and the house now , come with mommy . 
+_d1602 		xxx . 
+_d1602 		yup . 
+_d1602 		yup .
+_d1602 
+_d1602 		that's right . 
+_d1602 		we can move your hoop more . 
+_d1602 		let's see . 
+_d1602 		water inside .
+_d1602 
+_d1602 		daddy put water inside . 
+_d1602 		uh hum .
+_d1602 
+_d1602 		um hum . 
+_d1602 		daddy put water inside so it would be heavy . 
+_d1602 		so it wouldn't fall over . 
+_d1602 		you wanna hear it ? 
+_d1602 		later can take it outside and get the hose . 
+_d1602 		we have_to put it inside with the hose . 
+_d1602 		yeah , it's your backpack .
+_d1602 
+_d1602 		what're [: what are] you doing ? 
+_d1602 		you wanna see your toys again ? 
+_d1602 		we have_to stop looking at them , last time ok , no more .
+_d1602 
+_d1602 		no more , there are your toys .
+_d1602 
+_d1602 		yup .
+_d1602 
+_d1602 		that's right , your house and your barn . 
+_d1602 		I'm gonna fix the barn . 
+_d1602 		(be)cause the door is broken . 
+_d1603 		you wanna put the house next to the barn ? 
+_d1603 		oh you're stuck .
+_d1603 
+_d1603 		oh no . 
+_d1603 		xxx , you really were stuck . 
+_d1603 		there you go . 
+_d1603 		you gonna put the tree next to the house , that's nice . 
+_d1603 		a:nd what about the bush ? 
+_d1603 		where does the bush go ? 
+_d1603 		you've too bushes . 
+_d1604 		that's right . 
+_d1604 		a rooster's [: rooster is] on the bush .
+_d1604 
+_d1604 		and what does the rooster say ?
+_d1604 
+_d1604 		cock a doodle  .
+_d1604 
+_d1604 		xxx . 
+_d1604 		what do you want ? 
+_d1604 		yup that's the little book . 
+_d1604 		you want him to sit down ? 
+_d1604 		uh huh .
+_d1604 
+_d1604 		where's the book .
+_d1604 
+_d1604 		my name is Ethan . 
+_d1604 		I am eighteen months . 
+_d1604 		I have a mommy . 
+_d1604 		and a daddy . 
+_d1604 		and a cat and fish . 
+_d1604 		the end . 
+_d1604 		he's gonna read the book . 
+_d1604 		that's a book about Ethan . 
+_d1604 		it's a little book about Ethan . 
+_d1604 		does the dad like the book about Ethan ? 
+_d1604 		it's a nice book . 
+_d1604 		why doesn't he sit in a chair ?
+_d1604 
+_d1604 		um huh . 
+_d1604 		there you go .
+_d1604 
+_d1604 		breakfast ,   what's he having for breakfast . 
+_d1604 		eggs huh ?
+_d1604 
+_d1604 		gotcha [: got you] . 
+_d1604 		Sam I am . 
+_d1604 		I would not eat them on a train , I would not eat them in the rain . 
+_d1604 		I do not like them , Sam I am , I do not like . 
+_d1604 		yup , yup .
+_d1604 
+_d1604 		I would not eat them in a train . 
+_d1604 		I would not eat them in the rain . 
+_d1604 		chug    ,  huh .
+_d1604 
+_d1604 		there is a bell on the train that's right .
+_d1604 
+_d1604 		there's a pussy cat on the train . 
+_d1604 		you need a hat yeah . 
+_d1604 		should I give you an engineer hat ? 
+_d1604 		and you can drive the train . 
+_d1604 		what's in the back ? 
+_d1604 		caboose . 
+_d1604 		hook the train up , yeah sometimes a tow truck can hook the train up too .
+_d1604 
+_d1605 		when it's broken down , right ? 
+_d1605 		your trains are upstairs . 
+_d1605 		we have one train , down here . 
+_d1605 		your big blue train .
+_d1605 
+_d1605 		I don't see a train . 
+_d1605 		xxx this train  .
+_d1605 
+_d1605 		xxx . 
+_d1605 		I don't I don't . 
+_d1605 		are you uncomfortable ? 
+_d1605 		xxx .
+_d1605 
+_d1605 		if the train should hit the track .
+_d1605 
+_d1605 		that's right train gonna get your mommy's back .
+_d1605 
+_d1605 		you're tickling my foot . 
+_d1605 		xxx . 
+_d1605 		you're tickling my foot .
+_d1605 
+_d1605 		tickle tickle . 
+_d1605 		put cars up when they're broken down . 
+_d1605 		hey let's try it with the red car . 
+_d1605 		ow .
+_d1605 		here's your box of cars . 
+_d1605 		maybe the tow truck . 
+_d1605 		hmmm . 
+_d1605 		I know what we'll do . 
+_d1605 		I'll show you how to hook up a car .
+_d1605 
+_d1605 		it's a  , watch this .
+_d1605 
+_d1606 		string a string there we go it's hooked up . 
+_d1606 		xxx . 
+_d1606 		and lift it up .
+_d1606 
+_d1606 		you want it up ok .
+_d1606 
+_d1606 		that's untangle yeah .
+_d1606 
+_d1606 		I'm taking it off , here you go . 
+_d1606 		you wan(t) it on there ?
+_d1606 
+_d1606 		xxx , it's hanging .
+_d1606 
+_d1606 		whoop it's getting tangled up . 
+_d1606 		you wan(t) it off ?
+_d1606 
+_d1606 		a string ,  huh . 
+_d1606 		ooh it's goin [: going] up in the air . 
+_d1606 		xxx . 
+_d1606 		little track . 
+_d1606 		here it is maybe works with this one too . 
+_d1606 		rubber band that's right . 
+_d1606 		should we hook on this one ? 
+_d1606 		this has a little hook . 
+_d1607 		you want it on that one ? 
+_d1607 		how (a)bout hooking up a bus . 
+_d1607 		maybe the bus is broken down . 
+_d1607 		xxx .
+_d1607 
+_d1607 		what ?
+_d1607 
+_d1607 		there we go let's pull the bus .
+_d1607 
+_d1607 		want mommy to take it off ?
+_d1607 
+_d1608 		bus , no more broken down ? 
+_d1608 		stuck . 
+_d1608 		what is it ? 
+_d1608 		what is that called ? 
+_d1608 		not in your mouth sweetie . 
+_d1608 		careful don't let go it hurts . 
+_d1608 		not in your mouth sweetie , mommy has to take it away if you put it in your mouth . 
+_d1608 		another piece of what ? 
+_d1608 		string . 
+_d1608 		that's a rubber band .
+_d1608 
+_d1608 		it's like a string . 
+_d1608 		not in your mouth . 
+_d1608 		car fell down .
+_d1608 
+_d1608 		yup the bus +//.
+_d1608 
+_d1608 		the school bus put out the stop sign .
+_d1608 
+_d1608 		what does that mean ? 
+_d1608 		stop yeah .
+_d1608 
+_d1608 		it means , children crossing . 
+_d1608 		are you sleepy ?
+_d1608 
+_d1608 		hmmm , string .
+_d1608 
+_d1608 		you put it in your mouth , no more string . 
+_d1608 		should we make a tunnel ? 
+_d1608 		I can make you a tunnel for the car . 
+_d1608 		we need some scissors .
+_d1608 
+_d1608 		see if there's +//.
+_d1608 
+_d1608 		yeah .
+_d1608 
+_d1608 		yup , scissors in the cup .
+_d1608 
+_d1608 		take the snake .
+_d1608 
+_d1609 		S . 
+_d1609 		wow   , here's the tunnel . 
+_d1609 		scissors , no you can't play with scissors , those are not toys . 
+_d1609 		you're eating a snake . 
+_d1609 		oh the snake goes in the tunnel . 
+_d1609 		hiss hiss hiss . 
+_d1609 		xxx . 
+_d1609 		xxx . 
+_d1609 		you got it stuck on your arm . 
+_d1609 		xxx . 
+_d1609 		xxx , it's stuck on your arm . 
+_d1609 		this is our , over there yes . 
+_d1609 		clip clip clip .
+_d1609 
+_d1609 		I think it goes on this side try this side .
+_d1609 
+_d1610 		tha:t's right . 
+_d1610 		ooh .
+_d1610 
+_d1610 		it went inside . 
+_d1610 		xxx .
+_d1610 		it's stuck ? 
+_d1610 		ready ?
+_d1610 
+_d1610 		xxx put your bottle ? 
+_d1610 		here you go sweetie . 
+_d1610 		what shape is that ? 
+_d1610 		what shape is this ? 
+_d1610 		that's right it's a circle .
+_d1610 
+_d1610 		what shape is the box ? 
+_d1610 		that's right .
+_d1610 
+_d1610 		that's a rectangle .
+_d1610 
+_d1610 		what shape is the roof . 
+_d1610 		yeah it's a hard one , the roof is usually a triangle . 
+_d1610 		a rectangle .
+_d1610 
+_d1610 		yeah , the bottle is like a circle too that's right .
+_d1610 
+_d1610 		it has letters on the top of the bottle . 
+_d1610 		that's right , P L A T E X . 
+_d1610 		t+bone .
+_d1610 
+_d1610 		t+bon:e . 
+_d1610 		T T T . 
+_d1610 		t+bone , that's a funny name .
+_d1610 
+_d1610 		cement coming out , that's right out of the mixer .
+_d1610 
+_d1610 		cement mixer , yup . 
+_d1610 		um hum .
+_d1610 
+_d1611 		A B C . 
+_d1611 		E E . 
+_d1611 		F . 
+_d1611 		uh huh . 
+_d1611 		you're a thirsty guy . 
+_d1611 		you a thirsty guy . 
+_d1611 		you're a funny guy .
+_d1611 
+_d1611 		you're a funny guy . 
+_d1611 		you're a thirsty guy and a funny guy . 
+_d1611 		and I'm gonna tickle you (be)cause I can see your leg .
+_d1611 
+_d1611 		a what guy , thirsty guy . 
+_d1611 		thirsty guy .
+_d1611 
+_d1611 		you're stuck . 
+_d1611 		ooh , you have_to open the door . 
+_d1611 		that's right that's where the driver sits .
+_d1611 
+_d1611 		um hum .
+_d1611 
+_d1612 		driver sits and what does he do with this , what's this ? 
+_d1612 		can you see it inside , what's that round thing ? 
+_d1612 		steering wheel . 
+_d1612 		strawberry . 
+_d1612 		there's a strawberry in there . 
+_d1612 		xxx . 
+_d1612 		raspberry . 
+_d1612 		strawberry , raspberry . 
+_d1612 		make a pie . 
+_d1612 		strawberry , raspberry , pickle+berry pie . 
+_d1612 		there's a pickle+berry in there . 
+_d1612 		there's a finger in that too . 
+_d1612 		are you sleepy ? 
+_d1612 		the wheels are turning turning turning . 
+_d1612 		the wheels on the taxi go round and round . 
+_d1612 		round and round , round and round , the wheels on the taxi and the truck and the car . 
+_d1612 		go round and round , and on the school bus , the wheels on the bus go round and round . 
+_d1612 		round and round . 
+_d1612 		that's right the wheels on the school bus go round and round .
+_d1612 
+_d1613 		all around the town . 
+_d1613 		up the hill , down the hill .
+_d1613 		you have a circle on your foot . 
+_d1613 		thirsty guy . 
+_d1613 		xxx . 
+_d1613 		yeah , funny guy , yeah .
+_d1613 
+_d1613 		you funny guy .
+_d1613 
+_d1614 		you funny mommy . 
+_d1614 		you funny truck .
+_d1614 
+_d1614 		you funny bunny .
+_d1614 		you funny clown .
+_d1614 
+_d1614 		you funny clown . 
+_d1614 		uh huh .
+_d1614 
+_d1614 		you funny clown . 
+_d1614 		ring clown .
+_d1614 
+_d1614 		you funny clown . 
+_d1614 		yeah .
+_d1614 
+_d1614 		uh huh .
+_d1614 
+_d1614 		uh huh .
+_d1614 
+_d1614 		is there a clown on this one ? 
+_d1614 		uh , no no clown . 
+_d1614 		see orange bunny . 
+_d1614 		you funny bunny ,  oh: , no clown on that one .
+_d1614 
+_d1614 		no clown .
+_d1614 
+_d1614 		xxx .
+_d1614 
+_d1615 		I don't have a clown do you ? 
+_d1615 		the green one has a clown . 
+_d1615 		I don't see a clown on that one , it has a puppy dog though .
+_d1615 
+_d1615 		purple puppy dog .
+_d1615 
+_d1615 		uh huh .
+_d1615 
+_d1615 		um hum .
+_d1615 
+_d1616 		there it is . 
+_d1616 		um hum .
+_d1616 
+_d1616 		uh , I see it . 
+_d1616 		um hum . 
+_d1616 		blue clown . 
+_d1616 		that's good you can build a tower . 
+_d1616 		uh , it's getting very tall , as you're doing it . 
+_d1616 		xxx , you knocked it down with your nose . 
+_d1616 		that's right ,  you knocked it down with your head . 
+_d1616 		uh , silly . 
+_d1616 		purple clown .
+_d1616 
+_d1616 		it has letters on it too . 
+_d1616 		here's a B .
+_d1616 		do you know what letter that is ? 
+_d1616 		yup .
+_d1616 
+_d1616 		they wake  all the clowns in a row . 
+_d1616 		you can look at all the clowns , clown . 
+_d1616 		clown . 
+_d1616 		clown . 
+_d1616 		no clown on the orange one .
+_d1616 
+_d1616 		that's a penguin . 
+_d1616 		penguin on a skateboard . 
+_d1616 		remember we saw the skateboard yesterday ? 
+_d1616 		the boy on the skateboard . 
+_d1616 		turn the page ? 
+_d1616 		no clown . 
+_d1616 		doggy . 
+_d1616 		does that one have a doggy ? 
+_d1616 		does the orange block have a dog ? 
+_d1616 		no , let's see .
+_d1616 
+_d1616 		right , no dog on that . 
+_d1616 		you're right , it's upside down . 
+_d1616 		uh huh .
+_d1616 
+_d1617 		um hum , on the skateboard , penguin on the skateboard . 
+_d1617 		xxx , it's like a road a street . 
+_d1617 		for this little car . 
+_d1617 		um hum , street .
+_d1617 
+_d1617 		cars go on the street . 
+_d1617 		people go on the where do people go ?
+_d1617 
+_d1617 		sidewalk yes .
+_d1617 
+_d1618 		that's right . 
+_d1618 		looks like sidewalk too . 
+_d1618 		under .
+_d1618 
+_d1618 		xxx make a sidewalk ? 
+_d1618 		we need a person . 
+_d1618 		doo                  . 
+_d1618 		he's on the sidewalk ,            . 
+_d1618 		doo           . 
+_d1618 		people on the sidewalk . 
+_d1618 		can you stand up ? 
+_d1618 		wha:t about ? 
+_d1618 		a cat on the sidewalk too . 
+_d1618 		meow . 
+_d1618 		meow . 
+_d1618 		put the next down .
+_d1618 
+_d1618 		now put the cat in the nest . 
+_d1618 		meow . 
+_d1618 		whoops fell out of the nest . 
+_d1618 		how about the dog ?
+_d1618 
+_d1618 		in the dog house . 
+_d1618 		bow wow . 
+_d1618 		whoops . 
+_d1618 		there's no hole , there's no door , there's the door , that's right there goes the dog .
+_d1618 
+_d1619 		in the dog house , here I'll hold the dog house and you put the dog in there  . 
+_d1619 		oh he's coming out , it's morning he's awake . 
+_d1619 		he was sleeping . 
+_d1619 		and now he's awake ,  . 
+_d1619 		going back to sleep ? 
+_d1619 		xxx ,  , now he's coming out . 
+_d1619 		in out in out in out . 
+_d1619 		bow wow . 
+_d1619 		xxx . 
+_d1619 		wow wow wow . 
+_d1619 		eek  said the mouse .
+_d1619 
+_d1619 		xxx .
+_d1619 
+_d1619 		bow wow  bow wow  . 
+_d1619 		you're eating that poor doggy . 
+_d1619 		um hum .
+_d1619 
+_d1619 		the tail is sticking out .
+_d1619 
+_d1619 		um hum the tail is sticking out .
+_d1619 
+_d1619 		now you're putting the head in , yeah , so he can sleep . 
+_d1619 		doggy's gonna be on the dog house . 
+_d1619 		on the car .
+_d1619 
+_d1619 		you need a bigger car .
+_d1619 
+_d1619 		maybe he's a fire engine dog ?
+_d1619 
+_d1619 		he can go on top of the fire engine right here . 
+_d1619 		uh huh .
+_d1619 
+_d1619 		just like spot   .
+_d1619 
+_d1619 		spot the firehouse dog . 
+_d1619 		it's stuck on there sweetie .
+_d1619 
+_d1619 		it's not the wiper , the wiper's [: wiper is] right here .
+_d1619 
+_d1620 		this is a bumper . 
+_d1620 		bumper for when the car goes bump . 
+_d1620 		bump .
+_d1620 
+_d1620 		pump ,  , gentle , don't hurt yourself . 
+_d1620 		there it goes . 
+_d1620 		it's gonna come back to you , ready set , oops . 
+_d1620 		xxx ,  . 
+_d1620 		xxx . 
+_d1620 		yeah it's ripped .
+_d1620 
+_d1620 		clipper clip clip .
+_d1620 
+_d1620 		yeah we clipped your nails today , didn't we ? 
+_d1620 		only one hand . 
+_d1620 		clip you nails yeah . 
+_d1620 		yeah we clipped your nails .
+_d1620 
+_d1620 		ooh , I see a little hand in there . 
+_d1620 		you wancher [: want your] bottle ? 
+_d1620 		hum , thirsty guy . 
+_d1620 		you wan(t) a book about Ethan . 
+_d1620 		here's the book about Ethan .
+_d1620 
+_d1620 		it says Ethan's book . 
+_d1620 		you want the dad , here's the dad . 
+_d1620 		you want him to sit on mommy's lap ?
+_d1620 
+_d1620 		and Ethan too ? 
+_d1620 		my name is +//.
+_d1620 
+_d1620 		oh you want him to sit ok . 
+_d1620 		my name is Ethan . 
+_d1620 		I am eighteen months . 
+_d1620 		I have a mommy .
+_d1620 
+_d1620 		and a daddy . 
+_d1620 		and cat and fish . 
+_d1620 		I have two cousins . 
+_d1620 		three cousins , four cousins , five cousins , I have five cousins .
+_d1620 		their names are Max . 
+_d1620 		Oliver . 
+_d1620 		Ana . 
+_d1620 		Mason and Cole .
+_d1620 
+_d1620 		yeah .
+_d1620 
+_d1620 		Ethan and Max . 
+_d1620 		your friend yes , he's your friend and your cousin .
+_d1620 
+_d1620 		and you can play with him .
+_d1620 
+_d1620 		Max friend , yeah , william is your friend too .
+_d1620 
+_d1620 		yeah .
+_d1620 
+_d1620 		uh huh .
+_d1620 
+_d1621 		mommy is Bridget's friend . 
+_d1621 		now William is Ethan's friend . 
+_d1621 		and Bridget loves Ethan too . 
+_d1621 		you're eating the dad . 
+_d1621 		yeah , you got it all wet .
+_d1621 
+_d1621 		we need to clean it . 
+_d1621 		can you bring me the towel ? 
+_d1621 		the green towel . 
+_d1621 		do you see the towel , right there . 
+_d1621 		one two three four five six .
+_d1621 
+_d1621 		seven eight nine ten .
+_d1621 
+_d1621 		Pooh ,  hum .
+_d1621 
+_d1621 		it's called the blustery day , that means windy day .
+_d1621 
+_d1622 		one very windy day . 
+_d1622 		Pooh went to visit his thinking spot . 
+_d1622 		Pooh sat thinking very hard until up popped friend . 
+_d1622 		there's his friend , Pooh decided to wish everyone a happy winds day beginning with Piglet . 
+_d1622 		look what's happening to Piglet ? 
+_d1622 		he's blowing in the wind . 
+_d1622 		uh  , Piglet's flying . 
+_d1622 		Piglet flew over the entire countryside dragging Pooh behind him . 
+_d1622 		uh huh ,  huh .
+_d1622 
+_d1623 		that's owl . 
+_d1623 		napping in his house in the tree . 
+_d1623 		he did not notice the wind because he was (.) sleeping .
+_d1623 
+_d1623 		hmmm , it's a pot yeah it's a tea pot .
+_d1623 
+_d1623 		I'm a little teapot short and spout , here is my handle here is my spout . 
+_d1623 		and Pooh and Piglet slid across the road . 
+_d1623 		they're sliding . 
+_d1623 		who's that ? 
+_d1623 		uh huh .
+_d1623 
+_d1623 		Owl and Pooh . 
+_d1623 		hmmm ? 
+_d1623 		yeah , your backpack's [: backpack is] on .
+_d1623 
+_d1623 		let's leave it on for a little bit more . 
+_d1623 		we'll take it off soon . 
+_d1623 		let's see pumpkin .
+_d1623 
+_d1623 		we'll do something else . 
+_d1623 		be in your pocket . 
+_d1623 		xxx , cool dude . 
+_d1623 		cool dude in the pocket .
+_d1623 
+_d1623 		leave it in the pocket ok . 
+_d1623 		you pants are falling down .
+_d1623 
+_d1623 		hey don't pull your pants down . 
+_d1623 		whoops . 
+_d1623 		here we go . 
+_d1623 		ok . 
+_d1623 		xxx , you're done . 
+_d1623 		xxx , what're [: what are] you doing . 
+_d1623 		you shaking your head . 
+_d1623 		is the wire bothering you . 
+_d1623 		xxx mommy has one too . 
+_d1623 		wire .
+_d1623 
+_d1623 		um hum ,  . 
+_d1623 		don't take it out . 
+_d1623 		um hum , microphone , not in your mouth let's put it back here .
+_d1623 
+_d1623 		tickle tickle .
+_d1623 
+_d1624 		do you wanna read a story ? 
+_d1624 		is it bothering you ? 
+_d1624 		xxx , are you sleepy ? 
+_d1624 		whoopsie .
+_d1624 
+_d1624 		xxx .
+_d1624 
+_d1624 		xxx .
+_d1624 
+_d1624 		why don't you sit on mommy's lap ? 
+_d1624 		ooh ,  no ,  sweetie . 
+_d1624 		you went kerplunk . 
+_d1624 		you don't like it in your pocket . 
+_d1624 		it's a cool dude . 
+_d1624 		it's a cool dude in your pocket . 
+_d1624 		there we go . 
+_d1624 		I'll just hold it . 
+_d1624 		no more . 
+_d1624 		it tickles .
+_d1624 
+_d1624 		all gone . 
+_d1624 		not in your mouth .
+_d1624 
+_d1624 		um hum .
+_d1624 
+_d1624 		um hum .
+_d1624 
+_d1624 		not in your mouth sweetie . 
+_d1624 		not in your mouth .
+_d1624 
+_d1624 		yeah that's the wire .
+_d1624 
+_d1624 		yuck that's right , yeah put it in the cup .
+_d1624 
+_d1624 		wanna clip it back on ? 
+_d1624 		how (a)bout on your sleeve ? 
+_d1624 		sleeve .
+_d1624 
+_d1624 		sleep .
+_d1624 
+_d1624 		yeah it's on your sleeve .
+_d1624 
+_d1624 		we just huh lost it here .
+_d1624 
+_d1624 		xxx . 
+_d1624 		xxx . 
+_d1625 		you wanna see it ?
+_d1625 
+_d1625 		yeah , can I put it on ?
+_d1625 
+_d1625 		yes , that's right , it's mine .
+_d1625 
+_d1625 		yeah , can I put it back on ?
+_d1625 
+_d1625 		thank you .
+_d1625 
+_d1625 		no ?
+_d1625 
+_d1625 		crash !
+_d1625 
+_d1625 		xxx , it fell on the car .
+_d1625 
+_d1625 		now the car needs to be towed away , (be)cause it's broken down !
+_d1625 
+_d1625 		you need to tow it away .
+_d1625 
+_d1625 		hook it on +... 
+_d1625 		take it to the +...
+_d1625 
+_d1625 		uh+huh .
+_d1625 
+_d1625 		take it to the garage ! 
+_d1625 		wanna take it to the garage ? 
+_d1625 		oops !
+_d1625 
+_d1625 		yeah , it fell down .
+_d1625 
+_d1625 		mmmm+hmmm .
+_d1625 
+_d1625 		you want the house ?
+_d1625 
+_d1625 		bless you .
+_d1625 
+_d1625 		uh+oh !
+_d1625 
+_d1625 		the house is on it again .
+_d1625 
+_d1626 		oh no ! 
+_d1626 		did it break down ?
+_d1626 
+_d1626 		mmmm+hmmm .
+_d1626 
+_d1626 		right , there's a breakdown train , you're right .
+_d1626 
+_d1626 		you want me to hook it ?
+_d1626 
+_d1626 		there , it's goin(g) to the garage . 
+_d1626 		yup [: yes] , somebody has to fix it .
+_d1626 
+_d1626 		maybe the farmer can fix it with a screwdriver .
+_d1626 
+_d1626 		it's broken ? 
+_d1626 		what's broken ?
+_d1626 
+_d1626 		it's broken !
+_d1626 
+_d1626 		did you fix it ?
+_d1626 
+_d1626 		good , now it can go again !
+_d1626 
+_d1627 		chug      chew chew ,    . 
+_d1627 		woo  . 
+_d1627 		smoke ?
+_d1627 
+_d1627 		mmmm+hmmm , clickety+clack , clickety+clack , clickety+clack !
+_d1627 
+_d1627 		mmmm+hmmm , train mice !
+_d1627 
+_d1627 		train mice goin(g) down the track , clickety+clack , clickety+clack . 
+_d1627 		uh+oh , uh+oh , uh+oh . 
+_d1627 		I need [?] that ball !
+_d1627 
+_d1627 		yeah , it's off , you took it off .
+_d1627 
+_d1627 		no , it's mommy's .
+_d1627 
+_d1627 		yes , that's right !
+_d1627 
+_d1627 		it's mine . 
+_d1627 		yep [: yes] .
+_d1627 
+_d1627 		it's mine .
+_d1627 
+_d1627 		yes , it's mine !
+_d1627 
+_d1627 		yes , it's mine !
+_d1627 
+_d1627 		yes !
+_d1627 
+_d1627 		yes , it's mine !
+_d1627 
+_d1627 		no , it's not !
+_d1627 
+_d1627 		no , it's not !
+_d1627 
+_d1627 		that's right , it's not !
+_d1627 
+_d1627 		can I have it back ?
+_d1627 
+_d1627 		you want the hammer ?
+_d1627 
+_d1627 		in your toolbox +...
+_d1627 
+_d1627 		should we get +//.
+_d1627 
+_d1627 		there's your screwdriver , right there .
+_d1627 
+_d1628 		here's the toolbox . 
+_d1628 		toolbox .
+_d1628 
+_d1628 		saw , yeah .
+_d1628 
+_d1628 		you gonna saw wood ?
+_d1628 
+_d1628 		that's a good idea . 
+_d1628 		why don't you saw the house . 
+_d1628 		that's right .
+_d1628 
+_d1629 		good , that's how you make a house: with a hammer . 
+_d1629 		dyou [: do you] remember what that is ? 
+_d1629 		remember what that is ?
+_d1629 
+_d1629 		it's an axe . 
+_d1629 		good fixing , Ethan . 
+_d1629 		here , we'll use the +//.
+_d1629 
+_d1629 		pliers ? 
+_d1629 		click [?] ?
+_d1629 
+_d1629 		clip [?] ? 
+_d1629 		it's done , yay !
+_d1629 
+_d1629 		very good . 
+_d1629 		yay , good job !
+_d1629 
+_d1629 		you fixed the house !
+_d1629 
+_d1630 		now , the farmer can live in it . 
+_d1630 		it's all fixed . 
+_d1630 		you fixing it some more ?
+_d1630 
+_d1630 		mommy'll [: mommy will] fix it too .
+_d1630 
+_d1630 		here's some screw . 
+_d1630 		mmmm+hmmm .
+_d1630 
+_d1630 		you 
+_d1630 		very good .
+_d1630 
+_d1630 		good job !
+_d1630 
+_d1630 		mmmm+hmmm .
+_d1630 
+_d1630 		all done !
+_d1630 
+_d1630 		you're all done ? 
+_d1630 		mmmm+hmmm , good !
+_d1630 
+_d1630 		it's four o'clock ?
+_d1630 
+_d1630 		tick , tock .
+_d1630 
+_d1630 		now it's done !
+_d1630 
+_d1630 		you did a very good job .
+_d1630 
+_d1630 		can the farmer go  farm  ?
+_d1630 
+_d1630 		farmer's gonna  +... 
+_d1630 		peek+a+boo !
+_d1630 
+_d1630 		oops !
+_d1630 
+_d1630 		xxx .
+_d1630 
+_d1630 		hmmm ?
+_d1630 
+_d1630 		xxx ?
+_d1630 
+_d1630 		mmmm+hmmm , that's an axe .
+_d1630 
+_d1631 		good fixing , Ethan . 
+_d1631 		you're all done !
+_d1631 
+_d1631 		hip hip hooray !
+_d1631 
+_d1631 		are you stuck in there ? 
+_d1631 		yeah , that's the axe .
+_d1631 
+_d1631 		mmmm+hmmm ?
+_d1631 
+_d1631 		you're all done .
+_d1631 
+_d1631 		you wanna put the tools back in the toolbox ?
+_d1631 
+_d1631 		or you still working on the house ? 
+_d1631 		how's our pliers ? 
+_d1631 		all done !
+_d1631 
+_d1631 		hooray !
+_d1631 
+_d1631 		all done now , yay !
+_d1631 
+_d1631 		I got the ball back .
+_d1631 
+_d1631 		don't tell .
+_d1631 
+_d1631 		don't tell .
+_d1631 
+_d1631 		it's a secret .
+_d1631 
+_d1631 		you combing my hair ? 
+_d1631 		you fixing my head ? 
+_d1631 		is my head broken down ? 
+_d1631 		all done !
+_d1631 
+_d1631 		thank you ! 
+_d1631 		all done !
+_d1631 
+_d1631 		all done now , good job !
+_d1631 
+_d1631 		you gonna share it ?
+_d1631 
+_d1632 		good boy , sharing is good ! 
+_d1632 		sharing is very good . 
+_d1632 		mmmm+hmmm , looks done to me .
+_d1632 
+_d1632 		it's done now ?
+_d1632 
+_d1632 		done , yay !
+_d1632 
+_d1632 		wow !
+_d1632 
+_d1632 		that was a speedy job !
+_d1632 
+_d1632 		an(d) you can carry your little toolbox , it's a handle . 
+_d1632 		toolbox !
+_d1632 
+_d1632 		for tools , it's a box for tools .
+_d1632 
+_d1632 		it's called a toolbox . 
+_d1632 		you're right [?] .
+_d1632 
+_d1632 		oh , you want us to read a book ?
+_d1632 
+_d1632 		why don't you get him a book ?
+_d1632 
+_d1632 		Pooh ?
+_d1632 
+_d1632 		he wants to read Pooh ?
+_d1632 
+_d1633 		please don't pull on your wire , okay ? 
+_d1633 		please don't pull on it . 
+_d1633 		you want me to tuck it in ?
+_d1633 
+_d1633 		here .
+_d1633 
+_d1633 		we're gonna keep your backpack on .
+_d1633 
+_d1633 		why dontcha [: don't you] get a book to read to the farmer , okay ?
+_d1633 
+_d1633 		I'm gonna put the wire in your backpack .
+_d1633 
+_d1633 		we're not gonna take it off . 
+_d1633 		we're just gonna leave it on .
+_d1633 
+_d1633 		there we go .
+_d1633 
+_d1633 		here , let's keep it on .
+_d1633 
+_d1633 		get me a book , for the farmer . 
+_d1633 		farmer wants to sit in my lap . 
+_d1633 		want your bottle ?
+_d1633 
+_d1633 		it's right there .
+_d1633 
+_d1633 		you wanna [: want a] Pooh book ?
+_d1633 
+_d1633 		Winnie the Pooh book +...
+_d1633 
+_d1633 		here we are +...
+_d1633 
+_d1633 		mmmm+hmmm ?
+_d1633 
+_d1633 		that's mommy's tea .
+_d1633 
+_d1634 		that's mommy's tea , it's hot ! 
+_d1634 		yeah , it's hot , you don't want it !
+_d1634 
+_d1634 		there's your bottle , get your bottle .
+_d1634 
+_d1634 		your bottle's [: bottle is] right there . 
+_d1634 		oh , sweetie .
+_d1634 
+_d1634 		let's have some milk . 
+_d1634 		mmmm+hmmm .
+_d1634 
+_d1634 		get you the milk . 
+_d1634 		whoops , careful there pumpkin . 
+_d1634 		dropped your squishy [?] . 
+_d1634 		did you wanna read the book ? 
+_d1634 		Pooh counts to five . 
+_d1634 		I love honey+pots , really I do .
+_d1634 
+_d1634 		I can count to five , let's see if you can too ! 
+_d1634 		can you count ? 
+_d1634 		I can't hear you . 
+_d1634 		one , two . 
+_d1634 		I can count one busy buzzing bee .
+_d1634 
+_d1634 		how many honey+pots do you see ? 
+_d1634 		one , that's right !
+_d1634 
+_d1634 		uh+huh .
+_d1634 
+_d1634 		I can count two friends , fiddle   .
+_d1634 
+_d1634 		how many honey+pots do you see ? 
+_d1634 		one +...
+_d1634 
+_d1634 		two !
+_d1634 
+_d1634 		one , two honey+pots .
+_d1634 
+_d1634 		one Pooh , and one Piglet .
+_d1634 
+_d1635 		two honey+pots . 
+_d1635 		Winnie the Pooh .
+_d1635 
+_d1635 		I can count three friends , under a tree .
+_d1635 
+_d1635 		how many honey+pots do you see ?
+_d1635 
+_d1635 		Tigger , yeah .
+_d1635 
+_d1635 		Tigger has one pot .
+_d1635 
+_d1635 		three pots , one , two , three .
+_d1635 
+_d1635 		I can count four friends , setting up tea .
+_d1635 
+_d1635 		how many honey+pots do you see ? 
+_d1635 		I can count five friends , happy as can be .
+_d1635 
+_d1635 		how many honey+pots do you see ?
+_d1635 
+_d1635 		one +... 
+_d1635 		two +... 
+_d1635 		three +... 
+_d1635 		four , five . 
+_d1635 		the end .
+_d1635 
+_d1635 		oh , well , why don't you get another book ?
+_d1635 
+_d1635 		go find mommy another book , okay ?
+_d1635 
+_d1635 		you wanna find another book for mommy ?
+_d1635 
+_d1636 		I don't know what book you want . 
+_d1636 		a backhoe truck .
+_d1636 
+_d1636 		xxx .
+_d1636 
+_d1636 		a backhoe truck .
+_d1636 
+_d1636 		you tell mommy what these things are .
+_d1636 
+_d1637 		what's that ? 
+_d1637 		it's a racket [?] .
+_d1637 
+_d1637 		what's that ? 
+_d1637 		right .
+_d1637 
+_d1637 		what's that ?
+_d1637 
+_d1637 		right .
+_d1637 
+_d1637 		what's that ?
+_d1637 
+_d1637 		right .
+_d1637 
+_d1637 		what's that ?
+_d1637 
+_d1637 		it's a puzzle .
+_d1637 
+_d1637 		what are those ?
+_d1637 
+_d1637 		right [?] .
+_d1637 
+_d1637 		what's that ?
+_d1637 
+_d1637 		that's right !
+_d1637 
+_d1637 		what's that ?
+_d1637 
+_d1637 		that's right , very good !
+_d1637 
+_d1637 		yknow [: you know] what that is ?
+_d1637 
+_d1638 		a cowboy hat . 
+_d1638 		do you know what that is ?
+_d1638 
+_d1638 		yep [: yes] , it's a horse , the bouncy horse .
+_d1638 
+_d1638 		what's that ?
+_d1638 
+_d1638 		right !
+_d1638 
+_d1638 		what's that ?
+_d1638 
+_d1638 		right .
+_d1638 
+_d1638 		what's that ?
+_d1638 
+_d1638 		push+toy !
+_d1638 
+_d1638 		what's that ?
+_d1638 
+_d1638 		bicycle , right !
+_d1638 
+_d1638 		what's that ?
+_d1638 
+_d1638 		what's that ?
+_d1638 
+_d1638 		this one ?
+_d1638 
+_d1639 		tractor ! 
+_d1639 		mmmm+hmmm .
+_d1639 
+_d1639 		what's that ?
+_d1639 
+_d1639 		right !
+_d1639 
+_d1639 		what's that ?
+_d1639 
+_d1639 		right !
+_d1639 
+_d1639 		what's that ?
+_d1639 
+_d1639 		what's that ?
+_d1639 
+_d1639 		that's right !
+_d1639 
+_d1639 		very good , you read the whole book to mommy !
+_d1639 
+_d1639 		right , it's a backhoe !
+_d1639 
+_d1639 		it digs and digs and digs .
+_d1639 
+_d1639 		mmmm+hmmm .
+_d1639 
+_d1640 		dyou [: do you] wanna look at your truck book ? 
+_d1640 		where you goin(g) , pumpkin ? 
+_d1640 		that's one truck book , this is your other truck book .
+_d1640 
+_d1640 		you like this book ? 
+_d1640 		(o)kay . 
+_d1640 		now: what kind of truck is that ? 
+_d1640 		cement mixer .
+_d1640 
+_d1640 		what kind of truck is that ?
+_d1640 
+_d1640 		this is a garbage truck , this is a street sweeper . 
+_d1640 		what kinda [: kind of] truck is that ?
+_d1640 
+_d1640 		that's right .
+_d1640 
+_d1640 		dyou [: do you] know what kinda [: kind of] truck that is ?
+_d1640 
+_d1640 		freight truck .
+_d1640 
+_d1640 		and that's a car carrier . 
+_d1640 		tractor trailer . 
+_d1640 		this truck there [?] , it's a logging truck . 
+_d1640 		what are those ?
+_d1640 
+_d1640 		hmmm ?
+_d1640 
+_d1640 		different trucks ?
+_d1640 
+_d1640 		they're fire trucks , right ?
+_d1640 
+_d1640 		all different kinds of fire trucks .
+_d1640 
+_d1641 		what's that ? 
+_d1641 		yeah .
+_d1641 
+_d1641 		rolly the roller .
+_d1641 
+_d1641 		that's a paver , and a grater , and a scraper .
+_d1641 
+_d1641 		what's that ?
+_d1641 
+_d1641 		it's a front end loader .
+_d1641 
+_d1641 		and there's a bulldozer , and a forklift , and a crane .
+_d1641 
+_d1641 		what's that ?
+_d1641 
+_d1641 		dump truck , that's right .
+_d1641 
+_d1641 		a lot of dump trucks .
+_d1641 
+_d1642 		what are those ? 
+_d1642 		digger trucks .
+_d1642 
+_d1642 		there's a backhoe .
+_d1642 
+_d1642 		yes , it is .
+_d1642 
+_d1642 		yes , it lifts boulders .
+_d1642 
+_d1642 		that's right .
+_d1642 
+_d1642 		very high up . 
+_d1642 		mmmm+hmmm , there's a tow+truck .
+_d1642 
+_d1642 		there's another .
+_d1642 
+_d1642 		what's that ?
+_d1642 
+_d1642 		right .
+_d1642 
+_d1642 		and what's that ?
+_d1642 
+_d1642 		this one's a pickup truck .
+_d1642 
+_d1643 		xxx some tractors . 
+_d1643 		more tractors . 
+_d1643 		mmmm+hmmm .
+_d1643 
+_d1643 		that's right .
+_d1643 
+_d1643 		oops , those are the wheels . 
+_d1643 		you know what wheel that's for ? 
+_d1643 		that's right , it's for a roller .
+_d1643 
+_d1643 		and you know ladder , and what's that ? 
+_d1643 		stones , yeah .
+_d1643 
+_d1643 		and hay , and a big rock . 
+_d1643 		mmmm+hmmm , boulder maybe , yeah .
+_d1643 
+_d1643 		the end . 
+_d1643 		mmmm+hmmm .
+_d1643 
+_d1643 		oops ,  +...
+_d1643 
+_d1643 		digs a hole in the ground , that's right .
+_d1643 
+_d1644 		what's that book ? 
+_d1644 		mmmm+hmmm , book about what ?
+_d1644 
+_d1644 		book about +...
+_d1644 
+_d1644 		Sally wanted a pet . 
+_d1644 		but there were too many to choose from . 
+_d1644 		maybe I should get a deer , she told her friend Sam . 
+_d1644 		if I could get a pet , I'd get a rhinoceros , Sam said . 
+_d1644 		then we could ride it on safari .
+_d1644 
+_d1644 		what's that ? 
+_d1644 		dyou [: do you] know ? 
+_d1644 		that's a deer . 
+_d1644 		what does Sam have ? 
+_d1644 		right , a basketball .
+_d1644 
+_d1644 		if we went on safari +//.
+_d1644 
+_d1644 		I think this whole book is broken , Ethan . 
+_d1644 		that's a crocodile , but the elephant +//.
+_d1644 
+_d1644 		the giraffe is broken . 
+_d1644 		lemme [: let me] see if the giraffe +//.
+_d1644 
+_d1644 		whaddya [: what do you] got here [?] ?
+_d1644 
+_d1644 		nope [: no] ! 
+_d1644 		you're stuck . 
+_d1644 		sorry , it's a broken book . 
+_d1644 		there's supposed to be a polar bear up there , but no polar bear !
+_d1644 
+_d1644 		an(d) a seal ! 
+_d1644 		does the seal come up ?
+_d1644 
+_d1644 		no , they're all broken ! 
+_d1644 		xxx , all the parts are in here .
+_d1644 
+_d1644 		near the books . 
+_d1644 		I don't even see them , Ethan . 
+_d1644 		well , where did they go ? 
+_d1644 		here's one . 
+_d1644 		mkay [: okay] , it goes [?] in this page right here .
+_d1644 
+_d1644 		so then you turn the page ? 
+_d1644 		and she got a dog ! 
+_d1644 		as a present ! 
+_d1644 		and what +...
+_d1644 
+_d1644 		up , there's the polar bear ! 
+_d1644 		where does the polar bear go ? 
+_d1644 		that's right .
+_d1644 
+_d1644 		mmmm+hmmm !
+_d1644 
+_d1644 		the polar bear goes right in here . 
+_d1644 		here's the polar bear , and there is the +... 
+_d1644 		giraffe ! 
+_d1644 		that's right . 
+_d1644 		yeah , it's a giraffe .
+_d1644 
+_d1644 		mmmm+hmmm , yep [: yes] !
+_d1644 
+_d1644 		in there ?
+_d1644 
+_d1644 		it won't stay , it's broken . 
+_d1644 		mmmm+hmmm . 
+_d1644 		xxx . 
+_d1644 		and here's another piece . 
+_d1644 		mmmm+hmmm , a seal !
+_d1644 
+_d1644 		seal goes on the other side .
+_d1644 
+_d1644 		seal goes over here . 
+_d1644 		huh [?] , Ethan ? 
+_d1644 		that's a sea lion . 
+_d1644 		that's called a sea lion . 
+_d1644 		mmmm+hmmm .
+_d1644 
+_d1645 		they're diving . 
+_d1645 		in the ocean .
+_d1645 
+_d1645 		and they see all kind of fish . 
+_d1645 		what's that ? 
+_d1645 		mmmm+hmmm .
+_d1645 
+_d1645 		that's right , it's a deer .
+_d1645 
+_d1646 		careful don't break it . 
+_d1646 		xxx .
+_d1646 
+_d1646 		what's the monkey doing ?
+_d1646 
+_d1646 		juggling balls , that's right !
+_d1646 
+_d1646 		dyou [: do you] want more grapes ?
+_d1646 
+_d1646 		they're over here .
+_d1646 
+_d1647 		the top one . 
+_d1647 		xxx the top one first ?
+_d1647 
+_d1647 		oh , you have it upside down . 
+_d1647 		mmmm+hmmm ?
+_d1647 
+_d1647 		the big book , huh ? 
+_d1647 		i got it .
+_d1647 
+_d1647 		xxx grab it . 
+_d1647 		sit on my lap ? 
+_d1647 		what's happened there ?
+_d1647 
+_d1647 		who's that ? 
+_d1647 		firefighter !
+_d1647 
+_d1647 		look at me !
+_d1647 
+_d1647 		and that's a police officer .
+_d1647 
+_d1647 		they're giving tickets , that's right .
+_d1647 
+_d1648 		and that's the barber , what's the barber doing ? 
+_d1648 		clipping hair , right .
+_d1648 
+_d1648 		yep [: yes] , he's done .
+_d1648 
+_d1648 		there's a police car . 
+_d1648 		and what is this man selling ? 
+_d1648 		right , ice+cream .
+_d1648 
+_d1648 		they're buying some ice+cream .
+_d1648 
+_d1648 		and that man has a +...
+_d1648 
+_d1649 		cat ! 
+_d1649 		that's a cat doctor . 
+_d1649 		and he baked in [?] muffin , right ? 
+_d1649 		right ?
+_d1649 
+_d1649 		and what's that ?
+_d1649 
+_d1649 		cake .
+_d1649 
+_d1650 		with a cherry on top . 
+_d1650 		yummy cake . 
+_d1650 		and +...
+_d1650 
+_d1650 		what's that ?
+_d1650 
+_d1650 		juice , yep [: yes] .
+_d1650 
+_d1650 		what's that ?
+_d1650 
+_d1650 		that's muffin , that's a pie .
+_d1650 
+_d1650 		what's that ?
+_d1650 
+_d1650 		hmmm ?
+_d1650 
+_d1650 		yeah , flowers !
+_d1650 
+_d1650 		eggs !
+_d1650 
+_d1650 		yeah , brown eggs and white eggs .
+_d1650 
+_d1650 		I do not like it on a train , I do not like it in the rain .
+_d1650 
+_d1650 		I do not like green eggs and ham .
+_d1650 
+_d1650 		in a +//.
+_d1650 
+_d1650 		hmmm ?
+_d1650 
+_d1651 		in a duck ? 
+_d1651 		I do not like (th)em in a box , I do not like them with a +...
+_d1651 
+_d1651 		fox ! 
+_d1651 		I do not like them here or there +... 
+_d1651 		I do not like them anywhere . 
+_d1651 		alright !
+_d1651 
+_d1651 		I do not like them in a tree !
+_d1651 
+_d1651 		we said V [?] to E F G .
+_d1651 
+_d1652 		I'll meet you at the top of the coconut tree ! 
+_d1652 		what book is that ?
+_d1652 
+_d1652 		you don't want this book ?
+_d1652 
+_d1652 		you want Spot ?
+_d1652 
+_d1652 		Spot the dog , right !
+_d1652 
+_d1652 		have a seat !
+_d1652 
+_d1653 		bulk [?] ! 
+_d1653 		Spot joins the parade . 
+_d1653 		it's time for the parade !
+_d1653 
+_d1653 		what's Spot doing ? 
+_d1653 		that's right , hanging up balloons !
+_d1653 
+_d1653 		there's Grandpa , and there's a +... 
+_d1653 		what's that ?
+_d1653 
+_d1653 		crocodile , and a +...
+_d1653 
+_d1653 		that's a hippo , and there's the monkey , yeah .
+_d1653 
+_d1653 		here comes the band ! 
+_d1653 		xxx . 
+_d1653 		the lion's playing a +...
+_d1653 
+_d1653 		and the bear is playing a +...
+_d1653 
+_d1653 		xxx . 
+_d1653 		look at the jugglers ! 
+_d1653 		Fox is juggling with his feet .
+_d1653 
+_d1653 		and the pig is juggling with his hands . 
+_d1653 		everyone having fun . 
+_d1653 		they're all dancing .
+_d1653 
+_d1653 		Spot , yeah , Spot's [: Spot is] dancing .
+_d1653 
+_d1653 		what a wonderful day +...
+_d1653 
+_d1653 		does that look like a train ?
+_d1653 
+_d1653 		what a wonderful day it has been .
+_d1653 
+_d1653 		chug ,  ,  ,  ,  +...
+_d1653 
+_d1653 		woo   ,    !
+_d1653 
+_d1653 		whistle blasts !
+_d1653 
+_d1653 		smoke coming out !
+_d1653 
+_d1653 		puff , puff , puff .
+_d1653 
+_d1653 		chew chew !
+_d1653 
+_d1653 		smoke coming out !
+_d1653 
+_d1653 		mmmm+hmmm .
+_d1653 
+_d1653 		lookit [: look at] that !
+_d1653 
+_d1654 		we're making a mess with the books , huh ? 
+_d1654 		whoa !
+_d1654 
+_d1654 		careful , pumpkin ! 
+_d1654 		lemme [: let me] put some of these back .
+_d1654 
+_d1654 		what books ?
+_d1654 
+_d1654 		this , this book ?
+_d1654 
+_d1654 		this one ?
+_d1654 
+_d1655 		tell mommy which one you want . 
+_d1655 		oh , the lion book ?
+_d1655 
+_d1655 		what's this one , sweetie ?
+_d1655 
+_d1655 		snowy day , that's right .
+_d1655 
+_d1655 		just tell mommy you want snowy day . 
+_d1655 		one winter morning , Peter woke up and looked out the window . 
+_d1655 		snow had fallen during the night .
+_d1655 
+_d1655 		it covered everything as far as he could see . 
+_d1655 		after breakfast , he put on his snow+suit and ran outside .
+_d1655 
+_d1655 		the snow was piled up very high along the street to make a path for walking . 
+_d1655 		crunch , crunch , crunch !
+_d1655 
+_d1655 		his feet sank into the snow . 
+_d1655 		he walked with his toes pointing out like this +... 
+_d1655 		that's right .
+_d1655 
+_d1655 		he walked with his toes pointing in like that . 
+_d1655 		he dragged his feet slowly to make tracks . 
+_d1655 		and he found something sticking out of the snow that made a new track . 
+_d1655 		what was it , Ethan ?
+_d1655 
+_d1655 		it was a +...
+_d1655 
+_d1655 		stick ! 
+_d1655 		a stick that was just right for smacking a snow+covered tree . 
+_d1655 		then what happened , Ethan ?
+_d1655 
+_d1655 		down fell the snow .
+_d1655 
+_d1655 		plop ! 
+_d1655 		on top of Peter's head . 
+_d1655 		he thought it would be fun to join the big boys in their snowball fight , but he knew he wasn't old enough . 
+_d1655 		not yet . 
+_d1655 		so , he made a smiling +... 
+_d1655 		what's that ?
+_d1655 
+_d1655 		snowman , and he made +...
+_d1655 
+_d1655 		what are those ?
+_d1655 
+_d1655 		angels , right .
+_d1655 
+_d1655 		he pretended he was a +...
+_d1655 
+_d1655 		a mess+maker ?
+_d1655 
+_d1656 		no , a mountain climber ! 
+_d1656 		he climbed up a great , big , heaping mountain of snow and slid ,  ! 
+_d1656 		all the way down . 
+_d1656 		he picked up a handful of snow , and another , and still another . 
+_d1656 		he packed it round , and firm , and put the snowball in his pocket for tomorrow . 
+_d1656 		then he went into his warm house .
+_d1656 
+_d1656 		he told his mommy all about his adventures while she took off his wet socks . 
+_d1656 		and he thought and thought and thought about it +//.
+_d1656 
+_d1656 		what's he doing ? 
+_d1656 		before he got into bed , he looked in his pocket .
+_d1656 
+_d1656 		his pocket was empty .
+_d1656 
+_d1656 		the snowball wasn't there .
+_d1656 
+_d1656 		he felt very sad . 
+_d1656 		while he slept he dreamt that the snow had melted all +//.
+_d1656 
+_d1656 		sun had melted all the snow away . 
+_d1656 		but when he woke up , his dream was gone .
+_d1656 
+_d1656 		the snow was still falling everywhere . 
+_d1656 		new snow was falling . 
+_d1656 		after breakfast , he called to his friend from across the hall , and they went out together into the deep , deep snow . 
+_d1656 		the end . 
+_d1656 		the end . 
+_d1656 		you want another book ?
+_d1656 
+_d1656 		oh , that's cold . 
+_d1656 		that was cold . 
+_d1656 		we just read that one . 
+_d1656 		let's read a different one .
+_d1656 
+_d1656 		find mommy a different one .
+_d1656 
+_d1656 		yeah , we read that book .
+_d1656 
+_d1656 		that's a big book , huh ?
+_d1656 
+_d1656 		that's right , it's a baseball book .
+_d1656 
+_d1657 		mmmm+hmmm . 
+_d1657 		what's he doing ? 
+_d1657 		he's pitching . 
+_d1657 		what's he doing ? 
+_d1657 		that's right , he's hitting the ball with a bat .
+_d1657 
+_d1657 		what's that ? 
+_d1657 		right .
+_d1657 
+_d1657 		what's that ?
+_d1657 
+_d1657 		hmmm ?
+_d1657 
+_d1657 		it's a baseball bat . 
+_d1657 		he's the pitcher . 
+_d1657 		he's pitching the ball . 
+_d1657 		mmmm+hmmm , he has a glove .
+_d1657 
+_d1657 		that's right .
+_d1657 
+_d1657 		hmmm ?
+_d1657 
+_d1657 		yeah , he's catching .
+_d1657 
+_d1657 		he's the catcher .
+_d1657 
+_d1657 		he wears a special mask . 
+_d1657 		he's at first base . 
+_d1657 		he's catching the ball at first base . 
+_d1657 		see ?
+_d1657 
+_d1657 		he has a glove and he's catching the ball . 
+_d1657 		he's at second base . 
+_d1657 		he's catching the ball on second base . 
+_d1657 		he's on the ground . 
+_d1657 		throwing the ball . 
+_d1657 		he's on third base . 
+_d1657 		look at him jump ! 
+_d1657 		he's jumping to catch the ball ! 
+_d1657 		he's called a shortstop . 
+_d1657 		look , he's flipping in the air . 
+_d1657 		he's in the outfield . 
+_d1657 		he's throwing the ball . 
+_d1657 		the end . 
+_d1657 		and another , and another and another ?
+_d1657 
+_d1657 		whoops !
+_d1657 
+_d1657 		tiger book . 
+_d1657 		okay .
+_d1657 
+_d1657 		boo !
+_d1657 
+_d1657 		I'm the biggest , bigger than tie +//.
+_d1657 
+_d1657 		snake , boasted big tiger .
+_d1657 
+_d1657 		what did the snake say ? 
+_d1657 		hiss , said the snake .
+_d1657 
+_d1657 		boo !
+_d1657 
+_d1657 		I'm the biggest , bigger than frog , boasted big tiger . 
+_d1657 		what did the frog say ?
+_d1657 
+_d1657 		ribbit !
+_d1657 
+_d1657 		bye , bye , tiger . 
+_d1657 		boo !
+_d1657 
+_d1657 		I'm the biggest , bigger than butterfly . 
+_d1657 		boasted big tiger .
+_d1657 
+_d1657 		boo .
+_d1657 
+_d1657 		boo .
+_d1657 
+_d1657 		boo !
+_d1657 
+_d1658 		I'm the biggest , bigger than +... 
+_d1658 		mouse , yeah .
+_d1658 
+_d1658 		boo !
+_d1658 
+_d1658 		I'm the biggest , bigger than all of you , boasted big tiger .
+_d1658 
+_d1658 		look behind you , said all the animals , who's that ? 
+_d1658 		it's elephant .
+_d1658 
+_d1658 		hmmm ?
+_d1658 
+_d1658 		you wanna close it ?
+_d1658 
+_d1658 		you got it open .
+_d1658 
+_d1658 		bye bye elephant . 
+_d1658 		mmmm+hmmm .
+_d1658 
+_d1658 		train book ? 
+_d1658 		right !
+_d1658 
+_d1658 		the little engine that could !
+_d1658 
+_d1658 		what's that ? 
+_d1658 		right , it's  .
+_d1658 
+_d1658 		chug  , puff puff , ding dong !
+_d1658 
+_d1658 		all +//.
+_d1658 
+_d1658 		along came the little train . 
+_d1658 		she was carrying toys to the girls and boys on the other side of the mountain . 
+_d1658 		in her cars were all kinds of toy elephant +//.
+_d1658 
+_d1658 		toy animals , even a baby elephant . 
+_d1658 		there were sailboats and drums and dogs and the funniest toy clown you ever saw . 
+_d1658 		what's that ? 
+_d1658 		yeah [?] , it's a rabbit [?] .
+_d1658 
+_d1658 		and where's the caboose ?
+_d1658 
+_d1658 		xxx the little caboose in the back ? 
+_d1658 		but all at once , at the foot of the mountain , the little train stopped ! 
+_d1658 		she could not move at all ! 
+_d1658 		now who would pull the toys over the mountain ? 
+_d1658 		just then the clown called out , look , a little blue engine is coming !
+_d1658 
+_d1658 		chug a  a  a  a +//.
+_d1658 
+_d1658 		who's that ? 
+_d1658 		right , humpty dumpty !
+_d1658 
+_d1658 		crack !
+_d1658 
+_d1658 		he fell down and broke his crown .
+_d1658 
+_d1658 		please , little blue engine , cried all the dolls and toys , won't you pull our train over the mountain ? 
+_d1658 		oh , my , said the little blue engine .
+_d1658 
+_d1658 		I'm not very big , and I've never been over the mountain .
+_d1658 
+_d1658 		but I will try . 
+_d1658 		mmmm+hmmm ,  , the monkey . 
+_d1658 		the little blue engine hitched herself to the train .
+_d1658 
+_d1658 		she pulled and she tugged .
+_d1658 
+_d1658 		I think I can , I think I can , I think I can , she said . 
+_d1658 		slowly the little blue engine began to move , I think I can , I think I can , I think I can , and up the mountain she went with a train full of toys . 
+_d1658 		finally , the train reached the top of the mountain .
+_d1658 
+_d1658 		hooray , hooray , cried all the dolls and toys . 
+_d1658 		thank you , little blue engine !
+_d1658 
+_d1658 		the little blue engine just smiled , and as she puffed down the mountain she seemed to say , I thought I could , I thought I could , I thought I could , I thought I could +... 
+_d1658 		the end . 
+_d1658 		xxx Ethan , why don't we take a break ?
+_d1658 
+_d1658 		mmmm , books and books and books !
+_d1658 
+_d1658 		right , collecting the eggs .
+_d1658 
+_d1659 		egg , egg , uh+oh . 
+_d1659 		right .
+_d1659 
+_d1659 		bye+bye . 
+_d1659 		what's Maisy doing here ? 
+_d1659 		what's she doin(g) ?
+_d1659 
+_d1659 		giddy up , giddy up , giddy up up up , giddy up , giddy up , giddy up up up .
+_d1659 
+_d1659 		what's she doin(g) ?
+_d1659 
+_d1659 		xxx .
+_d1659 
+_d1659 		what's Maisy doin(g) here ?
+_d1659 
+_d1659 		pull it down +...
+_d1659 
+_d1659 		yep [: yes] .
+_d1659 
+_d1659 		there you go , up and down .
+_d1659 
+_d1659 		it's milk .
+_d1659 
+_d1659 		she gives the baby lots_of milk , from a bottle . 
+_d1659 		would you like some milk ?
+_d1659 
+_d1659 		your bottle's [: bottle is] right here .
+_d1659 
+_d1659 		good boy . 
+_d1659 		plonk .
+_d1659 
+_d1659 		you kicking the books ? 
+_d1659 		what's Maisy doing here ? 
+_d1659 		what's Maisy doing here , Ethan ? 
+_d1659 		right .
+_d1659 
+_d1659 		and then what happens ?
+_d1659 
+_d1659 		very good , the bear [?] flies [?] out .
+_d1659 
+_d1660 		and what's Maisy doing here ? 
+_d1660 		raining , raining .
+_d1660 
+_d1660 		giving the geese a drink , of +...
+_d1660 
+_d1660 		water .
+_d1660 
+_d1660 		what's that ?
+_d1660 
+_d1660 		flap , flap , flap .
+_d1660 
+_d1660 		flap , flap , flap . 
+_d1660 		flap flap flup flop flop . 
+_d1660 		mmmm+hmmm .
+_d1660 
+_d1660 		what's Maisy doing here ? 
+_d1660 		that's right !
+_d1660 
+_d1660 		climbing up the +...
+_d1660 
+_d1660 		right , ladder .
+_d1660 
+_d1661 		and what's she getting ? 
+_d1661 		xxx , apples .
+_d1661 
+_d1661 		xxx , back up again . 
+_d1661 		back down +... 
+_d1661 		back up . 
+_d1661 		back down uh+uh uh+uh .
+_d1661 
+_d1661 		tickle tickle tickle tickle tickle tickle tickle tickle . 
+_d1661 		xxx be gentle  break . 
+_d1661 		what's Maisy doing here ? 
+_d1661 		mmmm+hmmm .
+_d1661 
+_d1661 		pig's going to sleep ?
+_d1661 
+_d1661 		awake ?
+_d1661 
+_d1661 		they look asleep to me !
+_d1661 
+_d1661 		mmmm+hmmm .
+_d1661 
+_d1661 		mmmm+hmmm , what are the pigs doing ?
+_d1661 
+_d1661 		xxx work ?
+_d1661 
+_d1662 		I think they're sleeping . 
+_d1662 		awake !
+_d1662 
+_d1662 		asleep , awake , asleep ! 
+_d1662 		are you awake ?
+_d1662 
+_d1662 		are you awake , Ethan ? 
+_d1662 		nah [: no] !
+_d1662 
+_d1662 		oh , my leg hurts +//.
+_d1662 
+_d1662 		there we go . 
+_d1662 		you wanna see your toys ?
+_d1662 
+_d1662 		what toys ?
+_d1662 
+_d1662 		oh , in the camera ?
+_d1662 
+_d1662 		books , yeah .
+_d1662 
+_d1662 		here +...
+_d1662 
+_d1662 		here , we'll put a +//.
+_d1662 
+_d1662 		we'll put a toy over there .
+_d1662 
+_d1662 		how (a)bout this toy ?
+_d1662 
+_d1662 		we'll put it over here .
+_d1662 
+_d1662 		now come with mommy .
+_d1662 
+_d1662 		you see your toys now ?
+_d1662 
+_d1662 		garage , yeah .
+_d1662 
+_d1662 		mmmm+hmmm .
+_d1662 
+_d1663 		let's not touch that . 
+_d1663 		Ethan ? 
+_d1663 		xxx sweetie , let's look at your camera ! 
+_d1663 		do you wanna look at Ethan's camera ? 
+_d1663 		where did mommy +//.
+_d1663 
+_d1663 		where did mommy put it ? 
+_d1663 		sleep ? 
+_d1663 		uh+oh , spaghetti o's !
+_d1663 
+_d1663 		my ball .
+_d1663 
+_d1663 		yep [: yes] !
+_d1663 
+_d1663 		it's mine !
+_d1663 
+_d1663 		baseball ?
+_d1663 
+_d1663 		my ball , my ball .
+_d1663 
+_d1663 		you stepping on all the books ?
+_d1663 
+_d1663 		whoop !
+_d1663 
+_d1663 		rabbit .
+_d1663 
+_d1663 		can I have my ball , please ?
+_d1663 
+_d1663 		up ya [: you] go !
+_d1663 
+_d1663 		what's that ?
+_d1663 
+_d1663 		yeah , the garage .
+_d1663 
+_d1663 		what else dyou [: do you] see ?
+_d1663 
+_d1663 		mmmm+hmmm .
+_d1663 
+_d1663 		you see the hoop , yep [: yes] .
+_d1663 
+_d1663 		dyou [: do you] see the stairs ?
+_d1663 
+_d1663 		mmmm+hmmm , upstairs .
+_d1663 
+_d1663 		downstairs .
+_d1663 
+_d1663 		mmmm+hmmm .
+_d1663 
+_d1663 		yeah , let's stay downstairs , okay ?
+_d1663 
+_d1663 		let's stay downstairs , so you can be on the camera .
+_d1663 
+_d1663 		you're upstairs , that's right .
+_d1663 
+_d1663 		cmere [: come here] , we have_to be on the camera .
+_d1663 
+_d1663 		come on .
+_d1663 
+_d1663 		up .
+_d1663 
+_d1663 		flying ! 
+_d1663 		let's find a toy , here's your backhoe . 
+_d1663 		or your front+loader .
+_d1663 
+_d1663 		should you put something in there ?
+_d1663 
+_d1663 		you wanna put the ball in there ?
+_d1663 
+_d1663 		mmmm+hmmm .
+_d1663 
+_d1663 		lift it up .
+_d1663 
+_d1663 		dump it over !
+_d1663 
+_d1663 		right , lift it .
+_d1663 
+_d1663 		yep [: yes] , lift it up .
+_d1663 
+_d1663 		dump it over !
+_d1663 
+_d1663 		what else can you put inside ?
+_d1663 
+_d1663 		xxx a little crowded [?] inside .
+_d1663 
+_d1664 		oh , it just fits ! 
+_d1664 		teeny+tiny car .
+_d1664 
+_d1664 		oh , your tire truck [?] . 
+_d1664 		what do you want ?
+_d1664 
+_d1664 		you're fixing the screen ? 
+_d1664 		now it's done !
+_d1664 
+_d1664 		good job !
+_d1664 
+_d1664 		it's done too .
+_d1664 
+_d1664 		you're a good worker !
+_d1664 
+_d1664 		you fix everything , huh ?
+_d1664 
+_d1664 		you fix people ?
+_d1664 
+_d1664 		mmmm+hmmm .
+_d1664 
+_d1664 		can you fix me ?
+_d1664 
+_d1664 		touch of a [?] +//.
+_d1664 
+_d1665 		ooh , that tickles ! 
+_d1665 		that tickles !
+_d1665 
+_d1665 		done , yay !
+_d1665 
+_d1665 		done !
+_d1665 
+_d1665 		done , done , done .
+_d1665 
+_d1665 		done , done , done !
+_d1665 
+_d1665 		very good !
+_d1665 
+_d1665 		it's all done !
+_d1665 
+_d1665 		it's done now ?
+_d1665 
+_d1665 		clip everything .
+_d1665 
+_d1665 		clip people ?
+_d1665 
+_d1665 		that might hurt .
+_d1665 
+_d1666 		dyou [: do you] think so ? 
+_d1666 		I think so .
+_d1666 
+_d1666 		I think so !
+_d1666 
+_d1666 		I think you clip me !
+_d1666 
+_d1666 		ow !
+_d1666 
+_d1666 		I told you it hurts . 
+_d1666 		yep [: yes] !
+_d1666 
+_d1666 		elevator !
+_d1666 
+_d1666 		up ?
+_d1666 
+_d1666 		it's hard to make it go up . 
+_d1666 		fast . 
+_d1666 		goes down slow .
+_d1666 
+_d1666 		up top ,  .
+_d1666 
+_d1666 		mmmm+hmmm .
+_d1666 
+_d1666 		mmmm+hmmm ?
+_d1666 
+_d1666 		how (a)bout a blue car ? 
+_d1666 		xxx car ?
+_d1666 
+_d1666 		yeah , you wanna put it in ? 
+_d1666 		in the elevator ?
+_d1666 
+_d1666 		that's right . 
+_d1666 		yeah , it's up top .
+_d1666 
+_d1666 		it's about as high as it can go . 
+_d1666 		down , good job ! 
+_d1666 		(o)kay , let's push it together .
+_d1666 
+_d1666 		up top !
+_d1666 
+_d1666 		mmmm+hmmm .
+_d1666 
+_d1666 		down , down .
+_d1666 
+_d1666 		up up up up up .
+_d1666 
+_d1666 		xxx , up . 
+_d1666 		yeah , we push it with a button .
+_d1666 
+_d1666 		down [?] . 
+_d1667 		no Caillou , another time , I have_to go to work now Daddy replied . 
+_d1667 		Caillou is sad . 
+_d1667 		he wants to go for another drive with Daddy . 
+_d1667 		hey look what he's got Ethan . 
+_d1667 		a front end loader ? 
+_d1667 		and a pickup+truck ? 
+_d1667 		and a little car , and a car and all the signs . 
+_d1667 		this sign means stop ! 
+_d1667 		an(d) there's a traffic light . 
+_d1667 		Caillou watches Daddy leave .
+_d1667 
+_d1667 		come and draw a nice picture for me Caillou , Mommy asks .
+_d1667 
+_d1667 		Caillou picks up his crayons and draws a big , red , car ! 
+_d1667 		Caillou has a lot of cars , doesn't he ? 
+_d1667 		he's wearing a red baseball hat . 
+_d1667 		an(d) that's a racing car . 
+_d1667 		super duper racing car . 
+_d1667 		later , Daddy comes back home . 
+_d1667 		play with me , says Caillou . 
+_d1667 		not now , I have things to do , but tomorrow is my day off . 
+_d1667 		I can play with you then , replies Daddy . 
+_d1667 		Caillou pouts . 
+_d1667 		he makes a face (be)cause he's sad . 
+_d1667 		mmmm ! 
+_d1667 		Caillou goes into his room , he takes all his little cars out of his toy+box ! 
+_d1667 		he pushes his cars fast along the floor . 
+_d1667 		lookit [: look at] , it's a street an(d) some trees . 
+_d1667 		vroom  shouts Caillou ,   ! 
+_d1667 		Caillou goes to bed ! 
+_d1667 		and waits for Daddy . 
+_d1667 		he falls asleep ! 
+_d1667 		he gives Caillou a big kiss . 
+_d1667 		the next morning Caillou wakes up and wants to play with Daddy . 
+_d1667 		he runs to his parents' bedroom and climbs on the bed , there he is . 
+_d1667 		Daddy throws a pillow at him , hooray shouts Caillou who loves pillow fights . 
+_d1667 		I'm hungry says Caillou . 
+_d1667 		Daddy puts two (.) puts out two bowls and Caillou gets the cereal ! 
+_d1667 		Caillou and Daddy race toy cars on the table . 
+_d1667 		Caillou wins ! 
+_d1667 		after breakfast Caillou Daddy says , want to help me wash the car Caillou ? 
+_d1667 		Daddy asks Caillou to bring a bucket , and a sponge . 
+_d1667 		Caillou is proud to be helping Daddy . 
+_d1667 		he turns on the faucet and fills the bucket . 
+_d1667 		when the car is all clean , Caillou says +... 
+_d1667 		Daddy , I want to go for another long ride . 
+_d1667 		Caillou picks up his teddy bear . 
+_d1667 		and climbs into the car , I want to drive with you forever Daddy .
+_d1667 
+_d1667 		mmmm+hmmm ! 
+_d1667 		it's a little person in the car . 
+_d1668 		the end . 
+_d1668 		that's a nice book huh ? 
+_d1668 		moon , it's the moon book . 
+_d1668 		mmmm  .
+_d1668 
+_d1668 		mmmm  that's a lamb . 
+_d1668 		mmmm  .
+_d1668 
+_d1668 		mmmm  .
+_d1668 
+_d1668 		and +..?
+_d1668 		an(d) a sheep !
+_d1668 
+_d1668 		there's the cow and that's the horse .
+_d1668 
+_d1668 		and they're supposed to jump over the moon , jump , jump ! 
+_d1668 		jump ! 
+_d1668 		mmmm  .
+_d1668 
+_d1668 		read it , ok ?
+_d1668 
+_d1668 		on the farm , four little friends don't want to go to bed . 
+_d1668 		why not come and play with me ? 
+_d1668 		yeah there's the pig .
+_d1668 
+_d1668 		mmmm  .
+_d1668 
+_d1668 		yeah , there's a lamb .
+_d1668 
+_d1668 		there's a cow and there's a  .
+_d1668 
+_d1668 		yeah animals , all the animals . 
+_d1668 		the little cow jumps over the moon , laughing as she leaps ! 
+_d1668 		the night is full of magic games to play before she sleeps ! 
+_d1668 		can you make the cow jump over the moon ? 
+_d1668 		mmmm  . 
+_d1668 		you can make the cow , this cow , jump , jump ! 
+_d1668 		jump ! 
+_d1668 		the little lamb leaps lightly through the quiet evening air . 
+_d1668 		he swings upon a star and sprinkles stardust everywhere . 
+_d1668 		mmmm  . 
+_d1668 		lookit [: look at] all that stuff . 
+_d1668 		what does the cow +//.
+_d1668 
+_d1668 		I mean this lamb have on his neck ? 
+_d1668 		there's the moon , what's that ?
+_d1668 
+_d1668 		yeah there's a cow .
+_d1668 
+_d1668 		a cotton candy cloud makes piglet giggle with delight .
+_d1668 
+_d1668 		there's a pig .
+_d1668 
+_d1669 		bouncing gently up and down he wants to play all night . 
+_d1669 		horsie rides a comet's tail that swiftly flashes by . 
+_d1669 		they draw a silvery streak across the starry moonlit sky . 
+_d1669 		yeah , there's a pig .
+_d1669 
+_d1669 		all the animals are in the sky now . 
+_d1669 		turn the page .
+_d1669 
+_d1669 		we've had such fun , the babies yawned , but now our mommies miss us . 
+_d1669 		the four friends tumbled to their beds for goodnight hugs and kisses ! 
+_d1669 		kisses ! 
+_d1669 		mommy cow baby cow mommy horse baby horse mommy sheep baby lamb mommy pig baby pig and two little mice ! 
+_d1669 		again ?
+_d1669 
+_d1669 		on the farm four little friends don't want to go to bed . 
+_d1669 		three little pigs .
+_d1669 
+_d1669 		yeah , can you count the animals ?
+_d1669 
+_d1669 		how many animals are there ?
+_d1669 
+_d1669 		one two three four !
+_d1669 
+_d1669 		yup .
+_d1669 
+_d1669 		an(d) that one is a cow .
+_d1669 
+_d1669 		one is a pig .
+_d1669 
+_d1669 		mmmm  that's right .
+_d1669 
+_d1669 		one is a lamb , mmmm+hmmm .
+_d1669 
+_d1669 		and what's this one ? 
+_d1669 		one is a horse . 
+_d1669 		mmmm+hmmm . 
+_d1669 		have you ever seen a purple pig ? 
+_d1669 		no: . 
+_d1669 		yup . 
+_d1669 		two ducks too .
+_d1669 
+_d1669 		they're in the story too . 
+_d1669 		you wanna read about pigs ? 
+_d1669 		let's keep the backpack on .
+_d1669 		mmmm+hmmm . 
+_d1669 		you wanna do something else ?
+_d1669 
+_d1669 		let's take this off . 
+_d1669 		we have_to keep the ball on though .
+_d1669 
+_d1669 		how .
+_d1669 
+_d1669 		nope sweetie , don't touch .
+_d1669 
+_d1669 		ok , you're gonna move the camera . 
+_d1669 		let's clip this to you , ok ?
+_d1669 
+_d1669 		let's try clipping .
+_d1669 
+_d1669 		see , it's got a clipper . 
+_d1669 		can I clip it to ya [: you] ? 
+_d1669 		let's see . 
+_d1669 		how's that ? 
+_d1669 		oops . 
+_d1669 		you wancher [: want your] backpack on ? 
+_d1669 		or dyou [: do you] want it in your pocket ? 
+_d1669 		too big . 
+_d1669 		too big . 
+_d1669 		can I clip it to ya [: you] ?
+_d1669 
+_d1669 		whadya [: what do you] wanna play with ? 
+_d1669 		play with your truck ?
+_d1669 		sweetie . 
+_d1669 		let's try the backpack again . 
+_d1669 		mmmm+hmmm .
+_d1669 
+_d1669 		oops . 
+_d1669 		you're tangled up . 
+_d1669 		oops , let's play with the train . 
+_d1669 		sweetie , ya [: you] gotta wear it , (o)kay ? 
+_d1669 		I know . 
+_d1669 		does it tickle you ?
+_d1669 
+_d1669 		I'll fix it , okay ?
+_d1669 
+_d1669 		sit down please . 
+_d1669 		tickles your middle ?
+_d1669 
+_d1669 		come here I'll fix it . 
+_d1669 		come here , I'll take it off , come here . 
+_d1669 		come here , I'll fix it . 
+_d1669 		I'll put it on here , the bed . 
+_d1669 		(o)kay ? 
+_d1669 		I'll put the ball right here . 
+_d1669 		let's play with your train . 
+_d1669 		the train goes down the track   . 
+_d1669 		train goes down +... 
+_d1669 		yeah . 
+_d1669 		that's a shovel . 
+_d1669 		we gotta have the ball on , ok ? 
+_d1669 		I had put some stones in here . 
+_d1669 		you put the little train in the loader .
+_d1669 
+_d1670 		that one has a pretty big shovel too . 
+_d1670 		you wanna put it +...
+_d1670 
+_d1670 		on your big piece of cardboard ?
+_d1670 		so you can drive them ? 
+_d1670 		mmmm  , maybe we have a coach in here . 
+_d1670 		now we have the regular train . 
+_d1670 		there's that caboose . 
+_d1670 		there's that engine , yup .
+_d1670 
+_d1670 		they are together . 
+_d1670 		there's the +//.
+_d1670 
+_d1670 		oops .
+_d1670 
+_d1670 		there's the caboose .
+_d1670 
+_d1670 		mmmm  .
+_d1670 
+_d1670 		you pushing the little engine . 
+_d1670 		back and forth . 
+_d1670 		who rides in the caboose , Ethan ?
+_d1670 
+_d1670 		people who work on the train . 
+_d1670 		backwards !
+_d1670 
+_d1670 		that's backwards .
+_d1670 
+_d1670 		station ? 
+_d1670 		oh , you're at the station .
+_d1670 
+_d1670 		down at the station , early in the morning , see the little puffer train +... 
+_d1670 		chugga   . 
+_d1670 		oh pumpkin , are we gonna have a hard time today with this microphone ? 
+_d1670 		mmmm ?
+_d1670 
+_d1670 		down by the station , early in the morning +... 
+_d1670 		yeah , that's not so good , is it ? 
+_d1670 		how about the backpack again ? 
+_d1670 		should we try the backpack again ? 
+_d1670 		uh , another engine . 
+_d1670 		how many engines do you have ? 
+_d1670 		oops . 
+_d1670 		did mommy make those trains fall down ? 
+_d1670 		xxx . 
+_d1670 		they're all stuck together . 
+_d1670 		oops .
+_d1670 
+_d1670 		dyou [: do you] want the truck part of that ?
+_d1670 
+_d1671 		here's the front part ,  together . 
+_d1671 		we saw those trucks yesterday , didn't we ?
+_d1671 
+_d1671 		big big trucks yesterday .
+_d1671 
+_d1671 		dig a ditch .
+_d1671 
+_d1671 		excavator , yeah . 
+_d1671 		that's right , in the truck book .
+_d1671 
+_d1671 		it's an excavator: and a +... 
+_d1671 		what else ? 
+_d1671 		a front+end loader and a backhoe and a forklift . 
+_d1671 		mmmm ?
+_d1671 
+_d1671 		here's the loader right there . 
+_d1671 		oh sweetie , can we leave it on ? 
+_d1671 		can we leave it on ?
+_d1671 
+_d1671 		let's leave it on . 
+_d1671 		ok ? 
+_d1671 		let's leave it on . 
+_d1671 		on your back +...
+_d1671 
+_d1671 		it's part of your clothes , let's leave it on .
+_d1671 
+_d1671 		dyou [: do you] want me to fix it ? 
+_d1671 		comere [: come here] .
+_d1671 
+_d1671 		let's see if can make it bigger .
+_d1671 
+_d1671 		there , that better ?
+_d1671 
+_d1671 		ok , comere [: come here] , comere [: come here] .
+_d1671 
+_d1672 		I'll fix this one too . 
+_d1672 		it's too big , too small . 
+_d1672 		I'll make it bigger . 
+_d1672 		(o)kay ? 
+_d1672 		there ,  sweetie .
+_d1672 
+_d1672 		I see your belly .
+_d1672 
+_d1672 		I know you don't like it . 
+_d1672 		Davy Davy dumpling .
+_d1672 
+_d1672 		yup , put it in the pot .
+_d1672 
+_d1672 		I don't remember that one . 
+_d1672 		careful , you're stepping on a rock .
+_d1672 
+_d1672 		dyou [: do you] know what a dumpling is ?
+_d1672 
+_d1672 		it's a rou:nd piece of dough . 
+_d1672 		like pizza dough . 
+_d1672 		oh , (.) you ok ? 
+_d1673 		Davy Davy dumpling . 
+_d1673 		woo ! 
+_d1673 		what're you getting over there ? 
+_d1673 		here , you tell mommy what you want . 
+_d1673 		here . 
+_d1673 		oh , you wanna blow some bubbles ? 
+_d1673 		ok .
+_d1673 
+_d1673 		oops , it's not open . 
+_d1673 		cmere [: come here] sweetie . 
+_d1673 		Jessica ? 
+_d1673 		I ,  , can't get him to wear the backpack or the microphone in any fashion . 
+_d1673 		he's in that toddler phase where everything bothers him +//.
+_d1673 
+_d1673 		you know , sand in his shoes +...
+_d1673 
+_d1673 		I've been trying +... 
+_d1673 		ugh , that's yucky . 
+_d1673 		ok , we'll try it , we'll just +... 
+_d1673 		no , that's the part +... 
+_d1673 		dump it in this way .
+_d1673 
+_d1673 		there . 
+_d1673 		dyou [: do you] want mommy to blow a bubble ? 
+_d1673 		ready ? 
+_d1673 		oops , it's hanging . 
+_d1673 		oops , it's getting smaller . 
+_d1674 		you wanna try blowing ? 
+_d1674 		(o)kay ?
+_d1674 
+_d1674 		wanna try blowing ?
+_d1674 
+_d1674 		there you go . 
+_d1674 		you made a bubble . 
+_d1674 		it's pretty sticky stuff . 
+_d1674 		I'm just gonna get a towel , ok ? 
+_d1674 		yeah , I'm gonna clean your hands .
+_d1674 
+_d1674 		let's get the towel . 
+_d1674 		you see the green towel (.) over there ?
+_d1674 
+_d1674 		mmmm  .
+_d1674 
+_d1674 		green towel .
+_d1674 
+_d1674 		still sticky ? 
+_d1674 		whadya [: what do you] lookin(g) for ? 
+_d1674 		it's ok sweetie . 
+_d1674 		it's ok sweetie . 
+_d1674 		xxx in the eye .
+_d1674 
+_d1674 		you're gonna hurt your eye .
+_d1674 
+_d1674 		mmmm  .
+_d1674 
+_d1674 		you can drink your juice .
+_d1674 
+_d1675 		oops . 
+_d1675 		oh bump ,  sweetie .
+_d1675 
+_d1675 		we just bumped , it's ok , it's ok ,  . 
+_d1675 		Davy Davy dumpling . 
+_d1675 		dyou [: do you] wanna zip it ?
+_d1675 
+_d1675 		this one or this one ? 
+_d1675 		this one ? 
+_d1675 		what's in there ?
+_d1675 
+_d1675 		what's that ? 
+_d1675 		xxx zip it ? 
+_d1675 		can you do it ?
+_d1675 
+_d1675 		pu:ll it .
+_d1675 
+_d1675 		can we do it together ?
+_d1675 
+_d1675 		ready: , zip .
+_d1675 
+_d1675 		ready: , oops , zip .
+_d1675 
+_d1676 		what is in there ? 
+_d1676 		whassat [: what's that] ? 
+_d1676 		battery .
+_d1676 
+_d1676 		that's right .
+_d1676 
+_d1676 		they go in the little pocket . 
+_d1676 		n [: want to] put them in the little pocket ? 
+_d1676 		good boy . 
+_d1676 		little pocket .
+_d1676 
+_d1676 		whatcha [: what are you] doin(g) ?
+_d1676 
+_d1677 		you're tangled up . 
+_d1677 		whadya [: what do you] want ? 
+_d1677 		Caillou , let's go for a drive in my new car , daddy suggests . 
+_d1677 		Caillou is happy .
+_d1677 
+_d1677 		he climbs into the car , and gets into his car+seat . 
+_d1677 		I want to go for a lo:ng long ride , says Caillou . 
+_d1677 		what're those ? 
+_d1677 		Caillou loves driving with daddy . 
+_d1677 		he thinks daddy has the best car in the world . 
+_d1677 		faster daddy , Caillou urges . 
+_d1677 		daddy takes Caillou (.) on a long car ride . 
+_d1677 		I keep coughing , Ethan . 
+_d1677 		finally daddy stops in front of the house .
+_d1677 
+_d1677 		again daddy , says Caillou . 
+_d1677 		no Caillou , another time . 
+_d1677 		I have_to go an(d) work now .
+_d1677 
+_d1677 		I gonna get something to drink , Ethan .
+_d1677 
+_d1677 		it's ok . 
+_d1677 		I just need to stop coughing , pumpkin .
+_d1677 
+_d1677 		whadya [: what do you] want ?
+_d1677 
+_d1677 		come .
+_d1677 
+_d1677 		xxx .
+_d1677 
+_d1678 		what letter is that ? 
+_d1678 		that's an h .
+_d1678 
+_d1678 		that's an a , that's right , that's an a .
+_d1678 
+_d1678 		that's an a . 
+_d1678 		a for +...
+_d1678 
+_d1678 		that's right .
+_d1678 
+_d1678 		you wanna put it on the fridge ? 
+_d1678 		let's put it on this board , look .
+_d1678 
+_d1678 		this board is a magnet board . 
+_d1678 		here ya [: you] go , here .
+_d1678 
+_d1678 		wanna put the a on the board ?
+_d1678 
+_d1679 		doesn't open . 
+_d1679 		wouldja [: would you] like the animals ?
+_d1679 
+_d1679 		mmmm ? 
+_d1679 		whadya [: what do you] have ?
+_d1679 
+_d1679 		bunny rabbits in a cage . 
+_d1679 		that's right .
+_d1679 
+_d1679 		whadya [: what do you] want ? 
+_d1679 		this is the house .
+_d1679 
+_d1679 		and this is the barn . 
+_d1679 		maybe you can put +... 
+_d1679 		where's the mommy ? 
+_d1679 		the mommy +...
+_d1679 
+_d1679 		in the house . 
+_d1679 		where dyou [: do you] want to put the shape ? 
+_d1679 		hmmm ? 
+_d1679 		how about the ducks ? 
+_d1679 		where do they go ?
+_d1679 
+_d1679 		where are the ducks ? 
+_d1679 		do the ducks go in the water ? 
+_d1679 		is there some water ? 
+_d1679 		I see some water . 
+_d1679 		you wanna put the ducks in the water ? 
+_d1679 		in the pond ? 
+_d1679 		that's right .
+_d1679 
+_d1679 		very good . 
+_d1679 		the ducks can go in the pond . 
+_d1679 		ok ?
+_d1679 
+_d1679 		what about +... 
+_d1679 		where does the cow live ?
+_d1679 
+_d1679 		mmmm  , in the barn .
+_d1679 
+_d1679 		that's right . 
+_d1680 		here's the dad . 
+_d1680 		where's the dad ? 
+_d1680 		maybe you're sitting on him . 
+_d1680 		hmmm , here's the dad . 
+_d1680 		where dyou [: do you] wanna put the dad ? 
+_d1680 		hmmm , can't have that sweetie .
+_d1680 
+_d1680 		dyou [: do you] want some juice ?
+_d1680 
+_d1680 		you're right , it is daddy's .
+_d1680 
+_d1680 		would you like your juice ?
+_d1680 
+_d1680 		mmmm  .
+_d1680 
+_d1680 		what did you find ?
+_d1680 
+_d1680 		dyou [: do you] wanna put it on the board ?
+_d1680 
+_d1680 		here's the a .
+_d1680 
+_d1680 		come here . 
+_d1680 		dyou [: do you] know what letter that is ?
+_d1680 
+_d1680 		e for +...
+_d1680 
+_d1680 		e for +... 
+_d1680 		e for +...
+_d1680 
+_d1680 		e for +... 
+_d1680 		Ethan ! 
+_d1680 		here's an e .
+_d1680 
+_d1680 		did you find a j ?
+_d1680 
+_d1681 		k , that is a k , that's right . 
+_d1681 		that is an o .
+_d1681 
+_d1681 		you're right too . 
+_d1681 		o for oval .
+_d1681 
+_d1681 		o for octopus: . 
+_d1681 		that's a p ! 
+_d1681 		that's an o .
+_d1681 
+_d1681 		it's stuck on your finger . 
+_d1681 		and dyou [: do you] know what letter this is , Ethan ?
+_d1681 
+_d1681 		that's an i .
+_d1681 
+_d1681 		kinda [: kind of] like a j . 
+_d1681 		that's right .
+_d1681 
+_d1681 		the j is on the refrigerator . 
+_d1681 		e v a: +... 
+_d1681 		what do we need ? 
+_d1681 		e v a: +...
+_d1681 
+_d1681 		can you find me an n ?
+_d1681 
+_d1681 		we're looking for an n .
+_d1681 
+_d1681 		that's a z , that's an r .
+_d1681 
+_d1681 		mmmm  .
+_d1681 
+_d1681 		there .
+_d1681 
+_d1681 		e v a n spells +...
+_d1681 
+_d1681 		that's right !
+_d1681 
+_d1681 		that's an s .
+_d1681 
+_d1681 		oh , you wanna put it up there ?
+_d1681 
+_d1682 		how about like this ? 
+_d1682 		fevans , what's that ? 
+_d1682 		what's that ? 
+_d1682 		that's a z: .
+_d1682 
+_d1682 		z: . 
+_d1682 		what other letter do you want ? 
+_d1682 		hmmm ? 
+_d1682 		mmmm , what's this , Ethan ? 
+_d1682 		you know this one .
+_d1682 
+_d1682 		k: .
+_d1682 
+_d1682 		k for king . 
+_d1682 		it's a g: . 
+_d1682 		xxx ? 
+_d1682 		that's a w . 
+_d1682 		you need an x ?
+_d1682 
+_d1682 		here's the x .
+_d1682 
+_d1682 		then you need a y , that's right .
+_d1682 
+_d1682 		here's the y .
+_d1682 
+_d1682 		and then , you need a z .
+_d1682 
+_d1682 		oh here's the z .
+_d1682 
+_d1682 		z is already there . 
+_d1682 		that's a number .
+_d1682 
+_d1682 		that's a number +...
+_d1682 
+_d1682 		ni:ne . 
+_d1682 		number . 
+_d1682 		echo ?
+_d1682 
+_d1682 		echo echo echo echo: . 
+_d1682 		look at all the letters you have on your board . 
+_d1682 		more letters .
+_d1682 
+_d1682 		that's a c .
+_d1682 
+_d1682 		c is one of my favorite letters . 
+_d1682 		c for cat . 
+_d1682 		right ? 
+_d1682 		is that a j ?
+_d1682 
+_d1683 		tag+along k . 
+_d1683 		crash . 
+_d1683 		mmmm  . 
+_d1683 		here's a number four .
+_d1683 
+_d1683 		that's a lotta [: lot of] letters and numbers . 
+_d1683 		you know that one . 
+_d1683 		what's that ?
+_d1683 
+_d1683 		i .
+_d1683 
+_d1683 		right . 
+_d1683 		I and tag along k , all on their way up the coconut tree .
+_d1683 
+_d1683 		crash !
+_d1683 
+_d1683 		tag along k , here's tag along k . 
+_d1683 		crash .
+_d1683 
+_d1683 		it goes (.) crash . 
+_d1683 		crash down the coconut tree . 
+_d1683 		here's u .
+_d1683 
+_d1683 		u for umbrella .
+_d1683 
+_d1683 		there's a u on your head . 
+_d1683 		you have a u on your head .
+_d1683 
+_d1683 		you have a u on your head . 
+_d1683 		you have a +//. 
+_d1683 		you have a c in your pocket .
+_d1683 
+_d1683 		and mommy has a two on her nose . 
+_d1683 		ah+choo .
+_d1683 
+_d1683 		ah+choo  goes the two . 
+_d1683 		what about the c: ?
+_d1683 
+_d1683 		like a moustache . 
+_d1683 		a a ah+choo . 
+_d1683 		stuck together .
+_d1683 
+_d1683 		j !
+_d1683 
+_d1683 		j ! 
+_d1683 		k . 
+_d1683 		b . 
+_d1683 		k . 
+_d1683 		crash . 
+_d1683 		o for owl , your favorite animal .
+_d1683 
+_d1683 		you like owls , right ? 
+_d1683 		bam . 
+_d1683 		are you trying to put that on your face ? 
+_d1683 		bam . 
+_d1683 		stay , two , stay ! 
+_d1683 		stay ! 
+_d1683 		it's crowded on this board , isn't it ? 
+_d1683 		j j j ! 
+_d1683 		that's an x . 
+_d1683 		an(d) a four . 
+_d1683 		a number four . 
+_d1683 		four o'clock . 
+_d1683 		coo+coo coo+coo coo+coo coo+coo . 
+_d1683 		the bird pops out , that's right . 
+_d1683 		here's an r . 
+_d1683 		r for rolly . 
+_d1683 		r for rolly . 
+_d1683 		rolly the roller , they both start with r . 
+_d1683 		roll play+doh , yeah .
+_d1683 
+_d1684 		number ! 
+_d1684 		j . 
+_d1684 		oh be careful , don't poke your eye .
+_d1684 
+_d1684 		don't stick it up your nose either . 
+_d1684 		engine engine , number nine . 
+_d1684 		should (.) jump the track . 
+_d1684 		do you (.) wanchur [: want your] (.) money (.) back ? 
+_d1684 		seven .
+_d1684 
+_d1684 		where's a nine ? 
+_d1684 		do we have a nine on the board here ?
+_d1684 
+_d1684 		here it is . 
+_d1684 		engine , engine number nine , going down Chicago line .
+_d1684 
+_d1684 		nine nine nine nine nine ,  .
+_d1684 
+_d1684 		g .
+_d1684 
+_d1685 		that's a k . 
+_d1685 		k for kite and king and key . 
+_d1685 		king and key .
+_d1685 
+_d1685 		oops .
+_d1685 
+_d1685 		lock the bathroom door .
+_d1685 
+_d1685 		yup , we have keys to lock the bathroom door . 
+_d1685 		how did those letters get over there ? 
+_d1685 		mmmm , you're gonna get them ?
+_d1685 
+_d1685 		great , plunk it on the board , plop . 
+_d1685 		plop on Peter's head .
+_d1685 
+_d1685 		yeah , it's broken kind of .
+_d1685 
+_d1685 		you think we need glue ?
+_d1685 
+_d1686 		you just need  [: to] hook it . 
+_d1686 		mmmm  .
+_d1686 
+_d1686 		there we go .
+_d1686 
+_d1686 		yeah , it is kinda [: kind of] broken . 
+_d1686 		I fixed this one though .
+_d1686 
+_d1686 		mmmm  .
+_d1686 
+_d1686 		why don't you try it on the cardboard ?
+_d1686 
+_d1686 		it will roll better . 
+_d1686 		crash into the two .
+_d1686 
+_d1686 		mmmm , put the two on the truck . 
+_d1686 		that's a good idea .
+_d1686 
+_d1686 		delivery truck .
+_d1686 
+_d1686 		it's delivering a two . 
+_d1686 		delivering mail .
+_d1686 
+_d1686 		yup , that's a carrier .
+_d1686 
+_d1686 		it's carrying the two , the purple two .
+_d1686 
+_d1687 		delivering mail ? 
+_d1687 		is there a letter for me ?
+_d1687 
+_d1687 		thank you .
+_d1687 
+_d1687 		thank you helpful engine . 
+_d1687 		carrying mail for a mailbox .
+_d1687 
+_d1687 		tipped over again . 
+_d1687 		it's a loud truck , huh ?
+_d1687 
+_d1687 		dozers are loud too . 
+_d1687 		you have_to go like this .
+_d1687 
+_d1687 		xxx .
+_d1687 
+_d1687 		mmmm  .
+_d1687 
+_d1687 		delivery .
+_d1687 
+_d1687 		mmmm .
+_d1687 
+_d1688 		carrying it away . 
+_d1688 		oh it's stuck .
+_d1688 
+_d1688 		it's stuck to the top . 
+_d1688 		up , it fell off . 
+_d1688 		up , it fell off .
+_d1688 
+_d1688 		what about a d ? 
+_d1688 		what about +..?
+_d1688 
+_d1688 		that's not a j . 
+_d1688 		the j is on the refrigerator .
+_d1688 
+_d1688 		the i is good .
+_d1688 
+_d1688 		the i will stay on . 
+_d1688 		oops .
+_d1688 
+_d1688 		I can fix it .
+_d1688 
+_d1688 		dyou [: do you] want mommy to +..?
+_d1688 
+_d1688 		mmmm  .
+_d1688 
+_d1688 		glue it ?
+_d1688 
+_d1688 		dyou [: do you] want me to glue it ? 
+_d1688 		if I glue it , we have_to put it away for a while so the glue can dry . 
+_d1688 		dyou [: do you] want me to glue it sweetie ? 
+_d1688 		if I glue it , you can't play with it for a while so the glue can dry .
+_d1688 
+_d1688 		oops ,  here's some toes . 
+_d1688 		over some mice . 
+_d1688 		oh: , and the fire+engine on top of the big truck . 
+_d1688 		the mailbox , where there's mail . 
+_d1688 		i .
+_d1688 
+_d1688 		oh , it's carrying the i to the train .
+_d1688 
+_d1689 		and then is the i going to ride the train ? 
+_d1689 		mmmm  . 
+_d1689 		t for train . 
+_d1689 		t for train . 
+_d1689 		i for ice+cream .
+_d1689 
+_d1689 		ok , it goes back to the train .
+_d1689 
+_d1689 		you think the truck needs some gas now ?
+_d1689 
+_d1689 		ss , fill her up . 
+_d1689 		ss , there we go .
+_d1689 		ss .
+_d1689 
+_d1689 		oh , ready to go .
+_d1689 
+_d1689 		it's ready to go , filled up with gas .
+_d1689 
+_d1689 		ss .
+_d1689 
+_d1689 		done , all done . 
+_d1689 		ready to go , on the highway .
+_d1689 
+_d1689 		ready , to go . 
+_d1689 		room room room , start your engines .
+_d1689 
+_d1689 		mmmm .
+_d1689 
+_d1689 		start your engines , go .
+_d1689 
+_d1689 		ss , that's a lot of gas .
+_d1689 
+_d1690 		that truck needs a lot of gas . 
+_d1690 		keep driving .
+_d1690 
+_d1690 		ss ,  .
+_d1690 
+_d1690 		ready set drive !
+_d1690 
+_d1690 		up , into the towel .
+_d1690 
+_d1690 		mmmm , coming back to Ethan , room room room room room room room room roo:m . 
+_d1690 		ready to go .
+_d1690 
+_d1690 		mmmm .
+_d1690 
+_d1690 		mmmm .
+_d1690 
+_d1690 		yup , you want me  [: to] hook it ? 
+_d1690 		mmmm  .
+_d1690 
+_d1690 		put it on the street .
+_d1690 
+_d1690 		more gas .
+_d1690 
+_d1690 		go . 
+_d1690 		go ok , it's goin(g) backwards . 
+_d1690 		now: it's going forwards . 
+_d1690 		around the big glass +... 
+_d1690 		and behind mommy . 
+_d1690 		and around her knee and back to Etha:n . 
+_d1690 		there you go . 
+_d1690 		oops , watch out , it's gonna crash into the glass .
+_d1690 
+_d1690 		crash .
+_d1690 
+_d1690 		crash .
+_d1690 
+_d1690 		gas+station , yeah .
+_d1690 
+_d1691 		has to go to the gas+station again ? 
+_d1691 		sure needs a lot of gas , that truck .
+_d1691 
+_d1691 		ss .
+_d1691 
+_d1691 		is it ready to drive ?
+_d1691 
+_d1691 		nope , guess it needs more gas .
+_d1691 
+_d1691 		teenager ?
+_d1691 
+_d1692 		you're funny . 
+_d1692 		you're funny .
+_d1692 
+_d1692 		teenager .
+_d1692 
+_d1692 		dyou [: do you] know what a teenager is ? 
+_d1692 		no: .
+_d1692 
+_d1692 		bump bump bump bump bump bump bump bump bump bump . 
+_d1692 		an(d) you also got a stinky diaper . 
+_d1692 		we gotta change your diaper .
+_d1692 
+_d1692 		p u .
+_d1692 		skunk , yup . 
+_d1692 		teenager ? 
+_d1692 		where'd you get that ?
+_d1692 
+_d1692 		are you a teenager ? 
+_d1692 		naw . 
+_d1692 		you're a little boy . 
+_d1692 		you're not a teenager yet . 
+_d1692 		one day you will be a teenager . 
+_d1692 		one day I will climb up your leg . 
+_d1692 		one day the eye will climb up to your knee , and dance up and down .
+_d1692 
+_d1693 		where are you +//? 
+_d1693 		xxx . 
+_d1693 		turn the page , like this .
+_d1693 
+_d1693 		woo , see ? 
+_d1693 		here's the kitten . 
+_d1693 		yeah .
+_d1693 
+_d1693 		it's an orange kitten .
+_d1693 
+_d1693 		yeah .
+_d1693 
+_d1693 		let's go to the next page . 
+_d1693 		turn the page .
+_d1693 
+_d1693 		where are the gray kittens ?
+_d1693 
+_d1693 		come back kittens .
+_d1693 
+_d1693 		turn the page . 
+_d1693 		there they go . 
+_d1693 		to mommy and daddy . 
+_d1693 		yeah .
+_d1693 
+_d1693 		they're sleeping .
+_d1693 
+_d1693 		sleeping ,  . 
+_d1693 		sleeping .
+_d1693 
+_d1693 		xxx .
+_d1693 
+_d1693 		yeah , daddy sleeps like that , that's right .
+_d1693 
+_d1693 		sleeping .
+_d1693 
+_d1693 		doggy ?
+_d1693 
+_d1693 		Kia's [: Kia is] the doggy , that's right .
+_d1693 
+_d1693 		ruf ruf ruf ruf .
+_d1693 
+_d1693 		you wanna draw ?
+_d1693 
+_d1694 		here's a pen . 
+_d1694 		mmmm  .
+_d1694 
+_d1694 		pen . 
+_d1694 		not on your hand .
+_d1694 
+_d1694 		on the paper .
+_d1694 
+_d1694 		that's right . 
+_d1694 		that's right .
+_d1694 
+_d1694 		yeah , what are you +//.
+_d1694 
+_d1694 		are you drawing a doggy ?
+_d1694 
+_d1694 		yeah .
+_d1694 
+_d1694 		very good !
+_d1694 
+_d1694 		xxx drawing a doggy .
+_d1694 
+_d1694 		I like that . 
+_d1694 		draw some more ? 
+_d1694 		oh , what's that ? 
+_d1694 		a dog .
+_d1694 
+_d1694 		you're drawing .
+_d1694 
+_d1694 		you're drawing .
+_d1694 
+_d1694 		yeah , you're drawing on your hand .
+_d1694 
+_d1694 		here , look , you wanna draw a hand ?
+_d1694 
+_d1694 		watch .
+_d1694 
+_d1694 		put your hand down .
+_d1694 
+_d1695 		mommy's gonna draw your hand . 
+_d1695 		watch , stay still . 
+_d1695 		stay still . 
+_d1695 		that's good . 
+_d1695 		we're gonna draw your hand .
+_d1695 
+_d1695 		oh: , what's that ? 
+_d1695 		what's on the paper ?
+_d1695 
+_d1695 		what's on the paper ? 
+_d1695 		backpack . 
+_d1695 		what's this ?
+_d1695 
+_d1695 		watch .
+_d1695 
+_d1695 		mmmm ?
+_d1695 
+_d1695 		mommy's drawing a hand . 
+_d1695 		look . 
+_d1695 		what's that ? 
+_d1695 		yeah , it's a hand . 
+_d1695 		it's a big hand . 
+_d1695 		are you drawing ? 
+_d1695 		xxx . 
+_d1695 		ok great , thank you . 
+_d1695 		(o)kay , you can just go across there . 
+_d1695 		onto your body .
+_d1695 
+_d1695 		said +... 
+_d1695 		George . 
+_d1695 		in a loud voice . 
+_d1695 		whadyou [: what do you] see ?
+_d1695 
+_d1695 		whadyou [: what are you] lookin(g) at ? 
+_d1695 		oh , you want the house ?
+_d1695 
+_d1695 		put the ball in . 
+_d1695 		ok , here's the house . 
+_d1695 		want me  [: to] put it back ? 
+_d1695 		oops .
+_d1695 
+_d1695 		mmmm .
+_d1695 
+_d1695 		yeah , it rolls .
+_d1695 
+_d1696 		synonyms . 
+_d1696 		did you know that he talks too ? 
+_d1696 		uh , yeah , I think so . 
+_d1696 		dyou [: do you] wanna put the sign on top of the hook ?
+_d1696 
+_d1696 		won't stay .
+_d1696 
+_d1696 		what can lofty pick up ? 
+_d1696 		another tow+truck .
+_d1696 
+_d1697 		I hooked it under the front of the car . 
+_d1697 		wanna try and hook that one ? 
+_d1697 		oh , you're gonna hook this one , I see . 
+_d1697 		should we move over there ? 
+_d1697 		where there's more space ? 
+_d1697 		let's bring it all over there .
+_d1697 
+_d1697 		right over here . 
+_d1697 		comere [: come here] pumpkin . 
+_d1697 		here . 
+_d1697 		whoops ,  , now you're tangled . 
+_d1697 		don't . 
+_d1697 		comere [: come here] , just hook this to your behind . 
+_d1697 		mmmm+hmmm , what happened ?
+_d1697 
+_d1697 		they got a +... 
+_d1697 		flat +... 
+_d1697 		yup .
+_d1697 
+_d1697 		they got a flat tire . 
+_d1697 		hmmm ? 
+_d1697 		whadyou [: what do you] want ? 
+_d1697 		truck book yeah .
+_d1697 
+_d1697 		you  [: want to] sit down ? 
+_d1697 		elephants on board .
+_d1697 
+_d1698 		climb aboard , little children . 
+_d1698 		same thing . 
+_d1698 		we're off to the circus right on time . 
+_d1698 		the show is at two o'clock and it's twelve o nine .
+_d1698 
+_d1698 		trucks , yup .
+_d1698 
+_d1698 		mmmm+hmmm , dozers .
+_d1698 
+_d1698 		sweetie .
+_d1698 
+_d1698 		just leave it alone . 
+_d1698 		I'll read you the story . 
+_d1698 		they get onto the bus ?
+_d1698 
+_d1698 		let's finish .
+_d1698 
+_d1698 		they're all on the bus . 
+_d1698 		they're goin(g) to the circus .
+_d1698 
+_d1698 		uh  . 
+_d1698 		blowout . 
+_d1698 		pop . 
+_d1698 		flat tire . 
+_d1698 		what cou(ld) we do ? 
+_d1698 		our tires are flat , and it's twelve twenty+two .
+_d1698 		we can't miss the show , but there's no need to worry . 
+_d1698 		we can use these trucks , but we've got  [: to] hurry .
+_d1698 
+_d1698 		that's a loader .
+_d1698 
+_d1698 		what's that ?
+_d1698 
+_d1698 		yup , cherry+picker .
+_d1698 
+_d1698 		what's (th)at ?
+_d1698 
+_d1698 		what's (th)at ? 
+_d1698 		yup .
+_d1698 
+_d1698 		will the loader do ? 
+_d1698 		the fit is just right . 
+_d1698 		we can all squeeze in .
+_d1698 
+_d1698 		well , not quite . 
+_d1698 		what happened to the loader ?
+_d1698 
+_d1698 		yeah , and all the elephants fell down .
+_d1698 
+_d1698 		let's try the mixer . 
+_d1698 		we can ride on top . 
+_d1698 		don't touch that lever , or: we'll drop with a plop . 
+_d1698 		what happened ? 
+_d1698 		the mixer started going around and around . 
+_d1698 		and all the elephants fell off . 
+_d1698 		how about this crane ? 
+_d1698 		will it get us there on time ? 
+_d1698 		look , they're all climbing in the trai:n +//. 
+_d1698 		crane .
+_d1698 
+_d1698 		uh  , no , we're too heavy . 
+_d1698 		but that cherry+picker looks fine . 
+_d1698 		wait your turn for the ascent . 
+_d1698 		they're all climbing up .
+_d1698 
+_d1698 		oops , too many . 
+_d1698 		now the boom is bent . 
+_d1698 		they bent it .
+_d1698 
+_d1698 		this will be easier . 
+_d1698 		there's only ten minutes to go . 
+_d1698 		climb on boar:d .
+_d1698 
+_d1698 		we're off to the show . 
+_d1698 		what did they get into ? 
+_d1698 		yup , dumptruck .
+_d1698 
+_d1698 		the end . 
+_d1698 		that's a lot of elephants , isn't it ? 
+_d1698 		think they're gonna dump that ? 
+_d1698 		and all the elephants are gonna dump out ?
+_d1698 
+_d1698 		that's the circus over there . 
+_d1698 		they're going to the circus . 
+_d1698 		mmmm+hmmm .
+_d1698 
+_d1698 		George went to the circus ?
+_d1698 
+_d1698 		you're right . 
+_d1698 		are you sleepy ? 
+_d1698 		you look sleepy . 
+_d1698 		you sound sleepy . 
+_d1698 		it's a noisy bottle . 
+_d1698 		makes a lot of noise . 
+_d1698 		it's like a sprinkler ? 
+_d1698 		your balloon +//?
+_d1698 
+_d1698 		your bottle sounds like a sprinkler ?
+_d1698 
+_d1698 		yeah , kind of .
+_d1698 
+_d1698 		sounds like a what ?
+_d1698 
+_d1698 		water+spout , yeah .
+_d1698 
+_d1699 		and the rain comes down , goes  . 
+_d1699 		mmmm+hmmm .
+_d1699 
+_d1699 		the spider climbs up . 
+_d1699 		then the rain washes him out . 
+_d1699 		and then what happens ? 
+_d1699 		ss , is that the sound of the rain ?
+_d1699 
+_d1699 		xxx .
+_d1699 
+_d1700 		washed the spider out . 
+_d1700 		then what happened ? 
+_d1700 		out came the +...
+_d1700 
+_d1700 		mmmm+hmmm .
+_d1700 
+_d1700 		ss .
+_d1700 
+_d1700 		mmmm+hmmm .
+_d1700 
+_d1700 		spider coming out of the spout . 
+_d1700 		was he smiling ?
+_d1700 
+_d1700 		was he laughing ? 
+_d1700 		I think he was laughing . 
+_d1700 		ss ,  .
+_d1700 
+_d1700 		down down down .
+_d1700 
+_d1700 		what did you say ? 
+_d1700 		yup , he's green . 
+_d1700 		he has pretty big ears , huh ?
+_d1700 
+_d1700 		brought you some turkey . 
+_d1700 		gobble gobble .
+_d1700 
+_d1700 		gobble gobble says the turkey . 
+_d1700 		wanna hold it ? 
+_d1700 		there ya [: you] go . 
+_d1700 		what's he doin(g) ? 
+_d1700 		climbing ? 
+_d1700 		she'll be coming round the mountain when she comes . 
+_d1700 		toot toot ! 
+_d1700 		oh , you're talking about mouse paint , huh ?
+_d1700 
+_d1701 		were you talking about mouse paint ? 
+_d1701 		yellow and green make +... 
+_d1701 		blue .
+_d1701 
+_d1701 		blue and red make +...
+_d1701 
+_d1701 		purple . 
+_d1701 		and red and yellow make +... 
+_d1701 		that's right .
+_d1701 
+_d1701 		in the mouse book , right . 
+_d1701 		are you sleepy ? 
+_d1701 		you had no nap .
+_d1701 
+_d1701 		hmmm ?
+_d1701 
+_d1701 		bless you .
+_d1701 
+_d1701 		you want another bottle ?
+_d1701 
+_d1701 		we have_to go to the store and buy you some milk . 
+_d1701 		we just have juice today . 
+_d1701 		oops .
+_d1701 
+_d1701 		oops . 
+_d1701 		oops . 
+_d1701 		and what's this ?
+_d1701 
+_d1701 		it's the cone . 
+_d1701 		you're tangled up again .
+_d1701 
+_d1701 		let's take it off . 
+_d1701 		there ya [: you] go . 
+_d1701 		tickle tickle tickle tick(le) ti(ckle) . 
+_d1702 		no more what ? 
+_d1702 		hey Ethan , what did mommy say ? 
+_d1702 		it's for trucks .
+_d1702 
+_d1702 		it's gonna break . 
+_d1702 		Ethan's [: Ethan is] much heavier than a truck .
+_d1702 
+_d1702 		right ? 
+_d1702 		you're much heavier +//.
+_d1702 
+_d1702 		ow .
+_d1702 
+_d1702 		that hurt mommy's foot too . 
+_d1702 		kiss it .
+_d1702 
+_d1702 		ow . 
+_d1702 		I need a kiss .
+_d1702 
+_d1702 		that wasn't a kiss . 
+_d1702 		crash into Ethan . 
+_d1702 		has to be on the track . 
+_d1702 		you hafta +//. 
+_d1702 		you have_to get off .
+_d1702 
+_d1702 		or else the truck can't go . 
+_d1702 		ready ? 
+_d1702 		little darlin(g) ? 
+_d1702 		stir it up .
+_d1702 
+_d1702 		oops ,  . 
+_d1702 		are you ok ?
+_d1702 
+_d1702 		stir it up .
+_d1702 
+_d1702 		little darlin(g) .
+_d1702 
+_d1702 		little Ethan .
+_d1702 
+_d1702 		comere [: come here] sweetie , you're tangled up again . 
+_d1702 		oval ?
+_d1702 
+_d1702 		that's not an oval .
+_d1702 
+_d1702 		kind of an oval . 
+_d1702 		let's see , let's get your leg .
+_d1702 
+_d1702 		there ya [: you] go . 
+_d1702 		un+tangled . 
+_d1702 		sweetie . 
+_d1702 		Ethan . 
+_d1702 		here sweetie .
+_d1702 
+_d1702 		ah , broken down .
+_d1702 
+_d1703 		truck in trouble book ? 
+_d1703 		there was a van broken down in that book . 
+_d1703 		the green van was broken down . 
+_d1703 		and it was in the truck's way . 
+_d1703 		yup , truck in trouble book .
+_d1703 
+_d1703 		colorful brown ?
+_d1703 
+_d1703 		that's a colorful brown ? 
+_d1703 		it's a rocky brown . 
+_d1703 		this is like a little mountain .
+_d1703 
+_d1703 		it's a mountain of dirt . 
+_d1703 		and the balls come down . 
+_d1703 		watch this . 
+_d1703 		whoops . 
+_d1703 		watch . 
+_d1703 		push . 
+_d1703 		and the ball comes down . 
+_d1703 		push it , and the ball rolls +//.
+_d1703 
+_d1703 		woo .
+_d1703 
+_d1703 		wanna try pushing it ? 
+_d1703 		push , the ball rolls down . 
+_d1703 		the boulder .
+_d1703 
+_d1703 		that's right , it's a boulder .
+_d1703 
+_d1703 		for all the water .
+_d1703 
+_d1703 		Ethan .
+_d1703 
+_d1703 		mmmm+hmmm .
+_d1703 
+_d1703 		it's gravel .
+_d1703 
+_d1703 		yeah , maybe it's gravel .
+_d1703 
+_d1703 		comere [: come here] .
+_d1703 
+_d1704 		oh baby . 
+_d1704 		you're getting yourself all tangled up .
+_d1704 
+_d1704 		let's leave it on .
+_d1704 
+_d1704 		sock it to me , sock it to me ?
+_d1704 
+_d1704 		xxx .
+_d1704 
+_d1704 		ooh , you're gonna hurt yourself . 
+_d1704 		sock it to me , sock it to me , sock it to me , sock it to me . 
+_d1704 		ow , did that hurt ?
+_d1704 
+_d1704 		you are movin(g) an(d) movin(g) an(d) movin(g) an(d) movin(g) .
+_d1704 
+_d1704 		you are moving an(d) moving an(d) moving an(d) moving an(d) moving an(d) moving an(d) moving an(d) moving .
+_d1704 
+_d1705 		you're moving an(d) moving an(d) moving an(d) moving . 
+_d1705 		you are moving an(d) moving an(d) moving an(d) moving . 
+_d1705 		you are moving an(d) moving an(d) moving an(d) moving ! 
+_d1705 		colorful .
+_d1705 
+_d1705 		this is very colorful . 
+_d1705 		that means it has many colors .
+_d1705 
+_d1705 		Ethan ? 
+_d1705 		Ethan .
+_d1705 
+_d1705 		that belongs on your pants . 
+_d1705 		silly bum . 
+_d1705 		how (a)bout on your shirt ?
+_d1705 
+_d1705 		that's for shorts or a shirt .
+_d1705 
+_d1705 		mommy's got it on her pants , see ?
+_d1705 
+_d1705 		don't pull , just leave it . 
+_d1705 		leave it leave it leave it leave it leave it leave it leave it leave it .
+_d1705 
+_d1705 		leave it leave it leave it leave it leave it .
+_d1705 
+_d1705 		ah: .
+_d1705 
+_d1705 		you kicked the garbage cans .
+_d1705 
+_d1705 		you playing soccer with a garbage can ?
+_d1705 
+_d1705 		ooh ,  .
+_d1705 
+_d1705 		goes pretty fast .
+_d1705 
+_d1706 		clank . 
+_d1706 		you're gonna knock it over ? 
+_d1706 		why don't we just move the cans over to that ?
+_d1706 
+_d1706 		ready ? 
+_d1706 		you knocked it over .
+_d1706 
+_d1706 		it came out . 
+_d1706 		we'll just fix it .
+_d1706 
+_d1706 		let me get your feet out of the way . 
+_d1706 		here we go .
+_d1706 
+_d1706 		ready ?
+_d1706 
+_d1706 		you're gonna knock it over . 
+_d1706 		whoa ! 
+_d1706 		crash .
+_d1706 
+_d1706 		whoa , you knocked it over without the knocker . 
+_d1706 		bump , this is called a wrecker ball . 
+_d1706 		it's a wrecker . 
+_d1706 		it wrecks and destroys things , just like Ethan . 
+_d1706 		wreck .
+_d1706 
+_d1706 		leave it leave it leave it .
+_d1706 
+_d1706 		leave it !
+_d1706 
+_d1706 		leave it .
+_d1706 
+_d1706 		leave it .
+_d1706 
+_d1706 		leave it .
+_d1706 
+_d1706 		leave it .
+_d1706 
+_d1706 		leave it .
+_d1706 
+_d1706 		leave it leave it . 
+_d1706 		leave it .
+_d1706 
+_d1706 		you're moving an(d) moving an(d) moving an(d) moving .
+_d1706 
+_d1706 		you're moving an(d) moving an(d) moving an(d) mo:ving . 
+_d1706 		Ethan .
+_d1706 
+_d1706 		a ladder ?
+_d1706 
+_d1706 		a lala ?
+_d1706 
+_d1706 		ho .
+_d1706 
+_d1706 		oops .
+_d1706 
+_d1707 		are you green ? 
+_d1707 		oopsie+doopsie+doo . 
+_d1707 		you're moving , an(d) moving an(d) moving an(d) moving .
+_d1707 
+_d1707 		boop . 
+_d1707 		boop     .
+_d1707 
+_d1707 		la la la la la la la .
+_d1707 
+_d1707 		oh , you're makin(g) me dizzy .
+_d1707 
+_d1707 		you're makin(g) me dizzy . 
+_d1707 		you're makin(g) me dizzy .
+_d1707 
+_d1707 		a busy truck , yup .
+_d1707 
+_d1707 		that's the story we read about busy trucks . 
+_d1707 		yup , trucks are machines .
+_d1707 
+_d1707 		trucks are big machines . 
+_d1707 		little machines .
+_d1707 
+_d1707 		trucks are big machines .
+_d1707 
+_d1707 		you're silly .
+_d1707 
+_d1708 		Ethan . 
+_d1708 		that's for trucks . 
+_d1708 		that part is for boulders . 
+_d1708 		you wanna  put the boulders in there ? 
+_d1708 		very good . 
+_d1708 		you took it out . 
+_d1708 		rolling rolling rolling .
+_d1708 
+_d1708 		what's rolling ?
+_d1708 
+_d1708 		oh , row .
+_d1708 
+_d1708 		merrily merrily merrily merrily .
+_d1708 
+_d1708 		life is but +//. 
+_d1708 		up , where's Ethan ?
+_d1708 
+_d1708 		Ethan Ethan Ethan Ethan ,  .
+_d1708 
+_d1708 		I found you .
+_d1708 
+_d1708 		you're moving an(d) moving an(d) moving an(d) moving . 
+_d1708 		you're moving ,  !
+_d1708 
+_d1708 		you're moving an(d) moving an(d) moving an(d) moving .
+_d1708 
+_d1708 		Ethan .
+_d1708 
+_d1708 		those are for trucks and boulders .
+_d1708 
+_d1708 		that's for a truck . 
+_d1708 		too big .
+_d1708 
+_d1708 		you're right , it is too big .
+_d1708 
+_d1708 		up .
+_d1708 
+_d1708 		it came off .
+_d1708 
+_d1708 		you want me to fix it ?
+_d1708 
+_d1708 		it needs oil ?
+_d1708 
+_d1709 		maybe it does . 
+_d1709 		xxx , I gave it some oil . 
+_d1709 		oil , mmmm+hmmm .
+_d1709 
+_d1709 		okay , gave it some oil .
+_d1709 
+_d1709 		see , you push this in .
+_d1709 
+_d1709 		watch , let go .
+_d1709 
+_d1709 		there ya [: you] go .
+_d1709 
+_d1709 		push push push dump push dump push .
+_d1709 
+_d1709 		Ethan . 
+_d1709 		you're gonna break it .
+_d1709 
+_d1709 		yeah , that's for trucks .
+_d1709 
+_d1709 		whoa , see .
+_d1709 
+_d1709 		you're also gonna hurt yourself .
+_d1709 
+_d1709 		from a digger , yeah .
+_d1709 
+_d1710 		and who is this ? 
+_d1710 		it's Elmo with a hammer and a hard+hat on his head .
+_d1710 
+_d1710 		Ethan , Ethan stop . 
+_d1710 		yes .
+_d1710 
+_d1710 		and you're going  [: to] break it .
+_d1710 
+_d1710 		you're gonna make it go crash .
+_d1710 
+_d1711 		tow+truck time . 
+_d1711 		some things you can't fix .
+_d1711 
+_d1711 		even with a screwdriver you couldn't fix it .
+_d1711 
+_d1711 		if you broke it , it would have_to go in the garbage .
+_d1711 
+_d1711 		yup , yes it would .
+_d1711 
+_d1711 		xxx .
+_d1711 
+_d1712 		uh  . 
+_d1712 		uh  . 
+_d1712 		whaddya [: what are you] doin(g) ? 
+_d1712 		come out , come out , wherever you are .
+_d1712 
+_d1712 		crash .
+_d1712 
+_d1712 		hello: .
+_d1712 
+_d1712 		come down .
+_d1712 
+_d1712 		come down .
+_d1712 
+_d1712 		I know that's probably uncomfortable , huh ?
+_d1712 
+_d1712 		Ethan Ethan Ethan Ethan Ethan .
+_d1712 
+_d1712 		that's for trucks .
+_d1712 
+_d1712 		truck in trouble .
+_d1712 
+_d1712 		Ethan .
+_d1712 
+_d1712 		stop stop stop .
+_d1712 
+_d1712 		why don't you play with these trucks ?
+_d1712 
+_d1712 		play with this guy , lofty .
+_d1712 
+_d1712 		look how high his crane goes .
+_d1712 
+_d1712 		I think it goes even higher .
+_d1712 
+_d1712 		that's very high .
+_d1712 
+_d1712 		mmmm+hmmm .
+_d1712 
+_d1712 		higher and higher .
+_d1712 
+_d1712 		higher and higher .
+_d1712 
+_d1712 		higher and higher .
+_d1712 
+_d1712 		eh .
+_d1712 
+_d1712 		higher and higher .
+_d1712 
+_d1712 		higher and higher .
+_d1712 
+_d1712 		hi you .
+_d1712 
+_d1712 		hey you .
+_d1712 
+_d1712 		hey , we're not scared of you .
+_d1712 
+_d1712 		is it stuck ?
+_d1712 
+_d1712 		you want the orange thing off ?
+_d1712 
+_d1712 		yup , belongs .
+_d1712 
+_d1712 		here , it belongs on this side .
+_d1712 
+_d1712 		higher an(d) higher an(d) higher an(d) higher an(d) +...
+_d1712 
+_d1712 		higher .
+_d1712 
+_d1713 		I got you , I got you , I got you , I got you , I got you . 
+_d1713 		I'm a gonna gonna .
+_d1713 
+_d1713 		I'm a gonna gonna .
+_d1713 
+_d1713 		I'm a gonna guda [: going to] guda [: going to] guda [: going to] guda [: going to] guda [: going to] guda [: going to] guda [: going to] guda [: going to] +...
+_d1713 
+_d1713 		I got you .
+_d1713 
+_d1713 		I'm gonna get you .
+_d1713 
+_d1713 		I'm a gonna gonna gonna gonna gonna gonna gonna [: going to] gonna gonna .
+_d1713 
+_d1713 		I got you , I got you , I got you .
+_d1713 
+_d1713 		whatchou [: what did you] do that for ?
+_d1713 
+_d1713 		ss .
+_d1713 
+_d1713 		don't let the bedbugs bite .
+_d1713 
+_d1713 		yup , ladybug crawls .
+_d1713 
+_d1713 		ah , don't step on that .
+_d1713 
+_d1713 		yeah ,  .
+_d1713 
+_d1713 		ah !
+_d1713 
+_d1713 		ah !
+_d1713 
+_d1713 		you're moving an(d) moving an(d) moving an(d) moving .
+_d1713 
+_d1713 		ah .
+_d1713 
+_d1713 		crash .
+_d1713 
+_d1713 		crash .
+_d1713 
+_d1713 		you you you you .
+_d1713 
+_d1714 		what's (th)at ? 
+_d1714 		camera .
+_d1714 
+_d1714 		it's the tripod box .
+_d1714 
+_d1714 		that's a police car , right ? 
+_d1714 		whoa .
+_d1714 
+_d1714 		Ethan , why don't you walk on the floor and not on the track .
+_d1714 
+_d1714 		(o)kay ?
+_d1714 
+_d1714 		Ethan , you're gonna break it .
+_d1714 
+_d1714 		there ya [: you] go .
+_d1714 
+_d1714 		uh  . 
+_d1714 		uh  .
+_d1714 
+_d1714 		yeah , they're racing .
+_d1714 
+_d1714 		who's first ?
+_d1714 
+_d1714 		I'm first , you're last .
+_d1714 
+_d1715 		I:'m first . 
+_d1715 		you're last . 
+_d1715 		let's see who's first .
+_d1715 
+_d1715 		on your mark , get ready , get set , go .
+_d1715 
+_d1715 		the blue car is first .
+_d1715 
+_d1715 		the police car is last . 
+_d1715 		let's try again .
+_d1715 
+_d1715 		on your mark , get ready , get set +...
+_d1715 
+_d1715 		go .
+_d1715 
+_d1715 		up , the police car is first , and the blue car is last .
+_d1715 
+_d1715 		they're up .
+_d1715 
+_d1715 		on your mark , get ready +...
+_d1715 
+_d1715 		get set +...
+_d1715 
+_d1715 		go: .
+_d1715 
+_d1715 		who's first ? 
+_d1715 		the police car was first down the hill .
+_d1715 
+_d1715 		on your mark , get ready , get set , go: . 
+_d1715 		go , faster faster .
+_d1715 
+_d1715 		crash .
+_d1715 
+_d1715 		mmmm+hmmm , the tow truck has to come +...
+_d1715 
+_d1716 		and take the car away . 
+_d1716 		this one broken too ? 
+_d1716 		yeah , he's towing im [: him] to a garage .
+_d1716 
+_d1716 		oops .
+_d1716 
+_d1716 		it needs gas ?
+_d1716 
+_d1716 		where's the gas station ?
+_d1716 
+_d1716 		you giving it some gas ?
+_d1716 
+_d1716 		is he fixed now ?
+_d1716 
+_d1716 		hey maybe this car can go down here .
+_d1716 
+_d1716 		mmmm+hmmm .
+_d1716 
+_d1716 		see this sign ?
+_d1716 
+_d1716 		it says go .
+_d1716 
+_d1717 		g o , go . 
+_d1717 		who's that , Zoe ? 
+_d1717 		Zoe says on your mark . 
+_d1717 		get ready , get set , go . 
+_d1717 		the sign says go .
+_d1717 
+_d1717 		and on back it says stop , it's red . 
+_d1717 		go go go go go go go .
+_d1717 
+_d1718 		let's see if you have any more cars . 
+_d1718 		oops .
+_d1718 
+_d1718 		no more cars .
+_d1718 
+_d1718 		ready set go .
+_d1718 
+_d1718 		did they crash ?
+_d1718 
+_d1718 		put some cement on it .
+_d1718 
+_d1718 		sh: .
+_d1718 
+_d1718 		flows down the chute .
+_d1718 
+_d1718 		sh: .
+_d1718 
+_d1718 		mmmm+hmmm .
+_d1718 
+_d1718 		police car was first ?
+_d1718 
+_d1718 		the blue car was last . 
+_d1718 		let's try again .
+_d1718 
+_d1718 		on your mark , get ready get set go . 
+_d1718 		yeah , go guys go .
+_d1718 
+_d1718 		that's what cookie monster's [: monster is] saying .
+_d1718 
+_d1718 		they're watching the cars .
+_d1718 
+_d1718 		they're saying go , go cars go .
+_d1718 
+_d1718 		hip hip hooray ,  .
+_d1718 
+_d1718 		go team go .
+_d1718 
+_d1718 		they're all watching .
+_d1718 
+_d1718 		xxx .
+_d1718 
+_d1719 		honk honk . 
+_d1719 		uh  , there's a gate in the road . 
+_d1719 		cannot go . 
+_d1719 		cannot go .
+_d1719 
+_d1719 		there's a gate in the road .
+_d1719 
+_d1719 		he knocked it over . 
+_d1719 		they're watching , that's right .
+_d1719 
+_d1719 		they're all watching , except for Ernie .
+_d1719 
+_d1719 		now he's watching too .
+_d1719 
+_d1719 		mmmm+hmmm .
+_d1719 
+_d1719 		mmmm+hmmm .
+_d1719 
+_d1719 		little+bird is watching ? 
+_d1719 		mmmm+hmmm .
+_d1719 
+_d1719 		whoops .
+_d1719 
+_d1719 		let's go , go go . 
+_d1719 		mmmm+hmmm . 
+_d1719 		you got it . 
+_d1719 		are they all there ? 
+_d1719 		they're standing next to each other . 
+_d1719 		mmmm+hmmm , do not go .
+_d1719 
+_d1719 		the gate means do not go . 
+_d1719 		and these cones mean construction . 
+_d1719 		construction on the roads . 
+_d1719 		yup [: yes] , rolly rolled (th)em over .
+_d1719 
+_d1719 		he takes it away: .
+_d1719 		up , you want it there , okay .
+_d1719 
+_d1719 		crash .
+_d1719 
+_d1719 		do not go in .
+_d1719 
+_d1719 		mmmm+hmmm .
+_d1719 
+_d1719 		can I have the ball please ? 
+_d1719 		thank you . 
+_d1719 		do not go in . 
+_d1719 		oh , crashed .
+_d1719 
+_d1719 		whoa . 
+_d1719 		he went backwards . 
+_d1719 		mmmm+hmmm . 
+_d1719 		whoops .
+_d1719 
+_d1719 		thank you .
+_d1719 
+_d1719 		oh , it turned .
+_d1719 
+_d1719 		you turned the road . 
+_d1719 		that's right , push it .
+_d1719 
+_d1719 		whoa .
+_d1719 
+_d1720 		made the ball spin . 
+_d1720 		but usually it knocks down garbage cans . 
+_d1720 		(be)cause who's driving it ? 
+_d1720 		Oscar the +...
+_d1720 
+_d1720 		grouch . 
+_d1720 		he lives in a garbage can .
+_d1720 
+_d1720 		yup , trash .
+_d1720 
+_d1720 		oh: . 
+_d1720 		crash went Oscar the grouch . 
+_d1720 		you know why he's called Oscar the grouch ?
+_d1720 
+_d1720 		(be)cause he's grouchy . 
+_d1720 		you okay ? 
+_d1720 		cmere [: come here] . 
+_d1720 		cmere [: come here] . 
+_d1720 		cmere [: come here] .
+_d1720 
+_d1720 		cmere [: come here] cmere [: come here] cmere [: come here] .
+_d1720 
+_d1720 		ride a  to banbury cross .
+_d1720 
+_d1721 		doo    ,      . 
+_d1721 		patty+cake ?
+_d1721 
+_d1721 		baker's +...
+_d1721 
+_d1721 		bake me a +... 
+_d1721 		as +...
+_d1721 
+_d1721 		fast as you can .
+_d1721 
+_d1721 		r:oll it . 
+_d1721 		kneed it . 
+_d1721 		and +... 
+_d1721 		right .
+_d1721 
+_d1721 		and put it +... 
+_d1721 		for +...
+_d1721 
+_d1721 		Ethan and me . 
+_d1721 		glimmer glisten in the air . 
+_d1721 		bubbles bubbles . 
+_d1721 		everywhere .
+_d1721 
+_d1721 		crash went the trash .
+_d1721 
+_d1721 		crash went the trash . 
+_d1721 		Ethan .
+_d1721 
+_d1721 		Ethan .
+_d1721 
+_d1721 		yup .
+_d1721 
+_d1721 		truck in trouble .
+_d1721 
+_d1722 		you be gentle . 
+_d1722 		remember the be gentle book ? 
+_d1722 		we have_to be gentle with kittens . 
+_d1722 		and with toys .
+_d1722 
+_d1722 		and with mommies and daddies .
+_d1722 
+_d1722 		don't step on it .
+_d1722 
+_d1722 		mmmm+hmmm .
+_d1722 
+_d1722 		be gentle with everything .
+_d1722 
+_d1722 		be gentle with mommy .
+_d1722 
+_d1723 		gentle . 
+_d1723 		that's right , that's nice .
+_d1723 
+_d1723 		I be gentle with Ethan . 
+_d1723 		gentle with the ball .
+_d1723 
+_d1723 		that's hard .
+_d1723 
+_d1723 		that's not gentle . 
+_d1723 		gentle , soft .
+_d1723 
+_d1723 		that's not gentle .
+_d1723 
+_d1723 		that's hard . 
+_d1723 		tough , rough . 
+_d1723 		rough and tough .
+_d1723 
+_d1723 		you are last .
+_d1723 
+_d1724 		I am +... 
+_d1724 		first . 
+_d1724 		mmmm , race+car races .
+_d1724 
+_d1724 		mmmm+hmmm .
+_d1724 
+_d1724 		it's at the top of the hill , going to the bottom . 
+_d1724 		it's at the top of the hill , and it's going to the +...
+_d1724 
+_d1724 		bottom: .
+_d1724 
+_d1724 		what're [: what are] you sitting on Ethan ?
+_d1724 
+_d1724 		the track . 
+_d1724 		the track is for +...
+_d1724 
+_d1724 		trucks .
+_d1724 
+_d1724 		and cars too .
+_d1724 
+_d1724 		and sometimes mixers . 
+_d1724 		Ethan .
+_d1724 
+_d1724 		woo  .
+_d1724 
+_d1724 		choo  .
+_d1724 
+_d1724 		chugga        .
+_d1724 
+_d1725 		chugga    . 
+_d1725 		woo woo: .
+_d1725 
+_d1725 		ooh ooh: . 
+_d1725 		ah ,  . 
+_d1725 		the bear . 
+_d1725 		what's the bear doing ?
+_d1725 
+_d1725 		dancing ?
+_d1725 
+_d1725 		dance dance dance , dance dance dance dance dance dance .
+_d1725 
+_d1725 		it's another sign . 
+_d1725 		Ethan Matthew . 
+_d1725 		Ethan Matthew .
+_d1725 
+_d1726 		oops . 
+_d1726 		honk honk .
+_d1726 
+_d1726 		are you eating the sign ?
+_d1726 
+_d1726 		what did you find ? 
+_d1726 		yeah , more signs .
+_d1726 
+_d1726 		ow .
+_d1726 
+_d1726 		dyou [: do you] want me to get them out ?
+_d1726 
+_d1726 		we just have_to open the bag a little .
+_d1726 
+_d1727 		for me ? 
+_d1727 		wanna stick it on my knee ?
+_d1727 		on my hand . 
+_d1727 		honk honk honk . 
+_d1727 		whoops . 
+_d1727 		you wanna try the truck ? 
+_d1727 		you wanna try the +... 
+_d1727 		okay , put it on the track .
+_d1727 
+_d1727 		you can try it . 
+_d1727 		mommy'll [: mommy will] put it on for you . 
+_d1727 		yeah . 
+_d1727 		put it on right there . 
+_d1727 		we'll move the bear out of the way , and you can sit on mommy's lap .
+_d1727 
+_d1727 		oops . 
+_d1727 		and push this button when you want it to go forward .
+_d1727 
+_d1727 		it'll start in a minute , and you have_to press the button on . 
+_d1727 		ready ? 
+_d1727 		keep pressing . 
+_d1727 		uh  . 
+_d1727 		crash . 
+_d1727 		that's not dad , is it ?
+_d1727 

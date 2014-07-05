@@ -1,0 +1,1269 @@
+_d6167 		did you do it ? 
+_d6167 		can you throw this one away too ? 
+_d6167 		thank you ! 
+_d6167 		hmmm . 
+_d6167 		
+_d6167 		(o)kay . 
+_d6167 		thank you . 
+_d6167 		
+_d6167 		alright . 
+_d6167 		let's make sure now . 
+_d6167 		yeah we don't need that one . 
+_d6167 		let's make sure yours is on . 
+_d6167 		let's see . 
+_d6167 		okay . 
+_d6167 		what are they doing outside , huh ? 
+_d6167 		let's [x 
+_d6167 		too . 
+_d6167 		just in case +... 
+_d6167 		where do we put this  here ? 
+_d6167 		ready ? 
+_d6167 		no [x 
+_d6167 		there we go . 
+_d6167 		open the door .
+_d6167 
+_d6167 		yeah that one , open . 
+_d6167 		can you open the door ? 
+_d6167 		can you open it ? 
+_d6167 		no ? 
+_d6167 		(o)kay , throw it away . 
+_d6167 		thank you ! 
+_d6167 		xxx . 
+_d6167 		we've gotta sweep up in here . 
+_d6167 		want to help me sweep ?
+_d6167 
+_d6167 		let's put this in the other room . 
+_d6167 		xxx . 
+_d6167 		which one do you want ?
+_d6167 
+_d6168 		this one ? 
+_d6168 		this one ?
+_d6168 
+_d6168 		(o)kay , come on .
+_d6168 
+_d6168 		hmmm ? 
+_d6168 		wonder where we can put that camera .
+_d6168 
+_d6168 		table ?
+_d6168 
+_d6168 		what if we tilted it like this ? 
+_d6168 		
+_d6168 		alright , come on . 
+_d6168 		sweep that under the chair . 
+_d6168 		can you sweep ?
+_d6168 
+_d6168 		I need a sweeper .
+_d6168 
+_d6168 		I found a person .
+_d6168 
+_d6168 		I found a little person .
+_d6168 
+_d6168 		look , it's one of these little people .
+_d6168 
+_d6169 		where's that people go ? 
+_d6169 		he goes away ? 
+_d6169 		where'd the people go ?
+_d6169 
+_d6169 		where did the people go ?
+_d6169 
+_d6169 		hmmm ?
+_d6169 
+_d6169 		where'd the people go ? 
+_d6169 		hmmm ? 
+_d6169 		where'd the people go ? 
+_d6169 		went away ? 
+_d6169 		did he run away ?
+_d6169 
+_d6169 		run away .
+_d6169 
+_d6169 		did he run away ? 
+_d6169 		did he fall under the table ?
+_d6169 
+_d6169 		where did the +//?
+_d6169 
+_d6169 		where did the man go , did he run away ?
+_d6169 
+_d6169 		he's under the table ?
+_d6169 
+_d6169 		can you get him ? 
+_d6169 		there he is . 
+_d6169 		there he is . 
+_d6169 		xxx .
+_d6169 
+_d6169 		yes , darlin(g) .
+_d6169 
+_d6169 		you all done ?
+_d6169 
+_d6169 		okay .
+_d6169 
+_d6169 		as soon as I ,  , finish sweeping we can do the mop+mop .
+_d6169 
+_d6170 		(o)kay ? 
+_d6170 		you wanna do the mop+mop ? 
+_d6170 		you like that better , doncha [: don't you] ? 
+_d6170 		and I'll give you a sponge to do ? 
+_d6170 		wait a minute , I'll get it . 
+_d6170 		we've gotta , we've gotta finish the sweep+sweep first .
+_d6170 
+_d6170 		let's see . 
+_d6170 		let's sweep  . 
+_d6170 		grosso , huh ? 
+_d6170 		dirty . 
+_d6170 		dirty Gertie . 
+_d6170 		okay . 
+_d6170 		now I'm gonna get you a sponge . 
+_d6170 		and some soap . 
+_d6170 		okay . 
+_d6170 		okay , let me put these mops away , I mean , these brooms away  .
+_d6170 
+_d6170 		is this where you wanna put your sponge in ? 
+_d6170 		okay . 
+_d6170 		want some bubbles in there ? 
+_d6170 		now , you (re)member how to do it ? 
+_d6170 		let's find you a spot that's dirty . 
+_d6170 		how (a)bout right here ? 
+_d6170 		this is whatcha [: what you] do . 
+_d6170 		you squee:ze the sponge over the water . 
+_d6170 		and then scrub , scrub , scrub . 
+_d6170 		okay ? 
+_d6170 		squee:ze the sponge over the water . 
+_d6170 		let me dump out a little water , (be)cause that's gonna make a  , you're just gonna dump it out . 
+_d6170 		okay . 
+_d6170 		that's still too much , but we'll give it to ya [: you] , huh ? 
+_d6170 		(o)kay: , clean up Violet . 
+_d6170 		clea:n (th)em up . 
+_d6170 		let's see if we have any paper towels . 
+_d6170 		maybe in here . 
+_d6170 		we're gettin(g) clean ? 
+_d6170 		no , not on your hands , scrub it on the floor . 
+_d6170 		scrub the floor . 
+_d6170 		notcha [: not your] hands . 
+_d6170 		here ,  up . 
+_d6170 		pull up your pants . 
+_d6170 		you're still gonna get soaked I bet . 
+_d6170 		okay , there you go . 
+_d6170 		scrubby [x 
+_d6170 		let's move this thing out here . 
+_d6170 		uh+oh . 
+_d6170 		xxx , Viole:t . 
+_d6170 		I knew that was gonna happen . 
+_d6170 		xxx . 
+_d6170 		(o)kay , why don't you scrub this  . 
+_d6170 		scrubby+scrubby . 
+_d6170 		good girl . 
+_d6170 		I'm gonna get the mop . 
+_d6170 		okay . 
+_d6170 		xxx . 
+_d6170 		okay then . 
+_d6170 		okay then . 
+_d6170 		here , we'll wipe it up with this little thing . 
+_d6170 		xxx . 
+_d6170 		okay . 
+_d6170 		how's it comin(g) ? 
+_d6170 		whoa , careful ! 
+_d6170 		you don't wanna  +//.
+_d6170 
+_d6170 		let me wipe it up a little so you don't slide all over the place . 
+_d6170 		the:re we go , that better ? 
+_d6170 		little bit ? 
+_d6170 		careful you don't slip . 
+_d6170 		now what should we do about this table ? 
+_d6170 		huh ? 
+_d6170 		should we just leave it like that ? 
+_d6170 		clean the table a little bit ? 
+_d6170 		put it near the sponges . 
+_d6170 		huh ?
+_d6170 
+_d6170 		xxx . 
+_d6170 		good gir:l . 
+_d6170 		yeah , clean the table . 
+_d6170 		are you a good cleaner ?
+_d6170 
+_d6170 		mhm .
+_d6170 
+_d6170 		xxx , table .
+_d6170 
+_d6170 		you makin(g) a clean table ? 
+_d6170 		hmmm ? 
+_d6170 		xxx . 
+_d6170 		xxx . 
+_d6170 		xxx . 
+_d6170 		I need the sprayer . 
+_d6170 		you're gonna get all wet . 
+_d6170 		xxx . 
+_d6170 		you washin(g) your feet ? 
+_d6170 		are you washin(g) your feet ? 
+_d6170 		huh ? 
+_d6170 		are your feet dirty ? 
+_d6170 		clean feet ! 
+_d6170 		gonna hafta clean +... 
+_d6170 		clean your entire +... 
+_d6170 		suit . 
+_d6170 		I bet . 
+_d6170 		hmmm ? 
+_d6170 		are your feet clean +..? 
+_d6170 		or dirty ? 
+_d6170 		huh , Vaivy ? 
+_d6170 		alright . 
+_d6170 		well +... 
+_d6170 		xxx  so much you can do , huh ? 
+_d6170 		are you cleaned up ? 
+_d6170 		you all cleaned ? 
+_d6170 		(o)kay . 
+_d6170 		lemme [: let me] do the floor a little bit then +... 
+_d6170 		with this . 
+_d6170 		I gotta do this . 
+_d6170 		hmmm ?
+_d6170 
+_d6170 		hmmm ? 
+_d6170 		this is a mop . 
+_d6170 		this is a mop . 
+_d6170 		you know what a mop is ? 
+_d6170 		it's a mop . 
+_d6170 		don't eat that ,  ! 
+_d6170 		no , no face ! 
+_d6170 		no mouth and no face . 
+_d6170 		no: . 
+_d6170 		Violet ! 
+_d6170 		no: face ! 
+_d6170 		no face ! 
+_d6170 		no eating it . 
+_d6170 		woo , careful !
+_d6170 
+_d6170 		ca:reful . 
+_d6170 		we:ll , you did a good job cleaning over here . 
+_d6170 		xxx ,  , no face ! 
+_d6170 		good gir:l . 
+_d6170 		you little Cinderella ! 
+_d6170 		here , clean this wall over here . 
+_d6170 		that wall is dirty . 
+_d6170 		xxx you clean the walls ? 
+_d6170 		whoa: , it's slippery . 
+_d6170 		slippery . 
+_d6170 		slippery !
+_d6170 
+_d6170 		what do you need again ? 
+_d6170 		some more water ? 
+_d6170 		alright ,  do em here .
+_d6170 
+_d6170 		xxx .
+_d6170 
+_d6170 		mommy [x 
+_d6170 		alright , you gonna , you gonna do some ?
+_d6170 
+_d6170 		careful , you're gonna slide all over the place ! 
+_d6170 		I'll hold you up . 
+_d6170 		push , push ! 
+_d6170 		xxx .
+_d6170 
+_d6170 		ya [: you] gotta push like this . 
+_d6170 		mop , mop . 
+_d6170 		okay , do right here . 
+_d6170 		whoops ! 
+_d6170 		uh+oh ! 
+_d6170 		yep [: yes] , mop+mop ,    here (be)cause it's not as wet . 
+_d6170 		this is  +//.
+_d6170 
+_d6170 		this is gonna be injury land , huh ?
+_d6170 
+_d6170 		(o)kay , push !
+_d6170 
+_d6170 		okay ?
+_d6170 
+_d6170 		you moppin(g) ?
+_d6170 
+_d6170 		is it all clean ?
+_d6170 
+_d6171 		I hate cleanin(g) the kitchen . 
+_d6171 		alright .
+_d6171 
+_d6171 		careful when you walk . 
+_d6171 		more what ? 
+_d6171 		more water ? 
+_d6171 		on where ? 
+_d6171 		you want your sponge back ? 
+_d6171 		(o)kay , here . 
+_d6171 		yeah , give me the sponge .
+_d6171 
+_d6171 		and I'll finish the mop(ping) . 
+_d6171 		careful when you walk , careful , go slow ! 
+_d6171 		(be)cause you know what ? 
+_d6171 		slippery , slippery . 
+_d6171 		go slow: ! 
+_d6171 		go slow: ! 
+_d6171 		care:ful and slow . 
+_d6171 		great ! 
+_d6171 		xxx , looks a little better , huh ?
+_d6171 
+_d6171 		mmmm , (o)kay , lemme [: let me] mop that . 
+_d6171 		tha:nk you ! 
+_d6171 		okay ,  . 
+_d6171 		tha:nk you ! 
+_d6171 		okay: ! 
+_d6171 		thank you ! 
+_d6171 		let me have the mop now +//.
+_d6171 
+_d6171 		let me have the sponge . 
+_d6171 		thank you: !
+_d6171 
+_d6171 		(o)kay .
+_d6171 
+_d6171 		xxx .
+_d6171 
+_d6171 		let's go this way ,    we're gonna  the chairs back in here .
+_d6171 
+_d6171 		whoa: slippery ! 
+_d6171 		slippery [x 
+_d6171 		put these away . 
+_d6171 		xxx , we're gonna put the chairs back .
+_d6171 
+_d6171 		right ?
+_d6171 
+_d6171 		one +...
+_d6171 
+_d6172 		other one +... 
+_d6172 		slippery [x 
+_d6172 		and this one +...
+_d6172 
+_d6172 		alrigh:t , now let's go find another job . 
+_d6172 		(o)kay ?
+_d6172 
+_d6172 		check for a job in here . 
+_d6172 		while we let that dry . 
+_d6172 		okay , we're gonna  this , we're gonna bring this around the corner .
+_d6172 
+_d6172 		so we can see if we can +...
+_d6172 
+_d6172 		let's tape you in here .
+_d6172 
+_d6172 		the problem is that we don't have the stand in here .
+_d6172 
+_d6172 		xxx .
+_d6172 
+_d6173 		let's see . 
+_d6173 		alright , let's work at this table over here . 
+_d6173 		right here . 
+_d6173 		wanna sit here +//?
+_d6173 
+_d6173 		this would be a good place to sit , you wanna sit here ?
+_d6173 
+_d6173 		let's see , this needs a new battery , so +... 
+_d6173 		but you know what +//?
+_d6173 
+_d6173 		oh actually , no , it's not a battery +//.
+_d6173 
+_d6173 		what did I say +//?
+_d6173 
+_d6173 		a lightbulb . 
+_d6173 		has to go in there . 
+_d6173 		right ? 
+_d6173 		okay .
+_d6173 
+_d6173 		so let's put this in here . 
+_d6173 		and let's move this off the table +//.
+_d6173 
+_d6173 		xxx  make some pictures . 
+_d6173 		wanna make some pictures ? 
+_d6173 		that one doesn't work right now . 
+_d6173 		but , we can make some pictures with the:se . 
+_d6173 		that goes in there . 
+_d6173 		let's see if we have any paper left in here . 
+_d6173 		this thing's [: thing is] (a)bout ready to go . 
+_d6173 		hmmm . 
+_d6173 		let's try this page . 
+_d6173 		let's see what we can make . 
+_d6173 		(o)kay +...
+_d6173 
+_d6173 		what would you like to make ? 
+_d6173 		you're gonna use a marker , huh ?
+_d6173 
+_d6173 		who colored on these with the marker ?
+_d6173 
+_d6173 		did you do that ? 
+_d6173 		or did  ? 
+_d6173 		xxx .
+_d6173 
+_d6173 		mommy didn't do it .
+_d6173 
+_d6173 		(o)kay , let's make something on here +//.
+_d6173 
+_d6173 		what are we gonna make ? 
+_d6173 		I'm gonna ma:ke +... 
+_d6173 		a what ? 
+_d6173 		oh , kitty+cat . 
+_d6173 		okay , you ready ? 
+_d6173 		here comes a kitty+ca:t +...
+_d6173 
+_d6173 		here come(s) my kitty cat +... 
+_d6173 		and a big fat belly: +... 
+_d6173 		and a big puffy tail: +... 
+_d6173 		there's my kitty+cat ! 
+_d6173 		mhm , kind of a funny kitty+cat , huh ? 
+_d6173 		what are you gonna make ? 
+_d6173 		you're gonna make a kitty+cat , too ?
+_d6173 
+_d6173 		oh: , purple kitty: ! 
+_d6173 		where's his tail ? 
+_d6173 		oh: , where's his eyes ? 
+_d6173 		oh: , good [x 
+_d6173 		okay , where's his (.) whiskers ? 
+_d6173 		where's his feet ? 
+_d6173 		very goo:d !
+_d6173 
+_d6173 		I like your kitty+cat +//.
+_d6173 
+_d6173 		know what my kitty+cat's name is ? 
+_d6173 		my kitty+cat's name is (.) Taffy . 
+_d6173 		what's your kitty+cat's name ? 
+_d6173 		oh: , how  that could be the baby kitty+cat ? 
+_d6173 		and this could be the mama . 
+_d6173 		is that good ? 
+_d6173 		ooh: , what's that ? 
+_d6173 		is that a kitty+cat ? 
+_d6173 		oh , those are eyes ? 
+_d6173 		ready I'll make something and you tell me what it is . 
+_d6173 		what's this Vaivy ? 
+_d6173 		ri:ght !
+_d6173 
+_d6173 		yeah ?
+_d6173 
+_d6173 		wanna trade ?
+_d6173 
+_d6174 		(o)kay . 
+_d6174 		now I'm gonna make something else and you tell me what it is . 
+_d6174 		what's this ? 
+_d6174 		s:nake .
+_d6174 
+_d6174 		snake ! 
+_d6174 		oh , those his eyes ? 
+_d6174 		or is that his tail ? 
+_d6174 		ready , now I'll make something big . 
+_d6174 		what's this gonna be ? 
+_d6174 		no . 
+_d6174 		xxx , let's see .
+_d6174 
+_d6174 		what's this Vaivy ? 
+_d6174 		what's this ? 
+_d6174 		is it 
+_d6175 		not a very good elephant , is it ? 
+_d6175 		that's his eyes , right ? 
+_d6175 		and these are his ears right here .
+_d6175 
+_d6175 		he has bi:g ears . 
+_d6175 		now let's see +//.
+_d6175 
+_d6175 		let's make +... 
+_d6175 		a girl .
+_d6175 
+_d6175 		oh: . 
+_d6175 		let's make her wear the pretty skirt +... 
+_d6175 		and fancy shoes +... 
+_d6175 		and what will she hold in her hand ? 
+_d6175 		there's her hand +//.
+_d6175 
+_d6175 		what will she hold in her hand ? 
+_d6175 		what will she hold ? 
+_d6175 		baba +..? 
+_d6175 		or bubbles ? 
+_d6175 		bubbles ?
+_d6175 
+_d6175 		okay , here's the bubbles +//.
+_d6175 
+_d6175 		woo: , she caught one: ! 
+_d6175 		I'm gonna take , take a shower in a little bit . 
+_d6175 		let's see , it's five past +... 
+_d6175 		oh yeah , let's do this page ! 
+_d6175 		let's ma:ke +... 
+_d6175 		a: +... 
+_d6175 		xxx , (a)nother kitty ? 
+_d6175 		I'm gonna make +... 
+_d6175 		how (a)bout I make a house ? 
+_d6175 		okay .
+_d6175 
+_d6175 		xxx through my house ?
+_d6175 
+_d6175 		ooh: , does it look like a house ? 
+_d6175 		hmmm ? 
+_d6175 		does it look like a house ? 
+_d6175 		okay .
+_d6175 
+_d6175 		whose house is this ? 
+_d6175 		is this +//?
+_d6175 
+_d6175 		is this: +..? 
+_d6175 		let's +//.
+_d6175 
+_d6175 		it will be the kitty's house . 
+_d6175 		okay ? 
+_d6175 		yeah . 
+_d6175 		and there will be a little mouse that lives in the kitty's house . 
+_d6175 		so the kitty can catch him . 
+_d6175 		a little mouse . 
+_d6175 		we'll see his little legs . 
+_d6175 		hmmm . 
+_d6175 		there's a mouse . 
+_d6175 		let's see if you know what this is +... 
+_d6175 		what's that ? 
+_d6175 		bo:ne +... 
+_d6175 		xxx  make a doggy . 
+_d6175 		I'm gonna make a doggy +... 
+_d6175 		who wants to have his bone .
+_d6175 
+_d6175 		here he is . 
+_d6175 		here's the doggy . 
+_d6175 		ruff [x 
+_d6175 		doggy couldn't get his bone ? 
+_d6175 		he can have big teeth . 
+_d6175 		oh: , he got a big mouth , that doggy +... 
+_d6175 		xxx , I always have trouble makin(g) dogs . 
+_d6175 		hmmm . 
+_d6175 		uh+oh , what did ya [: you] make ?
+_d6175 
+_d6175 		oh , where'd the mouse go ?
+_d6175 
+_d6175 		is he hiding ? 
+_d6175 		where's the mouse ? 
+_d6175 		is he in there ? 
+_d6175 		maybe I'll make +//.
+_d6175 
+_d6175 		I'll make a heart . 
+_d6175 		there . 
+_d6175 		wanna try this crayon ?
+_d6175 
+_d6175 		put that back . 
+_d6175 		let's try this one . 
+_d6175 		here's a clou:d in the sky . 
+_d6175 		that look like a cloud ? 
+_d6175 		and you know what comes out of a cloud ? 
+_d6175 		rai:n . 
+_d6175 		and what do you need when it rains ? 
+_d6175 		do you need your umbrella ? 
+_d6175 		let's make an umbrella . 
+_d6175 		xxx . 
+_d6175 		rainy day: ! 
+_d6175 		bone and a +... 
+_d6175 		right .
+_d6175 
+_d6175 		you know I'd like to know what this eraser is for +//.
+_d6175 
+_d6175 		it says eraser . 
+_d6175 		it must just be +//. 
+_d6175 		I don't know what it could be for +//.
+_d6175 
+_d6175 		just for the (.) regular pencil +..? 
+_d6175 		let's see +//.
+_d6175 
+_d6175 		wait a minute . 
+_d6175 		well it kinda [: kind of] works on the pastels +//.
+_d6175 
+_d6175 		maybe it's for the pastels +... 
+_d6175 		thank you ! 
+_d6175 		do it on this one . 
+_d6175 		I think it works on there . 
+_d6175 		what's this ? 
+_d6175 		it's not chalk , it's a crayon . 
+_d6175 		crayon . 
+_d6175 		you're gonna open the crayon some more ? 
+_d6175 		can you peel it off ? 
+_d6175 		uh+oh +...
+_d6175 
+_d6175 		broken . 
+_d6175 		it's broken Vaivy . 
+_d6175 		you can still color with it though . 
+_d6175 		I'll make big polka+dots . 
+_d6175 		mhm . 
+_d6175 		you peelin(g) it off ? 
+_d6175 		I'm just gonna get some water . 
+_d6175 		la [x 
+_d6175 		xxx . 
+_d6175 		xxx , whatchya [: what are you] makin(g) ? 
+_d6175 		oh , ok .
+_d6175 
+_d6175 		that's  . 
+_d6175 		you makin(g) on the paint circles ? 
+_d6175 		xxx . 
+_d6175 		hmmm ?
+_d6175 
+_d6175 		xxx   what happened to the lighters    . 
+_d6175 		xxx   . 
+_d6175 		xxx   . 
+_d6175 		only on the paper ! 
+_d6175 		we never have any lighters , Violet . 
+_d6175 		where did they go +..? 
+_d6175 		no:body know:s . 
+_d6175 		matches +..? 
+_d6175 		nothing . 
+_d6175 		want me to scoot you in ? 
+_d6175 		there . 
+_d6175 		xxx . 
+_d6175 		xxx . 
+_d6175 		&aw . 
+_d6175 		daddy is gonna get it ! 
+_d6175 		whadja [: what did you] make ? 
+_d6175 		pretty pretty: . 
+_d6175 		
+_d6175 		lemme [: let me] see . 
+_d6175 		you made a pretty house ? 
+_d6175 		wo:w , good job ! 
+_d6175 		a pretty house , yeah .
+_d6175 
+_d6175 		xxx .
+_d6175 
+_d6176 		make another pretty house ? 
+_d6176 		wanna go up in the +..? 
+_d6176 		pretty house ! 
+_d6176 		oh it's a very pretty house  ! 
+_d6176 		very pretty hou:se ! 
+_d6176 		is this what  made ? 
+_d6176 		should we take off our backpacks now ?
+_d6176 
+_d6176 		do you wanna come take a shower ?
+_d6176 
+_d6176 		putting this away . 
+_d6176 		well , I'm glad you made a pretty house ! 
+_d6176 		whatchya [: what are you] doin(g) ? 
+_d6176 		you wanna get the money ? 
+_d6176 		yeah , I'll get it down . 
+_d6176 		I'll get it . 
+_d6176 		hop down . 
+_d6176 		xxx .
+_d6176 
+_d6176 		hop down . 
+_d6176 		here's some money . 
+_d6176 		uh+oh Vaivy , see that's why I don't give you money ! 
+_d6176 		you need to pick it up now . 
+_d6176 		now you need to pick up all that money ! 
+_d6176 		and put it back in the cup . 
+_d6176 		no , I'm not giving you anymore money .
+_d6176 
+_d6176 		you throw it all over the place +//.
+_d6176 
+_d6176 		you gotta pick it up . 
+_d6176 		put it in the cup . 
+_d6176 		yeah +...
+_d6176 
+_d6176 		you pick it up . 
+_d6176 		pick up the money .
+_d6176 
+_d6177 		xxx +/. 
+_d6177 		gross . 
+_d6177 		you putting it in the cup ? 
+_d6177 		huh ? 
+_d6177 		you putting it in a cup ? 
+_d6177 		xxx need to figure out how to light this one +... 
+_d6177 		let's see +... 
+_d6177 		I know what I'm gonna  . 
+_d6177 		xxx .
+_d6177 
+_d6177 		xxx everywhe:re !
+_d6177 
+_d6178 		xxx coming down ! 
+_d6178 		xxx . 
+_d6178 		did you put all the money away ?
+_d6178 
+_d6178 		xxx . 
+_d6178 		xxx are everywhere . 
+_d6178 		xxx  down . 
+_d6178 		alright . 
+_d6178 		well it's smellin(g) a little better in here , huh ? 
+_d6178 		good gir:l ! 
+_d6178 		xxx . 
+_d6178 		xxx . 
+_d6178 		alri:ght , did you clean up the money ? 
+_d6178 		you wanna bring it upstairs and put it in the piggy ?
+_d6178 
+_d6178 		alright , let's take off the +//.
+_d6178 
+_d6178 		let's take off our backpack(s) +//.
+_d6178 
+_d6178 		oh , here's a piggy . 
+_d6178 		yeah , let's bring it upstairs . 
+_d6178 		(o)kay +//?
+_d6178 
+_d6178 		cmon [: come on] we hafta take a shower . 
+_d6178 		so let's take off our +//.
+_d6178 
+_d6178 		let's take off our backpacks .
+_d6178 
+_d6178 		xxx take off our backpack ?
+_d6178 
+_d6178 		mhm ,   money in the piggy .
+_d6178 
+_d6178 		okay ?
+_d6178 
+_d6178 		yeah .
+_d6178 
+_d6179 		hi gorgeous girl . 
+_d6179 		mommy gotta get hers . 
+_d6179 		you don't play with that .
+_d6179 
+_d6179 		that's danger +//.
+_d6179 
+_d6179 		you go get some books . 
+_d6179 		let me get the other  +//.
+_d6179 
+_d6179 		I gotta get the other piece . 
+_d6179 		see . 
+_d6179 		I gotta put this piece on . 
+_d6179 		see this one ? 
+_d6179 		right ? 
+_d6179 		this one's [: one is] mommy's . 
+_d6179 		and this one +... 
+_d6179 		we gotta plug into the camera . 
+_d6179 		I always forget where it plugs in . 
+_d6179 		do you remember where it plugs in ? 
+_d6179 		here it is . 
+_d6179 		okay . 
+_d6179 		yeah . 
+_d6179 		this one mine ? 
+_d6179 		thank you . 
+_d6179 		I be f+two and you be f+one , okay ? 
+_d6179 		xxx .
+_d6179 
+_d6179 		xxx things you can  . 
+_d6179 		I don't +//.
+_d6179 
+_d6179 		I don't  we need those ones .
+_d6179 
+_d6180 		do you ? 
+_d6180 		I don't think we need those ones . 
+_d6180 		shall we go sit on the couch and read some books ? 
+_d6180 		okay .
+_d6180 
+_d6180 		let's pick some books here . 
+_d6180 		wanna do +//?
+_d6180 
+_d6180 		wanna pick some books ? 
+_d6180 		that +//?
+_d6180 
+_d6180 		do you like that one ?
+_d6180 
+_d6180 		I see . 
+_d6180 		what else you like ? 
+_d6180 		you like this one ? 
+_d6180 		(o)kay . 
+_d6180 		xxx .
+_d6180 
+_d6181 		sorry . 
+_d6181 		sorry . 
+_d6181 		I hadda [: had to] get a shirt . 
+_d6181 		(o)kay , cmon [: come on] . 
+_d6181 		sorry , I hadda [: had to] get a shirt . 
+_d6181 		okay , now I put mine on . 
+_d6181 		xxx  okay . 
+_d6181 		yep [: yes] ? 
+_d6181 		gonna sit right here . 
+_d6181 		okay . 
+_d6181 		which one you wanna read first ?
+_d6181 
+_d6181 		animal books ?
+_d6181 
+_d6181 		(o)kay . 
+_d6181 		I don't know about this thing .
+_d6181 
+_d6181 		huh ? 
+_d6181 		it's a(n) animal I spy ? 
+_d6181 		xxx . 
+_d6181 		oh: . 
+_d6181 		says , where do I live ? 
+_d6181 		I am a red fox . 
+_d6181 		I hunt for rodents and birds .
+_d6181 
+_d6181 		where do I live ? 
+_d6181 		in the trees ? 
+_d6181 		in the forest ? 
+_d6181 		I am a polar+bear .
+_d6181 
+_d6181 		where do I live ? 
+_d6181 		ice , right . 
+_d6181 		I am an angel+fish .
+_d6181 
+_d6181 		where do I live ?
+_d6181 
+_d6181 		where's the +//?
+_d6181 
+_d6181 		where do +//?
+_d6181 
+_d6181 		where do fishies live ? 
+_d6181 		in the water ?
+_d6181 
+_d6181 		in the ocean ? 
+_d6181 		I'm a gorilla .
+_d6181 
+_d6181 		where do I live ? 
+_d6181 		he lives at the trees too +//.
+_d6181 
+_d6181 		he eats the trees , doesn't he ? 
+_d6181 		I'm a zebra .
+_d6181 
+_d6181 		where do I live ? 
+_d6181 		in the grass . 
+_d6181 		xxx  that grass ? 
+_d6181 		I'm a penguin . 
+_d6181 		where do I live ? 
+_d6181 		the snow . 
+_d6181 		which one is that ? 
+_d6181 		who's this one ? 
+_d6181 		you know who's this one ? 
+_d6181 		who's this one ? 
+_d6181 		who's this one , Violet ? 
+_d6181 		yep [: yes] .
+_d6181 
+_d6181 		and who's this one ? 
+_d6181 		right . 
+_d6181 		xxx I'm a pelican . 
+_d6181 		where does he live ?
+_d6181 
+_d6181 		mhm .
+_d6181 
+_d6181 		I'm a camel .
+_d6181 
+_d6181 		where does he live ? 
+_d6181 		he lives in the desert .
+_d6181 
+_d6181 		see all the sand ?
+_d6181 
+_d6181 		he lives in the sandy desert . 
+_d6181 		mhm .
+_d6181 
+_d6181 		what's that ?
+_d6181 
+_d6181 		oh yeah ?
+_d6181 
+_d6181 		where does the frog live ? 
+_d6181 		xxx .
+_d6181 
+_d6181 		he lives in the pond .
+_d6181 
+_d6181 		right ?
+_d6181 
+_d6181 		does he live in the pond ? 
+_d6181 		mmmm egret . 
+_d6181 		it's a pretty bird . 
+_d6181 		he lives in the marsh . 
+_d6181 		birdies outside ? 
+_d6181 		you hear (th)em ? 
+_d6181 		xxx what's that ? 
+_d6181 		bumble bee: !
+_d6181 
+_d6181 		where does he live ? 
+_d6181 		he lives in the flowers , right ? 
+_d6181 		what's that ? 
+_d6181 		starfish .
+_d6181 
+_d6181 		this one .
+_d6181 
+_d6181 		where does he live ? 
+_d6181 		the ocean ? 
+_d6181 		look at all the starfish .
+_d6181 
+_d6181 		how many starfish are there ? 
+_d6181 		one (.) two (.) three (.) four (.) five (.) six (.) seven starfish ! 
+_d6181 		seven ! 
+_d6181 		mmmm .
+_d6181 
+_d6181 		wanna read this one ? 
+_d6181 		oh whe:re's the kitty+cat hiding ? 
+_d6181 		peek+a+boo: !
+_d6181 
+_d6181 		meow: ! 
+_d6181 		oh who's hiding ? 
+_d6181 		woof roof [x 
+_d6181 		it's a doggy ! 
+_d6181 		who is hiding ? 
+_d6181 		wow !
+_d6181 
+_d6181 		it('s) a bunny ! 
+_d6181 		hmmm . 
+_d6181 		who's hiding ? 
+_d6181 		peek+a+boo , it's the boy ! 
+_d6181 		the baby boy . 
+_d6181 		huh . 
+_d6181 		wanna play the game on the back ? 
+_d6181 		where (.) is (.) the +..? 
+_d6181 		elephant ? 
+_d6181 		right . 
+_d6181 		xxx , where is the +..? 
+_d6181 		rabbit ? 
+_d6181 		righ:t . 
+_d6181 		where (.) is (.) the +..? 
+_d6181 		dragon ? 
+_d6181 		righ:t . 
+_d6181 		where is the snowman ? 
+_d6181 		where's the snowman ? 
+_d6181 		righ:t . 
+_d6181 		where is the: +..? 
+_d6181 		kangaroo ? 
+_d6181 		right . 
+_d6181 		where is the +..? 
+_d6181 		koala ? 
+_d6181 		right . 
+_d6181 		where is (.) the penguin ? 
+_d6181 		right . 
+_d6181 		where is the (.) flowers ? 
+_d6181 		right . 
+_d6181 		where is the: +..? 
+_d6181 		squirrel ? 
+_d6181 		where's the squirrel ? 
+_d6181 		no , that's not the squirrel . 
+_d6181 		where's the squirrel ? 
+_d6181 		no ,  . 
+_d6181 		how (a)bout over here ? 
+_d6181 		this the squirrel ? 
+_d6181 		is this the squirrel ? 
+_d6181 		yeah ? 
+_d6181 		
+_d6182 		we read another book ? 
+_d6182 		ya [: you] like this one ? 
+_d6182 		ooh , what's in there ? 
+_d6182 		big truck . 
+_d6182 		dump+truck . 
+_d6182 		stop . 
+_d6182 		go ! 
+_d6182 		stop . 
+_d6182 		go . 
+_d6182 		ooh , what's in there ? 
+_d6182 		there's an engine is . 
+_d6182 		xxx . 
+_d6182 		huh ?
+_d6182 
+_d6182 		what's that called ? 
+_d6182 		ladder .
+_d6182 
+_d6182 		xxx .
+_d6182 
+_d6182 		ladder . 
+_d6182 		xxx . 
+_d6182 		that's a ladder . 
+_d6182 		what's in there ? 
+_d6182 		hmmm ?
+_d6182 
+_d6182 		sunglasses ? 
+_d6182 		and what's that ? 
+_d6182 		pencil . 
+_d6182 		gotta brush your hair , huh ? 
+_d6182 		what's in there ? 
+_d6182 		what's that ? 
+_d6182 		there tools ?
+_d6182 
+_d6182 		screwdri:ver . 
+_d6182 		and a wrench . 
+_d6182 		just like tools like daddy has . 
+_d6182 		hmmm ?
+_d6182 
+_d6182 		for fixing ? 
+_d6182 		are those tools for fixing ? 
+_d6182 		yeah . 
+_d6182 		gonna try and put your hair up like two little piggy tails today . 
+_d6182 		
+_d6182 		want this one ?
+_d6182 
+_d6182 		where is baby ? 
+_d6182 		here I am  . 
+_d6182 		where is the baby ? 
+_d6182 		xxx here I am ! 
+_d6182 		where is the baby ? 
+_d6182 		xxx ! 
+_d6182 		look at all her babies ! 
+_d6182 		how many babies does she have ? 
+_d6182 		one (.) two (.) three , four , five babies ! 
+_d6182 		look at this one ,  . 
+_d6182 		do you remember when we saw the baby bird yesterday ? 
+_d6182 		did we see a baby bird ? 
+_d6182 		did you see that baby bird ? 
+_d6182 		how come it wasn't in the nest ? 
+_d6182 		grampa +//.
+_d6182 
+_d6182 		grampa picked up the baby bird (.) and put him back in his nest , huh ? 
+_d6182 		yeah . 
+_d6182 		(be)cause he fell out of his nest . 
+_d6182 		where is the baby ? 
+_d6182 		bir:d ! 
+_d6182 		wanna read this one ? 
+_d6182 		who's on the barrel ? 
+_d6182 		piggy . 
+_d6182 		who's in the house ?
+_d6182 
+_d6182 		doggy: !
+_d6182 
+_d6182 		what does he have ? 
+_d6182 		he have a bone ?
+_d6182 
+_d6182 		xxx who's behind the yarn ?
+_d6182 
+_d6182 		righ:t ! 
+_d6182 		kitty+cat . 
+_d6182 		xxx who's behind the bear ? 
+_d6182 		who's it ? 
+_d6182 		that a boy ? 
+_d6182 		yeah . 
+_d6182 		should we look out the window and see if we see anything ?
+_d6182 
+_d6182 		let's look out the window and see if we see anything out this window here . 
+_d6182 		wanna look out the window ? 
+_d6182 		do you see anything ? 
+_d6182 		xxx . 
+_d6182 		let's see if we +//.
+_d6182 
+_d6182 		I see +//.
+_d6182 
+_d6182 		I hear some birdies +//.
+_d6182 
+_d6182 		do you hear the birdies ? 
+_d6182 		listen !
+_d6182 
+_d6182 		do you hear birdies ? 
+_d6182 		there goes a ca:r .
+_d6182 
+_d6182 		all the birdies are talking to each other , aren't they ? 
+_d6182 		what ?
+_d6182 
+_d6182 		you wanna do that one again ?
+_d6182 
+_d6182 		this one ? 
+_d6182 		where do I live ? 
+_d6182 		gonna be a hot one today . 
+_d6182 		I'm a red fox . 
+_d6182 		where do I live ? 
+_d6182 		in the tree:s !
+_d6182 
+_d6182 		in the forest ! 
+_d6182 		you don't want that one ? 
+_d6182 		which one ya [: you] want now ?
+_d6182 
+_d6182 		xxx Violet , which one you want ?
+_d6182 
+_d6183 		hmmm ? 
+_d6183 		this one ? 
+_d6183 		okay . 
+_d6183 		where's my baby ? 
+_d6183 		who's my squirmy worm ? 
+_d6183 		xxx   , is it you ?
+_d6183 
+_d6183 		that's mommy's microphone . 
+_d6183 		hmmm ? 
+_d6183 		yeah mommy +//.
+_d6183 
+_d6183 		is for mommy . 
+_d6183 		gotta leave it there . 
+_d6183 		xxx . 
+_d6183 		gotta leave it there . 
+_d6183 		ready ?
+_d6183 
+_d6183 		let's see . 
+_d6183 		xxx . 
+_d6183 		where's the baby: ? 
+_d6183 		you see his little hand ? 
+_d6183 		you can peek out baby koala . 
+_d6183 		hi baby koala . 
+_d6183 		where's the baby: ? 
+_d6183 		are they in there ? 
+_d6183 		the babies are inside the eggs ? 
+_d6183 		there's the babies . 
+_d6183 		which babies 
+_d6183 		that one ? 
+_d6183 		look +//.
+_d6183 
+_d6183 		look at that baby .
+_d6183 
+_d6183 		he has a(n) egg on his head , huh ? 
+_d6183 		silly . 
+_d6183 		he can't see where he's goin(g) . 
+_d6183 		xxx the baby . 
+_d6183 		xxx ,  . 
+_d6183 		wanna get some juice ? 
+_d6183 		(o)kay . 
+_d6183 		go get you some juice .
+_d6183 
+_d6183 		xxx did you say bakery ? 
+_d6183 		xxx   , did you say bakery ? 
+_d6183 		xxx   .
+_d6183 
+_d6183 		breakfast ?
+_d6183 
+_d6183 		let's get you some juice first .
+_d6183 
+_d6183 		I don't know what we have for breakfast . 
+_d6183 		xxx   . 
+_d6183 		(o)kay , lemme [: let me] get your cup . 
+_d6184 		xxx   . 
+_d6184 		xxx  . 
+_d6184 		I'll toast you some little bagel . 
+_d6184 		(o)kay . 
+_d6184 		oh  they're yucky . 
+_d6184 		can't toast you the little bagels (be)cause they're all moldy . 
+_d6184 		let's see +... 
+_d6184 		xxx   . 
+_d6184 		okay . 
+_d6184 		xxx what do you got in here ? 
+_d6184 		not much . 
+_d6184 		shut the door ?
+_d6184 
+_d6184 		wait a minute , wait a minute . 
+_d6184 		do you wanna [: want a] peach ? 
+_d6184 		xxx you wanna see what it looks like ?
+_d6184 
+_d6184 		you like a peach ? 
+_d6184 		okay , wait a minute . 
+_d6184 		wait I minute .
+_d6184 
+_d6184 		I gotta shut the  .
+_d6184 
+_d6184 		okay . 
+_d6184 		well , I'm making you some toast . 
+_d6184 		good girl .
+_d6184 
+_d6184 		yes , honey . 
+_d6184 		no what ? 
+_d6184 		want some cereal ?
+_d6184 
+_d6184 		do you want some cereal ?
+_d6184 
+_d6184 		mommy's [: mommy is] getting  cereal .
+_d6184 
+_d6184 		do you want some cereal ? 
+_d6184 		hmmm ? 
+_d6184 		do you want some cereal ? 
+_d6184 		something on your  ?
+_d6184 
+_d6184 		here , let's put this +...
+_d6184 
+_d6184 		cmere [: come here] .
+_d6184 
+_d6185 		come and sit in here for a minute . 
+_d6185 		wanna sit at the little table ?
+_d6185 
+_d6185 		xxx   the video camera .
+_d6185 
+_d6185 		you sit 
+_d6185 		let's see . 
+_d6185 		well let's sit at the table so we can eat our breakfast .
+_d6185 
+_d6186 		cmon [: come on] , I'll show you . 
+_d6186 		xxx me show you ? 
+_d6186 		cmere [: come here] . 
+_d6186 		right here . 
+_d6186 		look what I found . 
+_d6186 		wanna sit ? 
+_d6186 		have some of the +//?
+_d6186 
+_d6186 		have some cereal ? 
+_d6186 		it's yummy . 
+_d6186 		we'll get to look at  key+chain , too . 
+_d6186 		cool , huh ? 
+_d6186 		these are so good . 
+_d6186 		mhm . 
+_d6186 		you gotta press the button . 
+_d6186 		you got 
+_d6186 		see ? 
+_d6186 		does he have a red mouth ? 
+_d6186 		does he have a red mouth ? 
+_d6186 		xxx . 
+_d6186 		xxx you press this button . 
+_d6186 		mmmm . 
+_d6186 		I don't think it opens that way . 
+_d6186 		you gotta press the button , Violet . 
+_d6186 		yeah . 
+_d6186 		press this button . 
+_d6186 		that's a girl . 
+_d6186 		yup [: yes] (.) ya [: you] did it . 
+_d6186 		do it again . 
+_d6186 		you did it . 
+_d6186 		what color's [: color is] in there ? 
+_d6186 		a red ? 
+_d6186 		I'm gonna bring my cereal in here , okay ? 
+_d6186 		do you want milk in your cereal or you'd like it like this ? 
+_d6186 		I'll get your toast . 
+_d6186 		would you like butter on your toast ? 
+_d6186 		alright . 
+_d6186 		here you go . 
+_d6186 		now mommy's [: mommy is] gonna get her cereal . 
+_d6186 		may I sit with you ? 
+_d6186 		xxx get my medicine . 
+_d6186 		hmmm ? 
+_d6186 		you wanna get a medicine ? 
+_d6186 		ya [: you] need your vitamin ? 
+_d6186 		you pick one . 
+_d6186 		mmmm . 
+_d6186 		do you pick orange ?
+_d6186 
+_d6186 		I don't know if that was orange +... 
+_d6186 		was it orange ?
+_d6186 
+_d6186 		or was it (.) red ? 
+_d6186 		it was red . 
+_d6186 		(o)kay , cmon [: come on] . 
+_d6186 		let's have our breakfast . 
+_d6186 		xxx   clean up all these little people here ? 
+_d6186 		huh ? 
+_d6186 		who's gonna clean up all those little people ? 
+_d6186 		thank you . 
+_d6186 		thank you . 
+_d6186 		how do ya [: you] like that thing , huh ? 
+_d6187 		mhm . 
+_d6187 		mhm . 
+_d6187 		here's some more . 
+_d6187 		want more people on there ? 
+_d6187 		what do you need ? 
+_d6187 		you wanna hold the person ? 
+_d6187 		xxx  people on the floor . 
+_d6187 		mhm . 
+_d6187 		xxx piece of hair . 
+_d6187 		you look like you got a scratch last night . 
+_d6187 		did you scratch your eye ?
+_d6187 
+_d6187 		you scratched your head ? 
+_d6187 		that why you were cryin(g) last night ? 
+_d6187 		daddy said you were cryin(g) . 
+_d6187 		xxx  that I didn't hear you . 
+_d6187 		I must've been real tired . 
+_d6187 		xxx .
+_d6187 
+_d6187 		hmmm ? 
+_d6187 		xxx . 
+_d6187 		drummin(g) ? 
+_d6187 		your brother's [: brother is] sleeping late today , huh ? 
+_d6187 		
+_d6187 		he's sleeping in his bed , huh ? 
+_d6187 		he's tired .
+_d6187 
+_d6187 		wanna  finish your toast ? 
+_d6187 		xxx  eat your toast ? 
+_d6187 		mmmm , that sounds pretty . 
+_d6187 		having my breakfast !
+_d6187 
+_d6188 		having my breakfast . 
+_d6188 		having my breakfast !
+_d6188 
+_d6188 		xxx   . 
+_d6188 		hmmm . 
+_d6188 		xxx .
+_d6188 
+_d6188 		I hear your brother .
+_d6188 
+_d6188 		wanna go get him ? 
+_d6188 		xxx . 
+_d6188 		what ? 
+_d6188 		we're downstairs . 
+_d6188 		huh ? 
+_d6188 		xxx . 
+_d6188 		okay . 
+_d6188 		xxx  . 
+_d6188 		Violet . 
+_d6188 		xxx .
+_d6188 
+_d6188 		hi !
+_d6188 
+_d6188 		how's it going ? 
+_d6188 		oh: yeah . 
+_d6188 		don't touch the fan , Violet .
+_d6188 
+_d6188 		you gotta leave it alone +//.
+_d6188 
+_d6188 		no , do(n't) don't touch . 
+_d6188 		don't touch . 
+_d6188 		fa:n , yeah . 
+_d6188 		
+_d6188 		xxx   touch it    . 
+_d6188 		gotta shut these things off . 
+_d6188 		let's take off your backpack . 
