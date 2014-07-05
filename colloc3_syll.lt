@@ -1,0 +1,81 @@
+1 1 Root --> Collocs3
+1 1 Collocs3 --> Colloc3
+1 1 Collocs3 --> Colloc3 Collocs3
+Colloc3 --> Collocs2
+1 1 Collocs2 --> Colloc2
+1 1 Collocs2 --> Colloc2 Collocs2
+Colloc2 --> Collocs1
+1 1 Collocs1 --> Colloc1
+1 1 Collocs1 --> Colloc1 Collocs1
+Colloc1 --> Words
+1 1 Words --> Word
+1 1 Words --> Word Words
+Word --> Struct
+1 1 Struct --> SyllIF
+1 1 Struct --> SyllI Sylls
+1 1 Sylls --> SyllF
+1 1 Sylls --> Syll Sylls
+2 1 Syll --> Onset Rhyme
+1 1 Syll --> Rhyme
+2 1 SyllI --> OnsetI Rhyme
+1 1 SyllI --> Rhyme
+2 1 SyllF --> Onset RhymeF
+1 1 SyllF --> RhymeF
+2 1 SyllIF --> OnsetI RhymeF
+1 1 SyllIF --> RhymeF
+2 1 Rhyme --> Nucleus
+1 1 Rhyme --> Nucleus Coda
+2 1 RhymeF --> Nucleus CodaF
+1 1 RhymeF --> Nucleus
+Onset --> Consonants
+OnsetI --> Consonants
+Nucleus --> Vowels
+Coda --> Consonants
+CodaF --> Consonants
+1 1 Consonants --> Consonant
+1 1 Consonants --> Consonant Consonants
+1 1 Vowels --> Vowel
+1 1 Vowels --> Vowel Vowel
+1 1 Vowel --> A
+1 1 Vowel --> a
+1 1 Vowel --> e
+1 1 Vowel --> &
+1 1 Vowel --> i
+1 1 Vowel --> o
+1 1 Vowel --> 1
+1 1 Vowel --> I
+1 1 Vowel --> 3
+1 1 Vowel --> 2
+1 1 Vowel --> 5
+1 1 Vowel --> 4
+1 1 Vowel --> O
+1 1 Vowel --> 6
+1 1 Vowel --> y
+1 1 Vowel --> u
+1 1 Vowel --> R
+1 1 Vowel --> U
+1 1 Consonant --> 9
+1 1 Consonant --> C
+1 1 Consonant --> D
+1 1 Consonant --> J
+1 1 Consonant --> N
+1 1 Consonant --> S
+1 1 Consonant --> T
+1 1 Consonant --> Z
+1 1 Consonant --> b
+1 1 Consonant --> d
+1 1 Consonant --> g
+1 1 Consonant --> f
+1 1 Consonant --> h
+1 1 Consonant --> k
+1 1 Consonant --> m
+1 1 Consonant --> l
+1 1 Consonant --> n
+1 1 Consonant --> p
+1 1 Consonant --> s
+1 1 Consonant --> r
+1 1 Consonant --> t
+1 1 Consonant --> w
+1 1 Consonant --> v
+1 1 Consonant --> z
+
